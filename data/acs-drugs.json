@@ -1,0 +1,328 @@
+{
+  "snapshotDate": "2026-02-22",
+  "records": [
+    {
+      "drug": "Cangrelor (KENGREAL)",
+      "sponsor": "Chiesi USA",
+      "class": "Intravenous P2Y12 inhibitor",
+      "target": "P2Y12",
+      "modality": "Small molecule",
+      "stage": "Approved",
+      "setting": "Acute ACS/PCI",
+      "signal": "positive",
+      "statusSummary": "Established cath-lab antiplatelet option for rapid, reversible platelet inhibition during PCI.",
+      "keyTrial": "CHAMPION program / label evidence",
+      "competitorWatch": "Competes with oral P2Y12 loading",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "No near-term binary catalyst; monitor guideline and utilization shifts",
+      "sourceLinks": [
+        "https://www.chiesiusa.com/products/kengreal/",
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8fbcbd87-b2f6-4c0d-80f8-50ec9f107f7f"
+      ]
+    },
+    {
+      "drug": "Ticagrelor (BRILINTA)",
+      "sponsor": "AstraZeneca",
+      "class": "Oral P2Y12 inhibitor",
+      "target": "P2Y12",
+      "modality": "Small molecule",
+      "stage": "Approved",
+      "setting": "Acute + Chronic ACS",
+      "signal": "positive",
+      "statusSummary": "Core DAPT component in ACS with durable use in guideline-directed secondary prevention.",
+      "keyTrial": "PLATO / PEGASUS-TIMI",
+      "competitorWatch": "Head-to-head vs prasugrel/clopidogrel strategy",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor guideline updates and de-escalation studies",
+      "sourceLinks": [
+        "https://www.azpicentral.com/brilinta/brilinta.pdf",
+        "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.002"
+      ]
+    },
+    {
+      "drug": "Evolocumab (Repatha)",
+      "sponsor": "Amgen",
+      "class": "PCSK9 monoclonal antibody",
+      "target": "PCSK9",
+      "modality": "Monoclonal antibody",
+      "stage": "Approved",
+      "setting": "Chronic post-ACS risk reduction",
+      "signal": "positive",
+      "statusSummary": "LDL-C intensive lowering platform used in high-risk ASCVD including post-ACS populations.",
+      "keyTrial": "FOURIER/FOURIER-OLE",
+      "competitorWatch": "Competes with alirocumab/inclisiran",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor outcomes in earlier/intensive initiation pathways",
+      "sourceLinks": [
+        "https://www.repatha.com/",
+        "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.002"
+      ]
+    },
+    {
+      "drug": "Inclisiran (Leqvio)",
+      "sponsor": "Novartis",
+      "class": "PCSK9 siRNA",
+      "target": "PCSK9 mRNA",
+      "modality": "siRNA",
+      "stage": "Approved",
+      "setting": "Chronic post-ACS risk reduction",
+      "signal": "mixed",
+      "statusSummary": "Twice-yearly PCSK9 silencing supports adherence strategy; outcomes positioning in ACS pathways still evolving.",
+      "keyTrial": "VICTORION program",
+      "competitorWatch": "Competes on adherence and implementation with antibodies",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Additional VICTORION outcomes/implementation readouts",
+      "sourceLinks": [
+        "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25",
+        "https://clinicaltrials.gov/study/NCT04873934"
+      ]
+    },
+    {
+      "drug": "Zalunfiban",
+      "sponsor": "CeleCor Therapeutics",
+      "class": "GPIIb/IIIa inhibitor prodrug",
+      "target": "Integrin alphaIIb beta3",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Acute ACS/pre-hospital",
+      "signal": "positive",
+      "statusSummary": "Phase III CELEBRATE met primary and major secondary endpoints in ACS/MI setting.",
+      "keyTrial": "CELEBRATE",
+      "competitorWatch": "Potential challenger to current antiplatelet workflows",
+      "nextCatalystDate": "2026-06-30",
+      "nextCatalystEvent": "Planned U.S. NDA filing window (company guidance: first half 2026)",
+      "sourceLinks": [
+        "https://ir.celecortherapeutics.com/news-releases/news-release-details/celecor-therapeutics-announces-positive-phase-3-celebrate-trial/",
+        "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.070848"
+      ]
+    },
+    {
+      "drug": "Selatogrel",
+      "sponsor": "Idorsia / Viatris collaboration",
+      "class": "Self-administered P2Y12 agonist pathway intervention",
+      "target": "P2Y12",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Acute suspected MI",
+      "signal": "monitor",
+      "statusSummary": "Late-stage emergency-use antiplatelet strategy for very early MI treatment outside hospital.",
+      "keyTrial": "SOS-AMI",
+      "competitorWatch": "Competes with EMS/hospital antiplatelet initiation models",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "SOS-AMI primary completion (estimated)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT04957719",
+        "https://www.viatris.com/en/lm/news/viatris-and-idorsia-expand-collaboration-with-new-development-and-commercialization-agreements"
+      ]
+    },
+    {
+      "drug": "Obicetrapib",
+      "sponsor": "NewAmsterdam Pharma (with Menarini)",
+      "class": "CETP inhibitor",
+      "target": "CETP",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Chronic secondary prevention",
+      "signal": "positive",
+      "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
+      "keyTrial": "BROADWAY / PREVAIL",
+      "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
+      "nextCatalystDate": "2026-11-01",
+      "nextCatalystEvent": "PREVAIL major adverse CV outcomes study completion (estimated)",
+      "sourceLinks": [
+        "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-announces-positive-topline-results-broadway",
+        "https://clinicaltrials.gov/study/NCT05202509"
+      ]
+    },
+    {
+      "drug": "Pelacarsen",
+      "sponsor": "Novartis",
+      "class": "Antisense oligonucleotide",
+      "target": "LPA",
+      "modality": "ASO",
+      "stage": "Phase III",
+      "setting": "Chronic secondary prevention",
+      "signal": "monitor",
+      "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
+      "keyTrial": "Lp(a)HORIZON",
+      "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Topline outcomes timing after study completion window",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT04023552",
+        "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
+      ]
+    },
+    {
+      "drug": "Olpasiran",
+      "sponsor": "Amgen",
+      "class": "siRNA",
+      "target": "LPA",
+      "modality": "siRNA",
+      "stage": "Phase III",
+      "setting": "Chronic secondary prevention",
+      "signal": "monitor",
+      "statusSummary": "Late-stage Lp(a) silencing program with outcomes trial in established ASCVD.",
+      "keyTrial": "OCEAN(a)-Outcomes",
+      "competitorWatch": "Direct race vs pelacarsen and other Lp(a) entrants",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Primary completion (estimated)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05581303",
+        "https://www.amgen.com/newsroom"
+      ]
+    },
+    {
+      "drug": "Lepodisiran",
+      "sponsor": "Eli Lilly",
+      "class": "siRNA",
+      "target": "LPA",
+      "modality": "siRNA",
+      "stage": "Phase II",
+      "setting": "Chronic secondary prevention",
+      "signal": "positive",
+      "statusSummary": "Phase II data showed substantial durable Lp(a) lowering; ACS outcomes relevance still unproven.",
+      "keyTrial": "ALPACA / ACC 2025 presentations",
+      "competitorWatch": "Competes on potency/dosing interval in Lp(a) field",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Phase III initiation/timeline guidance not yet disclosed",
+      "sourceLinks": [
+        "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-positive-phase-2-alpaca-results-lepodisiran",
+        "https://www.acc.org/Latest-in-Cardiology/Articles/2025/03/30/13/26/sun-10am-lepodisiran-acc-2025"
+      ]
+    },
+    {
+      "drug": "Olezarsen",
+      "sponsor": "Ionis",
+      "class": "Antisense oligonucleotide",
+      "target": "APOC3",
+      "modality": "ASO",
+      "stage": "Approved",
+      "setting": "Chronic risk modifier",
+      "signal": "monitor",
+      "statusSummary": "Approved in severe hypertriglyceridemia/FCS context; direct ACS event-reduction relevance remains to be established.",
+      "keyTrial": "BALANCE/FCS program",
+      "competitorWatch": "Indirect ACS relevance via triglyceride pathway",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor ASCVD-focused development signals",
+      "sourceLinks": [
+        "https://ir.ionis.com/news-releases/news-release-details/ionis-announces-us-fda-approval-tryngolzarTM-olezarsen",
+        "https://www.ionis.com/pipeline/"
+      ]
+    },
+    {
+      "drug": "Ziltivekimab",
+      "sponsor": "Novo Nordisk",
+      "class": "Anti-inflammatory monoclonal antibody",
+      "target": "IL-6 ligand",
+      "modality": "Monoclonal antibody",
+      "stage": "Phase III",
+      "setting": "Acute + Chronic high-risk ASCVD",
+      "signal": "monitor",
+      "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
+      "keyTrial": "ZEUS / ARTEMIS",
+      "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "ARTEMIS completion estimate; ZEUS event-driven readout timing remains key",
+      "sourceLinks": [
+        "https://www.novonordisk-trials.com/website/content/trial/1236.html",
+        "https://clinicaltrials.gov/study/NCT06118281"
+      ]
+    },
+    {
+      "drug": "Pacibekitug",
+      "sponsor": "Novartis",
+      "class": "Inflammation-targeted biologic",
+      "target": "IL-6 pathway",
+      "modality": "Monoclonal antibody",
+      "stage": "Phase II",
+      "setting": "Chronic post-MI / recurrent event reduction",
+      "signal": "positive",
+      "statusSummary": "Phase II VCU trial in recent MI met MACE endpoint; program positioned as Phase III-ready.",
+      "keyTrial": "VCU",
+      "competitorWatch": "Head-to-head strategic overlap with ziltivekimab",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Phase III start timing not publicly disclosed",
+      "sourceLinks": [
+        "https://www.novartis.com/news/media-releases/novartis-reports-positive-phase-ii-results-vcu-pacibekitug",
+        "https://www.tctmd.com/news/pacibekitug-slashes-mace-recurrence-novartis-phase-ii-vcu-data"
+      ]
+    },
+    {
+      "drug": "RBD4059",
+      "sponsor": "RiboCure Pharmaceuticals",
+      "class": "Novel anticoagulant",
+      "target": "Coagulation pathway (company-disclosed target class)",
+      "modality": "Small molecule",
+      "stage": "Phase II",
+      "setting": "Chronic CAD/ACS-risk thrombosis",
+      "signal": "monitor",
+      "statusSummary": "Early clinical program with limited public detail; positioned as next-generation anticoagulation candidate.",
+      "keyTrial": "RBD4059-201",
+      "competitorWatch": "Competes with FXIa/FXI and low-dose anticoagulation strategies",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Phase IIa data maturation window",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06866457",
+        "https://www.ribocure.com/pipeline"
+      ]
+    },
+    {
+      "drug": "Milvexian",
+      "sponsor": "Bristol Myers Squibb / Janssen",
+      "class": "FXIa inhibitor",
+      "target": "Factor XIa",
+      "modality": "Small molecule",
+      "stage": "Paused/Stopped",
+      "setting": "Chronic post-ACS antithrombotic",
+      "signal": "negative",
+      "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
+      "keyTrial": "LIBREXIA-ACS",
+      "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "No new ACS catalyst announced",
+      "sourceLinks": [
+        "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-and-Janssen-announce-discontinuation-of-LIBREXIA-ACS/default.aspx",
+        "https://clinicaltrials.gov/study/NCT05754957"
+      ]
+    },
+    {
+      "drug": "Aspirin + DAPT backbone",
+      "sponsor": "Multi-sponsor / generic",
+      "class": "Antiplatelet standard of care",
+      "target": "COX-1 + P2Y12",
+      "modality": "Small molecule",
+      "stage": "Approved",
+      "setting": "Acute + Chronic ACS",
+      "signal": "positive",
+      "statusSummary": "Foundation of ACS treatment remains antiplatelet-first with duration/intensity tailored by bleeding risk.",
+      "keyTrial": "Guideline body of evidence",
+      "competitorWatch": "Base comparator for all emerging antithrombotic assets",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor 2026+ guideline updates and precision DAPT strategies",
+      "sourceLinks": [
+        "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.002",
+        "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/acute-coronary-syndromes-acs-guidelines"
+      ]
+    },
+    {
+      "drug": "High-intensity statin + adjunct LDL lowering",
+      "sponsor": "Multi-sponsor",
+      "class": "Lipid-lowering standard of care",
+      "target": "HMG-CoA reductase/PCSK9/cholesterol absorption",
+      "modality": "Small molecule + biologic/siRNA",
+      "stage": "Approved",
+      "setting": "Chronic post-ACS",
+      "signal": "positive",
+      "statusSummary": "Event reduction remains linked to aggressive LDL-C control, increasingly with combination strategies.",
+      "keyTrial": "Guideline body of evidence",
+      "competitorWatch": "Backbone comparator for CETP and Lp(a) innovation",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor implementation trials and treatment-to-target adoption",
+      "sourceLinks": [
+        "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.002",
+        "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001252"
+      ]
+    }
+  ]
+}

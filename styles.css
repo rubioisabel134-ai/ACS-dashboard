@@ -1,0 +1,277 @@
+:root {
+  --bg: #f5f7fb;
+  --panel: rgba(255, 255, 255, 0.84);
+  --text: #17202a;
+  --muted: #596777;
+  --line: #d8dfe8;
+  --accent: #0f6d55;
+  --accent-2: #0069c2;
+  --warn: #9a2f2f;
+  --positive: #0d7d4e;
+  --mixed: #8f6b00;
+  --negative: #a03232;
+  --monitor: #4b5663;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at 8% 15%, #d9fff1 0%, transparent 30%),
+    radial-gradient(circle at 90% 5%, #dbeeff 0%, transparent 32%),
+    linear-gradient(160deg, #eff2f8 0%, #f8fafc 100%);
+  min-height: 100vh;
+}
+
+.bg-orb {
+  position: fixed;
+  border-radius: 999px;
+  filter: blur(70px);
+  opacity: 0.25;
+  z-index: -1;
+  animation: drift 14s ease-in-out infinite alternate;
+}
+
+.orb-1 {
+  width: 240px;
+  height: 240px;
+  background: #30ad8d;
+  top: 12%;
+  left: -80px;
+}
+
+.orb-2 {
+  width: 340px;
+  height: 340px;
+  background: #3a80ca;
+  right: -120px;
+  top: 35%;
+}
+
+@keyframes drift {
+  from { transform: translateY(-10px); }
+  to { transform: translateY(12px); }
+}
+
+.hero,
+main {
+  width: min(1200px, calc(100vw - 2rem));
+  margin: 0 auto;
+}
+
+.hero {
+  padding: 2.4rem 0 1.2rem;
+}
+
+.kicker {
+  font-family: "IBM Plex Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  margin: 0;
+}
+
+h1 {
+  margin: 0.6rem 0;
+  font-size: clamp(1.8rem, 3.5vw, 3rem);
+  line-height: 1.05;
+}
+
+.subtitle {
+  color: var(--muted);
+  max-width: 900px;
+}
+
+.meta-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(120px, 1fr));
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+.meta-strip > div,
+.panel {
+  background: var(--panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(25, 40, 55, 0.08);
+}
+
+.meta-strip > div {
+  padding: 0.8rem 0.9rem;
+}
+
+.meta-label {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+main {
+  display: grid;
+  gap: 1rem;
+  padding-bottom: 2rem;
+}
+
+.panel {
+  padding: 1rem;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+label {
+  font-size: 0.8rem;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+input,
+select {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.6rem 0.65rem;
+  font-family: inherit;
+  background: #fff;
+}
+
+.charts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.chart-card {
+  min-height: 280px;
+}
+
+h2 {
+  margin: 0 0 0.8rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 0.9rem;
+}
+
+.drug-card {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.85rem;
+  background: #fff;
+  display: grid;
+  gap: 0.45rem;
+  animation: cardIn 0.35s ease;
+}
+
+@keyframes cardIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.drug-name {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.drug-sponsor,
+.drug-class,
+.status {
+  margin: 0;
+  color: var(--muted);
+}
+
+.drug-class {
+  font-size: 0.88rem;
+}
+
+.pill {
+  border-radius: 999px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.73rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid var(--line);
+  height: fit-content;
+  white-space: nowrap;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.chip {
+  font-size: 0.72rem;
+  padding: 0.18rem 0.44rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+}
+
+.chip.signal-positive { background: #e7faef; color: var(--positive); border-color: #b9e8cf; }
+.chip.signal-mixed { background: #fff7df; color: var(--mixed); border-color: #f2dda0; }
+.chip.signal-negative { background: #fde8e8; color: var(--negative); border-color: #f0bcbc; }
+.chip.signal-monitor { background: #edf1f5; color: var(--monitor); border-color: #d2dae3; }
+
+.catalyst {
+  font-size: 0.84rem;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.sources a {
+  font-size: 0.74rem;
+  text-decoration: none;
+  color: var(--accent-2);
+  border-bottom: 1px dotted currentColor;
+}
+
+.notes ol {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.warning {
+  margin-bottom: 0;
+  color: var(--warn);
+}
+
+.gridjs-wrapper {
+  border: 1px solid var(--line);
+}
+
+@media (max-width: 940px) {
+  .filters,
+  .charts,
+  .meta-strip {
+    grid-template-columns: 1fr;
+  }
+}

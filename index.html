@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ACS Competitive Intelligence Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <header class="hero">
+    <p class="kicker">Acute Coronary Syndromes | Updated Weekly</p>
+    <h1>ACS Drug, Trial, and Research Intelligence</h1>
+    <p class="subtitle">
+      Competitive tracking across acute treatment, chronic secondary prevention, and late-stage pipeline assets with upcoming catalyst dates.
+    </p>
+    <div class="meta-strip">
+      <div>
+        <span class="meta-label">Snapshot date</span>
+        <strong id="snapshotDate">Loading...</strong>
+      </div>
+      <div>
+        <span class="meta-label">Records</span>
+        <strong id="recordCount">0</strong>
+      </div>
+      <div>
+        <span class="meta-label">Catalysts within 180 days</span>
+        <strong id="nearCatalystCount">0</strong>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel filters">
+      <div>
+        <label for="search">Search</label>
+        <input id="search" type="search" placeholder="Drug, sponsor, target, trial..." />
+      </div>
+      <div>
+        <label for="stageFilter">Stage</label>
+        <select id="stageFilter">
+          <option value="all">All</option>
+        </select>
+      </div>
+      <div>
+        <label for="settingFilter">Setting</label>
+        <select id="settingFilter">
+          <option value="all">All</option>
+        </select>
+      </div>
+      <div>
+        <label for="signalFilter">Signal</label>
+        <select id="signalFilter">
+          <option value="all">All</option>
+          <option value="positive">Positive</option>
+          <option value="mixed">Mixed</option>
+          <option value="negative">Negative</option>
+          <option value="monitor">Monitor</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="panel charts">
+      <div class="chart-card">
+        <h2>Portfolio By Stage</h2>
+        <canvas id="stageChart"></canvas>
+      </div>
+      <div class="chart-card">
+        <h2>Portfolio By Modality/Target</h2>
+        <canvas id="modalityChart"></canvas>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Competitive Cards</h2>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Program Table</h2>
+      <div id="grid"></div>
+    </section>
+
+    <section class="panel notes">
+      <h2>How To Update Weekly</h2>
+      <ol>
+        <li>Edit <code>data/acs-drugs.json</code> and set <code>snapshotDate</code> to today’s date.</li>
+        <li>Refresh each drug’s <code>statusSummary</code>, <code>nextCatalystDate</code>, and <code>sourceLinks</code> from primary sources.</li>
+        <li>Commit and push to <code>main</code>; GitHub Pages will auto-publish.</li>
+      </ol>
+      <p class="warning">Not medical advice. This dashboard is for competitive intelligence and trial tracking.</p>
+    </section>
+  </main>
+
+  <template id="cardTemplate">
+    <article class="drug-card">
+      <div class="card-head">
+        <div>
+          <h3 class="drug-name"></h3>
+          <p class="drug-sponsor"></p>
+        </div>
+        <span class="pill stage"></span>
+      </div>
+      <p class="drug-class"></p>
+      <div class="chip-row"></div>
+      <p class="status"></p>
+      <div class="catalyst"></div>
+      <div class="sources"></div>
+    </article>
+  </template>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+  <script src="app.js" type="module"></script>
+</body>
+</html>
