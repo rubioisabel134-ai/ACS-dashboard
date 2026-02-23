@@ -67,6 +67,89 @@
       "name": "Xolatryp",
       "sponsor": "Nyrada",
       "aliases": ["xolatryp", "Nyrada", "NYR-BI03"]
+    },
+    {
+      "name": "VE-1902",
+      "sponsor": "Version",
+      "aliases": ["VE-1902", "Version"]
+    },
+    {
+      "name": "ADX-626",
+      "sponsor": "ADARx",
+      "aliases": ["ADX-626", "ADARx"]
+    },
+    {
+      "name": "Selnoflast",
+      "sponsor": "Roche",
+      "aliases": ["selnoflast", "Roche"]
+    },
+    {
+      "name": "SP16",
+      "sponsor": "Serpin",
+      "aliases": ["SP16", "Serpin"]
+    },
+    {
+      "name": "NP-011",
+      "sponsor": "Nexcel",
+      "aliases": ["NP-011", "Nexcel"]
+    },
+    {
+      "name": "UDP-003",
+      "sponsor": "Cyclarity",
+      "aliases": ["UDP-003", "Cyclarity"]
+    },
+    {
+      "name": "Dukiprubart",
+      "sponsor": "Sungen Biomedical",
+      "aliases": ["dukiprubart", "Sungen Biomedical"],
+      "notes": "Phase II expected to start in March 2026"
+    },
+    {
+      "name": "Evategrel",
+      "sponsor": "CureGene",
+      "aliases": ["evategrel", "CureGene"]
+    },
+    {
+      "name": "DT-678",
+      "sponsor": "Diapin",
+      "aliases": ["DT-678", "Diapin"]
+    },
+    {
+      "name": "Tipogrel",
+      "sponsor": "Tianjin Institute of Pharmaceutical Research",
+      "aliases": ["tipogrel", "Tianjin Institute of Pharma research", "Tianjin Institute of Pharmaceutical Research"]
+    },
+    {
+      "name": "OmniMSC-AMI",
+      "sponsor": "Taiwan Bio",
+      "aliases": ["OmniMSC-AMI", "Taiwan Bio"]
+    },
+    {
+      "name": "RioCard001",
+      "sponsor": "Rion",
+      "aliases": ["RioCard001", "Rion"]
+    },
+    {
+      "name": "BX-001N",
+      "sponsor": "Bilix",
+      "aliases": ["BX-001N", "Bilix"]
+    },
+    {
+      "name": "SCP-776",
+      "sponsor": "Silver Creek",
+      "aliases": ["SCP-776", "Silver Creek"]
+    },
+    {
+      "name": "OKL-1111",
+      "sponsor": "Alveron",
+      "aliases": ["OKL-1111", "Alveron"],
+      "notes": "Reversal agent"
+    },
+    {
+      "name": "CAY-001",
+      "sponsor": "Cayuga",
+      "aliases": ["CAY-001", "Cayuga"],
+      "notes": "Reversal agent"
     }
   ]
 }
