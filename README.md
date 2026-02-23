@@ -10,6 +10,10 @@ Static competitive-intelligence dashboard for acute coronary syndromes (ACS), in
 - `styles.css` - visual design
 - `app.js` - filtering, card rendering, charts, table
 - `data/acs-drugs.json` - weekly-updated source of truth
+- `config/tracked_drugs.json` - tracked ACS drugs and keyword aliases for automation
+- `scripts/acs_intel_update.py` - on-demand updater (ClinicalTrials.gov + Google News RSS)
+- `reports/latest.md` - latest generated intelligence report
+- `reports/latest.json` - latest generated machine-readable report
 - `docs/weekly-update-checklist.md` - update process
 
 ## Run locally
@@ -22,9 +26,14 @@ python3 -m http.server 8080
 ```
 
 ## Weekly update workflow
-1. Open `data/acs-drugs.json`.
-2. Set `snapshotDate` to today.
-3. For each program, update:
+1. Run the updater:
+```bash
+cd /Users/isabelschlaepfer/ACS-dashboard
+python3 scripts/acs_intel_update.py --days 7
+```
+2. Review `reports/latest.md` and validate key items against primary sources.
+3. Update `data/acs-drugs.json`:
+   - `snapshotDate`
    - `stage`
    - `statusSummary`
    - `nextCatalystDate`
@@ -32,11 +41,26 @@ python3 -m http.server 8080
    - `sourceLinks`
 4. Commit and push to `main`.
 
+### Updater options
+```bash
+# single drug on demand
+python3 scripts/acs_intel_update.py --drug Zalunfiban --days 3
+
+# only ClinicalTrials.gov checks
+python3 scripts/acs_intel_update.py --trials-only
+
+# only Google News checks
+python3 scripts/acs_intel_update.py --news-only --days 1
+```
+
+Edit tracked assets and aliases in `config/tracked_drugs.json` (example included for `Xolatryp` / `Nyrada`).
+
+If a source is temporarily unreachable, the script still finishes and records the error under each drug in `reports/latest.json`.
+
 ## GitHub Pages
 Recommended settings:
 - Repository -> Settings -> Pages
-- Source: `Deploy from a branch`
-- Branch: `main` / root
+- Source: `GitHub Actions`
 
 Site URL will be:
 `https://rubioisabel134-ai.github.io/ACS-dashboard/`

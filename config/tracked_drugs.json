@@ -1,0 +1,72 @@
+{
+  "indication_keywords": [
+    "acute coronary syndrome",
+    "ACS",
+    "myocardial infarction",
+    "NSTEMI",
+    "STEMI",
+    "PCI"
+  ],
+  "drugs": [
+    {
+      "name": "Zalunfiban",
+      "sponsor": "CeleCor Therapeutics",
+      "aliases": ["zalunfiban", "CELEBRATE"]
+    },
+    {
+      "name": "Obicetrapib",
+      "sponsor": "NewAmsterdam Pharma",
+      "aliases": ["obicetrapib", "PREVAIL", "BROADWAY"]
+    },
+    {
+      "name": "Ziltivekimab",
+      "sponsor": "Novo Nordisk",
+      "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS"]
+    },
+    {
+      "name": "Pacibekitug",
+      "sponsor": "Novartis",
+      "aliases": ["pacibekitug", "VCU"]
+    },
+    {
+      "name": "RBD4059",
+      "sponsor": "RiboCure Pharmaceuticals",
+      "aliases": ["RBD4059", "RiboCure", "Ribolia"]
+    },
+    {
+      "name": "Pelacarsen",
+      "sponsor": "Novartis",
+      "aliases": ["pelacarsen", "Lp(a)HORIZON"]
+    },
+    {
+      "name": "Olpasiran",
+      "sponsor": "Amgen",
+      "aliases": ["olpasiran", "OCEAN(a)"]
+    },
+    {
+      "name": "Lepodisiran",
+      "sponsor": "Eli Lilly",
+      "aliases": ["lepodisiran", "ALPACA"]
+    },
+    {
+      "name": "Olezarsen",
+      "sponsor": "Ionis",
+      "aliases": ["olezarsen", "TRYNGOLZA"]
+    },
+    {
+      "name": "Milvexian",
+      "sponsor": "Bristol Myers Squibb / Janssen",
+      "aliases": ["milvexian", "LIBREXIA-ACS"]
+    },
+    {
+      "name": "Selatogrel",
+      "sponsor": "Idorsia / Viatris",
+      "aliases": ["selatogrel", "SOS-AMI"]
+    },
+    {
+      "name": "Xolatryp",
+      "sponsor": "Nyrada",
+      "aliases": ["xolatryp", "Nyrada", "NYR-BI03"]
+    }
+  ]
+}
