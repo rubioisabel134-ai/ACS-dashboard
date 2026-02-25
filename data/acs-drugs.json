@@ -414,11 +414,11 @@
       "setting": "Chronic post-ACS risk reduction (early development)",
       "signal": "monitor",
       "statusSummary": "Added as Phase I watchlist placeholder pending trial and mechanism disclosures.",
-      "keyTrial": "Not disclosed",
+      "keyTrial": "NCT06813339",
       "competitorWatch": "Early-stage ACS entrant",
-      "nextCatalystDate": null,
+      "nextCatalystDate": "Placebo-controlled single/multiple ascending-dose trial completion delayed to June 2027.",
       "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "sourceLinks": ["https://clinicaltrials.gov/study/NCT06813339"]
     },
     {
       "drug": "Dukiprubart",
