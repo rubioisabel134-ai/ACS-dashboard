@@ -80,6 +80,7 @@ function applyFilters() {
   renderGrid();
   renderCharts();
   renderCatalystCount();
+  renderCatalystList();
 }
 
 function renderCards() {
@@ -213,15 +214,42 @@ function aggregate(records, key) {
 }
 
 function renderCatalystCount() {
+  document.getElementById("nearCatalystCount").textContent = String(getNearCatalysts().length);
+}
+
+function getNearCatalysts() {
   const today = new Date();
-  const horizon = new Date();
+  today.setHours(0, 0, 0, 0);
+  const horizon = new Date(today);
   horizon.setDate(horizon.getDate() + 180);
-  const count = state.filtered.filter((r) => {
-    if (!r.nextCatalystDate) return false;
-    const d = new Date(r.nextCatalystDate);
-    return d >= today && d <= horizon;
-  }).length;
-  document.getElementById("nearCatalystCount").textContent = String(count);
+
+  return state.filtered
+    .filter((r) => {
+      if (!r.nextCatalystDate) return false;
+      const d = new Date(r.nextCatalystDate);
+      return !Number.isNaN(d.getTime()) && d >= today && d <= horizon;
+    })
+    .sort((a, b) => new Date(a.nextCatalystDate) - new Date(b.nextCatalystDate));
+}
+
+function renderCatalystList() {
+  const target = document.getElementById("nearCatalystList");
+  target.innerHTML = "";
+  const catalysts = getNearCatalysts();
+
+  if (!catalysts.length) {
+    const li = document.createElement("li");
+    li.className = "empty";
+    li.textContent = "No catalysts in the next 180 days for current filters.";
+    target.appendChild(li);
+    return;
+  }
+
+  catalysts.slice(0, 8).forEach((r) => {
+    const li = document.createElement("li");
+    li.textContent = `${r.nextCatalystDate} | ${r.drug} (${r.stage}) | ${r.nextCatalystEvent}`;
+    target.appendChild(li);
+  });
 }
 
 load();
