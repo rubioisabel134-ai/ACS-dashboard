@@ -21,6 +21,7 @@ body {
   margin: 0;
   font-family: "Space Grotesk", sans-serif;
   color: var(--text);
+  -webkit-text-size-adjust: 100%;
   background: radial-gradient(circle at 8% 15%, #d9fff1 0%, transparent 30%),
     radial-gradient(circle at 90% 5%, #dbeeff 0%, transparent 32%),
     linear-gradient(160deg, #eff2f8 0%, #f8fafc 100%);
@@ -72,6 +73,7 @@ main {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--accent-2);
+  font-size: 0.9rem;
   margin: 0;
 }
 
@@ -83,6 +85,8 @@ h1 {
 
 .subtitle {
   color: var(--muted);
+  font-size: 1.08rem;
+  line-height: 1.45;
   max-width: 900px;
 }
 
@@ -108,8 +112,12 @@ h1 {
 
 .meta-label {
   display: block;
-  font-size: 0.75rem;
+  font-size: 0.84rem;
   color: var(--muted);
+}
+
+.meta-strip strong {
+  font-size: 1.2rem;
 }
 
 main {
@@ -129,7 +137,7 @@ main {
 }
 
 label {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
   color: var(--muted);
   display: block;
   margin-bottom: 0.35rem;
@@ -140,7 +148,9 @@ select {
   width: 100%;
   border: 1px solid var(--line);
   border-radius: 10px;
-  padding: 0.6rem 0.65rem;
+  min-height: 46px;
+  padding: 0.7rem 0.75rem;
+  font-size: 1rem;
   font-family: inherit;
   background: #fff;
 }
@@ -199,6 +209,7 @@ select {
 
 h2 {
   margin: 0 0 0.8rem;
+  font-size: clamp(1.2rem, 2.2vw, 1.6rem);
 }
 
 .cards {
@@ -298,7 +309,9 @@ h2 {
 
 .notes ol {
   margin: 0;
-  padding-left: 1.2rem;
+  padding-left: 1.35rem;
+  font-size: 1.02rem;
+  line-height: 1.5;
 }
 
 .warning {
@@ -310,10 +323,73 @@ h2 {
   border: 1px solid var(--line);
 }
 
+@media (max-width: 1100px) {
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .charts {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 940px) {
+  .hero {
+    padding-top: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .meta-strip strong {
+    font-size: 1.1rem;
+  }
+
+  .chart-card--stage {
+    min-height: 230px;
+  }
+
+  #stageChart {
+    max-height: 200px;
+  }
+
+  .gridjs-wrapper {
+    overflow-x: auto;
+  }
+}
+
+@media (max-width: 720px) {
   .filters,
-  .charts,
   .meta-strip {
     grid-template-columns: 1fr;
+  }
+
+  main {
+    gap: 0.8rem;
+  }
+
+  .panel {
+    padding: 0.85rem;
+  }
+
+  h1 {
+    font-size: clamp(1.7rem, 7.2vw, 2.2rem);
+  }
+
+  .kicker {
+    font-size: 0.82rem;
+  }
+
+  .meta-label {
+    font-size: 0.8rem;
+  }
+
+  label {
+    font-size: 0.92rem;
+  }
+
+  .catalyst-details li {
+    font-size: 0.84rem;
   }
 }
