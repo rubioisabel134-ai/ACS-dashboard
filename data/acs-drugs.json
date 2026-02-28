@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-02-22",
+  "snapshotDate": "2026-02-28",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -165,7 +165,7 @@
       "statusSummary": "Late-stage Lp(a) silencing program with outcomes trial in established ASCVD.",
       "keyTrial": "OCEAN(a)-Outcomes",
       "competitorWatch": "Direct race vs pelacarsen and other Lp(a) entrants",
-      "nextCatalystDate": "2026-12-31",
+      "nextCatalystDate": "2028-03-31",
       "nextCatalystEvent": "Primary completion (estimated)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05581303",
