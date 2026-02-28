@@ -150,6 +150,12 @@
       "sponsor": "Cayuga",
       "aliases": ["CAY-001", "Cayuga"],
       "notes": "Reversal agent"
+    },
+    {
+      "name": "ReHeart",
+      "sponsor": "Cuorips",
+      "aliases": ["ReHeart", "Cuorips", "iPSC-derived cardiomyocyte"],
+      "notes": "iPSC-derived myocardium regenerative cell therapy (Japan authorization context)"
     }
   ]
 }

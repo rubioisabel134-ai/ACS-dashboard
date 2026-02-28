@@ -579,6 +579,24 @@
       "nextCatalystDate": null,
       "nextCatalystEvent": "Monitor for first public trial/registry updates",
       "sourceLinks": []
+    },
+    {
+      "drug": "ReHeart",
+      "sponsor": "Cuorips",
+      "class": "iPSC-derived cardiomyocyte cell therapy",
+      "target": "Myocardial regeneration",
+      "modality": "Cell therapy (iPSC-derived)",
+      "stage": "Approved",
+      "setting": "Post-AMI myocardial recovery / chronic ischemic injury",
+      "signal": "monitor",
+      "statusSummary": "Added as regenerative cardiovascular watchlist asset following report of Japan authorization context for iPSC-based cardiac therapy.",
+      "keyTrial": "Japan authorization context / post-approval evidence generation",
+      "competitorWatch": "Potential first-mover in iPSC myocardial regeneration",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor for broader clinical data disclosures and expansion beyond Japan",
+      "sourceLinks": [
+        "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
+      ]
     }
   ]
 }
