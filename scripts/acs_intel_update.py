@@ -90,6 +90,8 @@ def clinicaltrials_search(drug: dict[str, Any], indication_terms: list[str], max
                 "title": title,
                 "overallStatus": status.get("overallStatus", "Unknown"),
                 "lastUpdate": (status.get("lastUpdatePostDateStruct") or {}).get("date"),
+                "primaryCompletionDate": (status.get("primaryCompletionDateStruct") or {}).get("date"),
+                "completionDate": (status.get("completionDateStruct") or {}).get("date"),
                 "conditions": cond.get("conditions") or [],
                 "interventions": interventions,
                 "url": f"https://clinicaltrials.gov/study/{ident.get('nctId', '')}" if ident.get("nctId") else None,

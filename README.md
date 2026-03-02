@@ -61,8 +61,10 @@ If a source is temporarily unreachable, the script still finishes and records th
 
 Automation scripts:
 - `scripts/ci_daily_automation.sh` (orchestrator)
+- `scripts/ci_weekly_automation.sh` (weekly orchestrator with dashboard card sync)
 - `scripts/playwright_capture_links.mjs` (headless Playwright link capture)
 - `scripts/build_ci_report.py` (builds `docs/automation/ci-daily-latest.md`)
+- `scripts/sync_intel_to_dashboard.py` (updates `data/acs-drugs.json` from latest trial intel)
 
 Install Playwright once (optional but recommended):
 ```bash
@@ -76,6 +78,12 @@ Run once manually:
 ```bash
 cd /Users/isabelschlaepfer/ACS-dashboard
 /bin/bash scripts/ci_daily_automation.sh
+```
+
+Run weekly manually (updates cards + weekly report + commits if changed):
+```bash
+cd /Users/isabelschlaepfer/ACS-dashboard
+/bin/bash scripts/ci_weekly_automation.sh
 ```
 
 Install cron (local machine):
