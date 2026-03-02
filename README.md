@@ -57,6 +57,37 @@ Edit tracked assets and aliases in `config/tracked_drugs.json` (example included
 
 If a source is temporarily unreachable, the script still finishes and records the error under each drug in `reports/latest.json`.
 
+## Daily autonomous run (8:00 AM MST / Phoenix)
+
+Automation scripts:
+- `scripts/ci_daily_automation.sh` (orchestrator)
+- `scripts/playwright_capture_links.mjs` (headless Playwright link capture)
+- `scripts/build_ci_report.py` (builds `docs/automation/ci-daily-latest.md`)
+
+Install Playwright once (optional but recommended):
+```bash
+cd /Users/isabelschlaepfer/ACS-dashboard
+npm init -y
+npm i -D playwright
+npx playwright install chromium
+```
+
+Run once manually:
+```bash
+cd /Users/isabelschlaepfer/ACS-dashboard
+/bin/bash scripts/ci_daily_automation.sh
+```
+
+Install cron (local machine):
+```bash
+crontab -l > /tmp/mycron
+echo 'CRON_TZ=America/Phoenix' >> /tmp/mycron
+echo '0 8 * * * cd /Users/isabelschlaepfer/ACS-dashboard && /bin/bash scripts/ci_daily_automation.sh' >> /tmp/mycron
+crontab /tmp/mycron
+rm /tmp/mycron
+crontab -l
+```
+
 ## GitHub Pages
 Recommended settings:
 - Repository -> Settings -> Pages
