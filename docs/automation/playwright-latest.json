@@ -1,6 +1,18 @@
 {
-  "generatedAtUTC": "2026-03-02T02:22:02.447Z",
+  "generatedAtUTC": "2026-03-03T20:39:07.353Z",
   "inputPath": "reports/latest.json",
-  "totalLinks": 0,
-  "captures": []
+  "totalLinks": 1,
+  "captures": [
+    {
+      "drug": "VE-1902",
+      "title": "Surgeons in LMICs Can Expands Their Quality Improvement Skills with ACS Basics Course - The American College of Surgeons",
+      "source": "The American College of Surgeons",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZVZaQUtRckhIWkh2UnNIM2ZUUFUtQjlVTW4yNDJFTWx2dUdnZnpHLXFmaTFNNEZuTmZ0cWVUSjJ2d3ZXdGlOeXBYOFlZZXpOc2tVZU96QnJfcml4U0EzZ1JzcGlyai1JaGRFSURVeTgxSFhzbUNVckNSdmlRY2s0Q0JKYXVVQ3NtRTgycEpiR3lRZ1pGVWliZnRlTmdZWENVVXlIRVlYYmFFS21EQk1WMlFTd2xRWVpCNGhHV04xQVQ3Y1dQNTNyYnlGbmFTU3NuN2JZa2ZmeDZwQnFjYy04UmxGdXkzNVdtRDJaTHUzeGNZYUZscDIycG9qR0xVOHNTaElRLS1RdDJUQzZrOFQwMWJEVGVxN0RTcDJ4U2ladnlGODFQ?oc=5",
+      "fetchedAtUTC": "2026-03-03T20:39:06.902Z",
+      "finalUrl": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZVZaQUtRckhIWkh2UnNIM2ZUUFUtQjlVTW4yNDJFTWx2dUdnZnpHLXFmaTFNNEZuTmZ0cWVUSjJ2d3ZXdGlOeXBYOFlZZXpOc2tVZU96QnJfcml4U0EzZ1JzcGlyai1JaGRFSURVeTgxSFhzbUNVckNSdmlRY2s0Q0JKYXVVQ3NtRTgycEpiR3lRZ1pGVWliZnRlTmdZWENVVXlIRVlYYmFFS21EQk1WMlFTd2xRWVpCNGhHV04xQVQ3Y1dQNTNyYnlGbmFTU3NuN2JZa2ZmeDZwQnFjYy04UmxGdXkzNVdtRDJaTHUzeGNZYUZscDIycG9qR0xVOHNTaElRLS1RdDJUQzZrOFQwMWJEVGVxN0RTcDJ4U2ladnlGODFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "pageTitle": "Google News",
+      "ok": true,
+      "error": null
+    }
+  ]
 }
