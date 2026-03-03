@@ -2,3 +2,5 @@ __pycache__/
 reports/*.json
 reports/*.md
 !reports/.gitkeep
+
+logs/*.log

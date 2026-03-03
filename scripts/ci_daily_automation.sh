@@ -14,6 +14,28 @@ exec > >(tee -a "$LOG_FILE") 2>&1
 echo "[$(date)] Starting ACS daily automation"
 cd "$ROOT"
 
+STASHED=0
+STASH_MARKER="acs-daily-autostash-$STAMP"
+
+restore_stash() {
+  if [ "$STASHED" -eq 1 ]; then
+    local ref
+    ref="$(git stash list | awk -F: -v marker="$STASH_MARKER" '$0 ~ marker {print $1; exit}')"
+    if [ -n "$ref" ]; then
+      echo "[$(date)] Restoring local changes from $ref"
+      git stash pop "$ref" || echo "[$(date)] Auto-restore had conflicts; resolve manually with: git stash list && git stash pop"
+    fi
+  fi
+}
+
+trap restore_stash EXIT
+
+if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+  echo "[$(date)] Local changes detected; auto-stashing before pull"
+  git stash push -u -m "$STASH_MARKER" >/dev/null
+  STASHED=1
+fi
+
 echo "[$(date)] Pulling latest main"
 git pull --rebase origin main
 
