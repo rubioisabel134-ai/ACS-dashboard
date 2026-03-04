@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-03)
+# ACS Daily CI Report (2026-03-04)
 
-- Generated (UTC): 2026-03-03T20:38:50+00:00
+- Generated (UTC): 2026-03-04T15:00:01+00:00
 - Drugs scanned: 29
 - News window: last 1 day(s)
 - Playwright links captured: 1
@@ -29,7 +29,8 @@
 
 ## News Highlights
 
-- VE-1902 | 2026-03-03 | The American College of Surgeons | [Surgeons in LMICs Can Expands Their Quality Improvement Skills with ACS Basics Course - The American College of Surgeons](https://news.google.com/rss/articles/CBMipAJBVV95cUxQZVZaQUtRckhIWkh2UnNIM2ZUUFUtQjlVTW4yNDJFTWx2dUdnZnpHLXFmaTFNNEZuTmZ0cWVUSjJ2d3ZXdGlOeXBYOFlZZXpOc2tVZU96QnJfcml4U0EzZ1JzcGlyai1JaGRFSURVeTgxSFhzbUNVckNSdmlRY2s0Q0JKYXVVQ3NtRTgycEpiR3lRZ1pGVWliZnRlTmdZWENVVXlIRVlYYmFFS21EQk1WMlFTd2xRWVpCNGhHV04xQVQ3Y1dQNTNyYnlGbmFTU3NuN2JZa2ZmeDZwQnFjYy04UmxGdXkzNVdtRDJaTHUzeGNZYUZscDIycG9qR0xVOHNTaElRLS1RdDJUQzZrOFQwMWJEVGVxN0RTcDJ4U2ladnlGODFQ?oc=5)
+- Zalunfiban | 2026-03-03 | WGCU | [Art Center Sarasota's 'Rooted in Community' headlines 28 exhibitions at local art centers in March - WGCU](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTI3R3gtZldaVWNvMmF4blFKZjBfQVlPOE9oWXVZMEtaejllOEVabGxnS2JXcHo0eGtpdlNvVy1ScUhndERkSDY0bjlJUW5WX002S0tabjBWQ00wWHhsMm1mZTFINU5kelJpeFE4bTBjcEtaYnR3dGpyVnVTUUxjSndUYnBYX0lKdUJaVHlLSFZtYjQtUWp0QUZ5Y0UyVGFJUjd5c1I4YWc2UzZmbVFaX1VKV3l2bFk4YlVOVnc5cUR0dEVvcktURVh1SFgtbllMdGFJ?oc=5)
+- Obicetrapib | 2026-03-04 | The New Voice of Ukraine | [Ukraine expands drone production across Europe - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTZha1BfN3hiMmR0dWJSbERwUnd1RUJUakZPYy1WUzJUZ2pWVS1ELVhGYnJ6NFVaS0k4UDAzaTVpYS1rYTRWVDBGSVJxbXdady15ZnhfNEVwcVg2MWJZSjBCVVZqdWk3ME8tRWpBVXZ5LS1pNEpXZXlqTGNSNnJlSDhNZzFMQ1owMjNveWFSMWY2WVpocTFqTktmbVdReGxDaXhYOGtB0gGiAUFVX3lxTE4zZzcyeGFYXzdSU1g4X3NDejdpaTFzanAxR3ZfWGY0WEtpUUZoMEx6dm9nc2pSZzd1cW1jTkFUVHFHOXo4XzctTGFFdlBtR0pKbHJvUXlua3ZFNEoweTJPM2xtRVN2SGM5bURTWUZqNklrNlJfM0IzcXZ2cmlhWGt2ZlU3Uk0wVjYtYnQ4U1k5bjBQR1Z4ZWg3MzRmQWlwb3JmQQ?oc=5)
 
 ## Captured Link Validation
 
