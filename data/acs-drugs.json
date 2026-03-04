@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-02-28",
+  "snapshotDate": "2026-03-03",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -89,9 +89,10 @@
       "statusSummary": "Phase III CELEBRATE met primary and major secondary endpoints in ACS/MI setting.",
       "keyTrial": "CELEBRATE",
       "competitorWatch": "Potential challenger to current antiplatelet workflows",
-      "nextCatalystDate": "2026-06-30",
-      "nextCatalystEvent": "Planned U.S. NDA filing window (company guidance: first half 2026)",
+      "nextCatalystDate": "2026-05-13",
+      "nextCatalystEvent": "Estimated primary completion (NCT04825743)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT04825743",
         "https://ir.celecortherapeutics.com/news-releases/news-release-details/celecor-therapeutics-announces-positive-phase-3-celebrate-trial/",
         "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.070848"
       ]
@@ -108,8 +109,8 @@
       "statusSummary": "Late-stage emergency-use antiplatelet strategy for very early MI treatment outside hospital.",
       "keyTrial": "SOS-AMI",
       "competitorWatch": "Competes with EMS/hospital antiplatelet initiation models",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "SOS-AMI primary completion (estimated)",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT04957719)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04957719",
         "https://www.viatris.com/en/lm/news/viatris-and-idorsia-expand-collaboration-with-new-development-and-commercialization-agreements"
@@ -127,9 +128,10 @@
       "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
-      "nextCatalystDate": "2026-11-01",
-      "nextCatalystEvent": "PREVAIL major adverse CV outcomes study completion (estimated)",
+      "nextCatalystDate": "2027-12-17",
+      "nextCatalystEvent": "Estimated primary completion (NCT07229248)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07229248",
         "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-announces-positive-topline-results-broadway",
         "https://clinicaltrials.gov/study/NCT05202509"
       ]
@@ -146,8 +148,8 @@
       "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
       "keyTrial": "Lp(a)HORIZON",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "Topline outcomes timing after study completion window",
+      "nextCatalystDate": "2026-06-30",
+      "nextCatalystEvent": "Estimated primary completion (NCT04023552)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04023552",
         "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
@@ -166,7 +168,7 @@
       "keyTrial": "OCEAN(a)-Outcomes",
       "competitorWatch": "Direct race vs pelacarsen and other Lp(a) entrants",
       "nextCatalystDate": "2028-03-31",
-      "nextCatalystEvent": "Primary completion (estimated)",
+      "nextCatalystEvent": "Estimated primary completion (NCT05581303)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05581303",
         "https://www.amgen.com/newsroom"
@@ -185,8 +187,9 @@
       "keyTrial": "ALPACA / ACC 2025 presentations",
       "competitorWatch": "Competes on potency/dosing interval in Lp(a) field",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Phase III initiation/timeline guidance not yet disclosed",
+      "nextCatalystEvent": "Monitor next registry update (NCT06292013)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06292013",
         "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-positive-phase-2-alpaca-results-lepodisiran",
         "https://www.acc.org/Latest-in-Cardiology/Articles/2025/03/30/13/26/sun-10am-lepodisiran-acc-2025"
       ]
@@ -222,9 +225,10 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "ARTEMIS completion estimate; ZEUS event-driven readout timing remains key",
+      "nextCatalystDate": "2028-11-14",
+      "nextCatalystEvent": "Estimated primary completion (NCT07301034)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07301034",
         "https://www.novonordisk-trials.com/website/content/trial/1236.html",
         "https://clinicaltrials.gov/study/NCT06118281"
       ]
@@ -279,9 +283,10 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "No new ACS catalyst announced",
+      "nextCatalystDate": "2026-10-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT05757869)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05757869",
         "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-and-Janssen-announce-discontinuation-of-LIBREXIA-ACS/default.aspx",
         "https://clinicaltrials.gov/study/NCT05754957"
       ]
@@ -333,12 +338,14 @@
       "stage": "Phase I",
       "setting": "Acute ACS/AMI (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder pending trial and mechanism disclosures.",
-      "keyTrial": "Not disclosed",
+      "statusSummary": "ClinicalTrials.gov: NCT06681714 status is Not Yet Recruiting (last update 2024-11-08).",
+      "keyTrial": "NCT06681714",
       "competitorWatch": "Early-stage ACS entrant",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "nextCatalystDate": "2026-12-09",
+      "nextCatalystEvent": "Estimated completion (NCT06681714)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06681714"
+      ]
     },
     {
       "drug": "ADX-626",
@@ -381,12 +388,14 @@
       "stage": "Phase I",
       "setting": "Acute ACS/AMI (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder pending trial and mechanism disclosures.",
-      "keyTrial": "Not disclosed",
+      "statusSummary": "ClinicalTrials.gov: NCT03651089 status is Completed (last update 2021-07-28).",
+      "keyTrial": "NCT03651089",
       "competitorWatch": "Early-stage ACS entrant",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "nextCatalystEvent": "Monitor next registry update (NCT03651089)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT03651089"
+      ]
     },
     {
       "drug": "NP-011",
@@ -397,12 +406,14 @@
       "stage": "Phase I",
       "setting": "Acute ACS/AMI (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder pending trial and mechanism disclosures.",
-      "keyTrial": "Not disclosed",
+      "statusSummary": "ClinicalTrials.gov: NCT05387499 status is Completed (last update 2023-08-03).",
+      "keyTrial": "NCT05387499",
       "competitorWatch": "Early-stage ACS entrant",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "nextCatalystEvent": "Monitor next registry update (NCT05387499)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05387499"
+      ]
     },
     {
       "drug": "UDP-003",
@@ -413,12 +424,14 @@
       "stage": "Phase I",
       "setting": "Chronic post-ACS risk reduction (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder pending trial and mechanism disclosures.",
+      "statusSummary": "ClinicalTrials.gov: NCT06813339 status is Recruiting (last update 2026-02-24).",
       "keyTrial": "NCT06813339",
       "competitorWatch": "Early-stage ACS entrant",
-      "nextCatalystDate": "Placebo-controlled single/multiple ascending-dose trial completion delayed to June 2027.",
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": ["https://clinicaltrials.gov/study/NCT06813339"]
+      "nextCatalystDate": "2026-07-30",
+      "nextCatalystEvent": "Estimated primary completion (NCT06813339)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06813339"
+      ]
     },
     {
       "drug": "Dukiprubart",
@@ -493,12 +506,14 @@
       "stage": "Phase I",
       "setting": "Post-AMI cardiac recovery (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder for regenerative post-MI strategies.",
-      "keyTrial": "Not disclosed",
+      "statusSummary": "ClinicalTrials.gov: NCT05724576 status is Recruiting (last update 2025-06-06).",
+      "keyTrial": "NCT05724576",
       "competitorWatch": "Potential competitor in post-MI remodeling and recovery",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "nextCatalystEvent": "Monitor next registry update (NCT05724576)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05724576"
+      ]
     },
     {
       "drug": "RioCard001",
@@ -589,12 +604,13 @@
       "stage": "Approved",
       "setting": "Post-AMI myocardial recovery / chronic ischemic injury",
       "signal": "monitor",
-      "statusSummary": "Added as regenerative cardiovascular watchlist asset following report of Japan authorization context for iPSC-based cardiac therapy.",
+      "statusSummary": "ClinicalTrials.gov: NCT05566600 status is Unknown (last update 2023-11-22).",
       "keyTrial": "Japan authorization context / post-approval evidence generation",
       "competitorWatch": "Potential first-mover in iPSC myocardial regeneration",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for broader clinical data disclosures and expansion beyond Japan",
+      "nextCatalystEvent": "Monitor next registry update (NCT05566600)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05566600",
         "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
       ]
     }
