@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-03-03",
+  "snapshotDate": "2026-03-06",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -128,12 +128,12 @@
       "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
-      "nextCatalystDate": "2027-12-17",
-      "nextCatalystEvent": "Estimated primary completion (NCT07229248)",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT05562089)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05562089",
         "https://clinicaltrials.gov/study/NCT07229248",
-        "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-announces-positive-topline-results-broadway",
-        "https://clinicaltrials.gov/study/NCT05202509"
+        "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-announces-positive-topline-results-broadway"
       ]
     },
     {
@@ -167,9 +167,10 @@
       "statusSummary": "Late-stage Lp(a) silencing program with outcomes trial in established ASCVD.",
       "keyTrial": "OCEAN(a)-Outcomes",
       "competitorWatch": "Direct race vs pelacarsen and other Lp(a) entrants",
-      "nextCatalystDate": "2028-03-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT05581303)",
+      "nextCatalystDate": "2031-10-20",
+      "nextCatalystEvent": "Estimated primary completion (NCT07136012)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07136012",
         "https://clinicaltrials.gov/study/NCT05581303",
         "https://www.amgen.com/newsroom"
       ]
@@ -283,12 +284,12 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": "2026-10-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT05757869)",
+      "nextCatalystDate": "2026-11-11",
+      "nextCatalystEvent": "Estimated primary completion (NCT05702034)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05702034",
         "https://clinicaltrials.gov/study/NCT05757869",
-        "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-and-Janssen-announce-discontinuation-of-LIBREXIA-ACS/default.aspx",
-        "https://clinicaltrials.gov/study/NCT05754957"
+        "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-and-Janssen-announce-discontinuation-of-LIBREXIA-ACS/default.aspx"
       ]
     },
     {
