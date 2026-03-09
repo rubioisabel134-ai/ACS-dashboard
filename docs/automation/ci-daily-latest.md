@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-08)
+# ACS Daily CI Report (2026-03-09)
 
-- Generated (UTC): 2026-03-08T14:05:25+00:00
+- Generated (UTC): 2026-03-09T14:00:00+00:00
 - Drugs scanned: 29
 - News window: last 1 day(s)
 - Playwright links captured: 1
@@ -29,8 +29,7 @@
 
 ## News Highlights
 
-- Zalunfiban | 2026-03-08 | Post and Courier | [Augusta Choral Society to perform famous song by Black composer at March 14 concert - Post and Courier](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUnFBQTRJNWtDeHdvVFU4V0E2M0xrcjRtX1RTRVBQV3MweGpTNVNGMVI4RkptazQ4R0tsT3p5eGN1YS1CQTJtejlRSTF5RTMxX3AzYnRUbmdJMHpDUEhWQ0ZGcTlKS19KcXgtdkZNMjQyQTRnOWZ4bDA1ampxZDZIeV80QkJ0TFM0RDNRZnhtUXhRakJzV1VmaFFhMVpWemc1enZtM0ROeC1BNHZSYm93SDJtRjRRRW5MUmd5OWllTWxKZmJRa3FRNkhEQkktZTZMNVhVeFJlcl81NlRqV1lwaHJYVzlxNktHUmJiV05rZ1k1UQ?oc=5)
-- Zalunfiban | 2026-03-07 | Bowling Green Daily News | [Lady Wildcats, Trojanettes roll into Region 4 final - Bowling Green Daily News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVZ6Uk1qWVk3R1c5U3M1MGpfUkhvQjljSUNHRFNHZnpGZVM2b0dGM0tDYUprRnlxeWkzRUl6TnhlSzFhRk41OHZoVHVTTHJBeEExNm9DNFBmcWViWkotdkozUDUxQ1FOWHF2Y2I2RkNSYmJMZFJ3eFlYV3ozZnp2MHk2bTVWNlAwQ0pLVW40bw?oc=5)
+- No matching news items found in this run.
 
 ## Captured Link Validation
 
