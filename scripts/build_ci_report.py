@@ -68,6 +68,14 @@ def main() -> int:
     lines.append("")
     news_lines = 0
     for d in intel.get("drugs", []):
+        press = d.get("companyPress", [])
+        for p in press[:2]:
+            source = p.get("source") or "Company press room"
+            title = p.get("title") or "Untitled"
+            link = p.get("link") or ""
+            lines.append(f"- {d.get('name')} | {source} | [{title}]({link})")
+            news_lines += 1
+    for d in intel.get("drugs", []):
         news = d.get("googleNews", [])
         for n in news[:2]:
             pub = (n.get("publishedAt") or "n/a")[:10]

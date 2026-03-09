@@ -11,22 +11,26 @@
     {
       "name": "Zalunfiban",
       "sponsor": "CeleCor Therapeutics",
-      "aliases": ["zalunfiban", "CELEBRATE"]
+      "aliases": ["zalunfiban", "CELEBRATE"],
+      "press_release_url": "https://www.celecor.com/news/"
     },
     {
       "name": "Obicetrapib",
       "sponsor": "NewAmsterdam Pharma",
-      "aliases": ["obicetrapib", "PREVAIL", "BROADWAY"]
+      "aliases": ["obicetrapib", "PREVAIL", "BROADWAY"],
+      "press_release_url": "https://ir.newamsterdampharma.com/news-events/press-releases"
     },
     {
       "name": "Ziltivekimab",
       "sponsor": "Novo Nordisk",
-      "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS"]
+      "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS"],
+      "press_release_url": "https://www.novonordisk-us.com/media/news-archive.html"
     },
     {
       "name": "Pacibekitug",
       "sponsor": "Novartis",
-      "aliases": ["pacibekitug", "VCU"]
+      "aliases": ["pacibekitug", "VCU"],
+      "press_release_url": "https://www.novartis.com/news/newsroom"
     },
     {
       "name": "RBD4059",
@@ -41,12 +45,14 @@
     {
       "name": "Olpasiran",
       "sponsor": "Amgen",
-      "aliases": ["olpasiran", "OCEAN(a)"]
+      "aliases": ["olpasiran", "OCEAN(a)"],
+      "press_release_url": "https://www.amgen.com/newsroom/press-releases"
     },
     {
       "name": "Lepodisiran",
       "sponsor": "Eli Lilly",
-      "aliases": ["lepodisiran", "ALPACA"]
+      "aliases": ["lepodisiran", "ALPACA"],
+      "press_release_url": "https://www.lilly.com/news/press-releases"
     },
     {
       "name": "Olezarsen",
@@ -56,17 +62,20 @@
     {
       "name": "Milvexian",
       "sponsor": "Bristol Myers Squibb / Janssen",
-      "aliases": ["milvexian", "LIBREXIA-ACS"]
+      "aliases": ["milvexian", "LIBREXIA-ACS"],
+      "press_release_url": "https://www.bms.com/media/press-releases.html"
     },
     {
       "name": "Selatogrel",
       "sponsor": "Idorsia / Viatris",
-      "aliases": ["selatogrel", "SOS-AMI"]
+      "aliases": ["selatogrel", "selatogerl", "SOS-AMI"],
+      "press_release_url": "https://newsroom.viatris.com/press-releases?l=100"
     },
     {
       "name": "Xolatryp",
       "sponsor": "Nyrada",
-      "aliases": ["xolatryp", "Nyrada", "NYR-BI03"]
+      "aliases": ["xolatryp", "Nyrada", "NYR-BI03"],
+      "press_release_url": "https://www.nyrada.com/site/news-insights/media"
     },
     {
       "name": "VE-1902",
@@ -143,6 +152,7 @@
       "name": "OKL-1111",
       "sponsor": "Alveron",
       "aliases": ["OKL-1111", "Alveron"],
+      "press_release_url": "https://www.alveron.com/news",
       "notes": "Reversal agent"
     },
     {
@@ -156,6 +166,24 @@
       "sponsor": "Cuorips",
       "aliases": ["ReHeart", "Cuorips", "iPSC-derived cardiomyocyte"],
       "notes": "iPSC-derived myocardium regenerative cell therapy (Japan authorization context)"
+    },
+    {
+      "name": "Orforglipron",
+      "sponsor": "Eli Lilly",
+      "aliases": ["orforglipron", "LY3502970"],
+      "press_release_url": "https://www.lilly.com/news/press-releases"
+    },
+    {
+      "name": "Muvalaplin",
+      "sponsor": "Eli Lilly",
+      "aliases": ["muvalaplin", "LY3473329"],
+      "press_release_url": "https://www.lilly.com/news/press-releases"
+    },
+    {
+      "name": "Orticumab",
+      "sponsor": "Abcentra",
+      "aliases": ["orticumab", "Abcentra"],
+      "press_release_url": "https://abcentra.com/resources/"
     }
   ]
 }

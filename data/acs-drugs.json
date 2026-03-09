@@ -614,6 +614,60 @@
         "https://clinicaltrials.gov/study/NCT05566600",
         "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
       ]
+    },
+    {
+      "drug": "Orforglipron",
+      "sponsor": "Eli Lilly",
+      "class": "Oral incretin agonist",
+      "target": "GLP-1 receptor",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Cardiometabolic risk reduction (indirect ACS relevance)",
+      "signal": "monitor",
+      "statusSummary": "Tracked for potential downstream ACS risk-modification relevance via cardiometabolic effects; direct ACS outcome role is not established.",
+      "keyTrial": "Lilly cardiometabolic development program",
+      "competitorWatch": "Potential competitor in chronic risk-modifying CV prevention strategies",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor Lilly press releases and cardiovascular outcomes disclosures",
+      "sourceLinks": [
+        "https://www.lilly.com/news/press-releases"
+      ]
+    },
+    {
+      "drug": "Muvalaplin",
+      "sponsor": "Eli Lilly",
+      "class": "Oral Lp(a) inhibitor",
+      "target": "Lipoprotein(a)",
+      "modality": "Small molecule",
+      "stage": "Phase II",
+      "setting": "Chronic secondary prevention (potential ACS relevance)",
+      "signal": "monitor",
+      "statusSummary": "Tracked as oral Lp(a)-targeting program with potential ACS event-risk relevance pending outcomes evidence.",
+      "keyTrial": "Lilly Lp(a) clinical program",
+      "competitorWatch": "Competes with pelacarsen/olpasiran and broader Lp(a) field",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor Lilly press releases and trial-registry updates",
+      "sourceLinks": [
+        "https://www.lilly.com/news/press-releases"
+      ]
+    },
+    {
+      "drug": "Orticumab",
+      "sponsor": "Abcentra",
+      "class": "Inflammation-targeted biologic",
+      "target": "Not publicly disclosed",
+      "modality": "Monoclonal antibody",
+      "stage": "Phase I",
+      "setting": "Inflammation-linked cardiovascular risk (early development)",
+      "signal": "monitor",
+      "statusSummary": "Early-stage program added to ACS watchlist pending clearer cardiovascular indication and trial details.",
+      "keyTrial": "Not disclosed",
+      "competitorWatch": "Potential competitor in immune-modulation approaches",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor company resource and press updates",
+      "sourceLinks": [
+        "https://abcentra.com/resources/"
+      ]
     }
   ]
 }

@@ -33,6 +33,16 @@ const intel = JSON.parse(raw);
 
 const links = [];
 for (const d of intel.drugs || []) {
+  for (const p of d.companyPress || []) {
+    if (p.link) {
+      links.push({
+        drug: d.name,
+        title: p.title || "Untitled",
+        source: p.source || "Company press room",
+        link: p.link,
+      });
+    }
+  }
   for (const n of d.googleNews || []) {
     if (n.link) {
       links.push({

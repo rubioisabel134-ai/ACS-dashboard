@@ -102,6 +102,42 @@ def update_record_from_trial(record: dict[str, Any], trial: dict[str, Any]) -> b
     return changed
 
 
+def update_record_from_press(record: dict[str, Any], press_hits: list[dict[str, Any]]) -> bool:
+    changed = False
+    termination_terms = ("terminated", "discontinued", "halted", "stopped", "cease")
+
+    for hit in press_hits:
+        title = (hit.get("title") or "").lower()
+        if not any(t in title for t in termination_terms):
+            continue
+
+        summary = f"Company press update indicates development termination/discontinuation: {hit.get('title', 'not disclosed')}."
+        if record.get("stage") != "Paused/Stopped":
+            record["stage"] = "Paused/Stopped"
+            changed = True
+        if record.get("signal") != "negative":
+            record["signal"] = "negative"
+            changed = True
+        if record.get("statusSummary") != summary:
+            record["statusSummary"] = summary
+            changed = True
+        if record.get("nextCatalystDate") is not None:
+            record["nextCatalystDate"] = None
+            changed = True
+        if record.get("nextCatalystEvent") != "No further development catalyst announced":
+            record["nextCatalystEvent"] = "No further development catalyst announced"
+            changed = True
+
+        link = hit.get("link")
+        links = record.get("sourceLinks") or []
+        if link and link not in links:
+            record["sourceLinks"] = [link] + links[:2]
+            changed = True
+        break
+
+    return changed
+
+
 def main() -> int:
     args = parse_args()
     intel = read_json(args.intel)
@@ -120,9 +156,16 @@ def main() -> int:
 
         trial = best_trial(d.get("clinicalTrials") or [])
         if not trial:
+            if update_record_from_press(record, d.get("companyPress") or []):
+                updates += 1
             continue
 
+        record_changed = False
         if update_record_from_trial(record, trial):
+            record_changed = True
+        if update_record_from_press(record, d.get("companyPress") or []):
+            record_changed = True
+        if record_changed:
             updates += 1
 
     dashboard["snapshotDate"] = dt.date.today().isoformat()

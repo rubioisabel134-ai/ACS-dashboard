@@ -11,12 +11,15 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import email.utils
+import html
 import json
 import pathlib
+import re
 import sys
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 from typing import Any
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -52,6 +55,88 @@ def http_get_text(url: str, timeout: int = 25) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": "acs-dashboard-updater/1.0"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
+
+
+class AnchorParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.links: list[dict[str, str]] = []
+        self._current_href: str | None = None
+        self._text_parts: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "a":
+            return
+        attr_map = {k.lower(): (v or "") for k, v in attrs}
+        href = attr_map.get("href", "").strip()
+        if not href:
+            return
+        self._current_href = href
+        self._text_parts = []
+
+    def handle_data(self, data: str) -> None:
+        if self._current_href is not None:
+            self._text_parts.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() != "a" or self._current_href is None:
+            return
+        text = " ".join(" ".join(self._text_parts).split())
+        self.links.append({"href": self._current_href, "text": text})
+        self._current_href = None
+        self._text_parts = []
+
+
+def company_press_search(drug: dict[str, Any], max_results: int) -> list[dict[str, Any]]:
+    press_url = (drug.get("press_release_url") or "").strip()
+    if not press_url:
+        return []
+
+    page = http_get_text(press_url)
+    parser = AnchorParser()
+    parser.feed(page)
+
+    aliases = [a.lower() for a in (drug.get("aliases") or [drug.get("name", "")]) if a]
+    sponsor_words = [w.lower() for w in (drug.get("sponsor", "").split()) if len(w) > 2]
+    keywords = aliases + sponsor_words
+
+    base_domain = urllib.parse.urlparse(press_url).netloc.lower()
+    selected: list[dict[str, Any]] = []
+    seen: set[str] = set()
+
+    for link in parser.links:
+        raw_href = link.get("href", "").strip()
+        if not raw_href or raw_href.startswith("#") or raw_href.startswith("javascript:") or raw_href.startswith("mailto:"):
+            continue
+        absolute = urllib.parse.urljoin(press_url, raw_href)
+        parsed = urllib.parse.urlparse(absolute)
+        if parsed.scheme not in {"http", "https"}:
+            continue
+        if base_domain and base_domain not in parsed.netloc.lower():
+            continue
+        if absolute in seen:
+            continue
+        seen.add(absolute)
+
+        text = html.unescape((link.get("text") or "").strip())
+        hay = f"{text} {absolute}".lower()
+        matched = any(k in hay for k in keywords if k)
+        if not matched:
+            continue
+
+        title = text or parsed.path.rsplit("/", 1)[-1] or "Untitled"
+        selected.append(
+            {
+                "title": re.sub(r"\s+", " ", title).strip(),
+                "link": absolute,
+                "source": base_domain or "company press room",
+                "publishedAt": None,
+            }
+        )
+        if len(selected) >= max_results:
+            break
+
+    return selected
 
 
 def clinicaltrials_search(drug: dict[str, Any], indication_terms: list[str], max_results: int) -> list[dict[str, Any]]:
@@ -169,9 +254,11 @@ def generate_markdown(report: dict[str, Any]) -> str:
         lines.append("")
 
         trials = drug.get("clinicalTrials", [])
+        press = drug.get("companyPress", [])
         news = drug.get("googleNews", [])
 
         lines.append(f"- ClinicalTrials.gov hits: {len(trials)}")
+        lines.append(f"- Company press hits: {len(press)}")
         lines.append(f"- Google News hits: {len(news)}")
         lines.append("")
 
@@ -184,6 +271,15 @@ def generate_markdown(report: dict[str, Any]) -> str:
                 nct = t.get("nctId", "")
                 url = t.get("url") or ""
                 lines.append(f"- [{nct}] {title} | Status: {status} | Last update: {last} | {url}")
+            lines.append("")
+
+        if press:
+            lines.append("### Company press-room hits")
+            for p in press:
+                title = p.get("title", "Untitled")
+                source = p.get("source", "Company press room")
+                link = p.get("link", "")
+                lines.append(f"- {source} | [{title}]({link})")
             lines.append("")
 
         if news:
@@ -230,7 +326,9 @@ def main() -> int:
             "name": drug.get("name"),
             "sponsor": drug.get("sponsor", "Unknown"),
             "aliases": drug.get("aliases") or [],
+            "pressReleaseUrl": drug.get("press_release_url"),
             "clinicalTrials": [],
+            "companyPress": [],
             "googleNews": [],
             "errors": [],
         }
@@ -242,6 +340,10 @@ def main() -> int:
                 entry["errors"].append(f"clinicaltrials.gov: {exc}")
 
         if run_news:
+            try:
+                entry["companyPress"] = company_press_search(drug, args.max_news)
+            except Exception as exc:  # noqa: BLE001
+                entry["errors"].append(f"company press: {exc}")
             try:
                 entry["googleNews"] = google_news_search(drug, indication_keywords, args.days, args.max_news)
             except Exception as exc:  # noqa: BLE001
