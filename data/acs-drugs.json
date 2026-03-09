@@ -565,22 +565,6 @@
       "sourceLinks": []
     },
     {
-      "drug": "OKL-1111",
-      "sponsor": "Alveron",
-      "class": "Reversal agent",
-      "target": "Antithrombotic reversal pathway",
-      "modality": "Biologic",
-      "stage": "Phase I",
-      "setting": "Bleeding management in ACS antithrombotic care",
-      "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder for reversal-agent strategy tracking.",
-      "keyTrial": "Not disclosed",
-      "competitorWatch": "Competes in antithrombotic safety/reversal niche",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
-    },
-    {
       "drug": "CAY-001",
       "sponsor": "Cayuga",
       "class": "Reversal agent",
@@ -639,15 +623,16 @@
       "class": "Oral Lp(a) inhibitor",
       "target": "Lipoprotein(a)",
       "modality": "Small molecule",
-      "stage": "Phase II",
-      "setting": "Chronic secondary prevention (potential ACS relevance)",
+      "stage": "Phase III",
+      "setting": "CVOT / chronic secondary prevention (MACE outcomes)",
       "signal": "monitor",
-      "statusSummary": "Tracked as oral Lp(a)-targeting program with potential ACS event-risk relevance pending outcomes evidence.",
-      "keyTrial": "Lilly Lp(a) clinical program",
+      "statusSummary": "Phase III CVOT-tracked Lp(a) program for major adverse cardiovascular events (MACE) relevance in high-risk cardiovascular populations.",
+      "keyTrial": "NCT07157774",
       "competitorWatch": "Competes with pelacarsen/olpasiran and broader Lp(a) field",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor Lilly press releases and trial-registry updates",
+      "nextCatalystDate": "2029-07-31",
+      "nextCatalystEvent": "Phase III CVOT estimated completion window (NCT07157774)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07157774",
         "https://www.lilly.com/news/press-releases"
       ]
     },

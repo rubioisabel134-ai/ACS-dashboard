@@ -5,7 +5,11 @@
     "myocardial infarction",
     "NSTEMI",
     "STEMI",
-    "PCI"
+    "PCI",
+    "CVOT",
+    "cardiovascular outcomes",
+    "major adverse cardiovascular events",
+    "MACE"
   ],
   "drugs": [
     {
@@ -149,13 +153,6 @@
       "aliases": ["SCP-776", "Silver Creek"]
     },
     {
-      "name": "OKL-1111",
-      "sponsor": "Alveron",
-      "aliases": ["OKL-1111", "Alveron"],
-      "press_release_url": "https://www.alveron.com/news",
-      "notes": "Reversal agent"
-    },
-    {
       "name": "CAY-001",
       "sponsor": "Cayuga",
       "aliases": ["CAY-001", "Cayuga"],
@@ -176,7 +173,7 @@
     {
       "name": "Muvalaplin",
       "sponsor": "Eli Lilly",
-      "aliases": ["muvalaplin", "LY3473329"],
+      "aliases": ["muvalaplin", "LY3473329", "NCT07157774"],
       "press_release_url": "https://www.lilly.com/news/press-releases"
     },
     {
