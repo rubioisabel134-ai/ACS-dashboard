@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-10)
+# ACS Daily CI Report (2026-03-11)
 
-- Generated (UTC): 2026-03-10T14:21:53+00:00
+- Generated (UTC): 2026-03-11T14:00:01+00:00
 - Drugs scanned: 31
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -52,7 +52,9 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
-- Obicetrapib | 2026-03-10 | Times Bull | [Best Split ACs for Summer 2026: Affordable 1.5 Ton Models from Hitachi, Daikin and LG – Check Price Details - Times Bull](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcHNzQnVNNnFtTDRlNDdsb21iNHg3dlFoU2RZSktvazBTN0JDaWtxbVprUm51YWRfVkh3bG5TOGdJM25ETG1KZ2xuVjE0RXlGeVdHcTJOUmNxZXFWV2g1djUzbnlWVnpSbnQ0aHJBWElvanNuOVdkSVlMcTN3WEE3V0JWdEhwam1DN2FMdkFYamxET1NPbHo0alpPZFZQZkpscGE5emNabTNpVUJrUXhYU2UzUnlOZzFKaDFhMGJGSnlybnF3My1VdlR3c3BoeDZVWUVNOHY4NG5DZHl0ZVNQRl9TSQ?oc=5)
+- Zalunfiban | 2026-03-10 | Moneycontrol.com | [Hisense launches Intelli Cool Pro Series ACs in India with QSD Rapid Inverter technology, Wi-Fi voice... - Moneycontrol.com](https://news.google.com/rss/articles/CBMipwJBVV95cUxPMVpiZEpMdmxTZktrd3l5VTBEN3ZVVnc5YlBwZ1BYcE9obnhlRWxNYTFQazVtZXY0SUtYNnZYRmIwTVVJaGNCTDN6M21NMzloOGVMV1ZTakFJM2F4bERfUUJhWndjcHJha1FiM29KN2poRGZ5ZmtrMHdWSlpvZllMVUFSemE2U1lpSmtPaUhCcGQzTzJoRTJvTm5VMDhuam9LWERHLTU0TjEyQVlhV2RfZWJfZEo4eG5Pb1ZsbTNvSHVXMkZENVNYM0pFN3NMa1A5YVRnWFFXeHI5a2FXaWlYVzN2TjAxNXgzUG9aWU1QMWxFcFYxQjdKcmNVQlU0VWV4VlM0eUhwdXlUZHNTOXBvYVllQWNOZWpqcUdMVEkwM3hmNDZrcElJ0gGnAkFVX3lxTE8xWmJkSkx2bFNmS2t3eXlVMEQ3dlVWdzliUHBnUFhwT2hueGVFbE1hMVBrNW1ldjRJS1g2dlhGYjBNVUloY0JMM3ozbU0zOWg4ZUxXVlNqQUkzYXhsRF9RQmFad2NwcmFrUWIzb0o3amhEZnlma2swd1ZKWm9mWUxVQVJ6YTZTWWlKa09pSEJwZDNPMmhFMm9OblUwOG5qb0tYREctNTROMTJBWWFXZF9lYl9kSjh4bk9vVmxtM29IdVcyRkQ1U1gzSkU3c0xrUDlhVGdYUVd4cjlrYVdpaVhXM3ZOMDE1eDNQb1pZTVAxbEVwVjFCN0pyY1VCVTRVZXhWUzR5SHB1eVRkc1M5cG9hWWVBY05lampxR0xUSTAzeGY0NmtwSUk?oc=5)
+- Ziltivekimab | 2026-03-11 | strabaneweekly.co.uk | [Ulster title for Strabane ACs Loughlan Bulling - Photo 1 of 1 - Alpha Newspaper Group - strabaneweekly.co.uk](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHMzTUw1RDBVeEJzSWQ1UW41Q1J0ZmQzTXFZeGRVS05waFdSUjFkUTFickR0QUxSZG4yS3hjNTJZQmtfMkpDRnBVRDAtSl92NEh4ekhCRU9abF9mX0FrWGJfTTAwWUdVU0FrS0Y3MHlubzdJdjJrQks1MUZWLXZmOGd0WUhUVDJjZUhZYkhsUThIaXdtaGdGNi1ia05UNXhEQVNQaUFuVDJmbGhRUF9uczFyeGgtZw?oc=5)
+- Ziltivekimab | 2026-03-10 | michigan.newsnetmedia.com | [AJPC Publishes POLY-ACS Trial Demonstrating Feasibility of Polypill Strategy After Acute Coronary Syndrome - michigan.newsnetmedia.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRE5ZRXJTeU96b0FmaFJYNktJTW1vYWEzSTRLM3VnYUN0Qzd6Sk51NEtVbnhpUVBoSzZaZjh0SERCS0Q2ejFaYzRKSU5GQ2kwVV9NM2NfYkFIUHhlbFRJUWhNd3JZMzZyVjZQMVd1cWg1NV9HSGE0YjJGcHk5dXdNZmtvVVJWTWhrcmx0d1hYZkhpUnh0MUE1OXJEM0sxU2djQ2JBcDBtUFBkSWVBNTlseElCRmVUNk1hYzg5MVhtN3V2RW9KaGljN19mV1pSdkdQX0FxRGkyYlNlM1lzNlNoTTdBX21hUkNSLWc?oc=5)
 
 ## Captured Link Validation
 
