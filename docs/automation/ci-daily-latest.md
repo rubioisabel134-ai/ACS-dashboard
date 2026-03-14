@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-12)
+# ACS Daily CI Report (2026-03-14)
 
-- Generated (UTC): 2026-03-12T15:51:58+00:00
+- Generated (UTC): 2026-03-14T14:02:16+00:00
 - Drugs scanned: 31
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -8,21 +8,19 @@
 ## Trial Status Updates
 
 - Zalunfiban: [NCT04825743] ACTIVE_NOT_RECRUITING | last update 2025-10-23 | https://clinicaltrials.gov/study/NCT04825743
-- Obicetrapib: [NCT06535854] RECRUITING | last update 2025-10-24 | https://clinicaltrials.gov/study/NCT06535854
 - Obicetrapib: [NCT03260517] COMPLETED | last update 2019-09-30 | https://clinicaltrials.gov/study/NCT03260517
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2025-12-31 | https://clinicaltrials.gov/study/NCT06118281
-- Ziltivekimab: [NCT07276282] NOT_YET_RECRUITING | last update 2025-12-11 | https://clinicaltrials.gov/study/NCT07276282
+- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2025-12-02 | https://clinicaltrials.gov/study/NCT05021835
 - Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT04023552
 - Pelacarsen: [NCT04993664] WITHDRAWN | last update 2022-01-03 | https://clinicaltrials.gov/study/NCT04993664
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-03-06 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-03-02 | https://clinicaltrials.gov/study/NCT06292013
-- Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-02-13 | https://clinicaltrials.gov/study/NCT05757869
-- Milvexian: [NCT05702034] RECRUITING | last update 2026-02-13 | https://clinicaltrials.gov/study/NCT05702034
+- Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
+- Milvexian: [NCT05702034] RECRUITING | last update 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
 - Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-03-03 | https://clinicaltrials.gov/study/NCT04957719
 - Selatogrel: [NCT03487445] COMPLETED | last update 2025-07-09 | https://clinicaltrials.gov/study/NCT03487445
 - Xolatryp: [NCT07362446] NOT_YET_RECRUITING | last update 2026-01-30 | https://clinicaltrials.gov/study/NCT07362446
-- SP16: [NCT03651089] COMPLETED | last update 2021-07-28 | https://clinicaltrials.gov/study/NCT03651089
 - NP-011: [NCT05387499] COMPLETED | last update 2023-08-03 | https://clinicaltrials.gov/study/NCT05387499
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
 - OmniMSC-AMI: [NCT05724576] RECRUITING | last update 2025-06-06 | https://clinicaltrials.gov/study/NCT05724576
@@ -51,8 +49,8 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
-- Obicetrapib | 2026-03-12 | PR Newswire | [Cozeware Kick Off "Spring Wishes" with Mega Discounts on Ductless ACs and Participates in TikTok Pop-Up Event in NYC - PR Newswire](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzI0Y1paT2V1MGNnMzZXYU9BYm1wbnVkZWxHVlJieVIxaFA4cHFEQVpCNjh6Y2d6QlJRYlg0RjhRYS1rYkRFSVhiSVA2dkk0UlNVWUh6eFFLMGl3VTBkUWhwYl93SkgzVjhTUDZSMFNPZHdSc1ZWQlFEbVVVRXZyUWNSZDlfNm1iNUkxRFJaamhuc1ptODRLcGRDaTE5bW5NZ09McUFydF9FbjRuZm1TejJvUGUzSGI4WlJ4TUpqcFRuX25qMzFjakw2X0ZNTlc5NDMtV0dqakNhVDhUSG1GeVBYd2dmUkJkbFNlQ21LaTA2bHFQSm5aMzM3ZTVJMm8?oc=5)
-- VE-1902 | 2026-03-12 | Information Age | ACS | [Commission finds ‘serious corrupt conduct’ in Robodebt rollout - Information Age | ACS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTNBLVlRVHlCLWFaenhZNy02bzZFclFXUTliNWNtbk96cllmYUR5bEw1QmJ6TjBDZEdmR08tTjlaUFE2SnNaZjRnQWpXY1Q0ZWNsTWtsLVBQWFNJRzJObEJwUnlpZ08ybE8xRE9vT3pBTW5oSHNmdjNEMUNES3BPM2pSREFJLUE4V08wM1ZIMG1RVFVZMVVZc1lfZ0ExSUlSS2U2VQ?oc=5)
+- VE-1902 | 2026-03-13 | ThePrint | [Daikin India aims to manufacture 40 lakh room ACs annually in India by 2030 - ThePrint](https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDR0MWNWc3NMUjlSWURoeGJiaFRzNUh4Q056QmFLT0VLQ0ZqTHhHN1hiM2tIZmJLY2dMSXF5Z2xRU2c2Qjh6bVVZU2hNSDl3UFlwTDI3VnlPMXBha3QtSlVmNWxmMUFhM0xTQlFHYXZDM1dUZzNDdnNuMVhlTFZBcnNBRGZvdjhtcXdMTkdlb05zLTJ0cmg0MXB3V1Nua01oQ3YxZHJ6bHhuNm9vd0lQbjJGVWNqSFHSAbcBQVVfeXFMTmg0dDFjVnNzTFI5UllEaHhiYmhUczVIeENOekJhS09FS0NGakx4RzdYYjNrSGZiS2NnTElxeWdsUVNnNkI4em1VWVNoTUg5d1BZcEwyN1Z5TzFwYWt0LUpVZjVsZjFBYTNMU0JRR2F2QzNXVGczQ3ZzbjFYZUxWQXJzQURmb3Y4bXF3TE5HZW9Ocy0ydHJoNDFwd1dTbmtNaEN2MWRyemx4bjZvb3dJUG4yRlVjakhR?oc=5)
+- VE-1902 | 2026-03-13 | ThePrint | [ACs, laundry units among upgrades planned at Asha Kiran home; Delhi minister reviews facilities - ThePrint](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaXcyXzY2ODJvQTdZZkNQR2UzM3RPcTlIbXF5ZGxnSDEwYlR0LUNMMjhfRTR0M25acXRBRGROX0hfNkl1QWs5c3NPRGFQeTl3YWpiYU96X09VblFNWGRXNTNOSkQwYmVuREtWVF9Cd1IzdkF6RHRzLS1lc3duWVVkMU03R3JOSE9ybmRRMmZkWGRVT1BKVnN3X0VxRDZvaUw5eHRaMmtPY3h1UXh1cFlCMnE2b01qWTh3VUM0ci1iUmxqRks2R0kwNEtFUXHSAcwBQVVfeXFMTml3Ml82Njgyb0E3WWZDUEdlMzN0T3E5SG1xeWRsZ0gxMGJUdC1DTDI4X0U0dDNuWnF0QURkTl9IXzZJdUFrOXNzT0RhUHk5d2FqYmFPel9PVW5RTVhkVzUzTkpEMGJlbkRLVlRfQndSM3ZBekR0cy0tZXN3bllVZDFNN0dyTkhPcm5kUTJmZFhkVU9QSlZzd19FcUQ2b2lMOXh0WjJrT2N4dVF4dXBZQjJxNm9Nalk4d1VDNHItYlJsakZLNkdJMDRLRVFx?oc=5)
 
 ## Captured Link Validation
 
