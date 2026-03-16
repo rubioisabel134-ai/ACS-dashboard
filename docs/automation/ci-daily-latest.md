@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-14)
+# ACS Daily CI Report (2026-03-16)
 
-- Generated (UTC): 2026-03-14T14:02:16+00:00
+- Generated (UTC): 2026-03-16T14:00:01+00:00
 - Drugs scanned: 31
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -49,8 +49,6 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
-- VE-1902 | 2026-03-13 | ThePrint | [Daikin India aims to manufacture 40 lakh room ACs annually in India by 2030 - ThePrint](https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDR0MWNWc3NMUjlSWURoeGJiaFRzNUh4Q056QmFLT0VLQ0ZqTHhHN1hiM2tIZmJLY2dMSXF5Z2xRU2c2Qjh6bVVZU2hNSDl3UFlwTDI3VnlPMXBha3QtSlVmNWxmMUFhM0xTQlFHYXZDM1dUZzNDdnNuMVhlTFZBcnNBRGZvdjhtcXdMTkdlb05zLTJ0cmg0MXB3V1Nua01oQ3YxZHJ6bHhuNm9vd0lQbjJGVWNqSFHSAbcBQVVfeXFMTmg0dDFjVnNzTFI5UllEaHhiYmhUczVIeENOekJhS09FS0NGakx4RzdYYjNrSGZiS2NnTElxeWdsUVNnNkI4em1VWVNoTUg5d1BZcEwyN1Z5TzFwYWt0LUpVZjVsZjFBYTNMU0JRR2F2QzNXVGczQ3ZzbjFYZUxWQXJzQURmb3Y4bXF3TE5HZW9Ocy0ydHJoNDFwd1dTbmtNaEN2MWRyemx4bjZvb3dJUG4yRlVjakhR?oc=5)
-- VE-1902 | 2026-03-13 | ThePrint | [ACs, laundry units among upgrades planned at Asha Kiran home; Delhi minister reviews facilities - ThePrint](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaXcyXzY2ODJvQTdZZkNQR2UzM3RPcTlIbXF5ZGxnSDEwYlR0LUNMMjhfRTR0M25acXRBRGROX0hfNkl1QWs5c3NPRGFQeTl3YWpiYU96X09VblFNWGRXNTNOSkQwYmVuREtWVF9Cd1IzdkF6RHRzLS1lc3duWVVkMU03R3JOSE9ybmRRMmZkWGRVT1BKVnN3X0VxRDZvaUw5eHRaMmtPY3h1UXh1cFlCMnE2b01qWTh3VUM0ci1iUmxqRks2R0kwNEtFUXHSAcwBQVVfeXFMTml3Ml82Njgyb0E3WWZDUEdlMzN0T3E5SG1xeWRsZ0gxMGJUdC1DTDI4X0U0dDNuWnF0QURkTl9IXzZJdUFrOXNzT0RhUHk5d2FqYmFPel9PVW5RTVhkVzUzTkpEMGJlbkRLVlRfQndSM3ZBekR0cy0tZXN3bllVZDFNN0dyTkhPcm5kUTJmZFhkVU9QSlZzd19FcUQ2b2lMOXh0WjJrT2N4dVF4dXBZQjJxNm9Nalk4d1VDNHItYlJsakZLNkdJMDRLRVFx?oc=5)
 
 ## Captured Link Validation
 
