@@ -6,3 +6,5 @@ reports/*.md
 logs/*.log
 .DS_Store
 **/.DS_Store
+
+*.pages
