@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-03-16)
+# ACS Daily CI Report (2026-03-17)
 
-- Generated (UTC): 2026-03-16T14:00:01+00:00
+- Generated (UTC): 2026-03-17T14:00:01+00:00
 - Drugs scanned: 31
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -8,9 +8,9 @@
 ## Trial Status Updates
 
 - Zalunfiban: [NCT04825743] ACTIVE_NOT_RECRUITING | last update 2025-10-23 | https://clinicaltrials.gov/study/NCT04825743
-- Obicetrapib: [NCT03260517] COMPLETED | last update 2019-09-30 | https://clinicaltrials.gov/study/NCT03260517
-- Ziltivekimab: [NCT06118281] RECRUITING | last update 2025-12-31 | https://clinicaltrials.gov/study/NCT06118281
-- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2025-12-02 | https://clinicaltrials.gov/study/NCT05021835
+- Ziltivekimab: [NCT05636176] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
+- Ziltivekimab: [NCT07276282] NOT_YET_RECRUITING | last update 2025-12-11 | https://clinicaltrials.gov/study/NCT07276282
+- Pacibekitug: [NCT01950299] COMPLETED | last update 2019-12-18 | https://clinicaltrials.gov/study/NCT01950299
 - Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT04023552
 - Pelacarsen: [NCT04993664] WITHDRAWN | last update 2022-01-03 | https://clinicaltrials.gov/study/NCT04993664
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-03-06 | https://clinicaltrials.gov/study/NCT07136012
@@ -21,6 +21,7 @@
 - Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-03-03 | https://clinicaltrials.gov/study/NCT04957719
 - Selatogrel: [NCT03487445] COMPLETED | last update 2025-07-09 | https://clinicaltrials.gov/study/NCT03487445
 - Xolatryp: [NCT07362446] NOT_YET_RECRUITING | last update 2026-01-30 | https://clinicaltrials.gov/study/NCT07362446
+- SP16: [NCT04225533] COMPLETED | last update 2023-01-30 | https://clinicaltrials.gov/study/NCT04225533
 - NP-011: [NCT05387499] COMPLETED | last update 2023-08-03 | https://clinicaltrials.gov/study/NCT05387499
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
 - OmniMSC-AMI: [NCT05724576] RECRUITING | last update 2025-06-06 | https://clinicaltrials.gov/study/NCT05724576
@@ -49,6 +50,7 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
+- VE-1902 | 2026-03-16 | Talking Retail | [ACS backs forecourt retailers over fuel price volatility - Talking Retail](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0IxX3B4YXJxM0NoajJGTUtMSW1fVFFBQnZiX091SEtzc2p4cGc3b2pFUWhaVVk4U3h4Vmd6MERPY3hnX2NhMERIWGFJX1hCY1ZSVC02LVZDaDBVcTN2ek1TbFk3VGpDenVIbGtlN09WNmZzcGdjN0tJMXpyMGlmSW50RG00SkF4eGNtcWNDTGRXUzEzWUNfRzhpVUtUV1pSM0sxYmUya1JHcjg?oc=5)
 
 ## Captured Link Validation
 
