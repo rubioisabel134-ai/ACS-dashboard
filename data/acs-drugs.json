@@ -658,6 +658,44 @@
         "https://clinicaltrials.gov/study/NCT06927739",
         "https://abcentra.com/resources/"
       ]
+    },
+    {
+      "drug": "MiSaver",
+      "sponsor": "HONYA Medical",
+      "class": "Umbilical cord blood-derived nucleated cell therapy",
+      "target": "Myocardial repair and post-AMI recovery",
+      "modality": "Cell therapy",
+      "stage": "Phase II",
+      "setting": "Post-AMI myocardial regeneration",
+      "signal": "monitor",
+      "statusSummary": "Phase II SEMIAMI program added to ACS regenerative watchlist.",
+      "keyTrial": "NCT07134712",
+      "competitorWatch": "Competes in post-MI regenerative cell therapy segment",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT07134712)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07134712"
+      ]
+    },
+    {
+      "drug": "SIM0811",
+      "sponsor": "Jiangsu Simcere",
+      "class": "Novel thrombolytic candidate",
+      "target": "Fibrinolysis/thrombus dissolution pathway",
+      "modality": "Biologic",
+      "stage": "Phase I",
+      "setting": "Acute thrombotic events (non-ACS primary indication currently)",
+      "signal": "monitor",
+      "statusSummary": "Early-stage thrombolytic program tracked for potential ACS-relevant acute reperfusion strategy implications.",
+      "keyTrial": "NCT07345364",
+      "competitorWatch": "Potential competitor to established thrombolytic reperfusion strategies",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT07345364)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07345364",
+        "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
+        "https://pharmacally.com/simcere-doses-first-patient-in-anti-stroke-sim0811-trial/"
+      ]
     }
   ]
 }

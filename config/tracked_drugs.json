@@ -181,6 +181,17 @@
       "sponsor": "Abcentra",
       "aliases": ["orticumab", "Abcentra"],
       "press_release_url": "https://abcentra.com/resources/"
+    },
+    {
+      "name": "MiSaver",
+      "sponsor": "HONYA Medical",
+      "aliases": ["MiSaver", "SEMIAMI", "NCT07134712", "umbilical cord blood derived nucleated cells"]
+    },
+    {
+      "name": "SIM0811",
+      "sponsor": "Jiangsu Simcere",
+      "aliases": ["SIM0811", "NCT07345364", "Simcere"],
+      "press_release_url": "https://www.simcere.com/en/news/detail.aspx?mtt=1581"
     }
   ]
 }
