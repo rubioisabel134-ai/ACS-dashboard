@@ -3,7 +3,7 @@ const stageColors = {
   "Phase III": "#0069c2",
   "Phase II": "#4f7bc8",
   "Phase I": "#6b5ac7",
-  "Preclinical": "#9e6a00",
+  Preclinical: "#9e6a00",
   "Paused/Stopped": "#a03232",
   Unknown: "#7a8592",
 };
@@ -18,26 +18,52 @@ const signalClass = {
 const state = {
   records: [],
   filtered: [],
+  conferences: [],
+  intel: null,
+  feedItems: [],
 };
 
 async function load() {
-  const res = await fetch("data/acs-drugs.json");
-  const data = await res.json();
-  state.records = data.records;
-  state.filtered = [...state.records];
+  const [portfolioData, conferencesData, intelData] = await Promise.all([
+    fetchJson("data/acs-drugs.json"),
+    fetchJson("data/conferences.json", { conferences: [] }),
+    fetchJson("reports/latest.json", null),
+  ]);
 
-  document.getElementById("snapshotDate").textContent = data.snapshotDate;
+  state.records = portfolioData.records || [];
+  state.filtered = [...state.records];
+  state.conferences = conferencesData.conferences || [];
+  state.intel = intelData;
+
+  document.getElementById("snapshotDate").textContent = portfolioData.snapshotDate || "n/a";
   document.getElementById("recordCount").textContent = String(state.records.length);
 
   seedFilter("stageFilter", unique(state.records.map((r) => r.stage)));
   seedFilter("settingFilter", unique(state.records.map((r) => r.setting)));
 
   bindFilters();
+  bindTabs();
+  bindFeedControls();
+
+  buildFeedItems();
+  renderConferences();
   applyFilters();
 }
 
+async function fetchJson(path, fallback = { records: [] }) {
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) {
+      return fallback;
+    }
+    return await res.json();
+  } catch {
+    return fallback;
+  }
+}
+
 function unique(values) {
-  return [...new Set(values)].sort((a, b) => a.localeCompare(b));
+  return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
 }
 
 function seedFilter(id, values) {
@@ -55,6 +81,23 @@ function bindFilters() {
     document.getElementById(id).addEventListener("input", applyFilters);
     document.getElementById(id).addEventListener("change", applyFilters);
   });
+}
+
+function bindTabs() {
+  const buttons = document.querySelectorAll(".tab-btn");
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const view = btn.dataset.view;
+      buttons.forEach((b) => b.classList.toggle("is-active", b === btn));
+      document.querySelectorAll(".view").forEach((section) => {
+        section.classList.toggle("is-active", section.id === `view-${view}`);
+      });
+    });
+  });
+}
+
+function bindFeedControls() {
+  document.getElementById("feedType").addEventListener("change", renderFeed);
 }
 
 function applyFilters() {
@@ -81,6 +124,8 @@ function applyFilters() {
   renderCharts();
   renderCatalystCount();
   renderCatalystList();
+  renderCatalystPlanner();
+  renderFeed();
 }
 
 function renderCards() {
@@ -114,7 +159,7 @@ function renderCards() {
     node.querySelector(".catalyst").textContent = catalystText;
 
     const sourceRoot = node.querySelector(".sources");
-    r.sourceLinks.slice(0, 3).forEach((s, idx) => {
+    (r.sourceLinks || []).slice(0, 3).forEach((s, idx) => {
       const a = document.createElement("a");
       a.href = s;
       a.textContent = `Source ${idx + 1}`;
@@ -139,15 +184,7 @@ function renderGrid() {
     search: false,
     pagination: { limit: 8 },
     sort: true,
-    columns: [
-      "Drug",
-      "Sponsor",
-      "Stage",
-      "Setting",
-      "Key trial",
-      "Next catalyst",
-      "Signal",
-    ],
+    columns: ["Drug", "Sponsor", "Stage", "Setting", "Key trial", "Next catalyst", "Signal"],
     data: state.filtered.map((r) => [
       r.drug,
       r.sponsor,
@@ -199,29 +236,24 @@ function renderCharts() {
     },
     options: {
       plugins: { legend: { display: false } },
-      scales: {
-        y: { beginAtZero: true, ticks: { precision: 0 } },
-      },
+      scales: { y: { beginAtZero: true, ticks: { precision: 0 } } },
     },
   });
 }
 
 function aggregate(records, key) {
   return records.reduce((acc, r) => {
-    acc[r[key]] = (acc[r[key]] || 0) + 1;
+    const k = r[key] || "Unknown";
+    acc[k] = (acc[k] || 0) + 1;
     return acc;
   }, {});
 }
 
-function renderCatalystCount() {
-  document.getElementById("nearCatalystCount").textContent = String(getNearCatalysts().length);
-}
-
-function getNearCatalysts() {
+function getNearCatalysts(days = 180) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const horizon = new Date(today);
-  horizon.setDate(horizon.getDate() + 180);
+  horizon.setDate(horizon.getDate() + days);
 
   return state.filtered
     .filter((r) => {
@@ -232,10 +264,14 @@ function getNearCatalysts() {
     .sort((a, b) => new Date(a.nextCatalystDate) - new Date(b.nextCatalystDate));
 }
 
+function renderCatalystCount() {
+  document.getElementById("nearCatalystCount").textContent = String(getNearCatalysts(180).length);
+}
+
 function renderCatalystList() {
   const target = document.getElementById("nearCatalystList");
   target.innerHTML = "";
-  const catalysts = getNearCatalysts();
+  const catalysts = getNearCatalysts(180);
 
   if (!catalysts.length) {
     const li = document.createElement("li");
@@ -249,6 +285,148 @@ function renderCatalystList() {
     const li = document.createElement("li");
     li.textContent = `${r.nextCatalystDate} | ${r.drug} (${r.stage}) | ${r.nextCatalystEvent}`;
     target.appendChild(li);
+  });
+}
+
+function renderCatalystPlanner() {
+  const target = document.getElementById("catalystPlannerList");
+  target.innerHTML = "";
+  const catalysts = getNearCatalysts(365);
+
+  if (!catalysts.length) {
+    target.innerHTML = '<li class="empty">No catalysts in the next 12 months for current filters.</li>';
+    return;
+  }
+
+  catalysts.forEach((r) => {
+    const li = document.createElement("li");
+    li.innerHTML = `<strong>${r.nextCatalystDate}</strong><span>${r.drug} | ${r.stage}</span><small>${r.nextCatalystEvent}</small>`;
+    target.appendChild(li);
+  });
+}
+
+function renderConferences() {
+  const root = document.getElementById("conferenceGrid");
+  root.innerHTML = "";
+  if (!state.conferences.length) {
+    root.innerHTML = '<p class="empty">No conference data available.</p>';
+    return;
+  }
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  state.conferences
+    .slice()
+    .sort((a, b) => new Date(a.startDate) - new Date(b.startDate))
+    .forEach((c) => {
+      const start = new Date(c.startDate);
+      const days = Math.ceil((start - today) / (1000 * 60 * 60 * 24));
+      const card = document.createElement("article");
+      card.className = "conference-card";
+      card.innerHTML = `
+        <h3>${c.name}</h3>
+        <p>${c.location || "Location not set"}</p>
+        <p>${c.startDate} to ${c.endDate}</p>
+        <p class="countdown">${days >= 0 ? `D-${days}` : "In the past"}</p>
+        <p>Focus: ${c.focus || "Not set"}</p>
+        <p>Watch: ${(c.watchDrugs || []).join(", ") || "Not set"}</p>
+        <div class="conference-links"></div>
+      `;
+
+      const links = card.querySelector(".conference-links");
+      (c.links || []).forEach((link, idx) => {
+        const a = document.createElement("a");
+        a.href = link;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = `Source ${idx + 1}`;
+        links.appendChild(a);
+      });
+
+      root.appendChild(card);
+    });
+}
+
+function buildFeedItems() {
+  const intel = state.intel;
+  if (!intel || !intel.drugs) {
+    state.feedItems = [];
+    return;
+  }
+
+  const items = [];
+  intel.drugs.forEach((drugEntry) => {
+    const drug = drugEntry.name;
+
+    (drugEntry.clinicalTrials || []).forEach((trial) => {
+      items.push({
+        drug,
+        type: "trial",
+        date: trial.lastUpdate || trial.primaryCompletionDate || trial.completionDate || null,
+        title: `${trial.nctId || "NCT"} | ${trial.overallStatus || "Unknown"}`,
+        detail: trial.title || "Clinical trial update",
+        link: trial.url || "",
+      });
+    });
+
+    (drugEntry.companyPress || []).forEach((press) => {
+      items.push({
+        drug,
+        type: "press",
+        date: press.publishedAt || null,
+        title: press.title || "Company press update",
+        detail: press.source || "Company press room",
+        link: press.link || "",
+      });
+    });
+
+    (drugEntry.googleNews || []).forEach((news) => {
+      items.push({
+        drug,
+        type: "news",
+        date: news.publishedAt || null,
+        title: news.title || "News update",
+        detail: news.source || "Google News",
+        link: news.link || "",
+      });
+    });
+  });
+
+  items.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  state.feedItems = items;
+}
+
+function renderFeed() {
+  const root = document.getElementById("feedList");
+  root.innerHTML = "";
+
+  if (!state.feedItems.length) {
+    root.innerHTML = '<li class="empty">No feed data available yet. Run the intel updater.</li>';
+    return;
+  }
+
+  const type = document.getElementById("feedType").value;
+  const visibleDrugSet = new Set(state.filtered.map((r) => r.drug.toLowerCase()));
+
+  const filtered = state.feedItems.filter((item) => {
+    if (type !== "all" && item.type !== type) return false;
+    if (!visibleDrugSet.size) return true;
+    return visibleDrugSet.has(item.drug.toLowerCase());
+  });
+
+  if (!filtered.length) {
+    root.innerHTML = '<li class="empty">No feed items match current filters.</li>';
+    return;
+  }
+
+  filtered.slice(0, 120).forEach((item) => {
+    const li = document.createElement("li");
+    li.className = `feed-item feed-${item.type}`;
+    const date = item.date ? item.date.slice(0, 10) : "n/a";
+    const linkHtml = item.link ? `<a href="${item.link}" target="_blank" rel="noopener noreferrer">open</a>` : "";
+    li.innerHTML = `<strong>${item.drug}</strong><span>${item.type.toUpperCase()} | ${date}</span><small>${item.title}</small><small>${item.detail}</small>${linkHtml}`;
+    root.appendChild(li);
   });
 }
 

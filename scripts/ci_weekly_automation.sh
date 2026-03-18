@@ -41,7 +41,11 @@ echo "[$(date)] Updating trials + weekly intel (7-day window)"
 python3 scripts/acs_intel_update.py --days 7 --max-news 15 --max-trials 15
 
 echo "[$(date)] Syncing intel into dashboard cards"
-python3 scripts/sync_intel_to_dashboard.py --intel reports/latest.json --dashboard data/acs-drugs.json
+python3 scripts/sync_intel_to_dashboard.py \
+  --intel reports/latest.json \
+  --dashboard data/acs-drugs.json \
+  --proposal-out reports/proposed_changes.json \
+  --apply
 
 CAPTURE_FILE="docs/automation/playwright-weekly-latest.json"
 if command -v node >/dev/null 2>&1; then
@@ -60,7 +64,7 @@ python3 scripts/build_ci_report.py \
   --output docs/automation/ci-weekly-latest.md
 
 echo "[$(date)] Staging weekly artifacts"
-git add data/acs-drugs.json docs/automation/ci-weekly-latest.md docs/automation/playwright-weekly-latest.json || true
+git add data/acs-drugs.json reports/proposed_changes.json docs/automation/ci-weekly-latest.md docs/automation/playwright-weekly-latest.json || true
 
 if git diff --cached --quiet; then
   echo "[$(date)] No tracked changes to commit"

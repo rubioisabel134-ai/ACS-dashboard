@@ -1,0 +1,70 @@
+{
+  "generatedOn": "2026-03-18",
+  "conferences": [
+    {
+      "name": "ACC Annual Scientific Session",
+      "startDate": "2026-03-28",
+      "endDate": "2026-03-30",
+      "location": "New Orleans, USA",
+      "focus": "ACS, antithrombotics, CVOT, interventional cardiology",
+      "watchDrugs": ["Zalunfiban", "Muvalaplin", "Obicetrapib", "Ziltivekimab"],
+      "abstractDeadline": "2025-11-01",
+      "lateBreakerWindow": "March 2026",
+      "links": [
+        "https://www.acc.org/Annual-Scientific-Session"
+      ]
+    },
+    {
+      "name": "ESC Heart Failure (ESC-HF)",
+      "startDate": "2026-05-16",
+      "endDate": "2026-05-19",
+      "location": "Prague, Czech Republic",
+      "focus": "Post-MI remodeling, heart failure outcomes, inflammation",
+      "watchDrugs": ["ReHeart", "MiSaver", "Ziltivekimab"],
+      "abstractDeadline": "2026-02-01",
+      "lateBreakerWindow": "May 2026",
+      "links": [
+        "https://www.escardio.org/Congresses-Events/Heart-Failure"
+      ]
+    },
+    {
+      "name": "EAS Congress",
+      "startDate": "2026-05-31",
+      "endDate": "2026-06-03",
+      "location": "Athens, Greece",
+      "focus": "Lipids, Lp(a), PCSK9, CETP, CVOT",
+      "watchDrugs": ["Muvalaplin", "Olpasiran", "Pelacarsen", "Obicetrapib"],
+      "abstractDeadline": "2026-01-15",
+      "lateBreakerWindow": "May 2026",
+      "links": [
+        "https://eas-society.org/page/congresses"
+      ]
+    },
+    {
+      "name": "ESC Congress",
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-31",
+      "location": "Madrid, Spain",
+      "focus": "ACS guideline updates, CV outcomes, prevention",
+      "watchDrugs": ["Zalunfiban", "Muvalaplin", "Orforglipron", "Pacibekitug"],
+      "abstractDeadline": "2026-02-14",
+      "lateBreakerWindow": "August 2026",
+      "links": [
+        "https://www.escardio.org/Congresses-Events/ESC-Congress"
+      ]
+    },
+    {
+      "name": "AHA Scientific Sessions",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-09",
+      "location": "Chicago, USA",
+      "focus": "Late-breaking CVOT, ACS, thrombosis, prevention",
+      "watchDrugs": ["Muvalaplin", "Ziltivekimab", "Obicetrapib", "MiSaver"],
+      "abstractDeadline": "2026-06-01",
+      "lateBreakerWindow": "November 2026",
+      "links": [
+        "https://professional.heart.org/en/meetings/scientific-sessions"
+      ]
+    }
+  ]
+}

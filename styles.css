@@ -130,6 +130,40 @@ main {
   padding: 1rem;
 }
 
+.tabs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem;
+  position: sticky;
+  top: 0.5rem;
+  z-index: 20;
+}
+
+.tab-btn {
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 10px;
+  min-height: 44px;
+  font-family: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.tab-btn.is-active {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
+  font-weight: 700;
+}
+
+.view {
+  display: none;
+  gap: 1rem;
+}
+
+.view.is-active {
+  display: grid;
+}
+
 .filters {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -323,7 +357,95 @@ h2 {
   border: 1px solid var(--line);
 }
 
+.list-cards {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.list-cards li {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.65rem;
+  background: #fff;
+  display: grid;
+  gap: 0.2rem;
+}
+
+.list-cards li strong {
+  font-size: 0.95rem;
+}
+
+.list-cards li span,
+.list-cards li small {
+  color: var(--muted);
+}
+
+.conference-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 0.8rem;
+}
+
+.conference-card {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.75rem;
+  background: #fff;
+}
+
+.conference-card h3 {
+  margin: 0 0 0.35rem;
+}
+
+.conference-card p {
+  margin: 0.2rem 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.countdown {
+  font-family: "IBM Plex Mono", monospace;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.conference-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.35rem;
+}
+
+.conference-links a {
+  font-size: 0.78rem;
+  color: var(--accent-2);
+}
+
+.feed-item a {
+  font-size: 0.78rem;
+  color: var(--accent-2);
+}
+
+.feed-trial {
+  border-left: 4px solid #0069c2;
+}
+
+.feed-press {
+  border-left: 4px solid #0f6d55;
+}
+
+.feed-news {
+  border-left: 4px solid #8f6b00;
+}
+
 @media (max-width: 1100px) {
+  .tabs {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -360,6 +482,10 @@ h2 {
 }
 
 @media (max-width: 720px) {
+  .tabs {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .filters,
   .meta-strip {
     grid-template-columns: 1fr;

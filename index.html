@@ -17,7 +17,7 @@
     <p class="kicker">Acute Coronary Syndromes | Updated Weekly</p>
     <h1>ACS Drug, Trial, and Research Intelligence</h1>
     <p class="subtitle">
-      Competitive tracking across acute treatment, chronic secondary prevention, and late-stage pipeline assets with upcoming catalyst dates.
+      Competitive tracking across acute treatment, chronic secondary prevention, CVOT catalysts, and late-stage pipeline assets.
     </p>
     <div class="meta-strip">
       <div>
@@ -36,65 +36,106 @@
   </header>
 
   <main>
-    <section class="panel filters">
-      <div>
-        <label for="search">Search</label>
-        <input id="search" type="search" placeholder="Drug, sponsor, target, trial..." />
-      </div>
-      <div>
-        <label for="stageFilter">Stage</label>
-        <select id="stageFilter">
-          <option value="all">All</option>
-        </select>
-      </div>
-      <div>
-        <label for="settingFilter">Setting</label>
-        <select id="settingFilter">
-          <option value="all">All</option>
-        </select>
-      </div>
-      <div>
-        <label for="signalFilter">Signal</label>
-        <select id="signalFilter">
-          <option value="all">All</option>
-          <option value="positive">Positive</option>
-          <option value="mixed">Mixed</option>
-          <option value="negative">Negative</option>
-          <option value="monitor">Monitor</option>
-        </select>
-      </div>
-    </section>
+    <nav class="panel tabs" aria-label="Dashboard views">
+      <button class="tab-btn is-active" data-view="portfolio">Portfolio</button>
+      <button class="tab-btn" data-view="catalysts">Catalysts</button>
+      <button class="tab-btn" data-view="conferences">Conferences</button>
+      <button class="tab-btn" data-view="feed">Feed</button>
+    </nav>
 
-    <section class="panel charts">
-      <div class="chart-card chart-card--stage">
-        <h2>Portfolio By Stage</h2>
-        <canvas id="stageChart"></canvas>
-      </div>
-      <div class="chart-card">
-        <h2>Portfolio By Modality/Target</h2>
-        <canvas id="modalityChart"></canvas>
-        <div class="catalyst-details">
-          <h3>Catalysts Within 180 Days</h3>
-          <ul id="nearCatalystList"></ul>
+    <section id="view-portfolio" class="view is-active">
+      <section class="panel filters">
+        <div>
+          <label for="search">Search</label>
+          <input id="search" type="search" placeholder="Drug, sponsor, target, trial..." />
         </div>
-      </div>
+        <div>
+          <label for="stageFilter">Stage</label>
+          <select id="stageFilter">
+            <option value="all">All</option>
+          </select>
+        </div>
+        <div>
+          <label for="settingFilter">Setting</label>
+          <select id="settingFilter">
+            <option value="all">All</option>
+          </select>
+        </div>
+        <div>
+          <label for="signalFilter">Signal</label>
+          <select id="signalFilter">
+            <option value="all">All</option>
+            <option value="positive">Positive</option>
+            <option value="mixed">Mixed</option>
+            <option value="negative">Negative</option>
+            <option value="monitor">Monitor</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="panel charts">
+        <div class="chart-card chart-card--stage">
+          <h2>Portfolio By Stage</h2>
+          <canvas id="stageChart"></canvas>
+        </div>
+        <div class="chart-card">
+          <h2>Portfolio By Modality/Target</h2>
+          <canvas id="modalityChart"></canvas>
+          <div class="catalyst-details">
+            <h3>Catalysts Within 180 Days</h3>
+            <ul id="nearCatalystList"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Competitive Cards</h2>
+        <div id="cards" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Program Table</h2>
+        <div id="grid"></div>
+      </section>
     </section>
 
-    <section class="panel">
-      <h2>Competitive Cards</h2>
-      <div id="cards" class="cards"></div>
+    <section id="view-catalysts" class="view">
+      <section class="panel">
+        <h2>Catalyst Planner (12 months)</h2>
+        <ul id="catalystPlannerList" class="list-cards"></ul>
+      </section>
     </section>
 
-    <section class="panel">
-      <h2>Program Table</h2>
-      <div id="grid"></div>
+    <section id="view-conferences" class="view">
+      <section class="panel">
+        <h2>Conference Calendar</h2>
+        <div id="conferenceGrid" class="conference-grid"></div>
+      </section>
+    </section>
+
+    <section id="view-feed" class="view">
+      <section class="panel feed-controls">
+        <div>
+          <label for="feedType">Feed type</label>
+          <select id="feedType">
+            <option value="all">All</option>
+            <option value="trial">Trial</option>
+            <option value="press">Press</option>
+            <option value="news">News</option>
+          </select>
+        </div>
+      </section>
+      <section class="panel">
+        <h2>Latest Intelligence Feed</h2>
+        <ul id="feedList" class="list-cards"></ul>
+      </section>
     </section>
 
     <section class="panel notes">
       <h2>How To Update Weekly</h2>
       <ol>
-        <li>Edit <code>data/acs-drugs.json</code> and set <code>snapshotDate</code> to today’s date.</li>
-        <li>Refresh each drug’s <code>statusSummary</code>, <code>nextCatalystDate</code>, and <code>sourceLinks</code> from primary sources.</li>
+        <li>Run <code>/bin/bash scripts/ci_weekly_automation.sh</code> to refresh intel and card proposals.</li>
+        <li>Review updates in <code>docs/automation/ci-weekly-latest.md</code>.</li>
         <li>Commit and push to <code>main</code>; GitHub Pages will auto-publish.</li>
       </ol>
       <p class="warning">Not medical advice. This dashboard is for competitive intelligence and trial tracking.</p>

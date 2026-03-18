@@ -22,6 +22,8 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Sync ACS intel into dashboard data")
     p.add_argument("--intel", type=pathlib.Path, default=DEFAULT_INTEL)
     p.add_argument("--dashboard", type=pathlib.Path, default=DEFAULT_DASHBOARD)
+    p.add_argument("--proposal-out", type=pathlib.Path, default=ROOT / "reports" / "proposed_changes.json")
+    p.add_argument("--apply", action="store_true", help="Apply changes to dashboard json")
     return p.parse_args()
 
 
@@ -138,6 +140,14 @@ def update_record_from_press(record: dict[str, Any], press_hits: list[dict[str, 
     return changed
 
 
+def summarize_changes(before: dict[str, Any], after: dict[str, Any], keys: list[str]) -> dict[str, Any]:
+    changed_fields: dict[str, dict[str, Any]] = {}
+    for key in keys:
+        if before.get(key) != after.get(key):
+            changed_fields[key] = {"before": before.get(key), "after": after.get(key)}
+    return changed_fields
+
+
 def main() -> int:
     args = parse_args()
     intel = read_json(args.intel)
@@ -148,16 +158,31 @@ def main() -> int:
     }
 
     updates = 0
+    proposals: list[dict[str, Any]] = []
+    tracked_fields = [
+        "stage",
+        "signal",
+        "statusSummary",
+        "keyTrial",
+        "nextCatalystDate",
+        "nextCatalystEvent",
+        "sourceLinks",
+    ]
+
     for d in intel.get("drugs", []):
         name = (d.get("name") or "").strip().lower()
         record = by_name.get(name)
         if not record:
             continue
 
+        before = json.loads(json.dumps(record))
         trial = best_trial(d.get("clinicalTrials") or [])
         if not trial:
             if update_record_from_press(record, d.get("companyPress") or []):
                 updates += 1
+                diff = summarize_changes(before, record, tracked_fields)
+                if diff:
+                    proposals.append({"drug": record.get("drug"), "changes": diff})
             continue
 
         record_changed = False
@@ -167,6 +192,24 @@ def main() -> int:
             record_changed = True
         if record_changed:
             updates += 1
+            diff = summarize_changes(before, record, tracked_fields)
+            if diff:
+                proposals.append({"drug": record.get("drug"), "changes": diff})
+
+    proposal_payload = {
+        "generatedAtUTC": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
+        "updates": updates,
+        "proposals": proposals,
+    }
+    args.proposal_out.parent.mkdir(parents=True, exist_ok=True)
+    with args.proposal_out.open("w", encoding="utf-8") as f:
+        json.dump(proposal_payload, f, indent=2)
+        f.write("\n")
+    print(f"Wrote proposal file: {args.proposal_out}")
+
+    if not args.apply:
+        print("Proposal mode only. Re-run with --apply to write dashboard data.")
+        return 0
 
     dashboard["snapshotDate"] = dt.date.today().isoformat()
 
