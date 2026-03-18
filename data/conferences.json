@@ -11,14 +11,14 @@
       "abstractDeadline": "2025-11-01",
       "lateBreakerWindow": "March 2026",
       "links": [
-        "https://www.acc.org/Annual-Scientific-Session"
+        "https://accscientificsession.acc.org/Submit-Your-Science/Late-Breaking-Clinical-Trial"
       ]
     },
     {
       "name": "ESC Heart Failure (ESC-HF)",
-      "startDate": "2026-05-16",
-      "endDate": "2026-05-19",
-      "location": "Prague, Czech Republic",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-12",
+      "location": "Barcelona, Spain",
       "focus": "Post-MI remodeling, heart failure outcomes, inflammation",
       "watchDrugs": ["ReHeart", "MiSaver", "Ziltivekimab"],
       "abstractDeadline": "2026-02-01",
@@ -37,14 +37,14 @@
       "abstractDeadline": "2026-01-15",
       "lateBreakerWindow": "May 2026",
       "links": [
-        "https://eas-society.org/page/congresses"
+        "https://eas-congress.com/2026/general-information/"
       ]
     },
     {
       "name": "ESC Congress",
       "startDate": "2026-08-28",
       "endDate": "2026-08-31",
-      "location": "Madrid, Spain",
+      "location": "Munich, Germany",
       "focus": "ACS guideline updates, CV outcomes, prevention",
       "watchDrugs": ["Zalunfiban", "Muvalaplin", "Orforglipron", "Pacibekitug"],
       "abstractDeadline": "2026-02-14",
