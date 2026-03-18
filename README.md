@@ -8,8 +8,9 @@ Static competitive-intelligence dashboard for acute coronary syndromes (ACS), in
 ## Files
 - `index.html` - dashboard shell
 - `styles.css` - visual design
-- `app.js` - filtering, card rendering, charts, table
+- `app.js` - filtering, card rendering, charts, tabs, conferences, feed
 - `data/acs-drugs.json` - weekly-updated source of truth
+- `data/conferences.json` - conference catalyst calendar (ACC, ESC-HF, ESC, AHA, EAS)
 - `config/tracked_drugs.json` - tracked ACS drugs and keyword aliases for automation
 - `scripts/acs_intel_update.py` - on-demand updater (ClinicalTrials.gov + Google News RSS)
 - `reports/latest.md` - latest generated intelligence report
@@ -54,6 +55,7 @@ python3 scripts/acs_intel_update.py --news-only --days 1
 ```
 
 Edit tracked assets and aliases in `config/tracked_drugs.json` (example included for `Xolatryp` / `Nyrada`).
+Each tracked drug can include `press_release_url`; the updater scans company press-room links first, then runs Google News.
 
 If a source is temporarily unreachable, the script still finishes and records the error under each drug in `reports/latest.json`.
 
@@ -65,6 +67,12 @@ Automation scripts:
 - `scripts/playwright_capture_links.mjs` (headless Playwright link capture)
 - `scripts/build_ci_report.py` (builds `docs/automation/ci-daily-latest.md`)
 - `scripts/sync_intel_to_dashboard.py` (updates `data/acs-drugs.json` from latest trial intel)
+
+`sync_intel_to_dashboard.py` now supports proposal mode:
+```bash
+python3 scripts/sync_intel_to_dashboard.py --intel reports/latest.json --proposal-out reports/proposed_changes.json
+python3 scripts/sync_intel_to_dashboard.py --intel reports/latest.json --dashboard data/acs-drugs.json --proposal-out reports/proposed_changes.json --apply
+```
 
 Install Playwright once (optional but recommended):
 ```bash
