@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-03-17",
+  "snapshotDate": "2026-03-18",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -671,8 +671,8 @@
       "statusSummary": "Phase II SEMIAMI program added to ACS regenerative watchlist.",
       "keyTrial": "NCT07134712",
       "competitorWatch": "Competes in post-MI regenerative cell therapy segment",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT07134712)",
+      "nextCatalystDate": "2027-12-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT07134712)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07134712"
       ]

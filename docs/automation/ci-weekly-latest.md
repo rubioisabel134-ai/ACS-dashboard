@@ -1,7 +1,7 @@
-# ACS Daily CI Report (2026-03-17)
+# ACS Daily CI Report (2026-03-18)
 
-- Generated (UTC): 2026-03-17T14:50:52+00:00
-- Drugs scanned: 31
+- Generated (UTC): 2026-03-18T14:39:51+00:00
+- Drugs scanned: 33
 - News window: last 7 day(s)
 - Playwright links captured: 40
 
@@ -31,6 +31,8 @@
 - Orforglipron: [NCT05803421] ACTIVE_NOT_RECRUITING | last update 2026-01-21 | https://clinicaltrials.gov/study/NCT05803421
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-03-06 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
+- MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- MiSaver: [NCT06353958] COMPLETED | last update 2024-10-04 | https://clinicaltrials.gov/study/NCT06353958
 
 ## News Highlights
 
@@ -51,6 +53,8 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
+- SIM0811 | www.simcere.com | [index.asp](https://www.simcere.com/en/index.asp)
+- SIM0811 | www.simcere.com | [中](https://www.simcere.com/index.aspx)
 
 ## Captured Link Validation
 
