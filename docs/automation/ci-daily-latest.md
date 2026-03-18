@@ -1,7 +1,7 @@
-# ACS Daily CI Report (2026-03-17)
+# ACS Daily CI Report (2026-03-18)
 
-- Generated (UTC): 2026-03-17T14:00:01+00:00
-- Drugs scanned: 31
+- Generated (UTC): 2026-03-18T14:00:03+00:00
+- Drugs scanned: 33
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
@@ -30,6 +30,8 @@
 - Orforglipron: [NCT05803421] ACTIVE_NOT_RECRUITING | last update 2026-01-21 | https://clinicaltrials.gov/study/NCT05803421
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-03-06 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
+- MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- MiSaver: [NCT06353958] COMPLETED | last update 2024-10-04 | https://clinicaltrials.gov/study/NCT06353958
 
 ## News Highlights
 
@@ -50,7 +52,13 @@
 - Xolatryp | www.nyrada.com | [Home](https://www.nyrada.com/site/content/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Untitled](https://abcentra.com/)
-- VE-1902 | 2026-03-16 | Talking Retail | [ACS backs forecourt retailers over fuel price volatility - Talking Retail](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0IxX3B4YXJxM0NoajJGTUtMSW1fVFFBQnZiX091SEtzc2p4cGc3b2pFUWhaVVk4U3h4Vmd6MERPY3hnX2NhMERIWGFJX1hCY1ZSVC02LVZDaDBVcTN2ek1TbFk3VGpDenVIbGtlN09WNmZzcGdjN0tJMXpyMGlmSW50RG00SkF4eGNtcWNDTGRXUzEzWUNfRzhpVUtUV1pSM0sxYmUya1JHcjg?oc=5)
+- SIM0811 | www.simcere.com | [index.asp](https://www.simcere.com/en/index.asp)
+- SIM0811 | www.simcere.com | [中](https://www.simcere.com/index.aspx)
+- Zalunfiban | 2026-03-18 | strabaneweekly.co.uk | [Bumper crowds celebrate Strabane’s 20th anniversary St Patrick’s Day parade - strabaneweekly.co.uk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjdkTDV6bk9RQmRLQ2JJd2lnaWxkeGJrdUdPRUpFcG1ocVNQemFDanlOV1JTSHNxMmR4US0tX0Q5OENxNk40S2ZnV0JfeTlzTnVxZlBib0JjQmlmdDVsNXhwRGg5XzVwVGRUeVBJTHB1OEtzUkhzM191U3pFcWJqamVQTlNKcldsVXBGcF9zR05YTFZVZV9ELWRqOWQ0MlBPcWJHTHgxTVZ1UURNVjlIcFpHbktyWi1TeV9RUzZhaUNXcFFjdy1oNUdHT2VDT0M3cnBqdlRTZw?oc=5)
+- Zalunfiban | 2026-03-18 | Your Observer | [Arts Center Sarasota turns 100 and brings back its Beaux Arts Ball to celebrate - Your Observer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWVpN3RxRUdLTUQyS3g3MG5zZm1JX2htT1VOU0pvVEtQSk1MNjZQaEZKLUp5UXVrUlZMeWxnbzVzR1h2TEVGclRGS2VwMHZqWE5TWTR2UlloWldLSVV4ak03SThoOEt4WDlfcVFlS2JHcUJhb2JVa0llWVV3V1ZpWkd6Q3k4Zw?oc=5)
+- VE-1902 | 2026-03-18 | Newsshooter | [Untitled Project - Newsshooter](https://news.google.com/rss/articles/CBMingFBVV95cUxOeGFFVnJQbUx6LU5LMF9maUZ6TERIeUtuYXBFU2hFMkF5ZXhGMkIzam40ZFd6Y01nblVIR2c3N3c2dFVoVlNsd1V0Q0lzc3Z5bXo3dDFBc2VfMW9TT2tCcEFCTzB4bEJ3SzNXWjhlU3RPclRxb3VQaE5SUXluZkNld3NCckN5VnA3XzlCYWdsVkdwazJpRG1FMVFDc3E5QQ?oc=5)
+- VE-1902 | 2026-03-18 | Newsshooter | [Nikon ZR firmware update version 1.11 - Newsshooter](https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGUyT1JGVi1yQ2JfQ19xc2VmU1JPWjhET2hEWlZhU3pUaWg3Sl9OS2hCWTVuVlBJS243TmdNcjBfRlFyU0t4X19kb2U2TkxyZTdDdS12RGlMcXdXWVZpNDYtRTYyTlJINjVzMDM0Rmd5RkQzSU9aNFpZaERUQVlRc2xDcw?oc=5)
+- Selnoflast | 2026-03-17 | beninwebtv.com | [March 2026 FIFA windows: Benin’s squad for matches against Palestine and Guinea - beninwebtv.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9abzhYamE4b3ZTc3IwYVYyZ0NPTWk1MV8wMVJwaWhLWC1HR29RWm0ybnVRdmtiM1VwZ055N2l5MU5NQjd1QmRWQ2R3R2VhN3BWc2x1QjhOQWtnajNDbGdZbXNHbExGS0VQemx0TzY2VVBBamRTSWRITUZkcEw2WGpwakE5ZWlGYTA1ODUzOEZ4UHhtVjVZVlF2UHNnSkNlY0pieVo0Zw?oc=5)
 
 ## Captured Link Validation
 
