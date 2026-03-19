@@ -80,7 +80,23 @@ def text_is_informative(title: str) -> bool:
     if len(t) < 12:
         return False
     lowered = t.lower()
-    blocked = {"read more", "learn more", "view all", "news", "press releases", "media", "home"}
+    blocked = {
+        "read more",
+        "learn more",
+        "view all",
+        "news",
+        "press releases",
+        "media",
+        "home",
+        "news & events",
+        "news and events",
+        "stock information",
+        "analyst coverage",
+        "corporate governance",
+        "events & presentations",
+        "events and presentations",
+        "investor relations",
+    }
     return lowered not in blocked
 
 
@@ -96,11 +112,43 @@ def build_relevance_terms(config: dict[str, Any]) -> set[str]:
 
 def item_is_relevant(title: str, link: str, local_keywords: list[str], global_terms: set[str]) -> bool:
     hay = f"{title} {link}".lower()
-    if any(k in hay for k in local_keywords if k):
+    blocked_patterns = (
+        r"\bst\s*patrick",
+        r"\bparade\b",
+        r"\banniversary\b",
+        r"\bfestival\b",
+        r"\bcharity\b",
+        r"\bcommunity\b",
+        r"\btestimonial\b",
+        r"\bpatient story\b",
+        r"\bspotlight\b",
+        r"\bschool\b",
+        r"\bfootball\b",
+        r"\bweather\b",
+        r"\btraffic\b",
+        r"\bobituary\b",
+    )
+    if any(re.search(pattern, hay) for pattern in blocked_patterns):
+        return False
+
+    medical_context = re.search(
+        r"\b(trial|study|phase|clinical|ct\.gov|nct\d{8}|results|topline|endpoint|enrollment|enrolment|"
+        r"dosed|completion|complete|readout|cvot|mace|acs|stemi|nstemi|myocardial|pci|"
+        r"lipoprotein|lpa|ldl|press release|financial results|pipeline|congress|acc|aha|esc|eas)\b",
+        hay,
+    )
+    alias_match = any(k in hay for k in local_keywords if k)
+    global_match = any(t in hay for t in global_terms)
+    new_asset_match = re.search(
+        r"\b(new drug|new candidate|pipeline|first patient dosed|phase [i1v]+|phase \d)\b",
+        hay,
+    )
+
+    if alias_match and medical_context:
         return True
-    if any(t in hay for t in global_terms):
+    if global_match and medical_context:
         return True
-    return bool(re.search(r"\b(new drug|new candidate|pipeline|first patient dosed|phase)\b", hay))
+    return bool(new_asset_match and medical_context)
 
 
 class AnchorParser(HTMLParser):
@@ -154,6 +202,17 @@ def company_press_search(
     base_domain = urllib.parse.urlparse(press_url).netloc.lower()
     selected: list[dict[str, Any]] = []
     seen: set[str] = set()
+    blocked_press_sections = (
+        "stock-information",
+        "analyst-coverage",
+        "corporate-governance",
+        "news-events",
+        "newsroom",
+        "investor-relations",
+        "events-presentations",
+        "sec-filings",
+        "annual-meeting",
+    )
 
     for link in parser.links:
         raw_href = link.get("href", "").strip()
@@ -168,9 +227,11 @@ def company_press_search(
         if absolute in seen:
             continue
         seen.add(absolute)
+        lowered_url = absolute.lower()
+        if any(section in lowered_url for section in blocked_press_sections) and lowered_url.rstrip("/") == press_url.lower().rstrip("/"):
+            continue
 
         text = html.unescape((link.get("text") or "").strip())
-        hay = f"{text} {absolute}".lower()
         if not text_is_informative(text):
             continue
         if not item_is_relevant(text, absolute, keywords, global_terms):
