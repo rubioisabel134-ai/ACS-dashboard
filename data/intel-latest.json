@@ -1,0 +1,1888 @@
+{
+  "generatedAtUTC": "2026-03-19T01:29:15+00:00",
+  "days": 7,
+  "drugs": [
+    {
+      "name": "Zalunfiban",
+      "sponsor": "CeleCor Therapeutics",
+      "aliases": [
+        "zalunfiban",
+        "CELEBRATE"
+      ],
+      "pressReleaseUrl": "https://www.celecor.com/news/",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT04825743",
+          "title": "A Phase 3 Study of Zalunfiban in Subjects With ST-elevation MI",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2025-10-23",
+          "primaryCompletionDate": "2026-05-13",
+          "completionDate": "2026-05-13",
+          "conditions": [
+            "ST-elevation Myocardial Infarction (STEMI)"
+          ],
+          "interventions": [
+            "zalunfiban",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04825743"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Untitled",
+          "link": "https://www.celecor.com/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "About zalunfiban (Disaggpro\u2122 )",
+          "link": "https://www.celecor.com/about-zalunfiban/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Clinical development",
+          "link": "https://www.celecor.com/clinical-trials/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "CeleBrate trial results",
+          "link": "https://www.celecor.com/celebrate-results/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "About us",
+          "link": "https://www.celecor.com/about/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "News",
+          "link": "https://www.celecor.com/news/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://www.celecor.com/?s",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Read more",
+          "link": "https://www.celecor.com/rapid-zalunfiban-treatment-at-1st-point-of-medical-contact-lowered-risk-of-more-severe-heart-damage-in-combination-with-other-serious-heart-attack-complications/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Read more",
+          "link": "https://www.celecor.com/phase-3-study-of-novel-anti-platelet-drug-for-heart-attack-reports-positive-topline-results/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Read more",
+          "link": "https://www.celecor.com/news-release-headline-aenean-vulputate-eleifend-tellus-urabitur-at-lacus-ac-velit-ornare-lobortis-usce-fermentum/",
+          "source": "www.celecor.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [
+        {
+          "title": "Bumper crowds celebrate Strabane\u2019s 20th anniversary St Patrick\u2019s Day parade - strabaneweekly.co.uk",
+          "source": "strabaneweekly.co.uk",
+          "publishedAt": "2026-03-18T11:34:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjdkTDV6bk9RQmRLQ2JJd2lnaWxkeGJrdUdPRUpFcG1ocVNQemFDanlOV1JTSHNxMmR4US0tX0Q5OENxNk40S2ZnV0JfeTlzTnVxZlBib0JjQmlmdDVsNXhwRGg5XzVwVGRUeVBJTHB1OEtzUkhzM191U3pFcWJqamVQTlNKcldsVXBGcF9zR05YTFZVZV9ELWRqOWQ0MlBPcWJHTHgxTVZ1UURNVjlIcFpHbktyWi1TeV9RUzZhaUNXcFFjdy1oNUdHT2VDT0M3cnBqdlRTZw?oc=5"
+        },
+        {
+          "title": "Arts Center Sarasota turns 100 and brings back its Beaux Arts Ball to celebrate - Your Observer",
+          "source": "Your Observer",
+          "publishedAt": "2026-03-18T09:00:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWVpN3RxRUdLTUQyS3g3MG5zZm1JX2htT1VOU0pvVEtQSk1MNjZQaEZKLUp5UXVrUlZMeWxnbzVzR1h2TEVGclRGS2VwMHZqWE5TWTR2UlloWldLSVV4ak03SThoOEt4WDlfcVFlS2JHcUJhb2JVa0llWVV3V1ZpWkd6Q3k4Zw?oc=5"
+        },
+        {
+          "title": "Ardstraw's Charlie crowned European Champion! - strabaneweekly.co.uk",
+          "source": "strabaneweekly.co.uk",
+          "publishedAt": "2026-03-18T08:28:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkNZOXBJZlJhTjVyUFY3RU51Z2paaURyMHFXN3ZESHQtR0E1SFk1d0FJRUlYNzNaTzA5U2k2ZDNLX1FNQjlVWkh5NnFGVEV4TVJWY3JfOVF5blR5b1JHa3BEaGtOTmROR0dmZWk4Yy1hRGxXM243V2tiY1U1QnFXMnJGSTVJLVAwSlpGcEI4OFpRRGtHWkVYby1NSE9oS2dsWVFvYXBZVTZZb1R5?oc=5"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "Obicetrapib",
+      "sponsor": "NewAmsterdam Pharma",
+      "aliases": [
+        "obicetrapib",
+        "PREVAIL",
+        "BROADWAY"
+      ],
+      "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06535854",
+          "title": "Prevail Global Study",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2025-10-24",
+          "primaryCompletionDate": "2027-02",
+          "completionDate": "2031-02",
+          "conditions": [
+            "Coronary Artery Disease"
+          ],
+          "interventions": [
+            "Prevail DCB",
+            "Agent DCB"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06535854"
+        },
+        {
+          "nctId": "NCT05562089",
+          "title": "Prevail Drug Balloon Study",
+          "overallStatus": "UNKNOWN",
+          "lastUpdate": "2024-02-16",
+          "primaryCompletionDate": "2024-04-30",
+          "completionDate": "2024-07-31",
+          "conditions": [
+            "Myocardial Infarction",
+            "Drug-Coated Balloon"
+          ],
+          "interventions": [
+            "A Paclitaxel Drug-Coated Balloon"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05562089"
+        },
+        {
+          "nctId": "NCT03260517",
+          "title": "The PREVAIL Study",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2019-09-30",
+          "primaryCompletionDate": "2019-01-29",
+          "completionDate": "2019-08-01",
+          "conditions": [
+            "In-stent Restenosis",
+            "Ischemic Heart Disease",
+            "Coronary Artery Disease"
+          ],
+          "interventions": [
+            "Medtronic Coronary Drug-Coated Balloon Catheter"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03260517"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Overview",
+          "link": "https://ir.newamsterdampharma.com/investor-relations",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "News & Events",
+          "link": "https://ir.newamsterdampharma.com/news-events/press-releases",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Events & Presentations",
+          "link": "https://ir.newamsterdampharma.com/news-events/events-and-presentations",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Corporate Governance",
+          "link": "https://ir.newamsterdampharma.com/corporate-governance/governance-overview",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Committee Composition",
+          "link": "https://ir.newamsterdampharma.com/corporate-governance/committee-composition",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Financial Information",
+          "link": "https://ir.newamsterdampharma.com/financial-information/sec-filings",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Annual Meeting",
+          "link": "https://ir.newamsterdampharma.com/financial-information/annual-meeting",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Stock Information",
+          "link": "https://ir.newamsterdampharma.com/stock-information/stock-quote-chart",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Analyst Coverage",
+          "link": "https://ir.newamsterdampharma.com/stock-information/analyst-coverage",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Shareholder Services",
+          "link": "https://ir.newamsterdampharma.com/shareholder-services/investor-faqs",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Email Alerts",
+          "link": "https://ir.newamsterdampharma.com/shareholder-services/email-alerts",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Contact IR",
+          "link": "https://ir.newamsterdampharma.com/shareholder-services/contact-ir",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "NewAmsterdam Pharma Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "link": "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-reports-inducement-grants-under-nasdaq-15",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "pdf",
+          "link": "https://ir.newamsterdampharma.com/node/10101/pdf",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        },
+        {
+          "title": "NewAmsterdam Pharma to Participate at Upcoming Investor Conferences in March",
+          "link": "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-participate-upcoming-investor-conferences-5",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [
+        {
+          "title": "Cozeware Kick Off \"Spring Wishes\" with Mega Discounts on Ductless ACs and Participates in TikTok Pop-Up Event in NYC - PR Newswire",
+          "source": "PR Newswire",
+          "publishedAt": "2026-03-12T12:00:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzI0Y1paT2V1MGNnMzZXYU9BYm1wbnVkZWxHVlJieVIxaFA4cHFEQVpCNjh6Y2d6QlJRYlg0RjhRYS1rYkRFSVhiSVA2dkk0UlNVWUh6eFFLMGl3VTBkUWhwYl93SkgzVjhTUDZSMFNPZHdSc1ZWQlFEbVVVRXZyUWNSZDlfNm1iNUkxRFJaamhuc1ptODRLcGRDaTE5bW5NZ09McUFydF9FbjRuZm1TejJvUGUzSGI4WlJ4TUpqcFRuX25qMzFjakw2X0ZNTlc5NDMtV0dqakNhVDhUSG1GeVBYd2dmUkJkbFNlQ21LaTA2bHFQSm5aMzM3ZTVJMm8?oc=5"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "Ziltivekimab",
+      "sponsor": "Novo Nordisk",
+      "aliases": [
+        "ziltivekimab",
+        "ZEUS",
+        "ARTEMIS"
+      ],
+      "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05636176",
+          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-07-02",
+          "completionDate": "2027-07-02",
+          "conditions": [
+            "Heart Failure"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05636176"
+        },
+        {
+          "nctId": "NCT03926117",
+          "title": "Trial to Evaluate Reduction in Inflammation in Patients With Advanced Chronic Renal Disease Utilizing Antibody Mediated IL-6 Inhibition",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2025-12-31",
+          "primaryCompletionDate": "2020-06-26",
+          "completionDate": "2020-06-26",
+          "conditions": [
+            "Chronic Kidney Diseases",
+            "Inflammation"
+          ],
+          "interventions": [
+            "Ziltivekimab"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03926117"
+        },
+        {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2025-12-31",
+          "primaryCompletionDate": "2026-09-03",
+          "completionDate": "2026-09-03",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
+        {
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2025-12-11",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
+          "conditions": [
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2025-12-02",
+          "primaryCompletionDate": "2026-06-26",
+          "completionDate": "2026-06-26",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Chronic Kidney Disease",
+            "Inflammation"
+          ],
+          "interventions": [
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "search.html",
+          "link": "https://www.novonordisk-us.com/search.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Contact us",
+          "link": "https://www.novonordisk-us.com/contact-us.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "who-we-are.html",
+          "link": "https://www.novonordisk-us.com/about/who-we-are.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "what-we-do.html",
+          "link": "https://www.novonordisk-us.com/about/what-we-do.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "perspectives.html",
+          "link": "https://www.novonordisk-us.com/about/perspectives.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Copyright",
+          "link": "https://www.novonordisk-us.com/copyright.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Report a side effect or product complaint",
+          "link": "https://www.novonordisk-us.com/patient-help/safety-reporting.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Select location",
+          "link": "https://www.novonordisk-us.com/location.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Privacy Policy",
+          "link": "https://www.novonordisk-us.com/privacy-notice.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Consumer Health Data Privacy Notice",
+          "link": "https://www.novonordisk-us.com/privacy-notice/consumer-health-data-privacy-notice.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Cookie Notice",
+          "link": "https://www.novonordisk-us.com/cookie-policy.html",
+          "source": "www.novonordisk-us.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Pacibekitug",
+      "sponsor": "Novartis",
+      "aliases": [
+        "pacibekitug",
+        "VCU"
+      ],
+      "pressReleaseUrl": "https://www.novartis.com/news/newsroom",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT01950299",
+          "title": "Interleukin-1 (IL-1) Blockade in Acute Myocardial Infarction (VCU-ART3)",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2019-12-18",
+          "primaryCompletionDate": "2018-12-23",
+          "completionDate": "2018-12-23",
+          "conditions": [
+            "Acute Myocardial Infarction"
+          ],
+          "interventions": [
+            "Anakinra 100 mg",
+            "Anakinra 100 mg",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT01950299"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Untitled",
+          "link": "https://www.novartis.com/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Argentina | Espa\u00f1ol",
+          "link": "https://www.novartis.com/ar-es/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Brazil | Portugu\u00eas",
+          "link": "https://www.novartis.com/br-pt/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Canada | English",
+          "link": "https://www.novartis.com/ca-en/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Canada | Fran\u00e7ais",
+          "link": "https://www.novartis.com/ca-fr/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Andean & CAC | Espa\u00f1ol",
+          "link": "https://www.novartis.com/acc-es/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Colombia | Espa\u00f1ol",
+          "link": "https://www.novartis.com/co-es/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Mexico | Espa\u00f1ol",
+          "link": "https://www.novartis.com/mx-es/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "United States | English",
+          "link": "https://www.novartis.com/us-en/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Australia | English",
+          "link": "https://www.novartis.com/au-en/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Hong Kong S.A.R. | \u7e41\u9ad4\u4e2d\u6587",
+          "link": "https://www.novartis.com/hk-zh/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "India | English",
+          "link": "https://www.novartis.com/in-en/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Indonesia | English",
+          "link": "https://www.novartis.com/id-en/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Japan | \u65e5\u672c\u8a9e",
+          "link": "https://www.novartis.com/jp-ja/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Korea | \ud55c\uad6d\uc5b4",
+          "link": "https://www.novartis.com/kr-ko/",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "RBD4059",
+      "sponsor": "RiboCure Pharmaceuticals",
+      "aliases": [
+        "RBD4059",
+        "RiboCure",
+        "Ribolia"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Pelacarsen",
+      "sponsor": "Novartis",
+      "aliases": [
+        "pelacarsen",
+        "Lp(a)HORIZON"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT04023552",
+          "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-02-27",
+          "primaryCompletionDate": "2026-06-30",
+          "completionDate": "2026-06-30",
+          "conditions": [
+            "Cardiovascular Disease and Lipoprotein(a)"
+          ],
+          "interventions": [
+            "TQJ230",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04023552"
+        },
+        {
+          "nctId": "NCT04993664",
+          "title": "Influence of Pelacarsen on Patients After Myocardial Infarction With High Lp(a) Values (PEMILA)",
+          "overallStatus": "WITHDRAWN",
+          "lastUpdate": "2022-01-03",
+          "primaryCompletionDate": "2022-06-30",
+          "completionDate": "2022-10-01",
+          "conditions": [
+            "Acute Coronary Syndrome",
+            "Lipoproteinemia",
+            "Inflammation",
+            "Genetic Polymorphisms"
+          ],
+          "interventions": [
+            "Pelacarsen (TQJ230)",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04993664"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Olpasiran",
+      "sponsor": "Amgen",
+      "aliases": [
+        "olpasiran",
+        "OCEAN(a)"
+      ],
+      "pressReleaseUrl": "https://www.amgen.com/newsroom/press-releases",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07136012",
+          "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-06",
+          "primaryCompletionDate": "2031-10-20",
+          "completionDate": "2031-10-20",
+          "conditions": [
+            "Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Olpasiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07136012"
+        },
+        {
+          "nctId": "NCT05581303",
+          "title": "Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-02-27",
+          "primaryCompletionDate": "2028-03-31",
+          "completionDate": "2028-03-31",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Placebo",
+            "Olpasiran"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05581303"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Untitled",
+          "link": "https://www.amgen.com/",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "About",
+          "link": "https://www.amgen.com/about",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Amgen History",
+          "link": "https://www.amgen.com/about/amgen-history",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Mission and Values",
+          "link": "https://www.amgen.com/about/mission-and-values",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Leadership",
+          "link": "https://www.amgen.com/about/leadership",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Awards and Accolades",
+          "link": "https://www.amgen.com/about/awards-and-accolades",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Therapy Areas",
+          "link": "https://www.amgen.com/about/therapy-areas",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Cardiovascular Metabolic",
+          "link": "https://www.amgen.com/about/therapy-areas/cardiovascular",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Bone Health",
+          "link": "https://www.amgen.com/about/therapy-areas/bone-health",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Inflammation",
+          "link": "https://www.amgen.com/about/therapy-areas/inflammation",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Oncology",
+          "link": "https://www.amgen.com/about/therapy-areas/oncology",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "How We Operate",
+          "link": "https://www.amgen.com/about/how-we-operate",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Corporate Governance",
+          "link": "https://www.amgen.com/about/how-we-operate/corporate-governance",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Business Ethics and Compliance",
+          "link": "https://www.amgen.com/responsibility/a-healthy-amgen/business-ethics-and-compliance",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Policies, Practices and Disclosures",
+          "link": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures",
+          "source": "www.amgen.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Lepodisiran",
+      "sponsor": "Eli Lilly",
+      "aliases": [
+        "lepodisiran",
+        "ALPACA"
+      ],
+      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06292013",
+          "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-03-02",
+          "primaryCompletionDate": "2029-03",
+          "completionDate": "2029-03",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease (ASCVD)",
+            "Elevated Lp(a)"
+          ],
+          "interventions": [
+            "Lepodisiran Sodium",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06292013"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Olezarsen",
+      "sponsor": "Ionis",
+      "aliases": [
+        "olezarsen",
+        "TRYNGOLZA"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Milvexian",
+      "sponsor": "Bristol Myers Squibb / Janssen",
+      "aliases": [
+        "milvexian",
+        "LIBREXIA-ACS"
+      ],
+      "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-13",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
+        },
+        {
+          "nctId": "NCT05757869",
+          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-03-13",
+          "primaryCompletionDate": "2026-10-31",
+          "completionDate": "2026-10-31",
+          "conditions": [
+            "Atrial Fibrillation"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Apixaban",
+            "Placebo",
+            "Apixaban Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-01-16",
+          "primaryCompletionDate": "2026-09-07",
+          "completionDate": "2026-10-19",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "The Bristol Myers Squibb Foundation",
+          "link": "https://www.bms.com/about-us/responsibility/bristol-myers-squibb-foundation.html",
+          "source": "www.bms.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Selatogrel",
+      "sponsor": "Idorsia / Viatris",
+      "aliases": [
+        "selatogrel",
+        "selatogerl",
+        "SOS-AMI"
+      ],
+      "pressReleaseUrl": "https://newsroom.viatris.com/press-releases?l=100",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT04957719",
+          "title": "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction",
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "lastUpdate": "2026-03-03",
+          "primaryCompletionDate": "2026-12",
+          "completionDate": "2026-12",
+          "conditions": [
+            "Acute Myocardial Infarction"
+          ],
+          "interventions": [
+            "Selatogrel",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04957719"
+        },
+        {
+          "nctId": "NCT03487445",
+          "title": "A Medical Research Study to Evaluate the Effects of ACT-246475 in Adults With Heart Attack",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2025-07-09",
+          "primaryCompletionDate": "2018-11-10",
+          "completionDate": "2018-11-10",
+          "conditions": [
+            "Acute Myocardial Infarction"
+          ],
+          "interventions": [
+            "Selatogrel 8 mg",
+            "Selatogrel 16 mg"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03487445"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Newsroom",
+          "link": "https://newsroom.viatris.com/home",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Press Releases",
+          "link": "https://newsroom.viatris.com/press-releases",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Stories and Viewpoints",
+          "link": "https://newsroom.viatris.com/stories-and-viewpoints",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Research and Reports",
+          "link": "https://newsroom.viatris.com/research-and-reports",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Media Resources",
+          "link": "https://newsroom.viatris.com/media",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Continue to country page",
+          "link": "https://newsroom.viatris.com/en-my/lm/Malaysia",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Sign Up for Email Alerts",
+          "link": "https://newsroom.viatris.com/email-alerts?type=2",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-02-26-Viatris-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results",
+          "link": "https://newsroom.viatris.com/2026-02-26-Viatris-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Photos 2",
+          "link": "https://newsroom.viatris.com/2026-02-26-Viatris-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results#assets_2429_123903-140",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-02-26-Viatris-Maintains-Dividend-Policy-for-2026-and-Announces-Quarterly-Dividend",
+          "link": "https://newsroom.viatris.com/2026-02-26-Viatris-Maintains-Dividend-Policy-for-2026-and-Announces-Quarterly-Dividend",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-02-25-FDA-Accepts-Viatris-Supplemental-New-Drug-Application-for-MR-141-Phentolamine-Ophthalmic-Solution-0-75-for-the-Treatment-of-Presbyopia",
+          "link": "https://newsroom.viatris.com/2026-02-25-FDA-Accepts-Viatris-Supplemental-New-Drug-Application-for-MR-141-Phentolamine-Ophthalmic-Solution-0-75-for-the-Treatment-of-Presbyopia",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-02-03-Viatris-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-February-26,-2026,-and-Host-Investor-Event-on-March-19,-2026",
+          "link": "https://newsroom.viatris.com/2026-02-03-Viatris-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-February-26,-2026,-and-Host-Investor-Event-on-March-19,-2026",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-02-03-Viatris-Appoints-Matthew-J-Maletta-as-Chief-Legal-Officer",
+          "link": "https://newsroom.viatris.com/2026-02-03-Viatris-Appoints-Matthew-J-Maletta-as-Chief-Legal-Officer",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Photos 1",
+          "link": "https://newsroom.viatris.com/2026-02-03-Viatris-Appoints-Matthew-J-Maletta-as-Chief-Legal-Officer#assets_2429_123898-140",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        },
+        {
+          "title": "2026-01-20-Viatris-Expands-Innovative-Portfolio-in-Cardiovascular-Diseases-with-the-Companys-First-Launch-of-Inpefa-R-Sotagliflozin-for-the-Treatment-of-Heart-Failure",
+          "link": "https://newsroom.viatris.com/2026-01-20-Viatris-Expands-Innovative-Portfolio-in-Cardiovascular-Diseases-with-the-Companys-First-Launch-of-Inpefa-R-Sotagliflozin-for-the-Treatment-of-Heart-Failure",
+          "source": "newsroom.viatris.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Xolatryp",
+      "sponsor": "Nyrada",
+      "aliases": [
+        "xolatryp",
+        "Nyrada",
+        "NYR-BI03"
+      ],
+      "pressReleaseUrl": "https://www.nyrada.com/site/news-insights/media",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07362446",
+          "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-01-30",
+          "primaryCompletionDate": "2027-03-30",
+          "completionDate": "2027-06-30",
+          "conditions": [
+            "Myocardial Infarction",
+            "Reperfusion Injury",
+            "AMI",
+            "STEMI (ST Elevation MI)"
+          ],
+          "interventions": [
+            "Xolatryp",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07362446"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Untitled",
+          "link": "https://www.nyrada.com/",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Home",
+          "link": "https://www.nyrada.com/site/content/",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "About Us",
+          "link": "https://www.nyrada.com/site/About-Us",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Company Overview",
+          "link": "https://www.nyrada.com/site/About-Us/company-overview",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Board of Directors",
+          "link": "https://www.nyrada.com/site/About-Us/board-of-directors",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Senior Management",
+          "link": "https://www.nyrada.com/site/About-Us/management",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Scientific Advisory Board",
+          "link": "https://www.nyrada.com/site/About-Us/scientific-advisory-board",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Corporate Governance",
+          "link": "https://www.nyrada.com/site/About-Us/corporate-governance",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Programs",
+          "link": "https://www.nyrada.com/site/programs",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Xolatryp",
+          "link": "https://www.nyrada.com/site/programs/nyr-bi03",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Myocardial Ischemia and Arrhythmia Control",
+          "link": "https://www.nyrada.com/site/programs/myocardial-ischemia",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Stroke",
+          "link": "https://www.nyrada.com/site/programs/stroke",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Traumatic Brain Injury",
+          "link": "https://www.nyrada.com/site/programs/traumatic-brain-injury",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Investors",
+          "link": "https://www.nyrada.com/site/investors",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Investor Welcome",
+          "link": "https://www.nyrada.com/site/investors/investor-welcome",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "VE-1902",
+      "sponsor": "Verseon",
+      "aliases": [
+        "VE-1902",
+        "Verseon",
+        "Version"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [
+        {
+          "title": "The Outer Worlds 2 Hotfix 1.1.0.1 Released as Update 1.100.001 - MP1st",
+          "source": "MP1st",
+          "publishedAt": "2026-03-18T21:33:59+00:00",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjV1WnFzUnE5X2lFSUpCNmUxMkRXc2drc1A4LW9IdnhFUXdQMlZ6cFpHZnFqTHJLTFYteVczSHF5emRQd3lkaklsaDZPZHlUam5PN3RDd2pOYWZDc29EaWhzMDF4SlB5ZzNmM3VsM2RFNVRLRjZwRVNsaEtGQXNOOV9UZ1VWVnIxbEdVRzJCUC1VdDhnaXI2LUtn?oc=5"
+        },
+        {
+          "title": "Farming on the moon or Mars? How recycled sewage could turn regolith into crop soil - MSN",
+          "source": "MSN",
+          "publishedAt": "2026-03-18T17:50:49+00:00",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWnppYjNtdW9lMXpYMnJwSWZ1S2hFZkU1cjVQbTItdUh5UWJ6bDltOXNtcHV0R0JLSU5CSVJ5ck05dHNoczFHVVEyNUpoQzhzQkMyeVQyaVZUNWRJMm9UakdsY1M3WmVya1J0VnFna1g1clBJa2xnbG5fcElHZU9NMnRmY2dBTDBodktuREI3MVlRWTRXYkpTTGN5cDhraUE2RC1XdExiMFZqSkQ2Q3U5VFItalVpS0ZSU0RfbjZNTTZweTJSLWxsOEt1UjBwVFFGcnNEaVAwSVZqeVpLVFkwN0YyWkJZOXdCVEk2VzZlX29SdkE2RnF5SjFxTHpKbjB4akhyQUhwZUFtSzkyV3RmMTlvZw?oc=5"
+        },
+        {
+          "title": "Study shows breath test can confirm bacterial infection - EurekAlert!",
+          "source": "EurekAlert!",
+          "publishedAt": "2026-03-18T15:25:34+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtVUYzclEtOG5PYmhhUFNBVnZuWGZtaERMazh2akxRTXBWQTNtZnRLR2p1RFB1SWRTQ3VOR0VYclk0WHBmeGNIUVZ2T0tlcnhwRTJpOW1kT0p5amJU?oc=5"
+        },
+        {
+          "title": "Untitled Project - Newsshooter",
+          "source": "Newsshooter",
+          "publishedAt": "2026-03-18T09:54:06+00:00",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGFFVnJQbUx6LU5LMF9maUZ6TERIeUtuYXBFU2hFMkF5ZXhGMkIzam40ZFd6Y01nblVIR2c3N3c2dFVoVlNsd1V0Q0lzc3Z5bXo3dDFBc2VfMW9TT2tCcEFCTzB4bEJ3SzNXWjhlU3RPclRxb3VQaE5SUXluZkNld3NCckN5VnA3XzlCYWdsVkdwazJpRG1FMVFDc3E5QQ?oc=5"
+        },
+        {
+          "title": "Nikon ZR firmware update version 1.11 - Newsshooter",
+          "source": "Newsshooter",
+          "publishedAt": "2026-03-18T00:34:45+00:00",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGUyT1JGVi1yQ2JfQ19xc2VmU1JPWjhET2hEWlZhU3pUaWg3Sl9OS2hCWTVuVlBJS243TmdNcjBfRlFyU0t4X19kb2U2TkxyZTdDdS12RGlMcXdXWVZpNDYtRTYyTlJINjVzMDM0Rmd5RkQzSU9aNFpZaERUQVlRc2xDcw?oc=5"
+        },
+        {
+          "title": "ACS backs forecourt retailers over fuel price volatility - Talking Retail",
+          "source": "Talking Retail",
+          "publishedAt": "2026-03-16T15:07:35+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0IxX3B4YXJxM0NoajJGTUtMSW1fVFFBQnZiX091SEtzc2p4cGc3b2pFUWhaVVk4U3h4Vmd6MERPY3hnX2NhMERIWGFJX1hCY1ZSVC02LVZDaDBVcTN2ek1TbFk3VGpDenVIbGtlN09WNmZzcGdjN0tJMXpyMGlmSW50RG00SkF4eGNtcWNDTGRXUzEzWUNfRzhpVUtUV1pSM0sxYmUya1JHcjg?oc=5"
+        },
+        {
+          "title": "Photoinduced TBADT-Catalyzed Alkylation of Alkyl (E)-3-(2-Methacrylamidoaryl)acrylates to Access 3,4-Dihydroquinolin-2-(1H)-ones - ACS Publications",
+          "source": "ACS Publications",
+          "publishedAt": "2026-03-13T22:41:59+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wY0d5M1p4RnFXMWlkbGZvVzR4SkxPLU12TTFheEQyU0JwamE3dnV2M0tNUUp3VHBZMnJWQWlPWUszcUlFc0lJb0g3anZCbFpuRGE3NEt1TUhLQlNFYVJNSFV3?oc=5"
+        },
+        {
+          "title": "Frequently Requested Statistics on Immigrants and Immigration in the United States - migrationpolicy.org",
+          "source": "migrationpolicy.org",
+          "publishedAt": "2026-03-12T07:00:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXVXak1VQ01vSmZVM1NCOWd6elJ5ZDZEdTVQcjFGTURMNEItR2FxclBKVWpRamUzazVlWW42TGZ2TGlwOWt6WmJpUWlJQnZDemRmUUtzaUVuX2RtNGNsZDRZb1czSnZQSmhHaG9sczdHdVZfRU5DcllTenVFYnJDX0JINnhXYkt1VjIxNDlvSGY4czhpZl9sU1BDRm5VNWptRV95cXhWMjFiMDlEOW1SUnl3?oc=5"
+        },
+        {
+          "title": "Commission finds \u2018serious corrupt conduct\u2019 in Robodebt rollout - Information Age | ACS",
+          "source": "Information Age | ACS",
+          "publishedAt": "2026-03-12T02:31:02+00:00",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTNBLVlRVHlCLWFaenhZNy02bzZFclFXUTliNWNtbk96cllmYUR5bEw1QmJ6TjBDZEdmR08tTjlaUFE2SnNaZjRnQWpXY1Q0ZWNsTWtsLVBQWFNJRzJObEJwUnlpZ08ybE8xRE9vT3pBTW5oSHNmdjNEMUNES3BPM2pSREFJLUE4V08wM1ZIMG1RVFVZMVVZc1lfZ0ExSUlSS2U2VQ?oc=5"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "ADX-626",
+      "sponsor": "ADARx",
+      "aliases": [
+        "ADX-626",
+        "ADARx"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Selnoflast",
+      "sponsor": "Roche",
+      "aliases": [
+        "selnoflast",
+        "Roche"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [
+        {
+          "title": "March 2026 FIFA windows: Benin\u2019s squad for matches against Palestine and Guinea - beninwebtv.com",
+          "source": "beninwebtv.com",
+          "publishedAt": "2026-03-17T17:50:50+00:00",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9abzhYamE4b3ZTc3IwYVYyZ0NPTWk1MV8wMVJwaWhLWC1HR29RWm0ybnVRdmtiM1VwZ055N2l5MU5NQjd1QmRWQ2R3R2VhN3BWc2x1QjhOQWtnajNDbGdZbXNHbExGS0VQemx0TzY2VVBBamRTSWRITUZkcEw2WGpwakE5ZWlGYTA1ODUzOEZ4UHhtVjVZVlF2UHNnSkNlY0pieVo0Zw?oc=5"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "SP16",
+      "sponsor": "Serpin",
+      "aliases": [
+        "SP16",
+        "Serpin"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT03651089",
+          "title": "SP16 SERPIN-like Peptide Administration in Healthy Individuals",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2021-07-28",
+          "primaryCompletionDate": "2019-01-15",
+          "completionDate": "2019-01-23",
+          "conditions": [
+            "Healthy Participants"
+          ],
+          "interventions": [
+            "SP16",
+            "Placebos"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03651089"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "NP-011",
+      "sponsor": "Nexcel",
+      "aliases": [
+        "NP-011",
+        "Nexcel"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05387499",
+          "title": "A Study of NP-011 in Healthy Volunteers",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2023-08-03",
+          "primaryCompletionDate": "2023-03-07",
+          "completionDate": "2023-05-26",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "NP-011 (Single Ascending Dose Phase)",
+            "NP-011 (Multiple Ascending Dose Phase)",
+            "NP-011 (Placebo)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05387499"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "UDP-003",
+      "sponsor": "Cyclarity",
+      "aliases": [
+        "UDP-003",
+        "Cyclarity"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06813339",
+          "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Patients",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-02-24",
+          "primaryCompletionDate": "2026-07-30",
+          "completionDate": "2027-06-30",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease",
+            "Acute Coronary Syndromes"
+          ],
+          "interventions": [
+            "UDP-003",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06813339"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Dukiprubart",
+      "sponsor": "Sungen Biomedical",
+      "aliases": [
+        "dukiprubart",
+        "Sungen Biomedical"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Evategrel",
+      "sponsor": "CureGene",
+      "aliases": [
+        "evategrel",
+        "CureGene"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "DT-678",
+      "sponsor": "Diapin",
+      "aliases": [
+        "DT-678",
+        "Diapin"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Tipogrel",
+      "sponsor": "Tianjin Institute of Pharmaceutical Research",
+      "aliases": [
+        "tipogrel",
+        "Tianjin Institute of Pharma research",
+        "Tianjin Institute of Pharmaceutical Research"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "OmniMSC-AMI",
+      "sponsor": "Taiwan Bio",
+      "aliases": [
+        "OmniMSC-AMI",
+        "Taiwan Bio"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05724576",
+          "title": "Intracoronary Administration of OmniMSC-AMI for Acute ST-segment Elevation Myocardial Infarction Patients",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2025-06-06",
+          "primaryCompletionDate": "2026-03-01",
+          "completionDate": "2026-03-01",
+          "conditions": [
+            "Safety Issues"
+          ],
+          "interventions": [
+            "OmniMSC-AMI"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05724576"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "RioCard001",
+      "sponsor": "Rion",
+      "aliases": [
+        "RioCard001",
+        "Rion"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "BX-001N",
+      "sponsor": "Bilix",
+      "aliases": [
+        "BX-001N",
+        "Bilix"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "SCP-776",
+      "sponsor": "Silver Creek",
+      "aliases": [
+        "SCP-776",
+        "Silver Creek"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "CAY-001",
+      "sponsor": "Cayuga",
+      "aliases": [
+        "CAY-001",
+        "Cayuga"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "ReHeart",
+      "sponsor": "Cuorips",
+      "aliases": [
+        "ReHeart",
+        "Cuorips",
+        "iPSC-derived cardiomyocyte"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05566600",
+          "title": "Allogeneic iPSC-derived Cardiomyocyte Therapy in Patients With Worsening Ischemic Heart Failure",
+          "overallStatus": "UNKNOWN",
+          "lastUpdate": "2023-11-22",
+          "primaryCompletionDate": "2024-12-31",
+          "completionDate": "2025-07-31",
+          "conditions": [
+            "Ischemic Heart Failure",
+            "Chronic Heart Failure"
+          ],
+          "interventions": [
+            "Human (allogeneic) iPS-cell-derived cardiomyocyte"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05566600"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Orforglipron",
+      "sponsor": "Eli Lilly",
+      "aliases": [
+        "orforglipron",
+        "LY3502970"
+      ],
+      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07241390",
+          "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-06",
+          "primaryCompletionDate": "2031-08",
+          "completionDate": "2031-08",
+          "conditions": [
+            "Atherosclerosis Cardiovascular Disease",
+            "Chronic Kidney Disease"
+          ],
+          "interventions": [
+            "Orforglipron",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07241390"
+        },
+        {
+          "nctId": "NCT05803421",
+          "title": "A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-01-21",
+          "primaryCompletionDate": "2026-03",
+          "completionDate": "2026-03",
+          "conditions": [
+            "Type 2 Diabetes",
+            "Obesity",
+            "Overweight or Obesity",
+            "Overweight",
+            "Cardiovascular Diseases",
+            "Chronic Kidney Disease"
+          ],
+          "interventions": [
+            "Orforglipron",
+            "Insulin Glargine"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05803421"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Muvalaplin",
+      "sponsor": "Eli Lilly",
+      "aliases": [
+        "muvalaplin",
+        "LY3473329",
+        "NCT07157774"
+      ],
+      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07157774",
+          "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-06",
+          "primaryCompletionDate": "2031-03",
+          "completionDate": "2031-03",
+          "conditions": [
+            "Elevated Lp(a)",
+            "Atherosclerotic Cardiovascular Disease (ASCVD)"
+          ],
+          "interventions": [
+            "Muvalaplin",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07157774"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Orticumab",
+      "sponsor": "Abcentra",
+      "aliases": [
+        "orticumab",
+        "Abcentra"
+      ],
+      "pressReleaseUrl": "https://abcentra.com/resources/",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06927739",
+          "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-01-27",
+          "primaryCompletionDate": "2027-02-08",
+          "completionDate": "2027-06-01",
+          "conditions": [
+            "Acute Coronary Syndromes",
+            "Coronary Arterial Disease (CAD)",
+            "Inflammation",
+            "Heart Disease",
+            "Myocardial Infarct",
+            "Atherosclerotic Coronary Vascular Disease"
+          ],
+          "interventions": [
+            "Orticumab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06927739"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "Read the Article.",
+          "link": "https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://abcentra.com/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Our Company",
+          "link": "https://abcentra.com/our-company/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Coronary Artery Disease",
+          "link": "https://abcentra.com/coronary-artery-disease/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Orticumab",
+          "link": "https://abcentra.com/orticumab/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Resources",
+          "link": "https://abcentra.com/resources/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Contact Us",
+          "link": "https://abcentra.com/?page_id=1287",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Ben Huizinga",
+          "link": "https://abcentra.com/author/bhuizinga623gmail-com/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://abcentra.com/abcentra-llc-announces-first-patient-dosed-in-phase-2b-fortify-clinical-trial-evaluating-orticumab-in-patients-with-cardiovascular-disease/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Press Releases",
+          "link": "https://abcentra.com/category/press-releases/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://abcentra.com/abcentra-experts-to-present-at-2024-imperial-vulnerable-patient-plaque-meeting/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Blogs",
+          "link": "https://abcentra.com/category/blogs/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Mentions",
+          "link": "https://abcentra.com/category/mentions/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Untitled",
+          "link": "https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "MiSaver",
+      "sponsor": "HONYA Medical",
+      "aliases": [
+        "MiSaver",
+        "SEMIAMI",
+        "NCT07134712",
+        "umbilical cord blood derived nucleated cells"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07134712",
+          "title": "Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-12-31",
+          "completionDate": "2027-12-31",
+          "conditions": [
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Cord Blood Nucleated cells"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07134712"
+        },
+        {
+          "nctId": "NCT06353958",
+          "title": "MiSaver\u00ae Stem Cell Treatment for Acute Myocardial Infarction",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2024-10-04",
+          "primaryCompletionDate": "2023-12-31",
+          "completionDate": "2023-12-31",
+          "conditions": [
+            "Acute Myocardial Infarction"
+          ],
+          "interventions": [
+            "MiSaver"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06353958"
+        },
+        {
+          "nctId": "NCT04050163",
+          "title": "MiSaver\u00ae Stem Cell Treatment for Heart Attack (Acute Myocardial Infarction)",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2024-03-29",
+          "primaryCompletionDate": "2023-05-04",
+          "completionDate": "2023-05-04",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "MiSaver\u00ae"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04050163"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "SIM0811",
+      "sponsor": "Jiangsu Simcere",
+      "aliases": [
+        "SIM0811",
+        "NCT07345364",
+        "Simcere"
+      ],
+      "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
+      "clinicalTrials": [],
+      "companyPress": [
+        {
+          "title": "index.asp",
+          "link": "https://www.simcere.com/en/index.asp",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "\u4e2d",
+          "link": "https://www.simcere.com/index.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "EN",
+          "link": "https://www.simcere.com/en/index.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "About",
+          "link": "https://www.simcere.com/en/about/about.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Company Profile",
+          "link": "https://www.simcere.com/en/about/about.aspx#ab01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Milestones",
+          "link": "https://www.simcere.com/en/about/about.aspx#ab02",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Management Team",
+          "link": "https://www.simcere.com/en/about/about.aspx#ab03",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Company Culture",
+          "link": "https://www.simcere.com/en/about/about.aspx#ab04",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Products",
+          "link": "https://www.simcere.com/en/pro/pro.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Oncology",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Neuroscience",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro02",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Autoimmune",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro03",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Cardiovascular",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro04",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Anti-infection",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro05",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Other Fields",
+          "link": "https://www.simcere.com/en/pro/pro.aspx#pro06",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    }
+  ]
+}

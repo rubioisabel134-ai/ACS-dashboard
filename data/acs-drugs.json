@@ -129,7 +129,7 @@
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT05562089)",
+      "nextCatalystEvent": "Monitor next registry update (NCT06535854)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT06535854",
         "https://clinicaltrials.gov/study/NCT05562089",
@@ -285,8 +285,8 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": "2026-10-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT05757869)",
+      "nextCatalystDate": "2026-11-11",
+      "nextCatalystEvent": "Estimated primary completion (NCT05702034)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05702034",
         "https://clinicaltrials.gov/study/NCT05757869",
@@ -391,11 +391,11 @@
       "stage": "Phase I",
       "setting": "Acute ACS/AMI (early development)",
       "signal": "monitor",
-      "statusSummary": "ClinicalTrials.gov: NCT04225533 status is Completed (last update 2023-01-30).",
+      "statusSummary": "ClinicalTrials.gov: NCT03651089 status is Completed (last update 2021-07-28).",
       "keyTrial": "NCT03651089",
       "competitorWatch": "Early-stage ACS entrant",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT04225533)",
+      "nextCatalystEvent": "Monitor next registry update (NCT03651089)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04225533",
         "https://clinicaltrials.gov/study/NCT03651089"
