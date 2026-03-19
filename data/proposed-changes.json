@@ -1,5 +1,32 @@
 {
-  "generatedAtUTC": "2026-03-19T02:57:55+00:00",
-  "updates": 0,
-  "proposals": []
+  "generatedAtUTC": "2026-03-19T23:04:55+00:00",
+  "updates": 2,
+  "proposals": [
+    {
+      "drug": "Ziltivekimab",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2027-07-02",
+          "after": "2028-11-14"
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT05636176)",
+          "after": "Estimated primary completion (NCT07301034)"
+        }
+      }
+    },
+    {
+      "drug": "Milvexian",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2026-11-11",
+          "after": "2026-10-31"
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT05702034)",
+          "after": "Estimated primary completion (NCT05757869)"
+        }
+      }
+    }
+  ]
 }
