@@ -37,6 +37,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--news-csv-path", type=pathlib.Path, default=ROOT / "data" / "intel-news-log.csv")
     parser.add_argument("--archive", action="store_true", help="Also write timestamped archive files")
     parser.add_argument("--days", type=int, default=7, help="Google News recency window")
+    parser.add_argument("--target-year", type=int, default=2026, help="Only include events from this year")
     parser.add_argument("--max-news", type=int, default=7)
     parser.add_argument("--max-trials", type=int, default=7)
     parser.add_argument("--drug", action="append", default=[], help="Filter by drug name (repeatable)")
@@ -60,6 +61,46 @@ def http_get_text(url: str, timeout: int = 25) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": "acs-dashboard-updater/1.0"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
+
+
+def extract_year(value: str | None) -> int | None:
+    if not value:
+        return None
+    m = re.search(r"(\d{4})", value)
+    if not m:
+        return None
+    try:
+        return int(m.group(1))
+    except ValueError:
+        return None
+
+
+def text_is_informative(title: str) -> bool:
+    t = " ".join((title or "").split()).strip()
+    if len(t) < 12:
+        return False
+    lowered = t.lower()
+    blocked = {"read more", "learn more", "view all", "news", "press releases", "media", "home"}
+    return lowered not in blocked
+
+
+def build_relevance_terms(config: dict[str, Any]) -> set[str]:
+    terms: set[str] = set()
+    for d in config.get("drugs", []):
+        for term in [d.get("name", ""), d.get("sponsor", "")] + (d.get("aliases") or []):
+            norm = str(term).strip().lower()
+            if len(norm) >= 3:
+                terms.add(norm)
+    return terms
+
+
+def item_is_relevant(title: str, link: str, local_keywords: list[str], global_terms: set[str]) -> bool:
+    hay = f"{title} {link}".lower()
+    if any(k in hay for k in local_keywords if k):
+        return True
+    if any(t in hay for t in global_terms):
+        return True
+    return bool(re.search(r"\b(new drug|new candidate|pipeline|first patient dosed|phase)\b", hay))
 
 
 class AnchorParser(HTMLParser):
@@ -92,7 +133,12 @@ class AnchorParser(HTMLParser):
         self._text_parts = []
 
 
-def company_press_search(drug: dict[str, Any], max_results: int) -> list[dict[str, Any]]:
+def company_press_search(
+    drug: dict[str, Any],
+    max_results: int,
+    target_year: int,
+    global_terms: set[str],
+) -> list[dict[str, Any]]:
     press_url = (drug.get("press_release_url") or "").strip()
     if not press_url:
         return []
@@ -125,8 +171,12 @@ def company_press_search(drug: dict[str, Any], max_results: int) -> list[dict[st
 
         text = html.unescape((link.get("text") or "").strip())
         hay = f"{text} {absolute}".lower()
-        matched = any(k in hay for k in keywords if k)
-        if not matched:
+        if not text_is_informative(text):
+            continue
+        if not item_is_relevant(text, absolute, keywords, global_terms):
+            continue
+        year = extract_year(text) or extract_year(absolute)
+        if year is not None and year != target_year:
             continue
 
         title = text or parsed.path.rsplit("/", 1)[-1] or "Untitled"
@@ -144,7 +194,12 @@ def company_press_search(drug: dict[str, Any], max_results: int) -> list[dict[st
     return selected
 
 
-def clinicaltrials_search(drug: dict[str, Any], indication_terms: list[str], max_results: int) -> list[dict[str, Any]]:
+def clinicaltrials_search(
+    drug: dict[str, Any],
+    indication_terms: list[str],
+    max_results: int,
+    target_year: int,
+) -> list[dict[str, Any]]:
     aliases = drug.get("aliases") or [drug["name"]]
     drug_clause = " OR ".join(f'"{a}"' for a in aliases[:3])
     indication_clause = " OR ".join(f'"{i}"' for i in indication_terms[:6])
@@ -174,12 +229,16 @@ def clinicaltrials_search(drug: dict[str, Any], indication_terms: list[str], max
         if not alias_hit:
             continue
 
+        last_update = (status.get("lastUpdatePostDateStruct") or {}).get("date")
+        if extract_year(last_update) != target_year:
+            continue
+
         studies.append(
             {
                 "nctId": ident.get("nctId", ""),
                 "title": title,
                 "overallStatus": status.get("overallStatus", "Unknown"),
-                "lastUpdate": (status.get("lastUpdatePostDateStruct") or {}).get("date"),
+                "lastUpdate": last_update,
                 "primaryCompletionDate": (status.get("primaryCompletionDateStruct") or {}).get("date"),
                 "completionDate": (status.get("completionDateStruct") or {}).get("date"),
                 "conditions": cond.get("conditions") or [],
@@ -192,7 +251,14 @@ def clinicaltrials_search(drug: dict[str, Any], indication_terms: list[str], max
     return studies[:max_results]
 
 
-def google_news_search(drug: dict[str, Any], indication_terms: list[str], days: int, max_results: int) -> list[dict[str, Any]]:
+def google_news_search(
+    drug: dict[str, Any],
+    indication_terms: list[str],
+    days: int,
+    max_results: int,
+    target_year: int,
+    global_terms: set[str],
+) -> list[dict[str, Any]]:
     aliases = drug.get("aliases") or [drug["name"]]
     drug_terms = " OR ".join(f'"{a}"' for a in aliases[:3])
     indication_terms_q = " OR ".join(f'"{k}"' for k in indication_terms[:4])
@@ -226,12 +292,19 @@ def google_news_search(drug: dict[str, Any], indication_terms: list[str], days: 
             continue
         seen.add(key)
 
+        if not text_is_informative(title):
+            continue
+
         pub_iso = None
         if pub_date:
             try:
                 pub_iso = email.utils.parsedate_to_datetime(pub_date).isoformat()
             except (TypeError, ValueError):
                 pub_iso = None
+        if extract_year(pub_iso) != target_year:
+            continue
+        if not item_is_relevant(title, link, aliases, global_terms):
+            continue
 
         entries.append(
             {
@@ -399,6 +472,7 @@ def upsert_news_csv(report: dict[str, Any], csv_path: pathlib.Path) -> int:
 def main() -> int:
     args = parse_args()
     config = load_config(args.config)
+    global_terms = build_relevance_terms(config)
     indication_keywords = config.get("indication_keywords") or []
     drugs = filter_drugs(config.get("drugs") or [], args.drug)
 
@@ -429,17 +503,34 @@ def main() -> int:
 
         if run_trials:
             try:
-                entry["clinicalTrials"] = clinicaltrials_search(drug, indication_keywords, args.max_trials)
+                entry["clinicalTrials"] = clinicaltrials_search(
+                    drug,
+                    indication_keywords,
+                    args.max_trials,
+                    args.target_year,
+                )
             except Exception as exc:  # noqa: BLE001
                 entry["errors"].append(f"clinicaltrials.gov: {exc}")
 
         if run_news:
             try:
-                entry["companyPress"] = company_press_search(drug, args.max_news)
+                entry["companyPress"] = company_press_search(
+                    drug,
+                    args.max_news,
+                    args.target_year,
+                    global_terms,
+                )
             except Exception as exc:  # noqa: BLE001
                 entry["errors"].append(f"company press: {exc}")
             try:
-                entry["googleNews"] = google_news_search(drug, indication_keywords, args.days, args.max_news)
+                entry["googleNews"] = google_news_search(
+                    drug,
+                    indication_keywords,
+                    args.days,
+                    args.max_news,
+                    args.target_year,
+                    global_terms,
+                )
             except Exception as exc:  # noqa: BLE001
                 entry["errors"].append(f"google news: {exc}")
 
