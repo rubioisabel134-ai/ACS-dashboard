@@ -9,6 +9,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
 import email.utils
 import html
@@ -31,6 +32,10 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="ACS intelligence updater")
     parser.add_argument("--config", type=pathlib.Path, default=DEFAULT_CONFIG)
     parser.add_argument("--output-dir", type=pathlib.Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--latest-json-path", type=pathlib.Path, default=ROOT / "data" / "intel-latest.json")
+    parser.add_argument("--latest-md-path", type=pathlib.Path, default=ROOT / "docs" / "automation" / "intel-latest.md")
+    parser.add_argument("--news-csv-path", type=pathlib.Path, default=ROOT / "data" / "intel-news-log.csv")
+    parser.add_argument("--archive", action="store_true", help="Also write timestamped archive files")
     parser.add_argument("--days", type=int, default=7, help="Google News recency window")
     parser.add_argument("--max-news", type=int, default=7)
     parser.add_argument("--max-trials", type=int, default=7)
@@ -302,6 +307,95 @@ def filter_drugs(drugs: list[dict[str, Any]], names: list[str]) -> list[dict[str
     return [d for d in drugs if d.get("name", "").lower() in wanted]
 
 
+def upsert_news_csv(report: dict[str, Any], csv_path: pathlib.Path) -> int:
+    header = ["run_date", "event_date", "company", "drug", "event_type", "title", "source", "link", "nct_id", "status"]
+    existing_rows: list[dict[str, str]] = []
+    existing_keys: set[tuple[str, ...]] = set()
+
+    if csv_path.exists():
+        with csv_path.open("r", encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                existing_rows.append(row)
+                existing_keys.add(
+                    (
+                        row.get("drug", ""),
+                        row.get("event_type", ""),
+                        row.get("title", ""),
+                        row.get("link", ""),
+                        row.get("event_date", ""),
+                    )
+                )
+
+    new_rows: list[dict[str, str]] = []
+    run_date = report.get("generatedAtUTC", "")[:10]
+    for d in report.get("drugs", []):
+        company = d.get("sponsor", "")
+        drug = d.get("name", "")
+
+        for t in d.get("clinicalTrials", []):
+            row = {
+                "run_date": run_date,
+                "event_date": t.get("lastUpdate") or "",
+                "company": company,
+                "drug": drug,
+                "event_type": "trial",
+                "title": t.get("title") or "",
+                "source": "clinicaltrials.gov",
+                "link": t.get("url") or "",
+                "nct_id": t.get("nctId") or "",
+                "status": t.get("overallStatus") or "",
+            }
+            key = (row["drug"], row["event_type"], row["title"], row["link"], row["event_date"])
+            if key not in existing_keys:
+                existing_keys.add(key)
+                new_rows.append(row)
+
+        for p in d.get("companyPress", []):
+            row = {
+                "run_date": run_date,
+                "event_date": (p.get("publishedAt") or "")[:10],
+                "company": company,
+                "drug": drug,
+                "event_type": "press",
+                "title": p.get("title") or "",
+                "source": p.get("source") or "company press room",
+                "link": p.get("link") or "",
+                "nct_id": "",
+                "status": "",
+            }
+            key = (row["drug"], row["event_type"], row["title"], row["link"], row["event_date"])
+            if key not in existing_keys:
+                existing_keys.add(key)
+                new_rows.append(row)
+
+        for n in d.get("googleNews", []):
+            row = {
+                "run_date": run_date,
+                "event_date": (n.get("publishedAt") or "")[:10],
+                "company": company,
+                "drug": drug,
+                "event_type": "news",
+                "title": n.get("title") or "",
+                "source": n.get("source") or "Google News",
+                "link": n.get("link") or "",
+                "nct_id": "",
+                "status": "",
+            }
+            key = (row["drug"], row["event_type"], row["title"], row["link"], row["event_date"])
+            if key not in existing_keys:
+                existing_keys.add(key)
+                new_rows.append(row)
+
+    csv_path.parent.mkdir(parents=True, exist_ok=True)
+    with csv_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=header)
+        writer.writeheader()
+        writer.writerows(existing_rows + new_rows)
+
+    return len(new_rows)
+
+
 def main() -> int:
     args = parse_args()
     config = load_config(args.config)
@@ -351,26 +445,32 @@ def main() -> int:
 
         report["drugs"].append(entry)
 
-    args.output_dir.mkdir(parents=True, exist_ok=True)
-    stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
-    json_path = args.output_dir / f"acs-intel-{stamp}.json"
-    md_path = args.output_dir / f"acs-intel-{stamp}.md"
-    latest_json = args.output_dir / "latest.json"
-    latest_md = args.output_dir / "latest.md"
+    args.latest_json_path.parent.mkdir(parents=True, exist_ok=True)
+    args.latest_md_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with json_path.open("w", encoding="utf-8") as f:
+    with args.latest_json_path.open("w", encoding="utf-8") as f:
         json.dump(report, f, indent=2)
-    with latest_json.open("w", encoding="utf-8") as f:
-        json.dump(report, f, indent=2)
+        f.write("\n")
 
     markdown = generate_markdown(report)
-    md_path.write_text(markdown, encoding="utf-8")
-    latest_md.write_text(markdown, encoding="utf-8")
+    args.latest_md_path.write_text(markdown, encoding="utf-8")
 
-    print(f"Wrote {json_path}")
-    print(f"Wrote {md_path}")
-    print(f"Updated {latest_json}")
-    print(f"Updated {latest_md}")
+    if args.archive:
+        args.output_dir.mkdir(parents=True, exist_ok=True)
+        stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
+        json_path = args.output_dir / f"acs-intel-{stamp}.json"
+        md_path = args.output_dir / f"acs-intel-{stamp}.md"
+        with json_path.open("w", encoding="utf-8") as f:
+            json.dump(report, f, indent=2)
+            f.write("\n")
+        md_path.write_text(markdown, encoding="utf-8")
+        print(f"Wrote archive: {json_path}")
+        print(f"Wrote archive: {md_path}")
+
+    inserted = upsert_news_csv(report, args.news_csv_path)
+    print(f"Updated latest json: {args.latest_json_path}")
+    print(f"Updated latest markdown: {args.latest_md_path}")
+    print(f"Updated csv log: {args.news_csv_path} (new rows: {inserted})")
     return 0
 
 

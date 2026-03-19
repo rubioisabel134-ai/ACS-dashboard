@@ -27,7 +27,7 @@ async function load() {
   const [portfolioData, conferencesData, intelData] = await Promise.all([
     fetchJson("data/acs-drugs.json"),
     fetchJson("data/conferences.json", { conferences: [] }),
-    fetchJson("reports/latest.json", null),
+    fetchJson("data/intel-latest.json", null),
   ]);
 
   state.records = portfolioData.records || [];

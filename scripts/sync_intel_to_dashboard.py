@@ -22,7 +22,7 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Sync ACS intel into dashboard data")
     p.add_argument("--intel", type=pathlib.Path, default=DEFAULT_INTEL)
     p.add_argument("--dashboard", type=pathlib.Path, default=DEFAULT_DASHBOARD)
-    p.add_argument("--proposal-out", type=pathlib.Path, default=ROOT / "reports" / "proposed_changes.json")
+    p.add_argument("--proposal-out", type=pathlib.Path, default=ROOT / "data" / "proposed-changes.json")
     p.add_argument("--apply", action="store_true", help="Apply changes to dashboard json")
     return p.parse_args()
 
