@@ -100,17 +100,7 @@ def text_is_informative(title: str) -> bool:
     return lowered not in blocked
 
 
-def build_relevance_terms(config: dict[str, Any]) -> set[str]:
-    terms: set[str] = set()
-    for d in config.get("drugs", []):
-        for term in [d.get("name", ""), d.get("sponsor", "")] + (d.get("aliases") or []):
-            norm = str(term).strip().lower()
-            if len(norm) >= 3:
-                terms.add(norm)
-    return terms
-
-
-def item_is_relevant(title: str, link: str, local_keywords: list[str], global_terms: set[str]) -> bool:
+def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_terms: list[str]) -> bool:
     hay = f"{title} {link}".lower()
     blocked_patterns = (
         r"\bst\s*patrick",
@@ -137,8 +127,17 @@ def item_is_relevant(title: str, link: str, local_keywords: list[str], global_te
         r"lipoprotein|lpa|ldl|press release|financial results|pipeline|congress|acc|aha|esc|eas)\b",
         hay,
     )
-    alias_match = any(k in hay for k in local_keywords if k)
-    global_match = any(t in hay for t in global_terms)
+    cv_context = re.search(
+        r"\b(cvot|mace|acs|stemi|nstemi|myocardial|coronary|pci|cardiovascular|cardio|"
+        r"lipoprotein|lpa|ldl|thrombo|thrombolytic|antiplatelet|anticoagulant|heart failure|mi)\b",
+        hay,
+    )
+    financial_context = re.search(
+        r"\b(financial results|business update|quarter results|full year|earnings)\b",
+        hay,
+    )
+    alias_match = any(k in hay for k in alias_keywords if k)
+    sponsor_match = any(t in hay for t in sponsor_terms if t)
     new_asset_match = re.search(
         r"\b(new drug|new candidate|pipeline|first patient dosed|phase [i1v]+|phase \d)\b",
         hay,
@@ -146,9 +145,9 @@ def item_is_relevant(title: str, link: str, local_keywords: list[str], global_te
 
     if alias_match and medical_context:
         return True
-    if global_match and medical_context:
+    if sponsor_match and cv_context and (medical_context or financial_context or new_asset_match):
         return True
-    return bool(new_asset_match and medical_context)
+    return bool(sponsor_match and new_asset_match and cv_context)
 
 
 class AnchorParser(HTMLParser):
@@ -185,7 +184,6 @@ def company_press_search(
     drug: dict[str, Any],
     max_results: int,
     target_year: int,
-    global_terms: set[str],
 ) -> list[dict[str, Any]]:
     press_url = (drug.get("press_release_url") or "").strip()
     if not press_url:
@@ -197,7 +195,6 @@ def company_press_search(
 
     aliases = [a.lower() for a in (drug.get("aliases") or [drug.get("name", "")]) if a]
     sponsor_words = [w.lower() for w in (drug.get("sponsor", "").split()) if len(w) > 2]
-    keywords = aliases + sponsor_words
 
     base_domain = urllib.parse.urlparse(press_url).netloc.lower()
     selected: list[dict[str, Any]] = []
@@ -234,7 +231,7 @@ def company_press_search(
         text = html.unescape((link.get("text") or "").strip())
         if not text_is_informative(text):
             continue
-        if not item_is_relevant(text, absolute, keywords, global_terms):
+        if not item_is_relevant(text, absolute, aliases, sponsor_words):
             continue
         year = extract_year(text) or extract_year(absolute)
         if year is not None and year != target_year:
@@ -318,9 +315,9 @@ def google_news_search(
     days: int,
     max_results: int,
     target_year: int,
-    global_terms: set[str],
 ) -> list[dict[str, Any]]:
     aliases = drug.get("aliases") or [drug["name"]]
+    sponsor_words = [w.lower() for w in (drug.get("sponsor", "").split()) if len(w) > 2]
     drug_terms = " OR ".join(f'"{a}"' for a in aliases[:3])
     indication_terms_q = " OR ".join(f'"{k}"' for k in indication_terms[:4])
     query = f"({drug_terms}) ({indication_terms_q}) when:{days}d"
@@ -364,7 +361,7 @@ def google_news_search(
                 pub_iso = None
         if extract_year(pub_iso) != target_year:
             continue
-        if not item_is_relevant(title, link, aliases, global_terms):
+        if not item_is_relevant(title, link, aliases, sponsor_words):
             continue
 
         entries.append(
@@ -533,7 +530,6 @@ def upsert_news_csv(report: dict[str, Any], csv_path: pathlib.Path) -> int:
 def main() -> int:
     args = parse_args()
     config = load_config(args.config)
-    global_terms = build_relevance_terms(config)
     indication_keywords = config.get("indication_keywords") or []
     drugs = filter_drugs(config.get("drugs") or [], args.drug)
 
@@ -579,7 +575,6 @@ def main() -> int:
                     drug,
                     args.max_news,
                     args.target_year,
-                    global_terms,
                 )
             except Exception as exc:  # noqa: BLE001
                 entry["errors"].append(f"company press: {exc}")
@@ -590,7 +585,6 @@ def main() -> int:
                     args.days,
                     args.max_news,
                     args.target_year,
-                    global_terms,
                 )
             except Exception as exc:  # noqa: BLE001
                 entry["errors"].append(f"google news: {exc}")
