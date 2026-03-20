@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-03-19)
+# ACS Daily CI Report (2026-03-20)
 
-- Generated (UTC): 2026-03-19T23:04:22+00:00
+- Generated (UTC): 2026-03-20T13:33:00+00:00
 - Drugs scanned: 33
 - News window: last 7 day(s)
-- Playwright links captured: 27
+- Playwright links captured: 5
 
 ## Trial Status Updates
 
@@ -25,13 +25,7 @@
 
 ## News Highlights
 
-- Zalunfiban | www.celecor.com | [Clinical development](https://www.celecor.com/clinical-trials/)
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
-- Pacibekitug | www.novartis.com | [Andean & CAC | Español](https://www.novartis.com/acc-es/)
-- Pacibekitug | www.novartis.com | [Novartis pipeline](https://www.novartis.com/research-development/novartis-pipeline)
-- Olpasiran | www.amgen.com | [Clinical Trial Optimization](https://www.amgen.com/science/research-and-development-strategy/clinical-trial-optimization)
-- Olpasiran | www.amgen.com | [Clinical Trials](https://www.amgen.com/science/clinical-trials)
-- Milvexian | www.bms.com | [In the pipeline](https://www.bms.com/researchers-and-partners/in-the-pipeline.html)
 - Xolatryp | www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
@@ -39,19 +33,9 @@
 
 ## Captured Link Validation
 
-- Successful captures: 27/27
-- OK | Zalunfiban | [Clinical Development - CeleCor Therapeutics](https://www.celecor.com/clinical-trials/)
+- Successful captures: 5/5
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
-- OK | Pacibekitug | [Novartis ACC](https://www.novartis.com/acc-es/)
-- OK | Pacibekitug | [Novartis Pipeline | Novartis](https://www.novartis.com/research-development/novartis-pipeline)
-- OK | Pacibekitug | [Investigator initiated trials / studies (clinical) and investigator initiated research (non-clinical) | Novartis](https://www.novartis.com/healthcare-professionals/investigator-initiated-trials-studies-clinical-and-investigator-initiated-research-non-clinical)
-- OK | Pacibekitug | [Novartis annual results | Novartis](https://www.novartis.com/investors/financial-data/annual-results)
-- OK | Pacibekitug | [Novartis quarterly financial results | Novartis](https://www.novartis.com/investors/financial-data/quarterly-results)
-- OK | Pacibekitug | [Clinical trials | Novartis](https://www.novartis.com/clinicaltrials)
-- OK | Pacibekitug | [Novartis Cosentyx® receives FDA approval for pediatric patients aged 12+ with moderate to severe hidradenitis suppurativa | Novartis](https://www.novartis.com/news/media-releases/novartis-cosentyx-receives-fda-approval-pediatric-patients-aged-12-moderate-severe-hidradenitis-suppurativa)
-- OK | Pacibekitug | [Novartis shareholders approve all resolutions proposed by the Board of Directors at the 2026 Annual General Meeting | Novartis](https://www.novartis.com/news/media-releases/novartis-shareholders-approve-all-resolutions-proposed-board-directors-2026-annual-general-meeting)
-- OK | Pacibekitug | [Aktionäre von Novartis heissen an der Generalversammlung 2026 alle Anträge des Verwaltungsrats gut | Novartis](https://www.novartis.com/news/media-releases/aktionare-von-novartis-heissen-der-generalversammlung-2026-alle-antrage-des-verwaltungsrats-gut)
-- OK | Pacibekitug | [Novartis successfully completes acquisition of Avidity Biosciences, strengthening late-stage neuroscience pipeline and advancing xRNA strategy | Novartis](https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy)
-- OK | Pacibekitug | [Novartis receives positive CHMP opinion for remibrutinib in chronic spontaneous urticaria (CSU) | Novartis](https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-remibrutinib-chronic-spontaneous-urticaria-csu)
-- OK | Pacibekitug | [Novartis to build new radioligand therapy site in Denton, Texas, delivering more next‑generation treatments to patients | Novartis](https://www.novartis.com/news/media-releases/novartis-build-new-radioligand-therapy-site-denton-texas-delivering-more-next-generation-treatments-patients)
-- OK | Pacibekitug | [New real‑world data reinforce earlier use of Pluvicto™ before chemotherapy in metastatic castration-resistant prostate cancer | Novartis](https://www.novartis.com/news/media-releases/new-real-world-data-reinforce-earlier-use-pluvictotm-chemotherapy-metastatic-castration-resistant-prostate-cancer)
+- OK | Xolatryp | [Myocardial Ischemia and Arrhythmia Control | Nyrada - Biotechnology Company](https://www.nyrada.com/site/programs/myocardial-ischemia)
+- OK | Orticumab | [Abcentra Appoints Dr. Peter Libby as Board Member](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
+- OK | SIM0811 | [Simcere Pharmaceutical Group Limited](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- OK | SIM0811 | [Simcere Pharmaceutical Group Limited](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)

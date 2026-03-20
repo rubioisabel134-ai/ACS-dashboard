@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-03-19)
+# ACS Intel Update (2026-03-20)
 
 - Window: last 7 day(s)
 - Drugs scanned: 33
@@ -6,11 +6,10 @@
 ## Zalunfiban (CeleCor Therapeutics)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 1
 - Google News hits: 0
 
 ### Company press-room hits
-- www.celecor.com | [Clinical development](https://www.celecor.com/clinical-trials/)
 - www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 
 ## Obicetrapib (NewAmsterdam Pharma)
@@ -31,23 +30,8 @@
 ## Pacibekitug (Novartis)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 13
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.novartis.com | [Andean & CAC | Español](https://www.novartis.com/acc-es/)
-- www.novartis.com | [Novartis pipeline](https://www.novartis.com/research-development/novartis-pipeline)
-- www.novartis.com | [Investigator-initiated trials / studies](https://www.novartis.com/healthcare-professionals/investigator-initiated-trials-studies-clinical-and-investigator-initiated-research-non-clinical)
-- www.novartis.com | [Novartis annual results](https://www.novartis.com/investors/financial-data/annual-results)
-- www.novartis.com | [Novartis quarterly results](https://www.novartis.com/investors/financial-data/quarterly-results)
-- www.novartis.com | [Clinical trials](https://www.novartis.com/clinicaltrials)
-- www.novartis.com | [Press release Mar 13, 2026 Novartis Cosentyx® receives FDA approval for pediatric patients aged 12+ with moderate to severe hidradenitis suppurativa Cosentyx is the only IL-17A inhibitor approved for this population, and the first differentiated mechanism in nearly a decade1-3 HS often emerges around puberty, underscoring…](https://www.novartis.com/news/media-releases/novartis-cosentyx-receives-fda-approval-pediatric-patients-aged-12-moderate-severe-hidradenitis-suppurativa)
-- www.novartis.com | [Press release Mar 06, 2026 Novartis shareholders approve all resolutions proposed by the Board of Directors at the 2026 Annual General Meeting Shareholders approve 29th consecutive dividend increase to CHF 3.70 (+5.7%) per share for 2025, representing a 3.0% yield¹Shareholders confirm Giovanni Caforio as Chair of the Board of Directors as…](https://www.novartis.com/news/media-releases/novartis-shareholders-approve-all-resolutions-proposed-board-directors-2026-annual-general-meeting)
-- www.novartis.com | [Press release Mar 06, 2026 Aktionäre von Novartis heissen an der Generalversammlung 2026 alle Anträge des Verwaltungsrats gut Die Aktionärinnen und Aktionäre genehmigten die 29. Dividendenerhöhung in Folge. Für 2025 wird die Dividende auf CHF 3.70 (+5,7%) je Aktie erhöht, was einer Rendite von 3,0% entspricht¹Die…](https://www.novartis.com/news/media-releases/aktionare-von-novartis-heissen-der-generalversammlung-2026-alle-antrage-des-verwaltungsrats-gut)
-- www.novartis.com | [Press release Feb 27, 2026 Novartis successfully completes acquisition of Avidity Biosciences, strengthening late-stage neuroscience pipeline and advancing xRNA strategy Adds Avidity’s differentiated muscle-directed Antibody Oligonucleotide Conjugates (AOC) platform and three late-stage programs to industry-leading neuromuscular pipelinePotentially unlocks multi-…](https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy)
-- www.novartis.com | [Press release Feb 27, 2026 Novartis receives positive CHMP opinion for remibrutinib in chronic spontaneous urticaria (CSU) Remibrutinib, a highly selective oral BTKi, has potential to be first targeted therapy approved for CSU in Europe Improvements with remibrutinib observed as early as Week 1 in REMIX 1 & 2, with…](https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-remibrutinib-chronic-spontaneous-urticaria-csu)
-- www.novartis.com | [Press release Feb 25, 2026 Novartis to build new radioligand therapy site in Denton, Texas, delivering more next‑generation treatments to patients Facility expected to be operational in 2028 in Dallas-Fort Worth area, expanding largest RLT manufacturing network in USSite to serve patients in Southern US and add network capacity as RLT expands…](https://www.novartis.com/news/media-releases/novartis-build-new-radioligand-therapy-site-denton-texas-delivering-more-next-generation-treatments-patients)
-- www.novartis.com | [Press release Feb 24, 2026 New real‑world data reinforce earlier use of Pluvicto™ before chemotherapy in metastatic castration-resistant prostate cancer In the real-world, Pluvicto™ showed 13.5 months median PFS in chemo-naïve patients with PSMA-positive mCRPCReal‑world evidence showed Pluvicto achieved longer PFS when initiated after one ARPI…](https://www.novartis.com/news/media-releases/new-real-world-data-reinforce-earlier-use-pluvictotm-chemotherapy-metastatic-castration-resistant-prostate-cancer)
 
 ## RBD4059 (RiboCure Pharmaceuticals)
 
@@ -67,21 +51,12 @@
 ## Olpasiran (Amgen)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 7
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-03-06 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
-
-### Company press-room hits
-- www.amgen.com | [Clinical Trial Optimization](https://www.amgen.com/science/research-and-development-strategy/clinical-trial-optimization)
-- www.amgen.com | [Clinical Trials](https://www.amgen.com/science/clinical-trials)
-- www.amgen.com | [About Clinical Trials](https://www.amgen.com/science/clinical-trials/about-clinical-trials)
-- www.amgen.com | [Clinical Trial Diversity and Representation](https://www.amgen.com/science/clinical-trials/clinical-trial-representation)
-- www.amgen.com | [Information for Healthcare Professionals](https://www.amgen.com/science/clinical-trials/information-for-healthcare-professionals)
-- www.amgen.com | [Clinical Trial Transparency, Data Sharing and Disclosure Practices](https://www.amgen.com/science/clinical-trials/clinical-data-transparency-practices)
-- www.amgen.com | [Clinical Out-of-Hours Support program](https://www.amgen.com/science/clinical-trials/clinical-out-of-hours-support-program)
 
 ## Lepodisiran (Eli Lilly)
 
@@ -101,16 +76,13 @@
 ## Milvexian (Bristol Myers Squibb / Janssen)
 
 - ClinicalTrials.gov hits: 3
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-01-16 | https://clinicaltrials.gov/study/NCT05754957
-
-### Company press-room hits
-- www.bms.com | [In the pipeline](https://www.bms.com/researchers-and-partners/in-the-pipeline.html)
 
 ## Selatogrel (Idorsia / Viatris)
 

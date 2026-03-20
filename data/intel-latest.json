@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-03-19T23:04:22+00:00",
+  "generatedAtUTC": "2026-03-20T13:33:00+00:00",
   "days": 7,
   "drugs": [
     {
@@ -12,12 +12,6 @@
       "pressReleaseUrl": "https://www.celecor.com/news/",
       "clinicalTrials": [],
       "companyPress": [
-        {
-          "title": "Clinical development",
-          "link": "https://www.celecor.com/clinical-trials/",
-          "source": "www.celecor.com",
-          "publishedAt": null
-        },
         {
           "title": "CeleBrate trial results",
           "link": "https://www.celecor.com/celebrate-results/",
@@ -82,86 +76,7 @@
       ],
       "pressReleaseUrl": "https://www.novartis.com/news/newsroom",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "Andean & CAC | Espa\u00f1ol",
-          "link": "https://www.novartis.com/acc-es/",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Novartis pipeline",
-          "link": "https://www.novartis.com/research-development/novartis-pipeline",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Investigator-initiated trials / studies",
-          "link": "https://www.novartis.com/healthcare-professionals/investigator-initiated-trials-studies-clinical-and-investigator-initiated-research-non-clinical",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Novartis annual results",
-          "link": "https://www.novartis.com/investors/financial-data/annual-results",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Novartis quarterly results",
-          "link": "https://www.novartis.com/investors/financial-data/quarterly-results",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical trials",
-          "link": "https://www.novartis.com/clinicaltrials",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Mar 13, 2026 Novartis Cosentyx\u00ae receives FDA approval for pediatric patients aged 12+ with moderate to severe hidradenitis suppurativa Cosentyx is the only IL-17A inhibitor approved for this population, and the first differentiated mechanism in nearly a decade1-3 HS often emerges around puberty, underscoring\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-cosentyx-receives-fda-approval-pediatric-patients-aged-12-moderate-severe-hidradenitis-suppurativa",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Mar 06, 2026 Novartis shareholders approve all resolutions proposed by the Board of Directors at the 2026 Annual General Meeting Shareholders approve 29th consecutive dividend increase to CHF 3.70 (+5.7%) per share for 2025, representing a 3.0% yield\u00b9Shareholders confirm Giovanni Caforio as Chair of the Board of Directors as\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-shareholders-approve-all-resolutions-proposed-board-directors-2026-annual-general-meeting",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Mar 06, 2026 Aktion\u00e4re von Novartis heissen an der Generalversammlung 2026 alle Antr\u00e4ge des Verwaltungsrats gut Die Aktion\u00e4rinnen und Aktion\u00e4re genehmigten die 29. Dividendenerh\u00f6hung in Folge. F\u00fcr 2025 wird die Dividende auf CHF 3.70 (+5,7%) je Aktie erh\u00f6ht, was einer Rendite von 3,0% entspricht\u00b9Die\u2026",
-          "link": "https://www.novartis.com/news/media-releases/aktionare-von-novartis-heissen-der-generalversammlung-2026-alle-antrage-des-verwaltungsrats-gut",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Feb 27, 2026 Novartis successfully completes acquisition of Avidity Biosciences, strengthening late-stage neuroscience pipeline and advancing xRNA strategy Adds Avidity\u2019s differentiated muscle-directed Antibody Oligonucleotide Conjugates (AOC) platform and three late-stage programs to industry-leading neuromuscular pipelinePotentially unlocks multi-\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Feb 27, 2026 Novartis receives positive CHMP opinion for remibrutinib in chronic spontaneous urticaria (CSU) Remibrutinib, a highly selective oral BTKi, has potential to be first targeted therapy approved for CSU in Europe Improvements with remibrutinib observed as early as Week 1 in REMIX 1 & 2, with\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-remibrutinib-chronic-spontaneous-urticaria-csu",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Feb 25, 2026 Novartis to build new radioligand therapy site in Denton, Texas, delivering more next\u2011generation treatments to patients Facility expected to be operational in 2028 in Dallas-Fort Worth area, expanding largest RLT manufacturing network in USSite to serve patients in Southern US and add network capacity as RLT expands\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-build-new-radioligand-therapy-site-denton-texas-delivering-more-next-generation-treatments-patients",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Press release Feb 24, 2026 New real\u2011world data reinforce earlier use of Pluvicto\u2122 before chemotherapy in metastatic castration-resistant prostate cancer In the real-world, Pluvicto\u2122 showed 13.5 months median PFS in chemo-na\u00efve patients with PSMA-positive mCRPCReal\u2011world evidence showed Pluvicto achieved longer PFS when initiated after one ARPI\u2026",
-          "link": "https://www.novartis.com/news/media-releases/new-real-world-data-reinforce-earlier-use-pluvictotm-chemotherapy-metastatic-castration-resistant-prostate-cancer",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -251,50 +166,7 @@
           "url": "https://clinicaltrials.gov/study/NCT05581303"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Clinical Trial Optimization",
-          "link": "https://www.amgen.com/science/research-and-development-strategy/clinical-trial-optimization",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical Trials",
-          "link": "https://www.amgen.com/science/clinical-trials",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "About Clinical Trials",
-          "link": "https://www.amgen.com/science/clinical-trials/about-clinical-trials",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical Trial Diversity and Representation",
-          "link": "https://www.amgen.com/science/clinical-trials/clinical-trial-representation",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Information for Healthcare Professionals",
-          "link": "https://www.amgen.com/science/clinical-trials/information-for-healthcare-professionals",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical Trial Transparency, Data Sharing and Disclosure Practices",
-          "link": "https://www.amgen.com/science/clinical-trials/clinical-data-transparency-practices",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical Out-of-Hours Support program",
-          "link": "https://www.amgen.com/science/clinical-trials/clinical-out-of-hours-support-program",
-          "source": "www.amgen.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -404,14 +276,7 @@
           "url": "https://clinicaltrials.gov/study/NCT05754957"
         }
       ],
-      "companyPress": [
-        {
-          "title": "In the pipeline",
-          "link": "https://www.bms.com/researchers-and-partners/in-the-pipeline.html",
-          "source": "www.bms.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
