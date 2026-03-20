@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-03-20T13:33:00+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-03-20T14:00:00+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -45,24 +45,7 @@
         "ARTEMIS"
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
-          "conditions": [
-            "Myocardial Infarction"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Ziltivekimab Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
