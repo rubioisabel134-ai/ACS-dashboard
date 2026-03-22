@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-03-20T14:00:00+00:00",
+  "generatedAtUTC": "2026-03-22T14:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -45,7 +45,24 @@
         "ARTEMIS"
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05636176",
+          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-07-02",
+          "completionDate": "2027-07-02",
+          "conditions": [
+            "Heart Failure"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05636176"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -577,7 +594,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-06",
+          "lastUpdate": "2026-03-20",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [

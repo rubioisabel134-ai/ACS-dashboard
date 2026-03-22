@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-03-20)
+# ACS Intel Update (2026-03-22)
 
 - Window: last 1 day(s)
 - Drugs scanned: 33
@@ -20,9 +20,12 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 
 ## Pacibekitug (Novartis)
 
@@ -208,7 +211,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-03-06 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-03-20 | https://clinicaltrials.gov/study/NCT07241390
 - [NCT05803421] A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-01-21 | https://clinicaltrials.gov/study/NCT05803421
 
 ## Muvalaplin (Eli Lilly)
