@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-03-22)
+# ACS Intel Update (2026-03-24)
 
 - Window: last 1 day(s)
 - Drugs scanned: 33
@@ -65,7 +65,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-02 | https://clinicaltrials.gov/study/NCT06292013
+- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-24 | https://clinicaltrials.gov/study/NCT06292013
 
 ## Olezarsen (Ionis)
 
@@ -100,7 +100,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: NOT_YET_RECRUITING | Last update: 2026-01-30 | https://clinicaltrials.gov/study/NCT07362446
+- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: NOT_YET_RECRUITING | Last update: 2026-03-24 | https://clinicaltrials.gov/study/NCT07362446
 
 ### Company press-room hits
 - www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -221,7 +221,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-03-06 | https://clinicaltrials.gov/study/NCT07157774
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-03-24 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 

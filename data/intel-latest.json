@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-03-22T14:00:01+00:00",
+  "generatedAtUTC": "2026-03-24T14:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -183,7 +183,7 @@
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-03-02",
+          "lastUpdate": "2026-03-24",
           "primaryCompletionDate": "2029-03",
           "completionDate": "2029-03",
           "conditions": [
@@ -325,9 +325,9 @@
           "nctId": "NCT07362446",
           "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
           "overallStatus": "NOT_YET_RECRUITING",
-          "lastUpdate": "2026-01-30",
-          "primaryCompletionDate": "2027-03-30",
-          "completionDate": "2027-06-30",
+          "lastUpdate": "2026-03-24",
+          "primaryCompletionDate": "2027-04-30",
+          "completionDate": "2027-09-30",
           "conditions": [
             "Myocardial Infarction",
             "Reperfusion Injury",
@@ -649,7 +649,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-06",
+          "lastUpdate": "2026-03-24",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
