@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-03-25)
+# ACS Intel Update (2026-03-28)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 33
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -20,11 +20,13 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 3
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 - [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 
 ## Pacibekitug (Novartis)
@@ -55,7 +57,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-03-06 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Lepodisiran (Eli Lilly)
@@ -77,12 +79,15 @@
 
 - ClinicalTrials.gov hits: 3
 - Company press hits: 0
-- Google News hits: 0
+- Google News hits: 1
 
 ### Latest trial updates
+- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT05754957
 - [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
-- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-01-16 | https://clinicaltrials.gov/study/NCT05754957
+
+### Latest Google News
+- 2026-03-27 | TipRanks | [Milvexian Phase 3 Wraps Up: What Bristol-Myers Squibb Investors Should Watch Next - TipRanks](https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzRUUzJzaGJCRm9DNm9VMC1xejg3bm5qOWI2cG5Cb0JIcVRsaVNfcHlXQ0o1NzltSlI4bVJOUlNad3E4T1NPZkVWSjNXSjJVV1djYnlfRmNUaTlGXy04RlhJZU13QjJwbVFSbXdzT1RxWnltS3FYV1lISnF2ZFdmbGpjOTU3M3VCR1dTbW9SVWliQWRIQlRHT3B3ODdEaFJXek80SE1vRkF4WmxLRXMyWHhtMzRRM2JaVFJSQzRLdzJmSEo1alVzM25nWFc?oc=5)
 
 ## Selatogrel (Idorsia / Viatris)
 

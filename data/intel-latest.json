@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-03-25T14:00:29+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-03-28T12:52:29+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -46,6 +46,40 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
+        {
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
+          "conditions": [
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Ziltivekimab Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
+        },
         {
           "nctId": "NCT05636176",
           "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
@@ -137,7 +171,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-06",
+          "lastUpdate": "2026-03-27",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -226,6 +260,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-03-27",
+          "primaryCompletionDate": "2026-02-06",
+          "completionDate": "2026-02-06",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
+        },
+        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -258,26 +308,17 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
-          "nctId": "NCT05754957",
-          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-01-16",
-          "primaryCompletionDate": "2026-09-07",
-          "completionDate": "2026-10-19",
-          "conditions": [
-            "Acute Coronary Syndrome"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05754957"
         }
       ],
       "companyPress": [],
-      "googleNews": [],
+      "googleNews": [
+        {
+          "title": "Milvexian Phase 3 Wraps Up: What Bristol-Myers Squibb Investors Should Watch Next - TipRanks",
+          "source": "TipRanks",
+          "publishedAt": "2026-03-27T16:48:55+00:00",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzRUUzJzaGJCRm9DNm9VMC1xejg3bm5qOWI2cG5Cb0JIcVRsaVNfcHlXQ0o1NzltSlI4bVJOUlNad3E4T1NPZkVWSjNXSjJVV1djYnlfRmNUaTlGXy04RlhJZU13QjJwbVFSbXdzT1RxWnltS3FYV1lISnF2ZFdmbGpjOTU3M3VCR1dTbW9SVWliQWRIQlRHT3B3ODdEaFJXek80SE1vRkF4WmxLRXMyWHhtMzRRM2JaVFJSQzRLdzJmSEo1alVzM25nWFc?oc=5"
+        }
+      ],
       "errors": []
     },
     {
