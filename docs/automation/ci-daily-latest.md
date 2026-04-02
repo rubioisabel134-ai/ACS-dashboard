@@ -1,14 +1,14 @@
-# ACS Daily CI Report (2026-04-01)
+# ACS Daily CI Report (2026-04-02)
 
-- Generated (UTC): 2026-04-01T14:01:00+00:00
+- Generated (UTC): 2026-04-02T14:07:52+00:00
 - Drugs scanned: 33
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
 ## Trial Status Updates
 
-- Ziltivekimab: [NCT07301034] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
-- Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT04023552
+- Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-03-27 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-03-24 | https://clinicaltrials.gov/study/NCT06292013

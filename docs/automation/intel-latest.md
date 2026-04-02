@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-04-01)
+# ACS Intel Update (2026-04-02)
 
 - Window: last 1 day(s)
 - Drugs scanned: 33
@@ -25,7 +25,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 
 ## Pacibekitug (Novartis)
 
@@ -46,7 +46,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT04023552
+- [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
 
 ## Olpasiran (Amgen)
 

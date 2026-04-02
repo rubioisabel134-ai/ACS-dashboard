@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-01T14:01:00+00:00",
+  "generatedAtUTC": "2026-04-02T14:07:52+00:00",
   "days": 1,
   "drugs": [
     {
@@ -47,20 +47,22 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
           "conditions": [
-            "Myocardial Infarction"
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
           ],
           "interventions": [
             "Ziltivekimab",
-            "Ziltivekimab Placebo"
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
         }
       ],
       "companyPress": [],
@@ -107,7 +109,7 @@
           "nctId": "NCT04023552",
           "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-02-27",
+          "lastUpdate": "2026-04-01",
           "primaryCompletionDate": "2026-06-30",
           "completionDate": "2026-06-30",
           "conditions": [
