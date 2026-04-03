@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-04-02)
+# ACS Intel Update (2026-04-03)
 
 - Window: last 1 day(s)
 - Drugs scanned: 33
@@ -25,7 +25,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
 
@@ -55,7 +55,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-04-02 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Lepodisiran (Eli Lilly)
@@ -81,8 +81,8 @@
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT05754957
-- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
+- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 
 ## Selatogrel (Idorsia / Viatris)
 
