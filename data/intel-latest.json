@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-03T14:00:02+00:00",
+  "generatedAtUTC": "2026-04-05T14:06:24+00:00",
   "days": 1,
   "drugs": [
     {
@@ -47,20 +47,38 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
           "conditions": [
-            "Myocardial Infarction"
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
           ],
           "interventions": [
             "Ziltivekimab",
-            "Ziltivekimab Placebo"
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT05636176",
+          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-07-02",
+          "completionDate": "2027-07-02",
+          "conditions": [
+            "Heart Failure"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05636176"
         }
       ],
       "companyPress": [],
@@ -242,22 +260,6 @@
           "url": "https://clinicaltrials.gov/study/NCT05754957"
         },
         {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-13",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -274,6 +276,22 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-13",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
         }
       ],
       "companyPress": [],
