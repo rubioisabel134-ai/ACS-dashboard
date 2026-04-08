@@ -697,6 +697,25 @@
         "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
         "https://pharmacally.com/simcere-doses-first-patient-in-anti-stroke-sim0811-trial/"
       ]
+    },
+    {
+      "drug": "RO7763505",
+      "sponsor": "Roche",
+      "class": "Immune modulator",
+      "target": "Likely NLRP3 pathway",
+      "modality": "Small molecule",
+      "stage": "Phase I",
+      "setting": "Chronic CAD / stable coronary artery disease",
+      "signal": "monitor",
+      "statusSummary": "Phase I Roche program in stable coronary artery disease; secondary endpoints suggest likely NLRP3-related immune-modulation relevance.",
+      "keyTrial": "NCT07495813",
+      "competitorWatch": "Potential competitor in chronic coronary immune-modulation strategies",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT07495813)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07495813",
+        "https://www.roche.com/media/releases"
+      ]
     }
   ]
 }

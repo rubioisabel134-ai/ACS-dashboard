@@ -192,6 +192,12 @@
       "sponsor": "Jiangsu Simcere",
       "aliases": ["SIM0811", "NCT07345364", "Simcere"],
       "press_release_url": "https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+    },
+    {
+      "name": "RO7763505",
+      "sponsor": "Roche",
+      "aliases": ["RO7763505", "NCT07495813", "Roche"],
+      "press_release_url": "https://www.roche.com/media/releases"
     }
   ]
 }
