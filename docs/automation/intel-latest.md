@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-04-05)
+# ACS Intel Update (2026-04-08)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 33
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -25,7 +25,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 - [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 
 ## Pacibekitug (Novartis)
@@ -42,11 +42,12 @@
 
 ## Pelacarsen (Novartis)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-04-08 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
 
 ## Olpasiran (Amgen)
@@ -82,8 +83,8 @@
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT05754957
-- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
+- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
 
 ## Selatogrel (Idorsia / Viatris)
 

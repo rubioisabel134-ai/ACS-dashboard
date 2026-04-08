@@ -1,53 +1,40 @@
 {
-  "generatedAtUTC": "2026-03-28T12:52:59+00:00",
+  "generatedAtUTC": "2026-04-08T16:36:45+00:00",
   "updates": 2,
   "proposals": [
     {
       "drug": "Ziltivekimab",
       "changes": {
         "nextCatalystDate": {
-          "before": "2028-11-14",
-          "after": "2028-09-01"
+          "before": "2028-09-01",
+          "after": "2028-11-14"
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT07301034)",
-          "after": "Estimated primary completion (NCT07276282)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT05636176",
-            "https://clinicaltrials.gov/study/NCT07301034",
-            "https://www.novonordisk-trials.com/website/content/trial/1236.html"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT07276282",
-            "https://clinicaltrials.gov/study/NCT05636176",
-            "https://clinicaltrials.gov/study/NCT07301034"
-          ]
+          "before": "Estimated primary completion (NCT07276282)",
+          "after": "Estimated primary completion (NCT07301034)"
         }
       }
     },
     {
-      "drug": "Milvexian",
+      "drug": "Pelacarsen",
       "changes": {
         "nextCatalystDate": {
-          "before": "2026-10-31",
-          "after": null
+          "before": "2026-06-30",
+          "after": "2030-01-09"
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT05757869)",
-          "after": "Monitor next registry update (NCT05754957)"
+          "before": "Estimated primary completion (NCT04023552)",
+          "after": "Estimated primary completion (NCT07517263)"
         },
         "sourceLinks": {
           "before": [
-            "https://clinicaltrials.gov/study/NCT05702034",
-            "https://clinicaltrials.gov/study/NCT05757869",
-            "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-and-Janssen-announce-discontinuation-of-LIBREXIA-ACS/default.aspx"
+            "https://clinicaltrials.gov/study/NCT04023552",
+            "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
           ],
           "after": [
-            "https://clinicaltrials.gov/study/NCT05754957",
-            "https://clinicaltrials.gov/study/NCT05702034",
-            "https://clinicaltrials.gov/study/NCT05757869"
+            "https://clinicaltrials.gov/study/NCT07517263",
+            "https://clinicaltrials.gov/study/NCT04023552",
+            "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
           ]
         }
       }

@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-03-28",
+  "snapshotDate": "2026-04-08",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -148,9 +148,10 @@
       "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
       "keyTrial": "Lp(a)HORIZON",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2026-06-30",
-      "nextCatalystEvent": "Estimated primary completion (NCT04023552)",
+      "nextCatalystDate": "2030-01-09",
+      "nextCatalystEvent": "Estimated primary completion (NCT07517263)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07517263",
         "https://clinicaltrials.gov/study/NCT04023552",
         "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
       ]
@@ -226,8 +227,8 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2028-09-01",
-      "nextCatalystEvent": "Estimated primary completion (NCT07276282)",
+      "nextCatalystDate": "2028-11-14",
+      "nextCatalystEvent": "Estimated primary completion (NCT07301034)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07276282",
         "https://clinicaltrials.gov/study/NCT05636176",
