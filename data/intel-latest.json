@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-04-08T16:36:16+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-04-10T14:03:46+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -47,20 +47,22 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
           "conditions": [
-            "Myocardial Infarction"
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
           ],
           "interventions": [
             "Ziltivekimab",
-            "Ziltivekimab Placebo"
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
         },
         {
           "nctId": "NCT05636176",
@@ -273,22 +275,6 @@
           "url": "https://clinicaltrials.gov/study/NCT05754957"
         },
         {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-13",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -305,6 +291,22 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-13",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
         }
       ],
       "companyPress": [],
@@ -794,6 +796,33 @@
           "title": "R&D Pipeline",
           "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
           "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "RO7763505",
+      "sponsor": "Roche",
+      "aliases": [
+        "RO7763505",
+        "NCT07495813",
+        "Roche"
+      ],
+      "pressReleaseUrl": "https://www.roche.com/media/releases",
+      "clinicalTrials": [],
+      "companyPress": [
+        {
+          "title": "Product Development Pipeline",
+          "link": "https://www.roche.com/solutions/pipeline",
+          "source": "www.roche.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Clinical trials",
+          "link": "https://www.roche.com/innovation/clinical-trials",
+          "source": "www.roche.com",
           "publishedAt": null
         }
       ],

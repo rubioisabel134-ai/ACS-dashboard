@@ -1,7 +1,7 @@
-# ACS Intel Update (2026-04-08)
+# ACS Intel Update (2026-04-10)
 
-- Window: last 7 day(s)
-- Drugs scanned: 33
+- Window: last 1 day(s)
+- Drugs scanned: 34
 
 ## Zalunfiban (CeleCor Therapeutics)
 
@@ -25,7 +25,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 
 ## Pacibekitug (Novartis)
@@ -83,8 +83,8 @@
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-03-27 | https://clinicaltrials.gov/study/NCT05754957
-- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
 - [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05757869
+- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: RECRUITING | Last update: 2026-03-13 | https://clinicaltrials.gov/study/NCT05702034
 
 ## Selatogrel (Idorsia / Viatris)
 
@@ -255,3 +255,13 @@
 ### Company press-room hits
 - www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
 - www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
+
+## RO7763505 (Roche)
+
+- ClinicalTrials.gov hits: 0
+- Company press hits: 2
+- Google News hits: 0
+
+### Company press-room hits
+- www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
+- www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)

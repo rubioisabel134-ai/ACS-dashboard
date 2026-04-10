@@ -1,7 +1,7 @@
-# ACS Daily CI Report (2026-04-05)
+# ACS Daily CI Report (2026-04-10)
 
-- Generated (UTC): 2026-04-05T14:06:24+00:00
-- Drugs scanned: 33
+- Generated (UTC): 2026-04-10T14:03:46+00:00
+- Drugs scanned: 34
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
@@ -9,6 +9,7 @@
 
 - Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - Ziltivekimab: [NCT05636176] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-04-08 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-04-02 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
@@ -31,6 +32,8 @@
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
+- RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
+- RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
 
 ## Captured Link Validation
 

@@ -226,3 +226,5 @@ run_date,event_date,company,drug,event_type,title,source,link,nct_id,status
 2026-04-02,2026-04-01,Novartis,Pelacarsen,trial,Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD,clinicaltrials.gov,https://clinicaltrials.gov/study/NCT04023552,NCT04023552,ACTIVE_NOT_RECRUITING
 2026-04-03,2026-04-02,Amgen,Olpasiran,trial,OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events,clinicaltrials.gov,https://clinicaltrials.gov/study/NCT07136012,NCT07136012,RECRUITING
 2026-04-08,2026-04-08,Novartis,Pelacarsen,trial,An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230),clinicaltrials.gov,https://clinicaltrials.gov/study/NCT07517263,NCT07517263,RECRUITING
+2026-04-10,,Roche,RO7763505,press,Product Development Pipeline,www.roche.com,https://www.roche.com/solutions/pipeline,,
+2026-04-10,,Roche,RO7763505,press,Clinical trials,www.roche.com,https://www.roche.com/innovation/clinical-trials,,
