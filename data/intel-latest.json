@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-11T14:00:05+00:00",
+  "generatedAtUTC": "2026-04-12T14:05:49+00:00",
   "days": 1,
   "drugs": [
     {
@@ -311,7 +311,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: The read operation timed out"
+      ]
     },
     {
       "name": "Selatogrel",
