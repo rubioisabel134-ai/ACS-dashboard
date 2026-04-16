@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-15T14:00:01+00:00",
+  "generatedAtUTC": "2026-04-16T14:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -64,20 +64,24 @@
           "url": "https://clinicaltrials.gov/study/NCT06118281"
         },
         {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-06-09",
+          "completionDate": "2026-06-09",
           "conditions": [
-            "Myocardial Infarction"
+            "Cardiovascular Risk",
+            "Chronic Kidney Disease",
+            "Inflammation"
           ],
           "interventions": [
-            "Ziltivekimab",
-            "Ziltivekimab Placebo"
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
           "nctId": "NCT05636176",
@@ -185,7 +189,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-13",
+          "lastUpdate": "2026-04-16",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -274,6 +278,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-02-06",
+          "completionDate": "2026-02-06",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
+        },
+        {
           "nctId": "NCT05702034",
           "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
           "overallStatus": "RECRUITING",
@@ -306,22 +326,6 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
-        },
-        {
-          "nctId": "NCT05754957",
-          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-02-06",
-          "completionDate": "2026-02-06",
-          "conditions": [
-            "Acute Coronary Syndrome"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05754957"
         }
       ],
       "companyPress": [],
