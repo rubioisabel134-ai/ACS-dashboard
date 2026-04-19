@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-17T14:00:01+00:00",
+  "generatedAtUTC": "2026-04-19T14:07:02+00:00",
   "days": 1,
   "drugs": [
     {
@@ -47,23 +47,6 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -82,6 +65,24 @@
             "Placebo (Ziltivekimab C)"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05021835"
+        },
+        {
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
+          "conditions": [
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
         },
         {
           "nctId": "NCT05636176",
@@ -278,6 +279,24 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05757869",
+          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-10-31",
+          "completionDate": "2026-10-31",
+          "conditions": [
+            "Atrial Fibrillation"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Apixaban",
+            "Placebo",
+            "Apixaban Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
           "nctId": "NCT05754957",
           "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
           "overallStatus": "COMPLETED",
@@ -308,24 +327,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
-          "nctId": "NCT05757869",
-          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-10-31",
-          "completionDate": "2026-10-31",
-          "conditions": [
-            "Atrial Fibrillation"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Apixaban",
-            "Placebo",
-            "Apixaban Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05757869"
         }
       ],
       "companyPress": [],
@@ -646,7 +647,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-20",
+          "lastUpdate": "2026-04-17",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -662,10 +663,10 @@
         {
           "nctId": "NCT05803421",
           "title": "A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-01-21",
-          "primaryCompletionDate": "2026-03",
-          "completionDate": "2026-03",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-04-17",
+          "primaryCompletionDate": "2026-03-16",
+          "completionDate": "2026-03-16",
           "conditions": [
             "Type 2 Diabetes",
             "Obesity",
