@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-19T14:07:02+00:00",
+  "generatedAtUTC": "2026-04-20T14:00:58+00:00",
   "days": 1,
   "drugs": [
     {
@@ -730,29 +730,7 @@
         "Abcentra"
       ],
       "pressReleaseUrl": "https://abcentra.com/resources/",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT06927739",
-          "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-01-27",
-          "primaryCompletionDate": "2027-02-08",
-          "completionDate": "2027-06-01",
-          "conditions": [
-            "Acute Coronary Syndromes",
-            "Coronary Arterial Disease (CAD)",
-            "Inflammation",
-            "Heart Disease",
-            "Myocardial Infarct",
-            "Atherosclerotic Coronary Vascular Disease"
-          ],
-          "interventions": [
-            "Orticumab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06927739"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Read the Article.",
@@ -762,7 +740,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "clinicaltrials.gov: <urlopen error [Errno 54] Connection reset by peer>"
+      ]
     },
     {
       "name": "MiSaver",

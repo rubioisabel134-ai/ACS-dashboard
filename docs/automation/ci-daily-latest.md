@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-04-19)
+# ACS Daily CI Report (2026-04-20)
 
-- Generated (UTC): 2026-04-19T14:07:02+00:00
+- Generated (UTC): 2026-04-20T14:00:58+00:00
 - Drugs scanned: 34
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -22,7 +22,6 @@
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT07241390
 - Orforglipron: [NCT05803421] COMPLETED | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-03-24 | https://clinicaltrials.gov/study/NCT07157774
-- Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
 
 ## News Highlights

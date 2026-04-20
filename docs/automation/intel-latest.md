@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-04-19)
+# ACS Intel Update (2026-04-20)
 
 - Window: last 1 day(s)
 - Drugs scanned: 34
@@ -228,12 +228,9 @@
 
 ## Orticumab (Abcentra)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 1
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT06927739] Focused Orticumab Research for Treating Inflammation in Coronary Arteries | Status: RECRUITING | Last update: 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 
 ### Company press-room hits
 - abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
