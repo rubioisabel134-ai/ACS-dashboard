@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-04-20T14:00:58+00:00",
+  "generatedAtUTC": "2026-04-22T14:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -47,6 +47,23 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-14",
+          "primaryCompletionDate": "2026-12-14",
+          "completionDate": "2026-12-14",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
+        {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -83,6 +100,22 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Ziltivekimab Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
         },
         {
           "nctId": "NCT05636176",
@@ -236,7 +269,7 @@
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-03-24",
+          "lastUpdate": "2026-04-20",
           "primaryCompletionDate": "2029-03",
           "completionDate": "2029-03",
           "conditions": [
@@ -279,6 +312,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-02-06",
+          "completionDate": "2026-02-06",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
+        },
+        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -295,22 +344,6 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
-        },
-        {
-          "nctId": "NCT05754957",
-          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-02-06",
-          "completionDate": "2026-02-06",
-          "conditions": [
-            "Acute Coronary Syndrome"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05754957"
         },
         {
           "nctId": "NCT05702034",
@@ -702,7 +735,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-24",
+          "lastUpdate": "2026-04-20",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
@@ -730,7 +763,29 @@
         "Abcentra"
       ],
       "pressReleaseUrl": "https://abcentra.com/resources/",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06927739",
+          "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-01-27",
+          "primaryCompletionDate": "2027-02-08",
+          "completionDate": "2027-06-01",
+          "conditions": [
+            "Acute Coronary Syndromes",
+            "Coronary Arterial Disease (CAD)",
+            "Inflammation",
+            "Heart Disease",
+            "Myocardial Infarct",
+            "Atherosclerotic Coronary Vascular Disease"
+          ],
+          "interventions": [
+            "Orticumab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06927739"
+        }
+      ],
       "companyPress": [
         {
           "title": "Read the Article.",
@@ -740,9 +795,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "clinicaltrials.gov: <urlopen error [Errno 54] Connection reset by peer>"
-      ]
+      "errors": []
     },
     {
       "name": "MiSaver",
