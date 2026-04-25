@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-04-08",
+  "snapshotDate": "2026-04-25",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -227,12 +227,12 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2028-11-14",
-      "nextCatalystEvent": "Estimated primary completion (NCT07301034)",
+      "nextCatalystDate": "2026-12-14",
+      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06118281",
         "https://clinicaltrials.gov/study/NCT07276282",
-        "https://clinicaltrials.gov/study/NCT05636176",
-        "https://clinicaltrials.gov/study/NCT07301034"
+        "https://clinicaltrials.gov/study/NCT05636176"
       ]
     },
     {
@@ -286,8 +286,8 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT05754957)",
+      "nextCatalystDate": "2026-11-11",
+      "nextCatalystEvent": "Estimated primary completion (NCT05702034)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05754957",
         "https://clinicaltrials.gov/study/NCT05702034",

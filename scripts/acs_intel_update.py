@@ -37,7 +37,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--news-csv-path", type=pathlib.Path, default=ROOT / "data" / "intel-news-log.csv")
     parser.add_argument("--archive", action="store_true", help="Also write timestamped archive files")
     parser.add_argument("--days", type=int, default=7, help="Google News recency window")
-    parser.add_argument("--target-year", type=int, default=2026, help="Only include events from this year")
+    parser.add_argument(
+        "--target-year",
+        type=int,
+        default=dt.date.today().year,
+        help="Only include events from this year (defaults to current year)",
+    )
     parser.add_argument("--max-news", type=int, default=7)
     parser.add_argument("--max-trials", type=int, default=7)
     parser.add_argument("--drug", action="append", default=[], help="Filter by drug name (repeatable)")
@@ -590,6 +595,15 @@ def main() -> int:
                 entry["errors"].append(f"google news: {exc}")
 
         report["drugs"].append(entry)
+
+    drugs_with_errors = sum(1 for drug in report["drugs"] if drug.get("errors"))
+    report["summary"] = {
+        "drugsScanned": len(report["drugs"]),
+        "drugsWithErrors": drugs_with_errors,
+        "trialHits": sum(len(drug.get("clinicalTrials") or []) for drug in report["drugs"]),
+        "companyPressHits": sum(len(drug.get("companyPress") or []) for drug in report["drugs"]),
+        "googleNewsHits": sum(len(drug.get("googleNews") or []) for drug in report["drugs"]),
+    }
 
     args.latest_json_path.parent.mkdir(parents=True, exist_ok=True)
     args.latest_md_path.parent.mkdir(parents=True, exist_ok=True)

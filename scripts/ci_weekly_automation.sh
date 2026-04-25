@@ -1,10 +1,31 @@
 #!/bin/bash
 set -euo pipefail
 
+PUSH_CHANGES=0
+AUTOSTASH=0
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --push)
+      PUSH_CHANGES=1
+      ;;
+    --autostash)
+      AUTOSTASH=1
+      ;;
+    *)
+      echo "Usage: /bin/bash scripts/ci_weekly_automation.sh [--push] [--autostash]"
+      exit 1
+      ;;
+  esac
+  shift
+done
+
 ROOT="/Users/isabelschlaepfer/ACS-dashboard"
 LOG_DIR="$ROOT/logs"
 STAMP="$(date +%Y%m%d-%H%M%S)"
 LOG_FILE="$LOG_DIR/acs-ci-weekly-$STAMP.log"
+INTEL_FILE="$ROOT/data/intel-latest.json"
+PROPOSAL_FILE="$ROOT/data/proposed-changes.json"
 
 mkdir -p "$LOG_DIR" "$ROOT/docs/automation"
 exec > >(tee -a "$LOG_FILE") 2>&1
@@ -29,6 +50,13 @@ restore_stash() {
 trap restore_stash EXIT
 
 if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git ls-files --others --exclude-standard)" ]; then
+  if [ "$AUTOSTASH" -ne 1 ]; then
+    echo "[$(date)] Local changes detected; refusing to auto-stash by default"
+    echo "[$(date)] Commit, stash, or clean your worktree first."
+    echo "[$(date)] If you explicitly want auto-stash, rerun with:"
+    echo "  /bin/bash scripts/ci_weekly_automation.sh --autostash"
+    exit 1
+  fi
   echo "[$(date)] Local changes detected; auto-stashing before pull"
   git stash push -u -m "$STASH_MARKER" >/dev/null
   STASHED=1
@@ -69,11 +97,43 @@ python3 scripts/build_ci_report.py \
   --capture "$CAPTURE_FILE" \
   --output docs/automation/ci-weekly-latest.md
 
+echo "[$(date)] Weekly run summary"
+python3 - <<'PY' "$INTEL_FILE" "$PROPOSAL_FILE" "$PUSH_CHANGES"
+import json
+import pathlib
+import sys
+
+intel_path = pathlib.Path(sys.argv[1])
+proposal_path = pathlib.Path(sys.argv[2])
+push_changes = sys.argv[3] == "1"
+
+intel = json.loads(intel_path.read_text()) if intel_path.exists() else {}
+proposal = json.loads(proposal_path.read_text()) if proposal_path.exists() else {}
+summary = intel.get("summary") or {}
+
+print(f"  - Drugs scanned: {summary.get('drugsScanned', 0)}")
+print(f"  - Drugs with errors: {summary.get('drugsWithErrors', 0)}")
+print(f"  - Trial hits: {summary.get('trialHits', 0)}")
+print(f"  - Company press hits: {summary.get('companyPressHits', 0)}")
+print(f"  - Google News hits: {summary.get('googleNewsHits', 0)}")
+print(f"  - Proposed dashboard updates: {proposal.get('updates', 0)}")
+print(f"  - Push mode: {'enabled' if push_changes else 'disabled (review-only)'}")
+PY
+
 echo "[$(date)] Staging weekly artifacts"
 git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/playwright-weekly-latest.json || true
 
 if git diff --cached --quiet; then
   echo "[$(date)] No tracked changes to commit"
+  exit 0
+fi
+
+if [ "$PUSH_CHANGES" -ne 1 ]; then
+  echo "[$(date)] Review-only mode: leaving changes staged locally"
+  echo "[$(date)] Review docs/automation/ci-weekly-latest.md and data/proposed-changes.json"
+  echo "[$(date)] If everything looks correct, run:"
+  echo "  git commit -m \"ACS weekly CI automation: $(date +%F)\""
+  echo "  git push origin main"
   exit 0
 fi
 

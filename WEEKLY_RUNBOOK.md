@@ -7,6 +7,23 @@ cd /Users/isabelschlaepfer/ACS-dashboard
 /bin/bash scripts/ci_weekly_automation.sh
 ```
 
+Default behavior is now `review-only`:
+- the script updates files and stages them
+- it does **not** commit or push unless you explicitly run `--push`
+- it also refuses to auto-stash local edits unless you explicitly run `--autostash`
+
+Use this only after review:
+
+```bash
+/bin/bash scripts/ci_weekly_automation.sh --push
+```
+
+Only use this when you know you want the script to stash local edits first:
+
+```bash
+/bin/bash scripts/ci_weekly_automation.sh --autostash
+```
+
 ## 2) Review the weekly summary
 
 Open:
@@ -95,9 +112,14 @@ git status
 ## 7) Commit and push if everything looks correct
 
 ```bash
-git add scripts/acs_intel_update.py data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/playwright-weekly-latest.json WEEKLY_RUNBOOK.md
 git commit -m "Weekly ACS intel refresh: YYYY-MM-DD"
 git push origin main
+```
+
+Alternative:
+
+```bash
+/bin/bash scripts/ci_weekly_automation.sh --push
 ```
 
 ## Quick rule
