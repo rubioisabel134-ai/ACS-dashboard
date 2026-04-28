@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-04-25T15:28:41+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-04-28T14:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -20,9 +20,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Obicetrapib",
@@ -36,9 +34,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Ziltivekimab",
@@ -50,23 +46,6 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
-        {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
         {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
@@ -88,22 +67,20 @@
           "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
-          "nctId": "NCT07276282",
-          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "nctId": "NCT05636176",
+          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-23",
-          "primaryCompletionDate": "2028-09-01",
-          "completionDate": "2028-12-01",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-07-02",
+          "completionDate": "2027-07-02",
           "conditions": [
-            "Coronary Artery Disease",
-            "Acute Myocardial Infarction (AMI)",
-            "Coronary Atherosclerosis of Native Coronary Artery"
+            "Heart Failure"
           ],
           "interventions": [
             "Ziltivekimab",
             "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07276282"
+          "url": "https://clinicaltrials.gov/study/NCT05636176"
         },
         {
           "nctId": "NCT07301034",
@@ -120,29 +97,11 @@
             "Ziltivekimab Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07301034"
-        },
-        {
-          "nctId": "NCT05636176",
-          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2027-07-02",
-          "completionDate": "2027-07-02",
-          "conditions": [
-            "Heart Failure"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05636176"
         }
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Pacibekitug",
@@ -155,9 +114,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RBD4059",
@@ -171,9 +128,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Pelacarsen",
@@ -218,9 +173,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Olpasiran",
@@ -266,9 +219,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Lepodisiran",
@@ -300,8 +251,7 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP Error 403: Forbidden",
-        "google news: HTTP Error 503: Service Unavailable"
+        "company press: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -315,9 +265,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Milvexian",
@@ -328,22 +276,6 @@
       ],
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
-        {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
         {
           "nctId": "NCT05754957",
           "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
@@ -377,13 +309,27 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
         }
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Selatogrel",
@@ -414,9 +360,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -457,9 +401,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "VE-1902",
@@ -473,9 +415,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "ADX-626",
@@ -488,9 +428,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Selnoflast",
@@ -503,9 +441,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SP16",
@@ -518,9 +454,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "NP-011",
@@ -533,9 +467,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "UDP-003",
@@ -566,9 +498,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Dukiprubart",
@@ -581,9 +511,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Evategrel",
@@ -596,9 +524,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "DT-678",
@@ -611,9 +537,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Tipogrel",
@@ -627,9 +551,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "OmniMSC-AMI",
@@ -642,9 +564,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RioCard001",
@@ -657,9 +577,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "BX-001N",
@@ -672,9 +590,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SCP-776",
@@ -687,9 +603,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "CAY-001",
@@ -702,9 +616,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "ReHeart",
@@ -718,9 +630,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Orforglipron",
@@ -773,8 +683,7 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP Error 403: Forbidden",
-        "google news: HTTP Error 503: Service Unavailable"
+        "company press: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -808,8 +717,7 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP Error 403: Forbidden",
-        "google news: HTTP Error 503: Service Unavailable"
+        "company press: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -852,9 +760,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "MiSaver",
@@ -885,9 +791,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SIM0811",
@@ -914,9 +818,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -943,9 +845,14 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     }
-  ]
+  ],
+  "summary": {
+    "drugsScanned": 34,
+    "drugsWithErrors": 3,
+    "trialHits": 19,
+    "companyPressHits": 7,
+    "googleNewsHits": 0
+  }
 }
