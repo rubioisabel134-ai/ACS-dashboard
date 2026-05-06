@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-05-03)
+# ACS Intel Update (2026-05-06)
 
 - Window: last 1 day(s)
 - Drugs scanned: 34
@@ -23,14 +23,13 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 3
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
-- [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
 
@@ -51,7 +50,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-04-08 | https://clinicaltrials.gov/study/NCT07517263
+- [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-05-05 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
 
 ## Olpasiran (Amgen)
@@ -217,8 +216,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT05803421] A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk | Status: COMPLETED | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT05803421] A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk | Status: COMPLETED | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
 
 ## Muvalaplin (Eli Lilly)
 
