@@ -1,23 +1,24 @@
-# ACS Daily CI Report (2026-04-25)
+# ACS Daily CI Report (2026-05-08)
 
-- Generated (UTC): 2026-04-25T15:28:41+00:00
+- Generated (UTC): 2026-05-08T20:47:29+00:00
 - Drugs scanned: 34
 - News window: last 7 day(s)
 - Playwright links captured: 7
 
 ## Trial Status Updates
 
+- Obicetrapib: [NCT06535854] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-04-08 | https://clinicaltrials.gov/study/NCT07517263
-- Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-04-01 | https://clinicaltrials.gov/study/NCT04023552
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT07136012
+- Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-05-06 | https://clinicaltrials.gov/study/NCT04023552
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-05 | https://clinicaltrials.gov/study/NCT07517263
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-04-20 | https://clinicaltrials.gov/study/NCT06292013
-- Milvexian: [NCT05702034] RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05702034
-- Milvexian: [NCT05754957] COMPLETED | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05754957
-- Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-03-19 | https://clinicaltrials.gov/study/NCT04957719
-- Xolatryp: [NCT07362446] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT07362446
+- Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05757869
+- Milvexian: [NCT05702034] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05702034
+- Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-04-30 | https://clinicaltrials.gov/study/NCT04957719
+- Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT07241390
 - Orforglipron: [NCT05803421] COMPLETED | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421

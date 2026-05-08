@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-05-08T14:06:24+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-05-08T20:47:29+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -117,6 +117,22 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Ziltivekimab Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
       "companyPress": [],
@@ -871,7 +887,7 @@
   "summary": {
     "drugsScanned": 34,
     "drugsWithErrors": 3,
-    "trialHits": 20,
+    "trialHits": 21,
     "companyPressHits": 7,
     "googleNewsHits": 0
   }

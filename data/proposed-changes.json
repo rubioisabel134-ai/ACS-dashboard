@@ -1,29 +1,17 @@
 {
-  "generatedAtUTC": "2026-04-25T15:32:56+00:00",
+  "generatedAtUTC": "2026-05-08T20:48:05+00:00",
   "updates": 2,
   "proposals": [
     {
-      "drug": "Ziltivekimab",
+      "drug": "Pelacarsen",
       "changes": {
         "nextCatalystDate": {
-          "before": "2028-11-14",
-          "after": "2026-12-14"
+          "before": "2030-01-09",
+          "after": "2026-06-30"
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT07301034)",
-          "after": "Estimated primary completion (NCT06118281)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT07276282",
-            "https://clinicaltrials.gov/study/NCT05636176",
-            "https://clinicaltrials.gov/study/NCT07301034"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT06118281",
-            "https://clinicaltrials.gov/study/NCT07276282",
-            "https://clinicaltrials.gov/study/NCT05636176"
-          ]
+          "before": "Estimated primary completion (NCT07517263)",
+          "after": "Estimated primary completion (NCT04023552)"
         }
       }
     },
@@ -31,12 +19,12 @@
       "drug": "Milvexian",
       "changes": {
         "nextCatalystDate": {
-          "before": null,
-          "after": "2026-11-11"
+          "before": "2026-11-11",
+          "after": "2026-10-31"
         },
         "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT05754957)",
-          "after": "Estimated primary completion (NCT05702034)"
+          "before": "Estimated primary completion (NCT05702034)",
+          "after": "Estimated primary completion (NCT05757869)"
         }
       }
     }
