@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-05-09T14:00:01+00:00",
+  "generatedAtUTC": "2026-05-10T14:02:30+00:00",
   "days": 1,
   "drugs": [
     {
@@ -610,7 +610,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "clinicaltrials.gov: <urlopen error [Errno 54] Connection reset by peer>"
+      ]
     },
     {
       "name": "SCP-776",
@@ -870,7 +872,7 @@
   ],
   "summary": {
     "drugsScanned": 34,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 4,
     "trialHits": 20,
     "companyPressHits": 7,
     "googleNewsHits": 0
