@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-05-10T14:02:30+00:00",
+  "generatedAtUTC": "2026-05-14T14:01:24+00:00",
   "days": 1,
   "drugs": [
     {
@@ -64,23 +64,6 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -101,22 +84,20 @@
           "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
-          "nctId": "NCT07276282",
-          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-23",
-          "primaryCompletionDate": "2028-09-01",
-          "completionDate": "2028-12-01",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
           "conditions": [
-            "Coronary Artery Disease",
-            "Acute Myocardial Infarction (AMI)",
-            "Coronary Atherosclerosis of Native Coronary Artery"
+            "Myocardial Infarction"
           ],
           "interventions": [
             "Ziltivekimab",
-            "Placebo"
+            "Ziltivekimab Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT07276282"
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
       "companyPress": [],
@@ -208,7 +189,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-01",
+          "lastUpdate": "2026-05-11",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -297,6 +278,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-05-08",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
+        },
+        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -313,22 +310,6 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
-        },
-        {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-05-08",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
         },
         {
           "nctId": "NCT05754957",
@@ -365,7 +346,7 @@
           "nctId": "NCT04957719",
           "title": "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction",
           "overallStatus": "ENROLLING_BY_INVITATION",
-          "lastUpdate": "2026-04-30",
+          "lastUpdate": "2026-05-13",
           "primaryCompletionDate": "2026-12",
           "completionDate": "2026-12",
           "conditions": [
@@ -610,9 +591,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "clinicaltrials.gov: <urlopen error [Errno 54] Connection reset by peer>"
-      ]
+      "errors": []
     },
     {
       "name": "SCP-776",
@@ -667,7 +646,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-17",
+          "lastUpdate": "2026-05-14",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -722,7 +701,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-20",
+          "lastUpdate": "2026-05-12",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
@@ -852,29 +831,18 @@
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "Product Development Pipeline",
-          "link": "https://www.roche.com/solutions/pipeline",
-          "source": "www.roche.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical trials",
-          "link": "https://www.roche.com/innovation/clinical-trials",
-          "source": "www.roche.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: The read operation timed out"
+      ]
     }
   ],
   "summary": {
     "drugsScanned": 34,
     "drugsWithErrors": 4,
-    "trialHits": 20,
-    "companyPressHits": 7,
+    "trialHits": 19,
+    "companyPressHits": 5,
     "googleNewsHits": 0
   }
 }

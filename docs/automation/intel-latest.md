@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-05-10)
+# ACS Intel Update (2026-05-14)
 
 - Window: last 1 day(s)
 - Drugs scanned: 34
@@ -23,14 +23,13 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 3
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
-- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
 
@@ -61,7 +60,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-05-01 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-05-11 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Lepodisiran (Eli Lilly)
@@ -86,8 +85,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-08 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-08 | https://clinicaltrials.gov/study/NCT05702034
+- [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-08 | https://clinicaltrials.gov/study/NCT05757869
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05754957
 
 ## Selatogrel (Idorsia / Viatris)
@@ -97,7 +96,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT04957719] Selatogrel Outcome Study in Suspected Acute Myocardial Infarction | Status: ENROLLING_BY_INVITATION | Last update: 2026-04-30 | https://clinicaltrials.gov/study/NCT04957719
+- [NCT04957719] Selatogrel Outcome Study in Suspected Acute Myocardial Infarction | Status: ENROLLING_BY_INVITATION | Last update: 2026-05-13 | https://clinicaltrials.gov/study/NCT04957719
 
 ## Xolatryp (Nyrada)
 
@@ -217,7 +216,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-05-14 | https://clinicaltrials.gov/study/NCT07241390
 - [NCT05803421] A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk | Status: COMPLETED | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
 
 ## Muvalaplin (Eli Lilly)
@@ -227,7 +226,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-04-20 | https://clinicaltrials.gov/study/NCT07157774
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-05-12 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 
@@ -263,9 +262,5 @@
 ## RO7763505 (Roche)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
-- www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
