@@ -1,22 +1,22 @@
-# ACS Daily CI Report (2026-05-14)
+# ACS Daily CI Report (2026-05-18)
 
-- Generated (UTC): 2026-05-14T14:01:24+00:00
+- Generated (UTC): 2026-05-18T14:01:03+00:00
 - Drugs scanned: 34
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
 ## Trial Status Updates
 
-- Obicetrapib: [NCT06535854] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
+- Obicetrapib: [NCT06321757] RECRUITING | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT06321757
+- Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
-- Ziltivekimab: [NCT07301034] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-18 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-05-06 | https://clinicaltrials.gov/study/NCT04023552
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-05 | https://clinicaltrials.gov/study/NCT07517263
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-05-15 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-04-20 | https://clinicaltrials.gov/study/NCT06292013
-- Milvexian: [NCT05702034] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05702034
 - Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05757869
+- Milvexian: [NCT05702034] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05702034
 - Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-05-13 | https://clinicaltrials.gov/study/NCT04957719
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
@@ -33,6 +33,8 @@
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
+- RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
+- RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
 
 ## Captured Link Validation
 

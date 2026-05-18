@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-05-14T14:01:24+00:00",
+  "generatedAtUTC": "2026-05-18T14:01:03+00:00",
   "days": 1,
   "drugs": [
     {
@@ -33,20 +33,19 @@
       "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
       "clinicalTrials": [
         {
-          "nctId": "NCT06535854",
-          "title": "Prevail Global Study",
+          "nctId": "NCT06321757",
+          "title": "PREVAIL Paclitaxel-coated Balloon in Small Coronary Disease and High-bleeding Risk Patients",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-24",
-          "primaryCompletionDate": "2027-02",
-          "completionDate": "2031-02",
+          "lastUpdate": "2026-04-17",
+          "primaryCompletionDate": "2026-12-30",
+          "completionDate": "2026-12-30",
           "conditions": [
             "Coronary Artery Disease"
           ],
           "interventions": [
-            "Prevail DCB",
-            "Agent DCB"
+            "Percutaneous Coronary Intervention with DCB and DAPT"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT06535854"
+          "url": "https://clinicaltrials.gov/study/NCT06321757"
         }
       ],
       "companyPress": [],
@@ -63,6 +62,23 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
+        {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-14",
+          "primaryCompletionDate": "2026-12-14",
+          "completionDate": "2026-12-14",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
         {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
@@ -141,6 +157,21 @@
       "pressReleaseUrl": null,
       "clinicalTrials": [
         {
+          "nctId": "NCT07517263",
+          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-05-18",
+          "primaryCompletionDate": "2030-01-09",
+          "completionDate": "2030-01-09",
+          "conditions": [
+            "Cardiovascular Disease and Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Pelacarsen (TQJ230)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07517263"
+        },
+        {
           "nctId": "NCT04023552",
           "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -155,21 +186,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT04023552"
-        },
-        {
-          "nctId": "NCT07517263",
-          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-05",
-          "primaryCompletionDate": "2030-01-09",
-          "completionDate": "2030-01-09",
-          "conditions": [
-            "Cardiovascular Disease and Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Pelacarsen (TQJ230)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07517263"
         }
       ],
       "companyPress": [],
@@ -189,7 +205,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-11",
+          "lastUpdate": "2026-05-15",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -278,22 +294,6 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-05-08",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -310,6 +310,22 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
+        },
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-05-08",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
         },
         {
           "nctId": "NCT05754957",
@@ -831,18 +847,29 @@
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Product Development Pipeline",
+          "link": "https://www.roche.com/solutions/pipeline",
+          "source": "www.roche.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Clinical trials",
+          "link": "https://www.roche.com/innovation/clinical-trials",
+          "source": "www.roche.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
-      "errors": [
-        "company press: The read operation timed out"
-      ]
+      "errors": []
     }
   ],
   "summary": {
     "drugsScanned": 34,
-    "drugsWithErrors": 4,
-    "trialHits": 19,
-    "companyPressHits": 5,
+    "drugsWithErrors": 3,
+    "trialHits": 20,
+    "companyPressHits": 7,
     "googleNewsHits": 0
   }
 }
