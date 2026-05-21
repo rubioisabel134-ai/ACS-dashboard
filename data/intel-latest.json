@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-05-18T14:01:03+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-05-21T15:47:12+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -63,23 +63,6 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -98,6 +81,24 @@
             "Placebo (Ziltivekimab C)"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05021835"
+        },
+        {
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
+          "conditions": [
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
         },
         {
           "nctId": "NCT07301034",
@@ -245,13 +246,13 @@
         "lepodisiran",
         "ALPACA"
       ],
-      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-04-20",
+          "lastUpdate": "2026-05-19",
           "primaryCompletionDate": "2029-03",
           "completionDate": "2029-03",
           "conditions": [
@@ -267,9 +268,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP Error 403: Forbidden"
-      ]
+      "errors": []
     },
     {
       "name": "Olezarsen",
@@ -597,6 +596,41 @@
       "errors": []
     },
     {
+      "name": "NL005",
+      "sponsor": "Beijing Northland Biotech",
+      "aliases": [
+        "NL005",
+        "glimbetasin",
+        "NCT07586865"
+      ],
+      "pressReleaseUrl": null,
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07586865",
+          "title": "Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-05-14",
+          "primaryCompletionDate": "2027-08-17",
+          "completionDate": "2028-05-17",
+          "conditions": [
+            "Acute Myocardial Infarction (AMI)",
+            "Acute Myocardial Infarction of Anterior Wall",
+            "Acute Myocardial Infarction With ST Elevation",
+            "Acute Myocardial Infarction of Left Ventricle",
+            "Acute Myocardial Infarction With ST Segment Elevation"
+          ],
+          "interventions": [
+            "Recombinant Human Thymosin Beta 4 Injection (NL005)",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07586865"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
       "name": "BX-001N",
       "sponsor": "Bilix",
       "aliases": [
@@ -656,7 +690,7 @@
         "orforglipron",
         "LY3502970"
       ],
-      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
           "nctId": "NCT07241390",
@@ -699,9 +733,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP Error 403: Forbidden"
-      ]
+      "errors": []
     },
     {
       "name": "Muvalaplin",
@@ -711,13 +743,13 @@
         "LY3473329",
         "NCT07157774"
       ],
-      "pressReleaseUrl": "https://www.lilly.com/news/press-releases",
+      "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-12",
+          "lastUpdate": "2026-05-19",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
@@ -733,9 +765,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP Error 403: Forbidden"
-      ]
+      "errors": []
     },
     {
       "name": "Orticumab",
@@ -866,9 +896,9 @@
     }
   ],
   "summary": {
-    "drugsScanned": 34,
-    "drugsWithErrors": 3,
-    "trialHits": 20,
+    "drugsScanned": 35,
+    "drugsWithErrors": 0,
+    "trialHits": 21,
     "companyPressHits": 7,
     "googleNewsHits": 0
   }

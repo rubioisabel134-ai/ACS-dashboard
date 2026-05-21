@@ -1,28 +1,29 @@
-# ACS Daily CI Report (2026-05-08)
+# ACS Daily CI Report (2026-05-21)
 
-- Generated (UTC): 2026-05-08T20:47:29+00:00
-- Drugs scanned: 34
+- Generated (UTC): 2026-05-21T15:47:12+00:00
+- Drugs scanned: 35
 - News window: last 7 day(s)
 - Playwright links captured: 7
 
 ## Trial Status Updates
 
-- Obicetrapib: [NCT06535854] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
-- Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
+- Obicetrapib: [NCT06321757] RECRUITING | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT06321757
 - Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
+- Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-18 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] ACTIVE_NOT_RECRUITING | last update 2026-05-06 | https://clinicaltrials.gov/study/NCT04023552
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-05 | https://clinicaltrials.gov/study/NCT07517263
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-05-15 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
-- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-04-20 | https://clinicaltrials.gov/study/NCT06292013
+- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05757869
 - Milvexian: [NCT05702034] ACTIVE_NOT_RECRUITING | last update 2026-05-08 | https://clinicaltrials.gov/study/NCT05702034
-- Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-04-30 | https://clinicaltrials.gov/study/NCT04957719
+- Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-05-13 | https://clinicaltrials.gov/study/NCT04957719
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT07241390
+- NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07241390
 - Orforglipron: [NCT05803421] COMPLETED | last update 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
-- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-04-20 | https://clinicaltrials.gov/study/NCT07157774
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
 

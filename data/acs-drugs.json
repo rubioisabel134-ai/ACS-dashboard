@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-05-08",
+  "snapshotDate": "2026-05-21",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -128,12 +128,12 @@
       "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT06535854)",
+      "nextCatalystDate": "2026-12-30",
+      "nextCatalystEvent": "Estimated primary completion (NCT06321757)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06321757",
         "https://clinicaltrials.gov/study/NCT06535854",
-        "https://clinicaltrials.gov/study/NCT05562089",
-        "https://clinicaltrials.gov/study/NCT07229248"
+        "https://clinicaltrials.gov/study/NCT05562089"
       ]
     },
     {
@@ -148,8 +148,8 @@
       "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
       "keyTrial": "Lp(a)HORIZON",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2026-06-30",
-      "nextCatalystEvent": "Estimated primary completion (NCT04023552)",
+      "nextCatalystDate": "2030-01-09",
+      "nextCatalystEvent": "Estimated primary completion (NCT07517263)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07517263",
         "https://clinicaltrials.gov/study/NCT04023552",
@@ -227,12 +227,12 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2026-12-14",
-      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
+      "nextCatalystDate": "2026-06-09",
+      "nextCatalystEvent": "Estimated primary completion (NCT05021835)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT06118281",
-        "https://clinicaltrials.gov/study/NCT07276282",
-        "https://clinicaltrials.gov/study/NCT05636176"
+        "https://clinicaltrials.gov/study/NCT07276282"
       ]
     },
     {
@@ -535,6 +535,24 @@
       "nextCatalystDate": null,
       "nextCatalystEvent": "Monitor for first public trial/registry updates",
       "sourceLinks": []
+    },
+    {
+      "drug": "NL005",
+      "sponsor": "Beijing Northland Biotech",
+      "class": "Recombinant human thymosin beta 4",
+      "target": "Myocardial repair / ischemia-reperfusion injury",
+      "modality": "Biologic peptide/protein",
+      "stage": "Phase IIc",
+      "setting": "Acute STEMI after primary PCI",
+      "signal": "monitor",
+      "statusSummary": "Phase IIc trial registered for acute STEMI patients undergoing primary PCI.",
+      "keyTrial": "NCT07586865",
+      "competitorWatch": "Track as an ACS-relevant myocardial salvage and post-PCI recovery program.",
+      "nextCatalystDate": "2027-08-17",
+      "nextCatalystEvent": "Estimated primary completion (NCT07586865)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07586865"
+      ]
     },
     {
       "drug": "BX-001N",

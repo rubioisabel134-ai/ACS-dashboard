@@ -56,7 +56,7 @@
       "name": "Lepodisiran",
       "sponsor": "Eli Lilly",
       "aliases": ["lepodisiran", "ALPACA"],
-      "press_release_url": "https://www.lilly.com/news/press-releases"
+      "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
       "name": "Olezarsen",
@@ -143,6 +143,12 @@
       "aliases": ["RioCard001", "Rion"]
     },
     {
+      "name": "NL005",
+      "sponsor": "Beijing Northland Biotech",
+      "aliases": ["NL005", "glimbetasin", "NCT07586865"],
+      "notes": "Phase IIc acute STEMI / primary PCI trial"
+    },
+    {
       "name": "BX-001N",
       "sponsor": "Bilix",
       "aliases": ["BX-001N", "Bilix"]
@@ -168,13 +174,13 @@
       "name": "Orforglipron",
       "sponsor": "Eli Lilly",
       "aliases": ["orforglipron", "LY3502970"],
-      "press_release_url": "https://www.lilly.com/news/press-releases"
+      "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
       "name": "Muvalaplin",
       "sponsor": "Eli Lilly",
       "aliases": ["muvalaplin", "LY3473329", "NCT07157774"],
-      "press_release_url": "https://www.lilly.com/news/press-releases"
+      "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
       "name": "Orticumab",

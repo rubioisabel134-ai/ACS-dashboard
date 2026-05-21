@@ -1,7 +1,7 @@
-# ACS Intel Update (2026-05-18)
+# ACS Intel Update (2026-05-21)
 
-- Window: last 1 day(s)
-- Drugs scanned: 34
+- Window: last 7 day(s)
+- Drugs scanned: 35
 
 ## Zalunfiban (CeleCor Therapeutics)
 
@@ -28,8 +28,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
+- [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
@@ -71,7 +71,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-20 | https://clinicaltrials.gov/study/NCT06292013
+- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-19 | https://clinicaltrials.gov/study/NCT06292013
 
 ## Olezarsen (Ionis)
 
@@ -186,6 +186,15 @@
 - Company press hits: 0
 - Google News hits: 0
 
+## NL005 (Beijing Northland Biotech)
+
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT07586865] Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction | Status: NOT_YET_RECRUITING | Last update: 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
+
 ## BX-001N (Bilix)
 
 - ClinicalTrials.gov hits: 0
@@ -227,7 +236,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-05-12 | https://clinicaltrials.gov/study/NCT07157774
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-05-19 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 

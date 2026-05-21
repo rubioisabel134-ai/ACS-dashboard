@@ -68,6 +68,16 @@ def http_get_text(url: str, timeout: int = 25) -> str:
         return resp.read().decode("utf-8", errors="replace")
 
 
+def parse_feed_date(value: str | None) -> str | None:
+    if not value:
+        return None
+    try:
+        parsed = email.utils.parsedate_to_datetime(value)
+    except (TypeError, ValueError):
+        return None
+    return parsed.date().isoformat()
+
+
 def extract_year(value: str | None) -> int | None:
     if not value:
         return None
@@ -185,6 +195,70 @@ class AnchorParser(HTMLParser):
         self._text_parts = []
 
 
+def parse_press_feed(page: str, source_url: str) -> list[dict[str, str]]:
+    stripped = page.lstrip()
+    if not stripped.startswith("<?xml") and not stripped.startswith("<rss") and not stripped.startswith("<feed"):
+        return []
+
+    try:
+        root = ET.fromstring(page)
+    except ET.ParseError:
+        return []
+
+    items: list[dict[str, str]] = []
+    if root.tag.endswith("rss") or root.find("./channel") is not None:
+        for item in root.findall("./channel/item"):
+            title = "".join(item.findtext("title") or "").strip()
+            link = "".join(item.findtext("link") or "").strip()
+            description = "".join(item.findtext("description") or "").strip()
+            pub_date = "".join(item.findtext("pubDate") or "").strip()
+            if title and link:
+                items.append(
+                    {
+                        "title": html.unescape(title),
+                        "link": urllib.parse.urljoin(source_url, link),
+                        "description": html.unescape(re.sub(r"<[^>]+>", " ", description)),
+                        "publishedAt": parse_feed_date(pub_date) or "",
+                    }
+                )
+        return items
+
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    entries = root.findall("./atom:entry", ns) or root.findall("./entry")
+    for entry in entries:
+        title = "".join(entry.findtext("atom:title", default="", namespaces=ns) or entry.findtext("title") or "").strip()
+        link = ""
+        for link_el in entry.findall("atom:link", ns) or entry.findall("link"):
+            href = link_el.attrib.get("href", "").strip()
+            if href:
+                link = href
+                break
+        updated = (
+            entry.findtext("atom:updated", default="", namespaces=ns)
+            or entry.findtext("atom:published", default="", namespaces=ns)
+            or entry.findtext("updated")
+            or entry.findtext("published")
+            or ""
+        )
+        summary = (
+            entry.findtext("atom:summary", default="", namespaces=ns)
+            or entry.findtext("atom:content", default="", namespaces=ns)
+            or entry.findtext("summary")
+            or entry.findtext("content")
+            or ""
+        )
+        if title and link:
+            items.append(
+                {
+                    "title": html.unescape(title),
+                    "link": urllib.parse.urljoin(source_url, link),
+                    "description": html.unescape(re.sub(r"<[^>]+>", " ", summary)),
+                    "publishedAt": parse_feed_date(updated) or "",
+                }
+            )
+    return items
+
+
 def company_press_search(
     drug: dict[str, Any],
     max_results: int,
@@ -195,8 +269,10 @@ def company_press_search(
         return []
 
     page = http_get_text(press_url)
+    feed_items = parse_press_feed(page, press_url)
     parser = AnchorParser()
-    parser.feed(page)
+    if not feed_items:
+        parser.feed(page)
 
     aliases = [a.lower() for a in (drug.get("aliases") or [drug.get("name", "")]) if a]
     sponsor_words = [w.lower() for w in (drug.get("sponsor", "").split()) if len(w) > 2]
@@ -204,6 +280,34 @@ def company_press_search(
     base_domain = urllib.parse.urlparse(press_url).netloc.lower()
     selected: list[dict[str, Any]] = []
     seen: set[str] = set()
+
+    if feed_items:
+        for item in feed_items:
+            absolute = item["link"]
+            if absolute in seen:
+                continue
+            seen.add(absolute)
+            title = re.sub(r"\s+", " ", item["title"]).strip()
+            hay_title = f"{title} {item.get('description', '')}"
+            if not text_is_informative(title):
+                continue
+            if not item_is_relevant(hay_title, absolute, aliases, sponsor_words):
+                continue
+            year = extract_year(item.get("publishedAt")) or extract_year(title) or extract_year(absolute)
+            if year is not None and year != target_year:
+                continue
+            selected.append(
+                {
+                    "title": title,
+                    "link": absolute,
+                    "source": base_domain or "company press feed",
+                    "publishedAt": item.get("publishedAt") or None,
+                }
+            )
+            if len(selected) >= max_results:
+                break
+        return selected
+
     blocked_press_sections = (
         "stock-information",
         "analyst-coverage",
