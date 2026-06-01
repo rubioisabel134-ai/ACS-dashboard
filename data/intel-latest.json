@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-01T11:34:19+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-06-01T12:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -63,23 +63,6 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
-        {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
         {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
@@ -437,24 +420,7 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [
-        {
-          "nctId": "NCT05848674",
-          "title": "CArdiac Brief INtervention: A Feasibility Study to Promote Engagement With Cardiac Rehabilitation",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-03-03",
-          "primaryCompletionDate": "2024-11-01",
-          "completionDate": "2024-11-01",
-          "conditions": [
-            "ST Elevation Myocardial Infarction"
-          ],
-          "interventions": [
-            "CArdiac Brief INtervention (CABIN)",
-            "Refined version of CABIN"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05848674"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -944,7 +910,7 @@
   "summary": {
     "drugsScanned": 35,
     "drugsWithErrors": 0,
-    "trialHits": 22,
+    "trialHits": 20,
     "companyPressHits": 11,
     "googleNewsHits": 0
   }
