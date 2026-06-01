@@ -8,6 +8,7 @@ Designed to be conservative and idempotent.
 from __future__ import annotations
 
 import argparse
+import calendar
 import datetime as dt
 import json
 import pathlib
@@ -35,6 +36,17 @@ def read_json(path: pathlib.Path) -> dict[str, Any]:
 def parse_date(s: str | None) -> dt.date | None:
     if not s:
         return None
+    if len(s) == 7:
+        try:
+            year, month = (int(part) for part in s.split("-"))
+            return dt.date(year, month, calendar.monthrange(year, month)[1])
+        except ValueError:
+            return None
+    if len(s) == 4:
+        try:
+            return dt.date(int(s), 12, 31)
+        except ValueError:
+            return None
     try:
         return dt.date.fromisoformat(s)
     except ValueError:

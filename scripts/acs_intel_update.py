@@ -629,7 +629,7 @@ def upsert_news_csv(report: dict[str, Any], csv_path: pathlib.Path) -> int:
 
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     with csv_path.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=header)
+        writer = csv.DictWriter(f, fieldnames=header, lineterminator="\n")
         writer.writeheader()
         writer.writerows(existing_rows + new_rows)
 

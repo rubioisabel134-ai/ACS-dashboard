@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-05-21",
+  "snapshotDate": "2026-06-01",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -109,8 +109,8 @@
       "statusSummary": "Late-stage emergency-use antiplatelet strategy for very early MI treatment outside hospital.",
       "keyTrial": "SOS-AMI",
       "competitorWatch": "Competes with EMS/hospital antiplatelet initiation models",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT04957719)",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT04957719)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04957719",
         "https://www.viatris.com/en/lm/news/viatris-and-idorsia-expand-collaboration-with-new-development-and-commercialization-agreements"
@@ -128,8 +128,8 @@
       "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
-      "nextCatalystDate": "2026-12-30",
-      "nextCatalystEvent": "Estimated primary completion (NCT06321757)",
+      "nextCatalystDate": "2027-02-28",
+      "nextCatalystEvent": "Estimated primary completion (NCT06535854)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT06321757",
         "https://clinicaltrials.gov/study/NCT06535854",
@@ -188,8 +188,8 @@
       "statusSummary": "Phase II data showed substantial durable Lp(a) lowering; ACS outcomes relevance still unproven.",
       "keyTrial": "ALPACA / ACC 2025 presentations",
       "competitorWatch": "Competes on potency/dosing interval in Lp(a) field",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT06292013)",
+      "nextCatalystDate": "2029-03-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT06292013)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT06292013",
         "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-positive-phase-2-alpaca-results-lepodisiran",
@@ -227,8 +227,8 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2026-06-09",
-      "nextCatalystEvent": "Estimated primary completion (NCT05021835)",
+      "nextCatalystDate": "2026-12-14",
+      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT06118281",
@@ -286,8 +286,8 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": "2026-10-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT05757869)",
+      "nextCatalystDate": "2026-11-11",
+      "nextCatalystEvent": "Estimated primary completion (NCT05702034)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05754957",
         "https://clinicaltrials.gov/study/NCT05702034",
@@ -341,12 +341,13 @@
       "stage": "Phase I",
       "setting": "Acute ACS/AMI (early development)",
       "signal": "monitor",
-      "statusSummary": "ClinicalTrials.gov: NCT02880605 status is Completed (last update 2018-10-19).",
+      "statusSummary": "ClinicalTrials.gov: NCT05848674 status is Completed (last update 2026-03-03).",
       "keyTrial": "NCT06681714",
       "competitorWatch": "Early-stage ACS entrant",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT02880605)",
+      "nextCatalystEvent": "Monitor next registry update (NCT05848674)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05848674",
         "https://clinicaltrials.gov/study/NCT02880605",
         "https://clinicaltrials.gov/study/NCT06681714"
       ]
@@ -633,8 +634,8 @@
       "statusSummary": "Tracked for potential downstream ACS risk-modification relevance via cardiometabolic effects; direct ACS outcome role is not established.",
       "keyTrial": "Lilly cardiometabolic development program",
       "competitorWatch": "Potential competitor in chronic risk-modifying CV prevention strategies",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT07241390)",
+      "nextCatalystDate": "2031-08-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT07241390)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07241390",
         "https://www.lilly.com/news/press-releases"
@@ -652,8 +653,8 @@
       "statusSummary": "Phase III CVOT-tracked Lp(a) program for major adverse cardiovascular events (MACE) relevance in high-risk cardiovascular populations.",
       "keyTrial": "NCT07157774",
       "competitorWatch": "Competes with pelacarsen/olpasiran and broader Lp(a) field",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT07157774)",
+      "nextCatalystDate": "2031-03-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT07157774)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07157774",
         "https://www.lilly.com/news/press-releases"

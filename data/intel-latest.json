@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-05-21T15:47:12+00:00",
+  "generatedAtUTC": "2026-06-01T11:34:19+00:00",
   "days": 7,
   "drugs": [
     {
@@ -33,19 +33,20 @@
       "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
       "clinicalTrials": [
         {
-          "nctId": "NCT06321757",
-          "title": "PREVAIL Paclitaxel-coated Balloon in Small Coronary Disease and High-bleeding Risk Patients",
+          "nctId": "NCT06535854",
+          "title": "Prevail Global Study",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-17",
-          "primaryCompletionDate": "2026-12-30",
-          "completionDate": "2026-12-30",
+          "lastUpdate": "2026-04-24",
+          "primaryCompletionDate": "2027-02",
+          "completionDate": "2031-02",
           "conditions": [
             "Coronary Artery Disease"
           ],
           "interventions": [
-            "Percutaneous Coronary Intervention with DCB and DAPT"
+            "Prevail DCB",
+            "Agent DCB"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT06321757"
+          "url": "https://clinicaltrials.gov/study/NCT06535854"
         }
       ],
       "companyPress": [],
@@ -62,6 +63,23 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
+        {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-14",
+          "primaryCompletionDate": "2026-12-14",
+          "completionDate": "2026-12-14",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
         {
           "nctId": "NCT05021835",
           "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
@@ -99,22 +117,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07276282"
-        },
-        {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
-          "conditions": [
-            "Myocardial Infarction"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Ziltivekimab Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
       "companyPress": [],
@@ -206,7 +208,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-15",
+          "lastUpdate": "2026-05-29",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -266,7 +268,14 @@
           "url": "https://clinicaltrials.gov/study/NCT06292013"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-05-25"
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -293,6 +302,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-05-08",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
+        },
+        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -309,22 +334,6 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
-        },
-        {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-05-08",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
         },
         {
           "nctId": "NCT05754957",
@@ -361,7 +370,7 @@
           "nctId": "NCT04957719",
           "title": "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction",
           "overallStatus": "ENROLLING_BY_INVITATION",
-          "lastUpdate": "2026-05-13",
+          "lastUpdate": "2026-05-22",
           "primaryCompletionDate": "2026-12",
           "completionDate": "2026-12",
           "conditions": [
@@ -428,7 +437,24 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05848674",
+          "title": "CArdiac Brief INtervention: A Feasibility Study to Promote Engagement With Cardiac Rehabilitation",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-03-03",
+          "primaryCompletionDate": "2024-11-01",
+          "completionDate": "2024-11-01",
+          "conditions": [
+            "ST Elevation Myocardial Infarction"
+          ],
+          "interventions": [
+            "CArdiac Brief INtervention (CABIN)",
+            "Refined version of CABIN"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05848674"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -696,7 +722,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-14",
+          "lastUpdate": "2026-05-22",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -731,7 +757,20 @@
           "url": "https://clinicaltrials.gov/study/NCT05803421"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-05-25"
+        },
+        {
+          "title": "Foundayo (orforglipron), a once-daily pill taken without food or water restrictions, was associated with reduced body weight of up to 13% in adults 65 and older with obesity or overweight, in new analysis of ATTAIN-1/2",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/foundayo-orforglipron-once-daily-pill-taken-without-food-or",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-05-22"
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -763,7 +802,14 @@
           "url": "https://clinicaltrials.gov/study/NCT07157774"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-05-25"
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -898,8 +944,8 @@
   "summary": {
     "drugsScanned": 35,
     "drugsWithErrors": 0,
-    "trialHits": 21,
-    "companyPressHits": 7,
+    "trialHits": 22,
+    "companyPressHits": 11,
     "googleNewsHits": 0
   }
 }
