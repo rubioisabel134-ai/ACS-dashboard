@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-01",
+  "snapshotDate": "2026-06-05",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -148,12 +148,12 @@
       "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
       "keyTrial": "Lp(a)HORIZON",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2030-01-09",
-      "nextCatalystEvent": "Estimated primary completion (NCT07517263)",
+      "nextCatalystDate": "2028-12-07",
+      "nextCatalystEvent": "Estimated primary completion (NCT07625306)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07625306",
         "https://clinicaltrials.gov/study/NCT07517263",
-        "https://clinicaltrials.gov/study/NCT04023552",
-        "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
+        "https://clinicaltrials.gov/study/NCT04023552"
       ]
     },
     {
@@ -286,8 +286,8 @@
       "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
       "keyTrial": "LIBREXIA-ACS",
       "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
-      "nextCatalystDate": "2026-11-11",
-      "nextCatalystEvent": "Estimated primary completion (NCT05702034)",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT05754957)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05754957",
         "https://clinicaltrials.gov/study/NCT05702034",

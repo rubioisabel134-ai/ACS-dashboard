@@ -1,43 +1,29 @@
 {
-  "generatedAtUTC": "2026-06-01T11:34:36+00:00",
-  "updates": 8,
+  "generatedAtUTC": "2026-06-05T16:06:02+00:00",
+  "updates": 2,
   "proposals": [
     {
-      "drug": "Obicetrapib",
+      "drug": "Pelacarsen",
       "changes": {
         "nextCatalystDate": {
-          "before": "2026-12-30",
-          "after": "2027-02-28"
+          "before": "2030-01-09",
+          "after": "2028-12-07"
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT06321757)",
-          "after": "Estimated primary completion (NCT06535854)"
-        }
-      }
-    },
-    {
-      "drug": "Ziltivekimab",
-      "changes": {
-        "nextCatalystDate": {
-          "before": "2026-06-09",
-          "after": "2026-12-14"
+          "before": "Estimated primary completion (NCT07517263)",
+          "after": "Estimated primary completion (NCT07625306)"
         },
-        "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT05021835)",
-          "after": "Estimated primary completion (NCT06118281)"
-        }
-      }
-    },
-    {
-      "drug": "Lepodisiran",
-      "changes": {
-        "nextCatalystDate": {
-          "before": null,
-          "after": "2029-03-31"
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT06292013)",
-          "after": "Estimated primary completion (NCT06292013)"
+        "sourceLinks": {
+          "before": [
+            "https://clinicaltrials.gov/study/NCT07517263",
+            "https://clinicaltrials.gov/study/NCT04023552",
+            "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT07625306",
+            "https://clinicaltrials.gov/study/NCT07517263",
+            "https://clinicaltrials.gov/study/NCT04023552"
+          ]
         }
       }
     },
@@ -45,75 +31,12 @@
       "drug": "Milvexian",
       "changes": {
         "nextCatalystDate": {
-          "before": "2026-10-31",
-          "after": "2026-11-11"
+          "before": "2026-11-11",
+          "after": null
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT05757869)",
-          "after": "Estimated primary completion (NCT05702034)"
-        }
-      }
-    },
-    {
-      "drug": "Selatogrel",
-      "changes": {
-        "nextCatalystDate": {
-          "before": null,
-          "after": "2026-12-31"
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT04957719)",
-          "after": "Estimated primary completion (NCT04957719)"
-        }
-      }
-    },
-    {
-      "drug": "VE-1902",
-      "changes": {
-        "statusSummary": {
-          "before": "ClinicalTrials.gov: NCT02880605 status is Completed (last update 2018-10-19).",
-          "after": "ClinicalTrials.gov: NCT05848674 status is Completed (last update 2026-03-03)."
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT02880605)",
-          "after": "Monitor next registry update (NCT05848674)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT02880605",
-            "https://clinicaltrials.gov/study/NCT06681714"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT05848674",
-            "https://clinicaltrials.gov/study/NCT02880605",
-            "https://clinicaltrials.gov/study/NCT06681714"
-          ]
-        }
-      }
-    },
-    {
-      "drug": "Orforglipron",
-      "changes": {
-        "nextCatalystDate": {
-          "before": null,
-          "after": "2031-08-31"
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT07241390)",
-          "after": "Estimated primary completion (NCT07241390)"
-        }
-      }
-    },
-    {
-      "drug": "Muvalaplin",
-      "changes": {
-        "nextCatalystDate": {
-          "before": null,
-          "after": "2031-03-31"
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT07157774)",
-          "after": "Estimated primary completion (NCT07157774)"
+          "before": "Estimated primary completion (NCT05702034)",
+          "after": "Monitor next registry update (NCT05754957)"
         }
       }
     }
