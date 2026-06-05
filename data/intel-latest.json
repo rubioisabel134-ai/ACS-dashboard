@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-05T16:05:30+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-06-05T16:14:03+00:00",
+  "days": 30,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -512,7 +512,7 @@
         "UDP-003",
         "Cyclarity"
       ],
-      "pressReleaseUrl": null,
+      "pressReleaseUrl": "https://cyclaritytx.com/news-publications/",
       "clinicalTrials": [
         {
           "nctId": "NCT06813339",
@@ -532,7 +532,26 @@
           "url": "https://clinicaltrials.gov/study/NCT06813339"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol",
+          "link": "https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/",
+          "source": "cyclaritytx.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial",
+          "link": "https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/",
+          "source": "cyclaritytx.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Cyclarity Therapeutics Announces Clinical Advisory Board",
+          "link": "https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/",
+          "source": "cyclaritytx.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -939,7 +958,7 @@
     "drugsScanned": 35,
     "drugsWithErrors": 0,
     "trialHits": 22,
-    "companyPressHits": 11,
+    "companyPressHits": 14,
     "googleNewsHits": 0
   }
 }

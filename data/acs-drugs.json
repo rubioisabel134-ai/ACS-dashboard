@@ -430,12 +430,13 @@
       "stage": "Phase I",
       "setting": "Chronic post-ACS risk reduction (early development)",
       "signal": "monitor",
-      "statusSummary": "ClinicalTrials.gov: NCT06813339 status is Recruiting (last update 2026-02-24).",
+      "statusSummary": "Cyclarity reported Phase I UDP-003 data showing dose-dependent urinary excretion of 7-ketocholesterol, primary safety/tolerability endpoint met, no serious adverse events, and ongoing ACS cohort enrollment.",
       "keyTrial": "NCT06813339",
-      "competitorWatch": "Early-stage ACS entrant",
+      "competitorWatch": "Early-stage plaque-reversal entrant; Phase II trial expected later in 2026 to assess plaque regression.",
       "nextCatalystDate": "2026-07-30",
       "nextCatalystEvent": "Estimated primary completion (NCT06813339)",
       "sourceLinks": [
+        "https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/",
         "https://clinicaltrials.gov/study/NCT06813339"
       ]
     },

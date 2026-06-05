@@ -1,44 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-05T16:06:02+00:00",
-  "updates": 2,
-  "proposals": [
-    {
-      "drug": "Pelacarsen",
-      "changes": {
-        "nextCatalystDate": {
-          "before": "2030-01-09",
-          "after": "2028-12-07"
-        },
-        "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT07517263)",
-          "after": "Estimated primary completion (NCT07625306)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT07517263",
-            "https://clinicaltrials.gov/study/NCT04023552",
-            "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT07625306",
-            "https://clinicaltrials.gov/study/NCT07517263",
-            "https://clinicaltrials.gov/study/NCT04023552"
-          ]
-        }
-      }
-    },
-    {
-      "drug": "Milvexian",
-      "changes": {
-        "nextCatalystDate": {
-          "before": "2026-11-11",
-          "after": null
-        },
-        "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT05702034)",
-          "after": "Monitor next registry update (NCT05754957)"
-        }
-      }
-    }
-  ]
+  "generatedAtUTC": "2026-06-05T16:14:34+00:00",
+  "updates": 0,
+  "proposals": []
 }

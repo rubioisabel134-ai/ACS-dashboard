@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-06-05)
 
-- Window: last 7 day(s)
+- Window: last 30 day(s)
 - Drugs scanned: 35
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -146,11 +146,16 @@
 ## UDP-003 (Cyclarity)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 3
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06813339] Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Patients | Status: RECRUITING | Last update: 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
+
+### Company press-room hits
+- cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
+- cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
+- cyclaritytx.com | [Cyclarity Therapeutics Announces Clinical Advisory Board](https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/)
 
 ## Dukiprubart (Sungen Biomedical)
 
