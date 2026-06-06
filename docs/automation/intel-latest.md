@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-06-05)
+# ACS Intel Update (2026-06-06)
 
-- Window: last 30 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 35
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -20,15 +20,13 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 4
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
-- [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 
 ## Pacibekitug (Novartis)
 

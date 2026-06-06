@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-05T16:14:03+00:00",
-  "days": 30,
+  "generatedAtUTC": "2026-06-06T12:03:40+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -47,23 +47,6 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
           "nctId": "NCT07276282",
           "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
           "overallStatus": "RECRUITING",
@@ -96,22 +79,6 @@
             "Ziltivekimab Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07301034"
-        },
-        {
-          "nctId": "NCT05636176",
-          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2027-07-02",
-          "completionDate": "2027-07-02",
-          "conditions": [
-            "Heart Failure"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05636176"
         }
       ],
       "companyPress": [],
@@ -957,7 +924,7 @@
   "summary": {
     "drugsScanned": 35,
     "drugsWithErrors": 0,
-    "trialHits": 22,
+    "trialHits": 20,
     "companyPressHits": 14,
     "googleNewsHits": 0
   }
