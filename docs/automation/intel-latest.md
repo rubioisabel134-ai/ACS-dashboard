@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-06-08)
+# ACS Intel Update (2026-06-09)
 
 - Window: last 1 day(s)
 - Drugs scanned: 35
@@ -14,18 +14,23 @@
 
 ## Obicetrapib (NewAmsterdam Pharma)
 
-- ClinicalTrials.gov hits: 0
-- Company press hits: 0
-- Google News hits: 0
-
-## Ziltivekimab (Novo Nordisk)
-
-- ClinicalTrials.gov hits: 2
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT06535854] Prevail Global Study | Status: RECRUITING | Last update: 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
+
+## Ziltivekimab (Novo Nordisk)
+
+- ClinicalTrials.gov hits: 4
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
@@ -86,9 +91,9 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
-- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05702034
 - [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05757869
+- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05702034
+- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
 
 ## Selatogrel (Idorsia / Viatris)
 
@@ -102,14 +107,11 @@
 ## Xolatryp (Nyrada)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
-
-### Company press-room hits
-- www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 
 ## VE-1902 (Verseon)
 
@@ -227,7 +229,7 @@
 ## Orforglipron (Eli Lilly)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 2
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
@@ -236,7 +238,6 @@
 
 ### Company press-room hits
 - investor.lilly.com | [A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia](https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88)
-- investor.lilly.com | [Foundayo (orforglipron), a once-daily pill taken without food or water restrictions, was associated with reduced body weight of up to 13% in adults 65 and older with obesity or overweight, in new analysis of ATTAIN-1/2](https://investor.lilly.com/news-releases/news-release-details/foundayo-orforglipron-once-daily-pill-taken-without-food-or)
 
 ## Muvalaplin (Eli Lilly)
 

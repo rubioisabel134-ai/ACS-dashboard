@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-08T12:00:01+00:00",
+  "generatedAtUTC": "2026-06-09T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -31,7 +31,24 @@
         "BROADWAY"
       ],
       "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06535854",
+          "title": "Prevail Global Study",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-24",
+          "primaryCompletionDate": "2027-02",
+          "completionDate": "2031-02",
+          "conditions": [
+            "Coronary Artery Disease"
+          ],
+          "interventions": [
+            "Prevail DCB",
+            "Agent DCB"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06535854"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -46,6 +63,23 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
+        {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-14",
+          "primaryCompletionDate": "2026-12-14",
+          "completionDate": "2026-12-14",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
         {
           "nctId": "NCT07276282",
           "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
@@ -63,6 +97,22 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT05636176",
+          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-07-02",
+          "completionDate": "2027-07-02",
+          "conditions": [
+            "Heart Failure"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05636176"
         },
         {
           "nctId": "NCT07301034",
@@ -280,20 +330,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT05754957",
-          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
-          "overallStatus": "COMPLETED",
+          "nctId": "NCT05757869",
+          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
           "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-02-06",
-          "completionDate": "2026-02-06",
+          "primaryCompletionDate": "2026-10-31",
+          "completionDate": "2026-10-31",
           "conditions": [
-            "Acute Coronary Syndrome"
+            "Atrial Fibrillation"
           ],
           "interventions": [
             "Milvexian",
-            "Placebo"
+            "Apixaban",
+            "Placebo",
+            "Apixaban Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05754957"
+          "url": "https://clinicaltrials.gov/study/NCT05757869"
         },
         {
           "nctId": "NCT05702034",
@@ -312,22 +364,20 @@
           "url": "https://clinicaltrials.gov/study/NCT05702034"
         },
         {
-          "nctId": "NCT05757869",
-          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "COMPLETED",
           "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-10-31",
-          "completionDate": "2026-10-31",
+          "primaryCompletionDate": "2026-02-06",
+          "completionDate": "2026-02-06",
           "conditions": [
-            "Atrial Fibrillation"
+            "Acute Coronary Syndrome"
           ],
           "interventions": [
             "Milvexian",
-            "Apixaban",
-            "Placebo",
-            "Apixaban Placebo"
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05757869"
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
         }
       ],
       "companyPress": [],
@@ -395,16 +445,11 @@
           "url": "https://clinicaltrials.gov/study/NCT07362446"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Myocardial Ischemia and Arrhythmia Control",
-          "link": "https://www.nyrada.com/site/programs/myocardial-ischemia",
-          "source": "www.nyrada.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: The read operation timed out"
+      ]
     },
     {
       "name": "VE-1902",
@@ -743,12 +788,6 @@
           "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
           "source": "investor.lilly.com",
           "publishedAt": "2026-05-25"
-        },
-        {
-          "title": "Foundayo (orforglipron), a once-daily pill taken without food or water restrictions, was associated with reduced body weight of up to 13% in adults 65 and older with obesity or overweight, in new analysis of ATTAIN-1/2",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/foundayo-orforglipron-once-daily-pill-taken-without-food-or",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-05-22"
         }
       ],
       "googleNews": [],
@@ -923,9 +962,9 @@
   ],
   "summary": {
     "drugsScanned": 35,
-    "drugsWithErrors": 0,
-    "trialHits": 20,
-    "companyPressHits": 14,
+    "drugsWithErrors": 1,
+    "trialHits": 23,
+    "companyPressHits": 12,
     "googleNewsHits": 0
   }
 }
