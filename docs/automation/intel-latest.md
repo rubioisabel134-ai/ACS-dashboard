@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-06-09)
+# ACS Intel Update (2026-06-10)
 
 - Window: last 1 day(s)
 - Drugs scanned: 35
@@ -14,24 +14,20 @@
 
 ## Obicetrapib (NewAmsterdam Pharma)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT06535854] Prevail Global Study | Status: RECRUITING | Last update: 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 4
+- ClinicalTrials.gov hits: 3
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
+- [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT05636176] A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT05636176
-- [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
 ## Pacibekitug (Novartis)
 
@@ -69,14 +65,11 @@
 ## Lepodisiran (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-19 | https://clinicaltrials.gov/study/NCT06292013
-
-### Company press-room hits
-- investor.lilly.com | [A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia](https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88)
 
 ## Olezarsen (Ionis)
 
@@ -92,8 +85,8 @@
 
 ### Latest trial updates
 - [NCT05757869] A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05757869
-- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05702034
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
+- [NCT05702034] A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05702034
 
 ## Selatogrel (Idorsia / Viatris)
 
@@ -107,11 +100,14 @@
 ## Xolatryp (Nyrada)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
+
+### Company press-room hits
+- www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 
 ## VE-1902 (Verseon)
 
@@ -229,27 +225,21 @@
 ## Orforglipron (Eli Lilly)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07241390
 - [NCT05803421] A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk | Status: COMPLETED | Last update: 2026-04-17 | https://clinicaltrials.gov/study/NCT05803421
 
-### Company press-room hits
-- investor.lilly.com | [A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia](https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88)
-
 ## Muvalaplin (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-06-03 | https://clinicaltrials.gov/study/NCT07157774
-
-### Company press-room hits
-- investor.lilly.com | [A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia](https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88)
 
 ## Orticumab (Abcentra)
 

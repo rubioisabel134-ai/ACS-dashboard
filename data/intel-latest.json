@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-09T12:00:00+00:00",
+  "generatedAtUTC": "2026-06-10T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -31,24 +31,7 @@
         "BROADWAY"
       ],
       "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT06535854",
-          "title": "Prevail Global Study",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-24",
-          "primaryCompletionDate": "2027-02",
-          "completionDate": "2031-02",
-          "conditions": [
-            "Coronary Artery Disease"
-          ],
-          "interventions": [
-            "Prevail DCB",
-            "Agent DCB"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06535854"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -64,21 +47,24 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-06-09",
+          "completionDate": "2026-06-09",
           "conditions": [
             "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
+            "Chronic Kidney Disease",
+            "Inflammation"
           ],
           "interventions": [
-            "Ziltivekimab",
-            "Placebo"
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
           "nctId": "NCT07276282",
@@ -113,22 +99,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05636176"
-        },
-        {
-          "nctId": "NCT07301034",
-          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2028-11-14",
-          "completionDate": "2029-02-24",
-          "conditions": [
-            "Myocardial Infarction"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Ziltivekimab Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
       "companyPress": [],
@@ -296,14 +266,7 @@
           "url": "https://clinicaltrials.gov/study/NCT06292013"
         }
       ],
-      "companyPress": [
-        {
-          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-05-25"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -348,22 +311,6 @@
           "url": "https://clinicaltrials.gov/study/NCT05757869"
         },
         {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
           "nctId": "NCT05754957",
           "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
           "overallStatus": "COMPLETED",
@@ -378,6 +325,22 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05754957"
+        },
+        {
+          "nctId": "NCT05702034",
+          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-06-05",
+          "primaryCompletionDate": "2026-11-11",
+          "completionDate": "2026-12-09",
+          "conditions": [
+            "Ischemic Stroke; Ischemic Attack, Transient"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05702034"
         }
       ],
       "companyPress": [],
@@ -445,11 +408,16 @@
           "url": "https://clinicaltrials.gov/study/NCT07362446"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Myocardial Ischemia and Arrhythmia Control",
+          "link": "https://www.nyrada.com/site/programs/myocardial-ischemia",
+          "source": "www.nyrada.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
-      "errors": [
-        "company press: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "VE-1902",
@@ -782,14 +750,7 @@
           "url": "https://clinicaltrials.gov/study/NCT05803421"
         }
       ],
-      "companyPress": [
-        {
-          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-05-25"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -821,14 +782,7 @@
           "url": "https://clinicaltrials.gov/study/NCT07157774"
         }
       ],
-      "companyPress": [
-        {
-          "title": "A single dose of Lilly's PCSK9 base editor, VERVE-102, reduced PCSK9 by up to 88% and LDL-C by up to 62%, with durable effects supporting its potential as a one-time treatment for hypercholesterolemia",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/single-dose-lillys-pcsk9-base-editor-verve-102-reduced-pcsk9-88",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-05-25"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -962,9 +916,9 @@
   ],
   "summary": {
     "drugsScanned": 35,
-    "drugsWithErrors": 1,
-    "trialHits": 23,
-    "companyPressHits": 12,
+    "drugsWithErrors": 0,
+    "trialHits": 21,
+    "companyPressHits": 10,
     "googleNewsHits": 0
   }
 }
