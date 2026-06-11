@@ -1,21 +1,20 @@
-# ACS Daily CI Report (2026-06-10)
+# ACS Daily CI Report (2026-06-11)
 
-- Generated (UTC): 2026-06-10T12:00:01+00:00
+- Generated (UTC): 2026-06-11T12:00:01+00:00
 - Drugs scanned: 35
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
 ## Trial Status Updates
 
-- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
-- Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
+- Ziltivekimab: [NCT07301034] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-06-10 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-05-18 | https://clinicaltrials.gov/study/NCT07517263
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT06292013
-- Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT05757869
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
+- Milvexian: [NCT05757869] ACTIVE_NOT_RECRUITING | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT05757869
 - Selatogrel: [NCT04957719] ENROLLING_BY_INVITATION | last update 2026-05-22 | https://clinicaltrials.gov/study/NCT04957719
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
@@ -33,8 +32,6 @@
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
 

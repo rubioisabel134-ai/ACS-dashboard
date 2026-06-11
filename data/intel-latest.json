@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-10T12:00:01+00:00",
+  "generatedAtUTC": "2026-06-11T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -47,58 +47,20 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
-          "nctId": "NCT05021835",
-          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-06-09",
-          "completionDate": "2026-06-09",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Chronic Kidney Disease",
-            "Inflammation"
-          ],
-          "interventions": [
-            "Ziltivekimab B",
-            "Ziltivekimab C",
-            "Placebo (Ziltivekimab B)",
-            "Placebo (Ziltivekimab C)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05021835"
-        },
-        {
-          "nctId": "NCT07276282",
-          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-23",
-          "primaryCompletionDate": "2028-09-01",
-          "completionDate": "2028-12-01",
-          "conditions": [
-            "Coronary Artery Disease",
-            "Acute Myocardial Infarction (AMI)",
-            "Coronary Atherosclerosis of Native Coronary Artery"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07276282"
-        },
-        {
-          "nctId": "NCT05636176",
-          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
           "overallStatus": "RECRUITING",
           "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2027-07-02",
-          "completionDate": "2027-07-02",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
           "conditions": [
-            "Heart Failure"
+            "Myocardial Infarction"
           ],
           "interventions": [
             "Ziltivekimab",
-            "Placebo"
+            "Ziltivekimab Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05636176"
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
       "companyPress": [],
@@ -142,6 +104,21 @@
       "pressReleaseUrl": null,
       "clinicalTrials": [
         {
+          "nctId": "NCT07517263",
+          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-10",
+          "primaryCompletionDate": "2030-01-09",
+          "completionDate": "2030-01-09",
+          "conditions": [
+            "Cardiovascular Disease and Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Pelacarsen (TQJ230)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07517263"
+        },
+        {
           "nctId": "NCT07625306",
           "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL",
           "overallStatus": "NOT_YET_RECRUITING",
@@ -156,21 +133,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07625306"
-        },
-        {
-          "nctId": "NCT07517263",
-          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-18",
-          "primaryCompletionDate": "2030-01-09",
-          "completionDate": "2030-01-09",
-          "conditions": [
-            "Cardiovascular Disease and Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Pelacarsen (TQJ230)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07517263"
         },
         {
           "nctId": "NCT04023552",
@@ -293,6 +255,22 @@
       "pressReleaseUrl": "https://www.bms.com/media/press-releases.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05754957",
+          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-06-05",
+          "primaryCompletionDate": "2026-02-06",
+          "completionDate": "2026-02-06",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Milvexian",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05754957"
+        },
+        {
           "nctId": "NCT05757869",
           "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -309,22 +287,6 @@
             "Apixaban Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05757869"
-        },
-        {
-          "nctId": "NCT05754957",
-          "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-02-06",
-          "completionDate": "2026-02-06",
-          "conditions": [
-            "Acute Coronary Syndrome"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05754957"
         },
         {
           "nctId": "NCT05702034",
@@ -869,22 +831,11 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        },
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: [Errno 54] Connection reset by peer"
+      ]
     },
     {
       "name": "RO7763505",
@@ -916,9 +867,9 @@
   ],
   "summary": {
     "drugsScanned": 35,
-    "drugsWithErrors": 0,
-    "trialHits": 21,
-    "companyPressHits": 10,
+    "drugsWithErrors": 1,
+    "trialHits": 19,
+    "companyPressHits": 8,
     "googleNewsHits": 0
   }
 }
