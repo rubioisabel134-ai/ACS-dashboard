@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-12T12:01:42+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-06-12T16:30:07+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -96,6 +96,40 @@
           "url": "https://clinicaltrials.gov/study/NCT06118281"
         },
         {
+          "nctId": "NCT07276282",
+          "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-23",
+          "primaryCompletionDate": "2028-09-01",
+          "completionDate": "2028-12-01",
+          "conditions": [
+            "Coronary Artery Disease",
+            "Acute Myocardial Infarction (AMI)",
+            "Coronary Atherosclerosis of Native Coronary Artery"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "nctId": "NCT07301034",
+          "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2028-11-14",
+          "completionDate": "2029-02-24",
+          "conditions": [
+            "Myocardial Infarction"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Ziltivekimab Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07301034"
+        },
+        {
           "nctId": "NCT05636176",
           "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
           "overallStatus": "RECRUITING",
@@ -114,9 +148,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: [Errno 54] Connection reset by peer"
-      ]
+      "errors": []
     },
     {
       "name": "Pacibekitug",
@@ -929,8 +961,8 @@
   ],
   "summary": {
     "drugsScanned": 35,
-    "drugsWithErrors": 1,
-    "trialHits": 22,
+    "drugsWithErrors": 0,
+    "trialHits": 24,
     "companyPressHits": 10,
     "googleNewsHits": 0
   }

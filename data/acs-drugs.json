@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-05",
+  "snapshotDate": "2026-06-12",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -148,8 +148,8 @@
       "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
       "keyTrial": "Lp(a)HORIZON",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2028-12-07",
-      "nextCatalystEvent": "Estimated primary completion (NCT07625306)",
+      "nextCatalystDate": "2030-01-09",
+      "nextCatalystEvent": "Estimated primary completion (NCT07517263)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07625306",
         "https://clinicaltrials.gov/study/NCT07517263",
