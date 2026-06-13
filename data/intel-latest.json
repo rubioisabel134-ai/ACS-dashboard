@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-12T16:30:07+00:00",
+  "generatedAtUTC": "2026-06-13T19:25:27+00:00",
   "days": 7,
   "drugs": [
     {
@@ -398,10 +398,28 @@
       "aliases": [
         "selatogrel",
         "selatogerl",
-        "SOS-AMI"
+        "SOS-AMI",
+        "ACT-246475",
+        "NCT07615868"
       ],
       "pressReleaseUrl": "https://newsroom.viatris.com/press-releases?l=100",
       "clinicalTrials": [
+        {
+          "nctId": "NCT07615868",
+          "title": "A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-05-29",
+          "primaryCompletionDate": "2026-10",
+          "completionDate": "2026-10",
+          "conditions": [
+            "Chronic Coronary Syndrome"
+          ],
+          "interventions": [
+            "Selatogrel",
+            "Matching placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07615868"
+        },
         {
           "nctId": "NCT04957719",
           "title": "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction",
@@ -598,12 +616,78 @@
       "sponsor": "CureGene",
       "aliases": [
         "evategrel",
-        "CureGene"
+        "CG-0255",
+        "CG-0255 Besylate",
+        "CureGene",
+        "Shanghai CureGene",
+        "NCT07619885"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07619885",
+          "title": "The Pharmacokinetics and Pharmacodynamics Study of CG-0255 Besylate and Plavix\u00ae in Healthy Participants",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-05",
+          "primaryCompletionDate": "2026-10",
+          "completionDate": "2026-12",
+          "conditions": [
+            "Acute Coronary Syndromes (ACS)",
+            "Recent Myocardial Infarction",
+            "Recent Stroke",
+            "Peripheral Arterial Disease"
+          ],
+          "interventions": [
+            "CG-0255 Besylate for Injection",
+            "CG-0255 Besylate Capsule",
+            "Clopidogrel"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07619885"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Sumecigrel",
+      "sponsor": "Vcare PharmaTech / Everest Medicines",
+      "aliases": [
+        "sumecigrel",
+        "vicagrel",
+        "Vcare PharmaTech",
+        "Everest Medicines"
+      ],
+      "pressReleaseUrl": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html",
+      "clinicalTrials": [],
+      "companyPress": [
+        {
+          "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
+          "link": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html",
+          "source": "www.prnewswire.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [
+        {
+          "title": "Everest Medicines Secures Exclusive License for Sumecigrel in Asia-Pacific, Expanding Its Cardiovascular Product Portfolio - ANTARA News",
+          "source": "ANTARA News",
+          "publishedAt": "2026-06-11T02:30:36+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTTVYb3lIcmVrTVNfNFM3MlFaX2J0U3ZrYW9Qb25sYkFuNlAtWjA0QWwyVDZwQXRhU3o1VThIR240bU1vUnhkMWp0Q0VDN0xoZVZRR3NSVml1RnFOckdTTzkwWEhzbVNfejFuWjZxSXpjWjZmUXRzYUJFcDllU1pBbXJhSExzRWwzYXpQeDhGQVRIMkxHLXBMWlZGRDFBOEFKcE5iX19YXzRpOVhoakpDR0tybm5DdTlrTEpmbXJzc3NfWEJGczAxZmJWS3hsWV9iM2dsbTNnNksyVGFHZkxrRVNIc1RYcEp0UkdNNTAzTVBMelFtOXfSAfYBQVVfeXFMUE01WG95SHJla01TXzRTNzJRWl9idFN2a2FvUG9ubGJBbjZQLVowNEFsMlQ2cEF0YVN6NVU4SEduNG1Nb1J4ZDFqdENFQzdMaGVWUUdzUlZpdUZxTnJHU085MFhIc21TX3oxblo2cUl6Y1o2ZlF0c2FCRXA5ZVNaQW1yYUhMc0VsM2F6UHg4RkFUSDJMRy1wTFpWRkQxQThBSnBOYl9fWF80aTlYaGpKQ0dLcm5uQ3U5a0xKZm1yc3NzX1hCRnMwMWZiVkt4bFlfYjNnbG0zZzZLMlRhR2ZMa0VTSHNUWHBKdFJHTTUwM01QTHpRbTl3?oc=5"
+        },
+        {
+          "title": "Everest Medicines expands cardiovascular product portfolio with license agreement for Sumecigrel in Asia-Pacific - BioSpectrum Asia",
+          "source": "BioSpectrum Asia",
+          "publishedAt": "2026-06-09T13:07:30+00:00",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclBXMkxSM3M5MmN5LXh3RmQ1ZWtEQUw3azBKSmhWQ3RTUUxZa20yT0x4ODU1MGxpakFWVm40SHdQOEJnUU1FN2hZSnVNbUdCMUpTNlQzNGJBWmw1T3BpcmU0TTFiQjRRS3d2eFNpczZ1UjNyckM4Vm5VQ2wxbUY2Y3pfYkh5NDVjWHZnZU1OVGU3WjB3MlMxUjVVM19BNnMxMEdUR3R4NWp2ZkxNQnA4Q01UR3pWaWZJTFZRekltZHF1dlR4aEU1WGs5SklnVURQUmFfZFl6QllHZWE1UWtCRV8tNlhuUjUtWHJvYXJ2RDhXYThwdlE?oc=5"
+        },
+        {
+          "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel - IT\ube44\uc988\ub274\uc2a4",
+          "source": "IT\ube44\uc988\ub274\uc2a4",
+          "publishedAt": "2026-06-09T00:21:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Xa0E2RzVqYlBGenUyQ2FxcnVreWxsWXMtWlRhYnZwZldfN05zT0QtLXNQcTUteFdFTFViN21qSHhVaTlrMzVMYlNpYWlQMHNRWm94RzZCTWNYeXNhcHRDdnkyRXQ5cmJRVW5NcA?oc=5"
+        }
+      ],
       "errors": []
     },
     {
@@ -960,10 +1044,10 @@
     }
   ],
   "summary": {
-    "drugsScanned": 35,
+    "drugsScanned": 36,
     "drugsWithErrors": 0,
-    "trialHits": 24,
-    "companyPressHits": 10,
-    "googleNewsHits": 0
+    "trialHits": 26,
+    "companyPressHits": 11,
+    "googleNewsHits": 3
   }
 }

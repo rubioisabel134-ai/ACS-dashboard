@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-12",
+  "snapshotDate": "2026-06-13",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -106,12 +106,13 @@
       "stage": "Phase III",
       "setting": "Acute suspected MI",
       "signal": "monitor",
-      "statusSummary": "Late-stage emergency-use antiplatelet strategy for very early MI treatment outside hospital.",
+      "statusSummary": "Late-stage emergency-use antiplatelet strategy for very early MI treatment outside hospital; Viatris also posted a China Phase I PK/PD study in chronic coronary syndrome.",
       "keyTrial": "SOS-AMI",
       "competitorWatch": "Competes with EMS/hospital antiplatelet initiation models",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT04957719)",
+      "nextCatalystDate": "2026-10-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT07615868)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07615868",
         "https://clinicaltrials.gov/study/NCT04957719",
         "https://www.viatris.com/en/lm/news/viatris-and-idorsia-expand-collaboration-with-new-development-and-commercialization-agreements"
       ]
@@ -460,17 +461,37 @@
       "drug": "Evategrel",
       "sponsor": "CureGene",
       "class": "Antiplatelet candidate",
-      "target": "Platelet aggregation pathway",
+      "target": "P2Y12 / clopidogrel active-metabolite pathway",
       "modality": "Small molecule",
       "stage": "Phase I",
       "setting": "Acute ACS/PCI (early development)",
       "signal": "monitor",
-      "statusSummary": "Added as Phase I watchlist placeholder for antiplatelet strategy tracking.",
+      "statusSummary": "CG-0255/evategrel Phase I U.S. PK/PD study is recruiting; trial compares CG-0255 besylate loading/maintenance strategies with Plavix in healthy participants.",
+      "keyTrial": "NCT07619885",
+      "competitorWatch": "Potential next-generation clopidogrel-pathway challenger in acute antiplatelet setting",
+      "nextCatalystDate": "2026-10-31",
+      "nextCatalystEvent": "Estimated primary completion (NCT07619885)",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07619885"
+      ]
+    },
+    {
+      "drug": "Sumecigrel (Vicagrel)",
+      "sponsor": "Vcare PharmaTech / Everest Medicines",
+      "class": "Oral P2Y12 receptor antagonist",
+      "target": "P2Y12",
+      "modality": "Small molecule",
+      "stage": "Pre-NDA / regional licensing",
+      "setting": "ACS, ischemic stroke, and PAD antiplatelet therapy",
+      "signal": "positive",
+      "statusSummary": "Everest Medicines licensed Asia-Pacific development, registration, and commercialization rights to sumecigrel from Vcare PharmaTech; the release says China/U.S./Europe NDA preparations are advancing.",
       "keyTrial": "Not disclosed",
-      "competitorWatch": "Potential challenger in acute antiplatelet setting",
+      "competitorWatch": "Next-generation oral P2Y12 antagonist positioned against clopidogrel variability/resistance and other ACS antiplatelet options.",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor for first public trial/registry updates",
-      "sourceLinks": []
+      "nextCatalystEvent": "Monitor China/U.S./Europe NDA preparation and regional development updates",
+      "sourceLinks": [
+        "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html"
+      ]
     },
     {
       "drug": "DT-678",

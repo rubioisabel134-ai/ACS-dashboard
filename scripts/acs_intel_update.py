@@ -139,7 +139,8 @@ def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_t
     medical_context = re.search(
         r"\b(trial|study|phase|clinical|ct\.gov|nct\d{8}|results|topline|endpoint|enrollment|enrolment|"
         r"dosed|completion|complete|readout|cvot|mace|acs|stemi|nstemi|myocardial|pci|"
-        r"lipoprotein|lpa|ldl|press release|financial results|pipeline|congress|acc|aha|esc|eas)\b",
+        r"lipoprotein|lpa|ldl|press release|financial results|pipeline|license|licensing|agreement|"
+        r"registration|commercialization|commercialisation|congress|acc|aha|esc|eas)\b",
         hay,
     )
     cv_context = re.search(
@@ -259,6 +260,30 @@ def parse_press_feed(page: str, source_url: str) -> list[dict[str, str]]:
     return items
 
 
+def extract_page_title(page: str) -> str | None:
+    for pattern in (r"<h1[^>]*>(.*?)</h1>", r"<title[^>]*>(.*?)</title>"):
+        match = re.search(pattern, page, flags=re.IGNORECASE | re.DOTALL)
+        if not match:
+            continue
+        title = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
+        title = re.sub(r"\s+", " ", title).strip()
+        if title:
+            return title
+    return None
+
+
+def extract_meta_description(page: str) -> str:
+    patterns = (
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
+    )
+    for pattern in patterns:
+        match = re.search(pattern, page, flags=re.IGNORECASE | re.DOTALL)
+        if match:
+            return html.unescape(re.sub(r"\s+", " ", match.group(1))).strip()
+    return ""
+
+
 def company_press_search(
     drug: dict[str, Any],
     max_results: int,
@@ -280,6 +305,22 @@ def company_press_search(
     base_domain = urllib.parse.urlparse(press_url).netloc.lower()
     selected: list[dict[str, Any]] = []
     seen: set[str] = set()
+
+    page_title = extract_page_title(page)
+    if page_title and text_is_informative(page_title):
+        hay_title = f"{page_title} {extract_meta_description(page)}"
+        if item_is_relevant(hay_title, press_url, aliases, sponsor_words):
+            year = extract_year(page_title)
+            if year is None or year == target_year:
+                selected.append(
+                    {
+                        "title": re.sub(r"\s+", " ", page_title).strip(),
+                        "link": press_url,
+                        "source": base_domain or "company press room",
+                        "publishedAt": None,
+                    }
+                )
+                seen.add(press_url)
 
     if feed_items:
         for item in feed_items:
@@ -361,6 +402,34 @@ def company_press_search(
     return selected
 
 
+def trial_summary_from_protocol(protocol: dict[str, Any]) -> dict[str, Any] | None:
+    ident = protocol.get("identificationModule", {})
+    status = protocol.get("statusModule", {})
+    cond = protocol.get("conditionsModule", {})
+    arms = protocol.get("armsInterventionsModule", {})
+    nct_id = ident.get("nctId", "")
+    if not nct_id:
+        return None
+
+    interventions = [
+        i.get("name", "")
+        for i in (arms.get("interventions") or [])
+        if i.get("name")
+    ]
+    title = ident.get("briefTitle") or ident.get("officialTitle") or "Untitled"
+    return {
+        "nctId": nct_id,
+        "title": title,
+        "overallStatus": status.get("overallStatus", "Unknown"),
+        "lastUpdate": (status.get("lastUpdatePostDateStruct") or {}).get("date"),
+        "primaryCompletionDate": (status.get("primaryCompletionDateStruct") or {}).get("date"),
+        "completionDate": (status.get("completionDateStruct") or {}).get("date"),
+        "conditions": cond.get("conditions") or [],
+        "interventions": interventions,
+        "url": f"https://clinicaltrials.gov/study/{nct_id}",
+    }
+
+
 def clinicaltrials_search(
     drug: dict[str, Any],
     indication_terms: list[str],
@@ -374,45 +443,42 @@ def clinicaltrials_search(
 
     params = urllib.parse.urlencode({"query.term": term, "pageSize": str(max_results)})
     url = f"https://clinicaltrials.gov/api/v2/studies?{params}"
-    payload = http_get_json(url)
+    search_payload = http_get_json(url)
 
     studies: list[dict[str, Any]] = []
-    for s in payload.get("studies", []):
-        protocol = s.get("protocolSection", {})
-        ident = protocol.get("identificationModule", {})
-        status = protocol.get("statusModule", {})
-        cond = protocol.get("conditionsModule", {})
-        arms = protocol.get("armsInterventionsModule", {})
+    seen_nct_ids: set[str] = set()
 
-        interventions = [
-            i.get("name", "")
-            for i in (arms.get("interventions") or [])
-            if i.get("name")
-        ]
-        title = ident.get("briefTitle") or ident.get("officialTitle") or "Untitled"
+    for nct_id in drug.get("nct_ids") or []:
+        trial_payload = http_get_json(f"https://clinicaltrials.gov/api/v2/studies/{urllib.parse.quote(nct_id)}")
+        trial = trial_summary_from_protocol(trial_payload.get("protocolSection", {}))
+        if not trial:
+            continue
+        last_update = trial.get("lastUpdate")
+        if extract_year(last_update) != target_year:
+            continue
+        studies.append(trial)
+        seen_nct_ids.add(trial["nctId"])
+
+    for s in search_payload.get("studies", []):
+        protocol = s.get("protocolSection", {})
+        trial = trial_summary_from_protocol(protocol)
+        if not trial or trial["nctId"] in seen_nct_ids:
+            continue
+
+        title = trial.get("title") or "Untitled"
+        interventions = trial.get("interventions") or []
         summary_text = " ".join([title, " ".join(interventions)]).lower()
         alias_hit = any(a.lower() in summary_text for a in aliases)
 
         if not alias_hit:
             continue
 
-        last_update = (status.get("lastUpdatePostDateStruct") or {}).get("date")
+        last_update = trial.get("lastUpdate")
         if extract_year(last_update) != target_year:
             continue
 
-        studies.append(
-            {
-                "nctId": ident.get("nctId", ""),
-                "title": title,
-                "overallStatus": status.get("overallStatus", "Unknown"),
-                "lastUpdate": last_update,
-                "primaryCompletionDate": (status.get("primaryCompletionDateStruct") or {}).get("date"),
-                "completionDate": (status.get("completionDateStruct") or {}).get("date"),
-                "conditions": cond.get("conditions") or [],
-                "interventions": interventions,
-                "url": f"https://clinicaltrials.gov/study/{ident.get('nctId', '')}" if ident.get("nctId") else None,
-            }
-        )
+        studies.append(trial)
+        seen_nct_ids.add(trial["nctId"])
 
     studies.sort(key=lambda x: x.get("lastUpdate") or "", reverse=True)
     return studies[:max_results]

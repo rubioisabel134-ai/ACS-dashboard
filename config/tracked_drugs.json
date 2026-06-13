@@ -72,7 +72,8 @@
     {
       "name": "Selatogrel",
       "sponsor": "Idorsia / Viatris",
-      "aliases": ["selatogrel", "selatogerl", "SOS-AMI"],
+      "aliases": ["selatogrel", "selatogerl", "SOS-AMI", "ACT-246475", "NCT07615868"],
+      "nct_ids": ["NCT07615868"],
       "press_release_url": "https://newsroom.viatris.com/press-releases?l=100"
     },
     {
@@ -121,7 +122,14 @@
     {
       "name": "Evategrel",
       "sponsor": "CureGene",
-      "aliases": ["evategrel", "CureGene"]
+      "aliases": ["evategrel", "CG-0255", "CG-0255 Besylate", "CureGene", "Shanghai CureGene", "NCT07619885"],
+      "nct_ids": ["NCT07619885"]
+    },
+    {
+      "name": "Sumecigrel",
+      "sponsor": "Vcare PharmaTech / Everest Medicines",
+      "aliases": ["sumecigrel", "vicagrel", "Vcare PharmaTech", "Everest Medicines"],
+      "press_release_url": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html"
     },
     {
       "name": "DT-678",
