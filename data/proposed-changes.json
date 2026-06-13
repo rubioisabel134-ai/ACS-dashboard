@@ -1,5 +1,23 @@
 {
-  "generatedAtUTC": "2026-06-13T19:25:45+00:00",
-  "updates": 0,
-  "proposals": []
+  "generatedAtUTC": "2026-06-13T19:34:33+00:00",
+  "updates": 1,
+  "proposals": [
+    {
+      "drug": "Obicetrapib",
+      "changes": {
+        "sourceLinks": {
+          "before": [
+            "https://clinicaltrials.gov/study/NCT06321757",
+            "https://clinicaltrials.gov/study/NCT06535854",
+            "https://clinicaltrials.gov/study/NCT05562089"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT06305559",
+            "https://clinicaltrials.gov/study/NCT06535854",
+            "https://clinicaltrials.gov/study/NCT05562089"
+          ]
+        }
+      }
+    }
+  ]
 }

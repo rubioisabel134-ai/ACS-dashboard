@@ -138,13 +138,15 @@ def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_t
 
     medical_context = re.search(
         r"\b(trial|study|phase|clinical|ct\.gov|nct\d{8}|results|topline|endpoint|enrollment|enrolment|"
-        r"dosed|completion|complete|readout|cvot|mace|acs|stemi|nstemi|myocardial|pci|"
+        r"dosed|completion|complete|readout|cvot|mace|acs|ccs|cad|chd|ascvd|stemi|nstemi|"
+        r"myocardial|coronary|post-mi|post myocardial infarction|secondary prevention|pci|"
         r"lipoprotein|lpa|ldl|press release|financial results|pipeline|license|licensing|agreement|"
         r"registration|commercialization|commercialisation|congress|acc|aha|esc|eas)\b",
         hay,
     )
     cv_context = re.search(
-        r"\b(cvot|mace|acs|stemi|nstemi|myocardial|coronary|pci|cardiovascular|cardio|"
+        r"\b(cvot|mace|acs|ccs|cad|chd|ascvd|stemi|nstemi|myocardial|coronary|"
+        r"atherothrombotic|atherosclerotic|secondary prevention|pci|cardiovascular|cardio|"
         r"lipoprotein|lpa|ldl|thrombo|thrombolytic|antiplatelet|anticoagulant|heart failure|mi)\b",
         hay,
     )
@@ -436,7 +438,7 @@ def clinicaltrials_search(
     max_results: int,
     target_year: int,
 ) -> list[dict[str, Any]]:
-    aliases = drug.get("aliases") or [drug["name"]]
+    aliases = drug.get("trial_aliases") or drug.get("aliases") or [drug["name"]]
     drug_clause = " OR ".join(f'"{a}"' for a in aliases[:3])
     indication_clause = " OR ".join(f'"{i}"' for i in indication_terms[:6])
     term = f"({drug_clause}) AND ({indication_clause})"

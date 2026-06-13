@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-13T19:25:27+00:00",
+  "generatedAtUTC": "2026-06-13T19:57:00+00:00",
   "days": 7,
   "drugs": [
     {
@@ -49,19 +49,22 @@
           "url": "https://clinicaltrials.gov/study/NCT06535854"
         },
         {
-          "nctId": "NCT06321757",
-          "title": "PREVAIL Paclitaxel-coated Balloon in Small Coronary Disease and High-bleeding Risk Patients",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-17",
-          "primaryCompletionDate": "2026-12-30",
-          "completionDate": "2026-12-30",
+          "nctId": "NCT06305559",
+          "title": "A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-09",
+          "primaryCompletionDate": "2027-11",
+          "completionDate": "2028-02",
           "conditions": [
-            "Coronary Artery Disease"
+            "Lipidemia",
+            "Coronary Artery Disease",
+            "Plaque, Atherosclerotic"
           ],
           "interventions": [
-            "Percutaneous Coronary Intervention with DCB and DAPT"
+            "obicetrapib 10 mg + ezetimibe 10 mg FDC daily",
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT06321757"
+          "url": "https://clinicaltrials.gov/study/NCT06305559"
         }
       ],
       "companyPress": [],
@@ -78,23 +81,6 @@
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
-        {
-          "nctId": "NCT06118281",
-          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-14",
-          "primaryCompletionDate": "2026-12-14",
-          "completionDate": "2026-12-14",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Acute Myocardial Infarction (AMI)"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
         {
           "nctId": "NCT07276282",
           "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
@@ -128,22 +114,6 @@
             "Ziltivekimab Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07301034"
-        },
-        {
-          "nctId": "NCT05636176",
-          "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-03-11",
-          "primaryCompletionDate": "2027-07-02",
-          "completionDate": "2027-07-02",
-          "conditions": [
-            "Heart Failure"
-          ],
-          "interventions": [
-            "Ziltivekimab",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05636176"
         }
       ],
       "companyPress": [],
@@ -172,7 +142,24 @@
         "Ribolia"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06717074",
+          "title": "A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-05-27",
+          "primaryCompletionDate": "2026-04-29",
+          "completionDate": "2026-04-29",
+          "conditions": [
+            "Stable Coronary Artery Disease CAD"
+          ],
+          "interventions": [
+            "RBD4059",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06717074"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -292,25 +279,7 @@
         "ALPACA"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT06292013",
-          "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-05-19",
-          "primaryCompletionDate": "2029-03",
-          "completionDate": "2029-03",
-          "conditions": [
-            "Atherosclerotic Cardiovascular Disease (ASCVD)",
-            "Elevated Lp(a)"
-          ],
-          "interventions": [
-            "Lepodisiran Sodium",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06292013"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -352,40 +321,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT05754957"
-        },
-        {
-          "nctId": "NCT05702034",
-          "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-11-11",
-          "completionDate": "2026-12-09",
-          "conditions": [
-            "Ischemic Stroke; Ischemic Attack, Transient"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05702034"
-        },
-        {
-          "nctId": "NCT05757869",
-          "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-06-05",
-          "primaryCompletionDate": "2026-10-31",
-          "completionDate": "2026-10-31",
-          "conditions": [
-            "Atrial Fibrillation"
-          ],
-          "interventions": [
-            "Milvexian",
-            "Apixaban",
-            "Placebo",
-            "Apixaban Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05757869"
         }
       ],
       "companyPress": [],
@@ -419,22 +354,6 @@
             "Matching placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07615868"
-        },
-        {
-          "nctId": "NCT04957719",
-          "title": "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction",
-          "overallStatus": "ENROLLING_BY_INVITATION",
-          "lastUpdate": "2026-05-22",
-          "primaryCompletionDate": "2026-12",
-          "completionDate": "2026-12",
-          "conditions": [
-            "Acute Myocardial Infarction"
-          ],
-          "interventions": [
-            "Selatogrel",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT04957719"
         }
       ],
       "companyPress": [],
@@ -826,7 +745,26 @@
         "iPSC-derived cardiomyocyte"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07347197",
+          "title": "Endocardial Delivery for Myocardial Regeneration Using Allogeneic iPSC-derived Cardiomyocyte Spheroids for HF With Systolic Dysfunction (EMERALD Study)",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-01-16",
+          "primaryCompletionDate": "2028-01-01",
+          "completionDate": "2030-01-31",
+          "conditions": [
+            "Heart Failure",
+            "Ischemic Heart Failure",
+            "Ischemic Heart Disease",
+            "Dilated Cardiomyopathy (DCM)"
+          ],
+          "interventions": [
+            "HS-005"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07347197"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -839,46 +777,7 @@
         "LY3502970"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07241390",
-          "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-04",
-          "primaryCompletionDate": "2031-08",
-          "completionDate": "2031-08",
-          "conditions": [
-            "Atherosclerosis Cardiovascular Disease",
-            "Chronic Kidney Disease"
-          ],
-          "interventions": [
-            "Orforglipron",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07241390"
-        },
-        {
-          "nctId": "NCT05803421",
-          "title": "A Study of Daily Oral Orforglipron (LY3502970) Compared With Insulin Glargine in Participants With Type 2 Diabetes and Obesity or Overweight at Increased Cardiovascular Risk",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-04-17",
-          "primaryCompletionDate": "2026-03-16",
-          "completionDate": "2026-03-16",
-          "conditions": [
-            "Type 2 Diabetes",
-            "Obesity",
-            "Overweight or Obesity",
-            "Overweight",
-            "Cardiovascular Diseases",
-            "Chronic Kidney Disease"
-          ],
-          "interventions": [
-            "Orforglipron",
-            "Insulin Glargine"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05803421"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -892,25 +791,7 @@
         "NCT07157774"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07157774",
-          "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-03",
-          "primaryCompletionDate": "2031-03",
-          "completionDate": "2031-03",
-          "conditions": [
-            "Elevated Lp(a)",
-            "Atherosclerotic Cardiovascular Disease (ASCVD)"
-          ],
-          "interventions": [
-            "Muvalaplin",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07157774"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -924,6 +805,25 @@
       ],
       "pressReleaseUrl": "https://abcentra.com/resources/",
       "clinicalTrials": [
+        {
+          "nctId": "NCT04776629",
+          "title": "A Proof-of-Activity Study With Orticumab in Subjects With Psoriasis and Cardiometabolic Risk Factors",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-05-11",
+          "primaryCompletionDate": "2022-11-11",
+          "completionDate": "2022-11-11",
+          "conditions": [
+            "Psoriasis",
+            "Inflammation",
+            "Coronary Artery Disease",
+            "Cardiometabolic Syndrome"
+          ],
+          "interventions": [
+            "Orticumab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04776629"
+        },
         {
           "nctId": "NCT06927739",
           "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
@@ -950,6 +850,12 @@
         {
           "title": "Read the Article.",
           "link": "https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Coronary Artery Disease",
+          "link": "https://abcentra.com/coronary-artery-disease/",
           "source": "abcentra.com",
           "publishedAt": null
         }
@@ -1046,8 +952,8 @@
   "summary": {
     "drugsScanned": 36,
     "drugsWithErrors": 0,
-    "trialHits": 26,
-    "companyPressHits": 11,
+    "trialHits": 20,
+    "companyPressHits": 12,
     "googleNewsHits": 3
   }
 }

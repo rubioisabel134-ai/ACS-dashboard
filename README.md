@@ -1,9 +1,9 @@
 # ACS Dashboard (GitHub Pages)
 
-Static competitive-intelligence dashboard for acute coronary syndromes (ACS), including:
-- Acute treatment agents
-- Chronic post-ACS prevention assets
-- Pipeline programs with trial catalysts
+Static competitive-intelligence dashboard for the ACS/CAD continuum, including:
+- Acute ACS treatment agents
+- Chronic coronary syndrome (CCS), coronary artery disease (CAD), and post-ACS prevention assets
+- Pipeline programs with trial catalysts across coronary risk, atherothrombosis, and cardiovascular outcomes
 
 ## Files
 - `index.html` - dashboard shell
