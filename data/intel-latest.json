@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-13T19:57:00+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-06-19T12:02:59+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -238,7 +238,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-04",
+          "lastUpdate": "2026-06-18",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -587,26 +587,7 @@
           "publishedAt": null
         }
       ],
-      "googleNews": [
-        {
-          "title": "Everest Medicines Secures Exclusive License for Sumecigrel in Asia-Pacific, Expanding Its Cardiovascular Product Portfolio - ANTARA News",
-          "source": "ANTARA News",
-          "publishedAt": "2026-06-11T02:30:36+00:00",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTTVYb3lIcmVrTVNfNFM3MlFaX2J0U3ZrYW9Qb25sYkFuNlAtWjA0QWwyVDZwQXRhU3o1VThIR240bU1vUnhkMWp0Q0VDN0xoZVZRR3NSVml1RnFOckdTTzkwWEhzbVNfejFuWjZxSXpjWjZmUXRzYUJFcDllU1pBbXJhSExzRWwzYXpQeDhGQVRIMkxHLXBMWlZGRDFBOEFKcE5iX19YXzRpOVhoakpDR0tybm5DdTlrTEpmbXJzc3NfWEJGczAxZmJWS3hsWV9iM2dsbTNnNksyVGFHZkxrRVNIc1RYcEp0UkdNNTAzTVBMelFtOXfSAfYBQVVfeXFMUE01WG95SHJla01TXzRTNzJRWl9idFN2a2FvUG9ubGJBbjZQLVowNEFsMlQ2cEF0YVN6NVU4SEduNG1Nb1J4ZDFqdENFQzdMaGVWUUdzUlZpdUZxTnJHU085MFhIc21TX3oxblo2cUl6Y1o2ZlF0c2FCRXA5ZVNaQW1yYUhMc0VsM2F6UHg4RkFUSDJMRy1wTFpWRkQxQThBSnBOYl9fWF80aTlYaGpKQ0dLcm5uQ3U5a0xKZm1yc3NzX1hCRnMwMWZiVkt4bFlfYjNnbG0zZzZLMlRhR2ZMa0VTSHNUWHBKdFJHTTUwM01QTHpRbTl3?oc=5"
-        },
-        {
-          "title": "Everest Medicines expands cardiovascular product portfolio with license agreement for Sumecigrel in Asia-Pacific - BioSpectrum Asia",
-          "source": "BioSpectrum Asia",
-          "publishedAt": "2026-06-09T13:07:30+00:00",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclBXMkxSM3M5MmN5LXh3RmQ1ZWtEQUw3azBKSmhWQ3RTUUxZa20yT0x4ODU1MGxpakFWVm40SHdQOEJnUU1FN2hZSnVNbUdCMUpTNlQzNGJBWmw1T3BpcmU0TTFiQjRRS3d2eFNpczZ1UjNyckM4Vm5VQ2wxbUY2Y3pfYkh5NDVjWHZnZU1OVGU3WjB3MlMxUjVVM19BNnMxMEdUR3R4NWp2ZkxNQnA4Q01UR3pWaWZJTFZRekltZHF1dlR4aEU1WGs5SklnVURQUmFfZFl6QllHZWE1UWtCRV8tNlhuUjUtWHJvYXJ2RDhXYThwdlE?oc=5"
-        },
-        {
-          "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel - IT\ube44\uc988\ub274\uc2a4",
-          "source": "IT\ube44\uc988\ub274\uc2a4",
-          "publishedAt": "2026-06-09T00:21:00+00:00",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Xa0E2RzVqYlBGenUyQ2FxcnVreWxsWXMtWlRhYnZwZldfN05zT0QtLXNQcTUteFdFTFViN21qSHhVaTlrMzVMYlNpYWlQMHNRWm94RzZCTWNYeXNhcHRDdnkyRXQ5cmJRVW5NcA?oc=5"
-        }
-      ],
+      "googleNews": [],
       "errors": []
     },
     {
@@ -954,6 +935,6 @@
     "drugsWithErrors": 0,
     "trialHits": 20,
     "companyPressHits": 12,
-    "googleNewsHits": 3
+    "googleNewsHits": 0
   }
 }

@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-06-13)
+# ACS Intel Update (2026-06-19)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 36
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -65,7 +65,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Lepodisiran (Eli Lilly)
@@ -173,15 +173,10 @@
 
 - ClinicalTrials.gov hits: 0
 - Company press hits: 1
-- Google News hits: 3
+- Google News hits: 0
 
 ### Company press-room hits
 - www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
-
-### Latest Google News
-- 2026-06-11 | ANTARA News | [Everest Medicines Secures Exclusive License for Sumecigrel in Asia-Pacific, Expanding Its Cardiovascular Product Portfolio - ANTARA News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTTVYb3lIcmVrTVNfNFM3MlFaX2J0U3ZrYW9Qb25sYkFuNlAtWjA0QWwyVDZwQXRhU3o1VThIR240bU1vUnhkMWp0Q0VDN0xoZVZRR3NSVml1RnFOckdTTzkwWEhzbVNfejFuWjZxSXpjWjZmUXRzYUJFcDllU1pBbXJhSExzRWwzYXpQeDhGQVRIMkxHLXBMWlZGRDFBOEFKcE5iX19YXzRpOVhoakpDR0tybm5DdTlrTEpmbXJzc3NfWEJGczAxZmJWS3hsWV9iM2dsbTNnNksyVGFHZkxrRVNIc1RYcEp0UkdNNTAzTVBMelFtOXfSAfYBQVVfeXFMUE01WG95SHJla01TXzRTNzJRWl9idFN2a2FvUG9ubGJBbjZQLVowNEFsMlQ2cEF0YVN6NVU4SEduNG1Nb1J4ZDFqdENFQzdMaGVWUUdzUlZpdUZxTnJHU085MFhIc21TX3oxblo2cUl6Y1o2ZlF0c2FCRXA5ZVNaQW1yYUhMc0VsM2F6UHg4RkFUSDJMRy1wTFpWRkQxQThBSnBOYl9fWF80aTlYaGpKQ0dLcm5uQ3U5a0xKZm1yc3NzX1hCRnMwMWZiVkt4bFlfYjNnbG0zZzZLMlRhR2ZMa0VTSHNUWHBKdFJHTTUwM01QTHpRbTl3?oc=5)
-- 2026-06-09 | BioSpectrum Asia | [Everest Medicines expands cardiovascular product portfolio with license agreement for Sumecigrel in Asia-Pacific - BioSpectrum Asia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQclBXMkxSM3M5MmN5LXh3RmQ1ZWtEQUw3azBKSmhWQ3RTUUxZa20yT0x4ODU1MGxpakFWVm40SHdQOEJnUU1FN2hZSnVNbUdCMUpTNlQzNGJBWmw1T3BpcmU0TTFiQjRRS3d2eFNpczZ1UjNyckM4Vm5VQ2wxbUY2Y3pfYkh5NDVjWHZnZU1OVGU3WjB3MlMxUjVVM19BNnMxMEdUR3R4NWp2ZkxNQnA4Q01UR3pWaWZJTFZRekltZHF1dlR4aEU1WGs5SklnVURQUmFfZFl6QllHZWE1UWtCRV8tNlhuUjUtWHJvYXJ2RDhXYThwdlE?oc=5)
-- 2026-06-09 | IT비즈뉴스 | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel - IT비즈뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5Xa0E2RzVqYlBGenUyQ2FxcnVreWxsWXMtWlRhYnZwZldfN05zT0QtLXNQcTUteFdFTFViN21qSHhVaTlrMzVMYlNpYWlQMHNRWm94RzZCTWNYeXNhcHRDdnkyRXQ5cmJRVW5NcA?oc=5)
 
 ## DT-678 (Diapin)
 
