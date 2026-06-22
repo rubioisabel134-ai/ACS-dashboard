@@ -1,0 +1,461 @@
+{
+  "generatedAtUTC": "2026-06-22T15:59:43+00:00",
+  "runDate": "2026-06-22",
+  "summary": {
+    "drugsScanned": 36,
+    "trialUpdates": 20,
+    "pressUpdates": 12,
+    "cardChanges": 4,
+    "errorGroups": 1
+  },
+  "cardChanges": [
+    {
+      "drug": "Ziltivekimab",
+      "fields": [
+        {
+          "field": "nextCatalystDate",
+          "before": "2026-12-14",
+          "after": "2028-09-01"
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Estimated primary completion (NCT06118281)",
+          "after": "Estimated primary completion (NCT07276282)"
+        }
+      ]
+    },
+    {
+      "drug": "RBD4059",
+      "fields": [
+        {
+          "field": "nextCatalystDate",
+          "before": "2026-12-31",
+          "after": null
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Phase IIa data maturation window",
+          "after": "Monitor next registry update (NCT06717074)"
+        },
+        {
+          "field": "sourceLinks",
+          "before": [
+            "https://clinicaltrials.gov/study/NCT06866457",
+            "https://www.ribocure.com/pipeline"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT06717074",
+            "https://clinicaltrials.gov/study/NCT06866457",
+            "https://www.ribocure.com/pipeline"
+          ]
+        }
+      ]
+    },
+    {
+      "drug": "ReHeart",
+      "fields": [
+        {
+          "field": "statusSummary",
+          "before": "ClinicalTrials.gov: NCT05566600 status is Unknown (last update 2023-11-22).",
+          "after": "ClinicalTrials.gov: NCT07347197 status is Not Yet Recruiting (last update 2026-01-16)."
+        },
+        {
+          "field": "nextCatalystDate",
+          "before": null,
+          "after": "2028-01-01"
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Monitor next registry update (NCT05566600)",
+          "after": "Estimated primary completion (NCT07347197)"
+        },
+        {
+          "field": "sourceLinks",
+          "before": [
+            "https://clinicaltrials.gov/study/NCT05566600",
+            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT07347197",
+            "https://clinicaltrials.gov/study/NCT05566600",
+            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
+          ]
+        }
+      ]
+    },
+    {
+      "drug": "Orticumab",
+      "fields": [
+        {
+          "field": "nextCatalystDate",
+          "before": "2027-02-08",
+          "after": null
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Estimated primary completion (NCT06927739)",
+          "after": "Monitor next registry update (NCT04776629)"
+        },
+        {
+          "field": "sourceLinks",
+          "before": [
+            "https://clinicaltrials.gov/study/NCT06927739",
+            "https://abcentra.com/resources/"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT04776629",
+            "https://clinicaltrials.gov/study/NCT06927739",
+            "https://abcentra.com/resources/"
+          ]
+        }
+      ]
+    }
+  ],
+  "trialUpdates": [
+    {
+      "drug": "Olpasiran",
+      "type": "trial",
+      "date": "2026-06-18",
+      "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07136012",
+      "nctId": "NCT07136012",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2031-10-20",
+      "completionDate": "2031-10-20"
+    },
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-06-10",
+      "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07517263",
+      "nctId": "NCT07517263",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2030-01-09",
+      "completionDate": "2030-01-09"
+    },
+    {
+      "drug": "Milvexian",
+      "type": "trial",
+      "date": "2026-06-05",
+      "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05754957",
+      "nctId": "NCT05754957",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-02-06",
+      "completionDate": "2026-02-06"
+    },
+    {
+      "drug": "Evategrel",
+      "type": "trial",
+      "date": "2026-06-05",
+      "title": "The Pharmacokinetics and Pharmacodynamics Study of CG-0255 Besylate and Plavix\u00ae in Healthy Participants",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07619885",
+      "nctId": "NCT07619885",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-10",
+      "completionDate": "2026-12"
+    },
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-06-04",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07625306",
+      "nctId": "NCT07625306",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2028-12-07",
+      "completionDate": "2028-12-07"
+    },
+    {
+      "drug": "Selatogrel",
+      "type": "trial",
+      "date": "2026-05-29",
+      "title": "A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07615868",
+      "nctId": "NCT07615868",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2026-10",
+      "completionDate": "2026-10"
+    },
+    {
+      "drug": "RBD4059",
+      "type": "trial",
+      "date": "2026-05-27",
+      "title": "A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06717074",
+      "nctId": "NCT06717074",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-04-29",
+      "completionDate": "2026-04-29"
+    },
+    {
+      "drug": "NL005",
+      "type": "trial",
+      "date": "2026-05-14",
+      "title": "Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07586865",
+      "nctId": "NCT07586865",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2027-08-17",
+      "completionDate": "2028-05-17"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "trial",
+      "date": "2026-05-11",
+      "title": "A Proof-of-Activity Study With Orticumab in Subjects With Psoriasis and Cardiometabolic Risk Factors",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT04776629",
+      "nctId": "NCT04776629",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2022-11-11",
+      "completionDate": "2022-11-11"
+    },
+    {
+      "drug": "Xolatryp",
+      "type": "trial",
+      "date": "2026-05-07",
+      "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07362446",
+      "nctId": "NCT07362446",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-06-30",
+      "completionDate": "2027-09-30"
+    },
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-05-06",
+      "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT04023552",
+      "nctId": "NCT04023552",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2026-06-30",
+      "completionDate": "2026-06-30"
+    },
+    {
+      "drug": "Obicetrapib",
+      "type": "trial",
+      "date": "2026-04-24",
+      "title": "Prevail Global Study",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06535854",
+      "nctId": "NCT06535854",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-02",
+      "completionDate": "2031-02"
+    },
+    {
+      "drug": "Obicetrapib",
+      "type": "trial",
+      "date": "2026-04-09",
+      "title": "A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06305559",
+      "nctId": "NCT06305559",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2027-11",
+      "completionDate": "2028-02"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-03-23",
+      "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07276282",
+      "nctId": "NCT07276282",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2028-09-01",
+      "completionDate": "2028-12-01"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-03-11",
+      "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07301034",
+      "nctId": "NCT07301034",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2028-11-14",
+      "completionDate": "2029-02-24"
+    },
+    {
+      "drug": "MiSaver",
+      "type": "trial",
+      "date": "2026-03-11",
+      "title": "Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07134712",
+      "nctId": "NCT07134712",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2027-12-31",
+      "completionDate": "2027-12-31"
+    },
+    {
+      "drug": "Olpasiran",
+      "type": "trial",
+      "date": "2026-02-27",
+      "title": "Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05581303",
+      "nctId": "NCT05581303",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2028-03-31",
+      "completionDate": "2028-03-31"
+    },
+    {
+      "drug": "UDP-003",
+      "type": "trial",
+      "date": "2026-02-24",
+      "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Patients",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06813339",
+      "nctId": "NCT06813339",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-07-30",
+      "completionDate": "2027-06-30"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "trial",
+      "date": "2026-01-27",
+      "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06927739",
+      "nctId": "NCT06927739",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-02-08",
+      "completionDate": "2027-06-01"
+    },
+    {
+      "drug": "ReHeart",
+      "type": "trial",
+      "date": "2026-01-16",
+      "title": "Endocardial Delivery for Myocardial Regeneration Using Allogeneic iPSC-derived Cardiomyocyte Spheroids for HF With Systolic Dysfunction (EMERALD Study)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07347197",
+      "nctId": "NCT07347197",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2028-01-01",
+      "completionDate": "2030-01-31"
+    }
+  ],
+  "pressUpdates": [
+    {
+      "drug": "Zalunfiban",
+      "type": "press",
+      "date": null,
+      "title": "CeleBrate trial results",
+      "source": "www.celecor.com",
+      "link": "https://www.celecor.com/celebrate-results/"
+    },
+    {
+      "drug": "Xolatryp",
+      "type": "press",
+      "date": null,
+      "title": "Myocardial Ischemia and Arrhythmia Control",
+      "source": "www.nyrada.com",
+      "link": "https://www.nyrada.com/site/programs/myocardial-ischemia"
+    },
+    {
+      "drug": "UDP-003",
+      "type": "press",
+      "date": null,
+      "title": "Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol",
+      "source": "cyclaritytx.com",
+      "link": "https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/"
+    },
+    {
+      "drug": "UDP-003",
+      "type": "press",
+      "date": null,
+      "title": "Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial",
+      "source": "cyclaritytx.com",
+      "link": "https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/"
+    },
+    {
+      "drug": "UDP-003",
+      "type": "press",
+      "date": null,
+      "title": "Cyclarity Therapeutics Announces Clinical Advisory Board",
+      "source": "cyclaritytx.com",
+      "link": "https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/"
+    },
+    {
+      "drug": "Sumecigrel",
+      "type": "press",
+      "date": null,
+      "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
+      "source": "www.prnewswire.com",
+      "link": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "press",
+      "date": null,
+      "title": "Read the Article.",
+      "source": "abcentra.com",
+      "link": "https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "press",
+      "date": null,
+      "title": "Coronary Artery Disease",
+      "source": "abcentra.com",
+      "link": "https://abcentra.com/coronary-artery-disease/"
+    },
+    {
+      "drug": "SIM0811",
+      "type": "press",
+      "date": null,
+      "title": "R&D Pipeline",
+      "source": "www.simcere.com",
+      "link": "https://www.simcere.com/en/kxcx/yfgx.aspx"
+    },
+    {
+      "drug": "SIM0811",
+      "type": "press",
+      "date": null,
+      "title": "R&D Pipeline",
+      "source": "www.simcere.com",
+      "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01"
+    },
+    {
+      "drug": "RO7763505",
+      "type": "press",
+      "date": null,
+      "title": "Product Development Pipeline",
+      "source": "www.roche.com",
+      "link": "https://www.roche.com/solutions/pipeline"
+    },
+    {
+      "drug": "RO7763505",
+      "type": "press",
+      "date": null,
+      "title": "Clinical trials",
+      "source": "www.roche.com",
+      "link": "https://www.roche.com/innovation/clinical-trials"
+    }
+  ],
+  "sourceErrors": [
+    {
+      "message": "google news: HTTP Error 503: Service Unavailable",
+      "count": 36,
+      "exampleDrug": "Zalunfiban"
+    }
+  ]
+}

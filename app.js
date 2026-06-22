@@ -20,23 +20,27 @@ const state = {
   filtered: [],
   conferences: [],
   intel: null,
+  changelog: null,
   feedItems: [],
 };
 
 async function load() {
-  const [portfolioData, conferencesData, intelData] = await Promise.all([
+  const [portfolioData, conferencesData, intelData, changelogData] = await Promise.all([
     fetchJson("data/acs-drugs.json"),
     fetchJson("data/conferences.json", { conferences: [] }),
     fetchJson("data/intel-latest.json", null),
+    fetchJson("data/weekly-changelog-latest.json", null),
   ]);
 
   state.records = portfolioData.records || [];
   state.filtered = [...state.records];
   state.conferences = conferencesData.conferences || [];
   state.intel = intelData;
+  state.changelog = changelogData;
 
   document.getElementById("snapshotDate").textContent = portfolioData.snapshotDate || "n/a";
   document.getElementById("recordCount").textContent = String(state.records.length);
+  document.getElementById("weeklyChangeCount").textContent = String((state.changelog?.cardChanges || []).length);
 
   seedFilter("stageFilter", unique(state.records.map((r) => r.stage)));
   seedFilter("settingFilter", unique(state.records.map((r) => r.setting)));
@@ -74,6 +78,26 @@ function seedFilter(id, values) {
     option.textContent = v;
     el.appendChild(option);
   });
+}
+
+function changedDrugSet() {
+  return new Set((state.changelog?.cardChanges || []).map((c) => (c.drug || "").toLowerCase()));
+}
+
+function appendLink(parent, link, label = "open") {
+  if (!link) return;
+  const a = document.createElement("a");
+  a.href = link;
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  a.textContent = label;
+  parent.appendChild(a);
+}
+
+function valueText(value) {
+  if (Array.isArray(value)) return value.join(", ");
+  if (value === null || value === undefined || value === "") return "n/a";
+  return String(value);
 }
 
 function bindFilters() {
@@ -126,12 +150,14 @@ function applyFilters() {
   renderCatalystList();
   renderCatalystPlanner();
   renderFeed();
+  renderWeeklyChanges();
 }
 
 function renderCards() {
   const root = document.getElementById("cards");
   root.innerHTML = "";
   const template = document.getElementById("cardTemplate");
+  const changed = changedDrugSet();
 
   state.filtered.forEach((r) => {
     const node = template.content.cloneNode(true);
@@ -144,6 +170,9 @@ function renderCards() {
     stage.textContent = r.stage;
     stage.style.borderColor = stageColors[r.stage] || stageColors.Unknown;
     stage.style.color = stageColors[r.stage] || stageColors.Unknown;
+
+    const weeklyBadge = node.querySelector(".weekly-badge");
+    weeklyBadge.hidden = !changed.has((r.drug || "").toLowerCase());
 
     const chips = node.querySelector(".chip-row");
     [r.setting, `Signal: ${r.signal}`, r.competitorWatch].forEach((label) => {
@@ -426,6 +455,103 @@ function renderFeed() {
     const date = item.date ? item.date.slice(0, 10) : "n/a";
     const linkHtml = item.link ? `<a href="${item.link}" target="_blank" rel="noopener noreferrer">open</a>` : "";
     li.innerHTML = `<strong>${item.drug}</strong><span>${item.type.toUpperCase()} | ${date}</span><small>${item.title}</small><small>${item.detail}</small>${linkHtml}`;
+    root.appendChild(li);
+  });
+}
+
+function renderWeeklyChanges() {
+  const changelog = state.changelog;
+  const summary = changelog?.summary || {};
+  document.getElementById("changeRunDate").textContent = changelog?.runDate || "n/a";
+  document.getElementById("changeTrialCount").textContent = String(summary.trialUpdates || 0);
+  document.getElementById("changePressCount").textContent = String(summary.pressUpdates || 0);
+  document.getElementById("changeErrorCount").textContent = String(summary.errorGroups || 0);
+
+  renderCardChanges(changelog?.cardChanges || []);
+  renderWeeklyItems("trialChangeList", changelog?.trialUpdates || [], "trial");
+  renderWeeklyItems("pressChangeList", changelog?.pressUpdates || [], "press");
+  renderSourceErrors(changelog?.sourceErrors || []);
+}
+
+function renderCardChanges(changes) {
+  const root = document.getElementById("cardChangeList");
+  root.innerHTML = "";
+  if (!changes.length) {
+    root.innerHTML = '<li class="empty">No drug card changes were applied in the latest run.</li>';
+    return;
+  }
+
+  changes.forEach((change) => {
+    const li = document.createElement("li");
+    li.className = "change-card";
+    const title = document.createElement("strong");
+    title.textContent = change.drug || "Unknown asset";
+    li.appendChild(title);
+
+    const fields = document.createElement("div");
+    fields.className = "field-diff-list";
+    (change.fields || []).forEach((field) => {
+      const row = document.createElement("div");
+      row.className = "field-diff";
+      const name = document.createElement("span");
+      name.textContent = field.field || "field";
+      const before = document.createElement("small");
+      before.textContent = `Before: ${valueText(field.before)}`;
+      const after = document.createElement("small");
+      after.textContent = `After: ${valueText(field.after)}`;
+      row.append(name, before, after);
+      fields.appendChild(row);
+    });
+    li.appendChild(fields);
+    root.appendChild(li);
+  });
+}
+
+function renderWeeklyItems(id, items, fallbackType) {
+  const root = document.getElementById(id);
+  root.innerHTML = "";
+  if (!items.length) {
+    root.innerHTML = '<li class="empty">No updates found in the latest run.</li>';
+    return;
+  }
+
+  items.slice(0, 80).forEach((item) => {
+    const li = document.createElement("li");
+    li.className = `feed-item feed-${item.type || fallbackType}`;
+    const title = document.createElement("strong");
+    title.textContent = item.drug || "Unknown asset";
+    const meta = document.createElement("span");
+    const date = item.date ? item.date.slice(0, 10) : "n/a";
+    const status = item.status ? ` | ${item.status}` : "";
+    meta.textContent = `${(item.type || fallbackType).toUpperCase()} | ${date}${status}`;
+    const headline = document.createElement("small");
+    headline.textContent = item.title || "Untitled update";
+    const source = document.createElement("small");
+    source.textContent = item.nctId ? `${item.source || "Source"} | ${item.nctId}` : item.source || "Source";
+    li.append(title, meta, headline, source);
+    appendLink(li, item.link);
+    root.appendChild(li);
+  });
+}
+
+function renderSourceErrors(errors) {
+  const root = document.getElementById("sourceErrorList");
+  root.innerHTML = "";
+  if (!errors.length) {
+    root.innerHTML = '<li class="empty">No source errors recorded in the latest run.</li>';
+    return;
+  }
+
+  errors.forEach((error) => {
+    const li = document.createElement("li");
+    li.className = "source-error";
+    const title = document.createElement("strong");
+    title.textContent = `${error.count || 0} asset(s) affected`;
+    const message = document.createElement("span");
+    message.textContent = error.message || "Unknown source error";
+    const example = document.createElement("small");
+    example.textContent = `Example asset: ${error.exampleDrug || "n/a"}`;
+    li.append(title, message, example);
     root.appendChild(li);
   });
 }

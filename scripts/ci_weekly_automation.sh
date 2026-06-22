@@ -97,6 +97,17 @@ python3 scripts/build_ci_report.py \
   --capture "$CAPTURE_FILE" \
   --output docs/automation/ci-weekly-latest.md
 
+echo "[$(date)] Building weekly changelog"
+CHANGELOG_JSON="data/changelog/weekly-$STAMP.json"
+CHANGELOG_MD="docs/automation/changelog-weekly-$STAMP.md"
+python3 scripts/build_weekly_changelog.py \
+  --intel data/intel-latest.json \
+  --proposals data/proposed-changes.json \
+  --latest-json data/weekly-changelog-latest.json \
+  --archive-json "$CHANGELOG_JSON" \
+  --latest-md docs/automation/changelog-weekly-latest.md \
+  --archive-md "$CHANGELOG_MD"
+
 echo "[$(date)] Weekly run summary"
 python3 - <<'PY' "$INTEL_FILE" "$PROPOSAL_FILE" "$PUSH_CHANGES"
 import json
@@ -121,7 +132,7 @@ print(f"  - Push mode: {'enabled' if push_changes else 'disabled (review-only)'}
 PY
 
 echo "[$(date)] Staging weekly artifacts"
-git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/playwright-weekly-latest.json || true
+git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json data/weekly-changelog-latest.json data/changelog docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/changelog-weekly-latest.md docs/automation/changelog-weekly-*.md docs/automation/playwright-weekly-latest.json || true
 
 if git diff --cached --quiet; then
   echo "[$(date)] No tracked changes to commit"

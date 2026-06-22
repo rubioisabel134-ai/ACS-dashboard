@@ -32,6 +32,10 @@
         <span class="meta-label">Catalysts within 180 days</span>
         <strong id="nearCatalystCount">0</strong>
       </div>
+      <div>
+        <span class="meta-label">Cards changed this week</span>
+        <strong id="weeklyChangeCount">0</strong>
+      </div>
     </div>
   </header>
 
@@ -41,6 +45,7 @@
       <button class="tab-btn" data-view="catalysts">Catalysts</button>
       <button class="tab-btn" data-view="conferences">Conferences</button>
       <button class="tab-btn" data-view="feed">Feed</button>
+      <button class="tab-btn" data-view="changes">Weekly Changes</button>
     </nav>
 
     <section id="view-portfolio" class="view is-active">
@@ -131,6 +136,48 @@
       </section>
     </section>
 
+    <section id="view-changes" class="view">
+      <section class="panel weekly-summary">
+        <div>
+          <span class="meta-label">Weekly run</span>
+          <strong id="changeRunDate">n/a</strong>
+        </div>
+        <div>
+          <span class="meta-label">Trial updates</span>
+          <strong id="changeTrialCount">0</strong>
+        </div>
+        <div>
+          <span class="meta-label">Press/news updates</span>
+          <strong id="changePressCount">0</strong>
+        </div>
+        <div>
+          <span class="meta-label">Source error groups</span>
+          <strong id="changeErrorCount">0</strong>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Drug Card Changes</h2>
+        <ul id="cardChangeList" class="list-cards change-list"></ul>
+      </section>
+
+      <section class="panel change-columns">
+        <div>
+          <h2>Trial Updates</h2>
+          <ul id="trialChangeList" class="list-cards change-list"></ul>
+        </div>
+        <div>
+          <h2>Press And News Updates</h2>
+          <ul id="pressChangeList" class="list-cards change-list"></ul>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Source Notes</h2>
+        <ul id="sourceErrorList" class="list-cards change-list"></ul>
+      </section>
+    </section>
+
     <section class="panel notes">
       <h2>How To Update Weekly</h2>
       <ol>
@@ -149,7 +196,10 @@
           <h3 class="drug-name"></h3>
           <p class="drug-sponsor"></p>
         </div>
-        <span class="pill stage"></span>
+        <div class="card-badges">
+          <span class="pill weekly-badge">Updated this week</span>
+          <span class="pill stage"></span>
+        </div>
       </div>
       <p class="drug-class"></p>
       <div class="chip-row"></div>
