@@ -118,6 +118,26 @@
       ]
     },
     {
+      "drug": "MT1002",
+      "sponsor": "Shaanxi Micot Pharmaceutical Technology",
+      "class": "Dual antithrombotic / anticoagulant peptide",
+      "target": "Coagulation Factor II / GP IIb/IIIa",
+      "modality": "Synthetic peptide",
+      "stage": "Phase II / Phase IIb",
+      "setting": "Acute ACS patients undergoing PCI",
+      "signal": "monitor",
+      "statusSummary": "Micot announced completion of enrollment in the MT1002 Phase II ACS-PCI study; ClinicalTrials.gov lists the industry-sponsored MT1002-II-C04 Phase 2 trial in ACS patients undergoing PCI.",
+      "keyTrial": "MT1002-II-C04 / NCT06533358",
+      "competitorWatch": "Track as a cath-lab antithrombotic candidate combining direct thrombin inhibition with GP IIb/IIIa antagonism; relevant to cangrelor, GP IIb/IIIa inhibitors, heparin/bivalirudin strategies, and zalunfiban in acute PCI workflows.",
+      "nextCatalystDate": "2028-06-30",
+      "nextCatalystEvent": "Projected Phase IIb completion by mid-2028 per HKEX filing",
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06533358",
+        "https://www.micot.cn/newsinfo/11172904.html",
+        "https://www1.hkexnews.hk/app/sehk/2026/108375/documents/sehk26060403116.pdf"
+      ]
+    },
+    {
       "drug": "Obicetrapib",
       "sponsor": "NewAmsterdam Pharma (with Menarini)",
       "class": "CETP inhibitor",

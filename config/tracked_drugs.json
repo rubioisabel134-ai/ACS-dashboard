@@ -93,6 +93,14 @@
       "press_release_url": "https://newsroom.viatris.com/press-releases?l=100"
     },
     {
+      "name": "MT1002",
+      "sponsor": "Shaanxi Micot Pharmaceutical Technology",
+      "aliases": ["MT1002", "MT1002-II-C04", "Shaanxi Micot", "Micot", "NCT06533358"],
+      "nct_ids": ["NCT06533358"],
+      "press_release_url": "https://www.micot.cn/newsinfo/11172904.html",
+      "notes": "Dual Factor II / GP IIb/IIIa peptide for ACS patients undergoing PCI"
+    },
+    {
       "name": "Xolatryp",
       "sponsor": "Nyrada",
       "aliases": ["xolatryp", "Nyrada", "NYR-BI03"],
