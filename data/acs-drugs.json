@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-13",
+  "snapshotDate": "2026-06-22",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -228,8 +228,8 @@
       "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
       "keyTrial": "ZEUS / ARTEMIS",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2026-12-14",
-      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
+      "nextCatalystDate": "2028-09-01",
+      "nextCatalystEvent": "Estimated primary completion (NCT07276282)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT06118281",
@@ -268,9 +268,10 @@
       "statusSummary": "Early clinical program with limited public detail; positioned as next-generation anticoagulation candidate.",
       "keyTrial": "RBD4059-201",
       "competitorWatch": "Competes with FXIa/FXI and low-dose anticoagulation strategies",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "Phase IIa data maturation window",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT06717074)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06717074",
         "https://clinicaltrials.gov/study/NCT06866457",
         "https://www.ribocure.com/pipeline"
       ]
@@ -634,12 +635,13 @@
       "stage": "Approved",
       "setting": "Post-AMI myocardial recovery / chronic ischemic injury",
       "signal": "monitor",
-      "statusSummary": "ClinicalTrials.gov: NCT05566600 status is Unknown (last update 2023-11-22).",
+      "statusSummary": "ClinicalTrials.gov: NCT07347197 status is Not Yet Recruiting (last update 2026-01-16).",
       "keyTrial": "Japan authorization context / post-approval evidence generation",
       "competitorWatch": "Potential first-mover in iPSC myocardial regeneration",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT05566600)",
+      "nextCatalystDate": "2028-01-01",
+      "nextCatalystEvent": "Estimated primary completion (NCT07347197)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07347197",
         "https://clinicaltrials.gov/study/NCT05566600",
         "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
       ]
@@ -694,9 +696,10 @@
       "statusSummary": "Early-stage program added to ACS watchlist pending clearer cardiovascular indication and trial details.",
       "keyTrial": "NCT06927739",
       "competitorWatch": "Potential competitor in immune-modulation approaches",
-      "nextCatalystDate": "2027-02-08",
-      "nextCatalystEvent": "Estimated primary completion (NCT06927739)",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT04776629)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT04776629",
         "https://clinicaltrials.gov/study/NCT06927739",
         "https://abcentra.com/resources/"
       ]

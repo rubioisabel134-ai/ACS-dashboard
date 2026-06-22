@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-06-22)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 36
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -164,13 +164,10 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT07619885] The Pharmacokinetics and Pharmacodynamics Study of CG-0255 Besylate and Plavix® in Healthy Participants | Status: RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT07619885
-
-### Latest Google News
-- 2026-06-22 | Clinical Trials Arena | [First participant receives Evategrel in CureGene’s trial - Clinical Trials Arena](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHFBSkpLUzNYRmtBamNrSkRNanBmMElSdGJFQVZ5V0t6eWZ4OTBtcDV0WGpnSktqS0tiVEtaXzZXcGp3S3FfYVhDcU9GSUl4VnZLdWRiM3pGQ2hpY3ZjNGlTdUJqTVE4eVN4SXhiT2NOdGlDQVBwSWhyNmZXdW16RjFtRm1VN01zSzdBVHB1STJsM2ppM1Zwa2Vn?oc=5)
 
 ## Sumecigrel (Vcare PharmaTech / Everest Medicines)
 

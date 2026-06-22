@@ -1,20 +1,92 @@
 {
-  "generatedAtUTC": "2026-06-13T19:34:33+00:00",
-  "updates": 1,
+  "generatedAtUTC": "2026-06-22T12:10:14+00:00",
+  "updates": 4,
   "proposals": [
     {
-      "drug": "Obicetrapib",
+      "drug": "Ziltivekimab",
       "changes": {
+        "nextCatalystDate": {
+          "before": "2026-12-14",
+          "after": "2028-09-01"
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT06118281)",
+          "after": "Estimated primary completion (NCT07276282)"
+        }
+      }
+    },
+    {
+      "drug": "RBD4059",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2026-12-31",
+          "after": null
+        },
+        "nextCatalystEvent": {
+          "before": "Phase IIa data maturation window",
+          "after": "Monitor next registry update (NCT06717074)"
+        },
         "sourceLinks": {
           "before": [
-            "https://clinicaltrials.gov/study/NCT06321757",
-            "https://clinicaltrials.gov/study/NCT06535854",
-            "https://clinicaltrials.gov/study/NCT05562089"
+            "https://clinicaltrials.gov/study/NCT06866457",
+            "https://www.ribocure.com/pipeline"
           ],
           "after": [
-            "https://clinicaltrials.gov/study/NCT06305559",
-            "https://clinicaltrials.gov/study/NCT06535854",
-            "https://clinicaltrials.gov/study/NCT05562089"
+            "https://clinicaltrials.gov/study/NCT06717074",
+            "https://clinicaltrials.gov/study/NCT06866457",
+            "https://www.ribocure.com/pipeline"
+          ]
+        }
+      }
+    },
+    {
+      "drug": "ReHeart",
+      "changes": {
+        "statusSummary": {
+          "before": "ClinicalTrials.gov: NCT05566600 status is Unknown (last update 2023-11-22).",
+          "after": "ClinicalTrials.gov: NCT07347197 status is Not Yet Recruiting (last update 2026-01-16)."
+        },
+        "nextCatalystDate": {
+          "before": null,
+          "after": "2028-01-01"
+        },
+        "nextCatalystEvent": {
+          "before": "Monitor next registry update (NCT05566600)",
+          "after": "Estimated primary completion (NCT07347197)"
+        },
+        "sourceLinks": {
+          "before": [
+            "https://clinicaltrials.gov/study/NCT05566600",
+            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT07347197",
+            "https://clinicaltrials.gov/study/NCT05566600",
+            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
+          ]
+        }
+      }
+    },
+    {
+      "drug": "Orticumab",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2027-02-08",
+          "after": null
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT06927739)",
+          "after": "Monitor next registry update (NCT04776629)"
+        },
+        "sourceLinks": {
+          "before": [
+            "https://clinicaltrials.gov/study/NCT06927739",
+            "https://abcentra.com/resources/"
+          ],
+          "after": [
+            "https://clinicaltrials.gov/study/NCT04776629",
+            "https://clinicaltrials.gov/study/NCT06927739",
+            "https://abcentra.com/resources/"
           ]
         }
       }
