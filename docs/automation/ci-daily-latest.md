@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-06-20)
+# ACS Daily CI Report (2026-06-22)
 
-- Generated (UTC): 2026-06-20T12:02:06+00:00
+- Generated (UTC): 2026-06-22T12:00:01+00:00
 - Drugs scanned: 36
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -40,6 +40,7 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Evategrel | 2026-06-22 | Clinical Trials Arena | [First participant receives Evategrel in CureGene’s trial - Clinical Trials Arena](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHFBSkpLUzNYRmtBamNrSkRNanBmMElSdGJFQVZ5V0t6eWZ4OTBtcDV0WGpnSktqS0tiVEtaXzZXcGp3S3FfYVhDcU9GSUl4VnZLdWRiM3pGQ2hpY3ZjNGlTdUJqTVE4eVN4SXhiT2NOdGlDQVBwSWhyNmZXdW16RjFtRm1VN01zSzdBVHB1STJsM2ppM1Zwa2Vn?oc=5)
 
 ## Captured Link Validation
 
