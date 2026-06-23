@@ -1,7 +1,7 @@
-# ACS Intel Update (2026-06-22)
+# ACS Intel Update (2026-06-23)
 
-- Window: last 7 day(s)
-- Drugs scanned: 36
+- Window: last 1 day(s)
+- Drugs scanned: 37
 
 ## Zalunfiban (CeleCor Therapeutics)
 
@@ -97,6 +97,15 @@
 
 ### Latest trial updates
 - [NCT07615868] A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome | Status: NOT_YET_RECRUITING | Last update: 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
+
+## MT1002 (Shaanxi Micot Pharmaceutical Technology)
+
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT04723186] MT1002 Phase II Study in ACS Patients With PCI | Status: TERMINATED | Last update: 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 
 ## Xolatryp (Nyrada)
 

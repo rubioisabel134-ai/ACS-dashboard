@@ -1,7 +1,7 @@
-# ACS Daily CI Report (2026-06-22)
+# ACS Daily CI Report (2026-06-23)
 
-- Generated (UTC): 2026-06-22T12:00:01+00:00
-- Drugs scanned: 36
+- Generated (UTC): 2026-06-23T12:00:01+00:00
+- Drugs scanned: 37
 - News window: last 1 day(s)
 - Playwright links captured: 25
 
@@ -18,6 +18,7 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT07615868] NOT_YET_RECRUITING | last update 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
+- MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT07619885
@@ -40,7 +41,6 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Evategrel | 2026-06-22 | Clinical Trials Arena | [First participant receives Evategrel in CureGene’s trial - Clinical Trials Arena](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHFBSkpLUzNYRmtBamNrSkRNanBmMElSdGJFQVZ5V0t6eWZ4OTBtcDV0WGpnSktqS0tiVEtaXzZXcGp3S3FfYVhDcU9GSUl4VnZLdWRiM3pGQ2hpY3ZjNGlTdUJqTVE4eVN4SXhiT2NOdGlDQVBwSWhyNmZXdW16RjFtRm1VN01zSzdBVHB1STJsM2ppM1Zwa2Vn?oc=5)
 
 ## Captured Link Validation
 
