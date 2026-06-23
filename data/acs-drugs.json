@@ -718,11 +718,23 @@
       "stage": "Phase III",
       "setting": "Cardiometabolic risk reduction (indirect ACS relevance)",
       "signal": "monitor",
-      "statusSummary": "Tracked for potential downstream ACS risk-modification relevance via cardiometabolic effects; direct ACS outcome role is not established.",
-      "keyTrial": "Lilly cardiometabolic development program",
-      "competitorWatch": "Potential competitor in chronic risk-modifying CV prevention strategies",
+      "statusSummary": "ATTAIN-Outcomes is testing whether oral GLP-1 receptor agonist orforglipron reduces MACE in adults with established ASCVD and/or chronic kidney disease.",
+      "keyTrial": "ATTAIN-Outcomes / NCT07241390",
+      "competitorWatch": "Potential competitor in chronic risk-modifying CV prevention strategies; monitor against injectable incretin outcome data and broader cardiometabolic prevention pathways.",
       "nextCatalystDate": "2031-08-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT07241390)",
+      "nextCatalystEvent": "ATTAIN-Outcomes estimated primary/completion date (NCT07241390)",
+      "priorityTrials": [
+        {
+          "name": "ATTAIN-Outcomes",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07241390",
+          "date": "2031-08-31",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes study in established ASCVD and/or chronic kidney disease.",
+          "link": "https://clinicaltrials.gov/study/NCT07241390"
+        }
+      ],
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07241390",
         "https://www.lilly.com/news/press-releases"
@@ -737,11 +749,23 @@
       "stage": "Phase III",
       "setting": "CVOT / chronic secondary prevention (MACE outcomes)",
       "signal": "monitor",
-      "statusSummary": "Phase III CVOT-tracked Lp(a) program for major adverse cardiovascular events (MACE) relevance in high-risk cardiovascular populations.",
-      "keyTrial": "NCT07157774",
-      "competitorWatch": "Competes with pelacarsen/olpasiran and broader Lp(a) field",
+      "statusSummary": "MOVE-Lp(a) is a Phase III outcomes study testing whether oral muvalaplin reduces MACE in adults with elevated Lp(a) and prior ASCVD event or high first-event risk.",
+      "keyTrial": "MOVE-Lp(a) / NCT07157774",
+      "competitorWatch": "Competes with pelacarsen, olpasiran, lepodisiran, and broader Lp(a) field; oral dosing is the key differentiator.",
       "nextCatalystDate": "2031-03-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT07157774)",
+      "nextCatalystEvent": "MOVE-Lp(a) estimated primary/completion date (NCT07157774)",
+      "priorityTrials": [
+        {
+          "name": "MOVE-Lp(a)",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07157774",
+          "date": "2031-03-31",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes study in adults with elevated Lp(a) and ASCVD event history or elevated first-event risk.",
+          "link": "https://clinicaltrials.gov/study/NCT07157774"
+        }
+      ],
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07157774",
         "https://www.lilly.com/news/press-releases"

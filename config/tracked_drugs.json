@@ -208,13 +208,17 @@
     {
       "name": "Orforglipron",
       "sponsor": "Eli Lilly",
-      "aliases": ["orforglipron", "LY3502970"],
+      "aliases": ["orforglipron", "LY3502970", "ATTAIN-Outcomes", "NCT07241390"],
+      "trial_aliases": ["orforglipron", "LY3502970", "ATTAIN-Outcomes"],
+      "nct_ids": ["NCT07241390"],
       "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
       "name": "Muvalaplin",
       "sponsor": "Eli Lilly",
-      "aliases": ["muvalaplin", "LY3473329", "NCT07157774"],
+      "aliases": ["muvalaplin", "LY3473329", "MOVE-Lp(a)", "MOVE Lp(a)", "NCT07157774"],
+      "trial_aliases": ["muvalaplin", "LY3473329", "MOVE-Lp(a)", "MOVE Lp(a)"],
+      "nct_ids": ["NCT07157774"],
       "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
