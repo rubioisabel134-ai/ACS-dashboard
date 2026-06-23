@@ -142,8 +142,10 @@
     {
       "name": "Dukiprubart",
       "sponsor": "Sungen Biomedical",
-      "aliases": ["dukiprubart", "Sungen Biomedical"],
-      "notes": "Phase II expected to start in March 2026"
+      "aliases": ["dukiprubart", "SGC001", "SGC-001", "Sungen Biomedical", "NCT07306182"],
+      "trial_aliases": ["dukiprubart", "SGC001", "SGC-001"],
+      "nct_ids": ["NCT07306182"],
+      "notes": "SGC001 Phase II in anterior STEMI patients planned for primary PCI"
     },
     {
       "name": "Evategrel",

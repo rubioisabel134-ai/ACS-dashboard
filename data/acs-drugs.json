@@ -508,18 +508,32 @@
     {
       "drug": "Dukiprubart",
       "sponsor": "Sungen Biomedical",
-      "class": "Undisclosed early-stage ACS asset",
+      "class": "Investigational infarct-size / inflammation-modulating therapy",
       "target": "Not publicly disclosed",
       "modality": "Biologic",
-      "stage": "Phase I",
-      "setting": "Acute ACS/AMI (early development)",
+      "stage": "Phase II",
+      "setting": "Anterior STEMI patients planned for primary PCI",
       "signal": "monitor",
-      "statusSummary": "Phase I watchlist program; team note indicates expected transition to Phase II in March 2026.",
-      "keyTrial": "Not disclosed",
-      "competitorWatch": "Early-stage ACS entrant",
-      "nextCatalystDate": "2026-03-31",
-      "nextCatalystEvent": "Expected Phase II start window (March 2026)",
-      "sourceLinks": []
+      "statusSummary": "SGC001 Phase II trial is recruiting in Chinese anterior STEMI patients planned for primary PCI; first dose is given within 6 hours of symptom onset with infarct-size reduction as the primary endpoint.",
+      "keyTrial": "SGC001 Phase II / NCT07306182",
+      "competitorWatch": "Track as an acute myocardial salvage / reperfusion-injury strategy alongside Xolatryp, NL005, MiSaver, and other post-PCI myocardial recovery programs.",
+      "nextCatalystDate": "2027-06-30",
+      "nextCatalystEvent": "Estimated primary/completion date for SGC001 Phase II (NCT07306182)",
+      "priorityTrials": [
+        {
+          "name": "SGC001 Phase II",
+          "phase": "Phase II",
+          "status": "Recruiting",
+          "nctId": "NCT07306182",
+          "date": "2027-06-30",
+          "event": "Estimated primary/completion date",
+          "note": "Anterior STEMI patients planned for pPCI; primary endpoint is percentage of myocardial infarction size at Day 4.",
+          "link": "https://clinicaltrials.gov/study/NCT07306182"
+        }
+      ],
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07306182"
+      ]
     },
     {
       "drug": "Evategrel",
