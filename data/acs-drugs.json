@@ -245,15 +245,58 @@
       "stage": "Phase III",
       "setting": "Acute + Chronic high-risk ASCVD",
       "signal": "monitor",
-      "statusSummary": "Large outcomes programs in inflammatory residual risk including acute MI populations.",
-      "keyTrial": "ZEUS / ARTEMIS",
-      "competitorWatch": "Competes with broad anti-inflammatory CV strategies",
-      "nextCatalystDate": "2028-09-01",
-      "nextCatalystEvent": "Estimated primary completion (NCT07276282)",
+      "statusSummary": "Large Phase III IL-6 inhibition program spans residual inflammatory risk in ASCVD/CKD (ZEUS) and acute MI/post-ACS populations (ARTEMIS and ZEPHYR).",
+      "keyTrial": "ZEUS / ARTEMIS / ZEPHYR",
+      "competitorWatch": "Competes with broad anti-inflammatory CV strategies; ARTEMIS is the near-term post-MI catalyst, while ZEPHYR extends the plaque/AMI evidence package.",
+      "nextCatalystDate": "2026-12-14",
+      "nextCatalystEvent": "ARTEMIS estimated primary completion (NCT06118281)",
+      "priorityTrials": [
+        {
+          "name": "ZEUS",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT05021835",
+          "date": "2026-06-09",
+          "event": "Estimated primary/completion date",
+          "note": "CV outcomes study in established cardiovascular disease, chronic kidney disease, and inflammation.",
+          "link": "https://clinicaltrials.gov/study/NCT05021835"
+        },
+        {
+          "name": "ARTEMIS",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT06118281",
+          "date": "2026-12-14",
+          "event": "Estimated primary/completion date",
+          "note": "Post-heart-attack study; key near-term ACS catalyst.",
+          "link": "https://clinicaltrials.gov/study/NCT06118281"
+        },
+        {
+          "name": "ZEPHYR",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07276282",
+          "date": "2028-09-01",
+          "event": "Estimated primary completion",
+          "note": "Coronary atherosclerotic burden study in acute MI/CAD.",
+          "link": "https://clinicaltrials.gov/study/NCT07276282"
+        },
+        {
+          "name": "ZEPHYR",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07301034",
+          "date": "2028-11-14",
+          "event": "Estimated primary completion",
+          "note": "Plaque-focused post-MI study.",
+          "link": "https://clinicaltrials.gov/study/NCT07301034"
+        }
+      ],
       "sourceLinks": [
-        "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT06118281",
-        "https://clinicaltrials.gov/study/NCT07276282"
+        "https://clinicaltrials.gov/study/NCT05021835",
+        "https://clinicaltrials.gov/study/NCT07276282",
+        "https://clinicaltrials.gov/study/NCT07301034"
       ]
     },
     {

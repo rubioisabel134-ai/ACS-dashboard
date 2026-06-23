@@ -133,7 +133,15 @@ function applyFilters() {
   state.filtered = state.records.filter((r) => {
     const inText =
       !q ||
-      [r.drug, r.sponsor, r.class, r.target, r.keyTrial, r.statusSummary]
+      [
+        r.drug,
+        r.sponsor,
+        r.class,
+        r.target,
+        r.keyTrial,
+        r.statusSummary,
+        ...(r.priorityTrials || []).flatMap((trial) => [trial.name, trial.nctId, trial.note]),
+      ]
         .join(" ")
         .toLowerCase()
         .includes(q);
@@ -186,6 +194,26 @@ function renderCards() {
       ? `Next catalyst: ${r.nextCatalystDate} (${r.nextCatalystEvent})`
       : `Next catalyst: ${r.nextCatalystEvent}`;
     node.querySelector(".catalyst").textContent = catalystText;
+
+    const priorityRoot = node.querySelector(".priority-trials");
+    if (r.priorityTrials && r.priorityTrials.length) {
+      const title = document.createElement("h4");
+      title.textContent = "Priority trials";
+      priorityRoot.appendChild(title);
+      r.priorityTrials.forEach((trial) => {
+        const row = document.createElement("a");
+        row.className = "trial-row";
+        row.href = trial.link || "#";
+        row.target = "_blank";
+        row.rel = "noopener noreferrer";
+        row.innerHTML = `
+          <strong>${trial.name || "Trial"} <span>${trial.phase || ""}</span></strong>
+          <small>${trial.date || "n/a"} | ${trial.event || trial.status || "Catalyst"}</small>
+          <small>${trial.nctId || ""}${trial.note ? ` | ${trial.note}` : ""}</small>
+        `;
+        priorityRoot.appendChild(row);
+      });
+    }
 
     const sourceRoot = node.querySelector(".sources");
     (r.sourceLinks || []).slice(0, 3).forEach((s, idx) => {
@@ -284,13 +312,40 @@ function getNearCatalysts(days = 180) {
   const horizon = new Date(today);
   horizon.setDate(horizon.getDate() + days);
 
-  return state.filtered
-    .filter((r) => {
-      if (!r.nextCatalystDate) return false;
-      const d = new Date(r.nextCatalystDate);
-      return !Number.isNaN(d.getTime()) && d >= today && d <= horizon;
+  const items = [];
+  state.filtered.forEach((record) => {
+    (record.priorityTrials || []).forEach((trial) => {
+      items.push({
+        drug: record.drug,
+        stage: trial.phase || record.stage,
+        date: trial.date,
+        event: `${trial.name || "Trial"}: ${trial.event || trial.status || "Catalyst"}${trial.nctId ? ` (${trial.nctId})` : ""}`,
+        link: trial.link || "",
+      });
+    });
+    if (record.nextCatalystDate) {
+      items.push({
+        drug: record.drug,
+        stage: record.stage,
+        date: record.nextCatalystDate,
+        event: record.nextCatalystEvent,
+        link: (record.sourceLinks || [])[0] || "",
+      });
+    }
+  });
+
+  const seen = new Set();
+  return items
+    .filter((item) => {
+      if (!item.date) return false;
+      const d = new Date(item.date);
+      if (Number.isNaN(d.getTime()) || d < today || d > horizon) return false;
+      const key = `${item.drug}|${item.date}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
     })
-    .sort((a, b) => new Date(a.nextCatalystDate) - new Date(b.nextCatalystDate));
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
 }
 
 function renderCatalystCount() {
@@ -312,7 +367,7 @@ function renderCatalystList() {
 
   catalysts.slice(0, 8).forEach((r) => {
     const li = document.createElement("li");
-    li.textContent = `${r.nextCatalystDate} | ${r.drug} (${r.stage}) | ${r.nextCatalystEvent}`;
+    li.textContent = `${r.date} | ${r.drug} (${r.stage}) | ${r.event}`;
     target.appendChild(li);
   });
 }
@@ -329,7 +384,8 @@ function renderCatalystPlanner() {
 
   catalysts.forEach((r) => {
     const li = document.createElement("li");
-    li.innerHTML = `<strong>${r.nextCatalystDate}</strong><span>${r.drug} | ${r.stage}</span><small>${r.nextCatalystEvent}</small>`;
+    const linkHtml = r.link ? `<a href="${r.link}" target="_blank" rel="noopener noreferrer">open</a>` : "";
+    li.innerHTML = `<strong>${r.date}</strong><span>${r.drug} | ${r.stage}</span><small>${r.event}</small>${linkHtml}`;
     target.appendChild(li);
   });
 }

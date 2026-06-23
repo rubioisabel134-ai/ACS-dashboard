@@ -43,7 +43,9 @@
     {
       "name": "Ziltivekimab",
       "sponsor": "Novo Nordisk",
-      "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS"],
+      "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS", "ZEPHYR"],
+      "trial_aliases": ["ziltivekimab", "ZEUS", "ARTEMIS", "ZEPHYR"],
+      "nct_ids": ["NCT05021835", "NCT06118281", "NCT07276282", "NCT07301034"],
       "press_release_url": "https://www.novonordisk-us.com/media/news-archive.html"
     },
     {

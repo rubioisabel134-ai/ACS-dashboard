@@ -56,7 +56,18 @@ def parse_date(s: str | None) -> dt.date | None:
 def best_trial(trials: list[dict[str, Any]]) -> dict[str, Any] | None:
     if not trials:
         return None
-    return sorted(trials, key=lambda t: t.get("lastUpdate") or "", reverse=True)[0]
+    today = dt.date.today()
+
+    def sort_key(trial: dict[str, Any]) -> tuple[int, str, int]:
+        primary = parse_date(trial.get("primaryCompletionDate"))
+        completion = parse_date(trial.get("completionDate"))
+        last_update = parse_date(trial.get("lastUpdate")) or dt.date.min
+        future_dates = [d for d in (primary, completion) if d and d >= today]
+        if future_dates:
+            return (0, min(future_dates).isoformat(), -last_update.toordinal())
+        return (1, "9999-12-31", -last_update.toordinal())
+
+    return sorted(trials, key=sort_key)[0]
 
 
 def normalize_status(raw: str) -> str:

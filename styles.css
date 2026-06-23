@@ -343,6 +343,51 @@ h2 {
   font-family: "IBM Plex Mono", monospace;
 }
 
+.priority-trials {
+  display: grid;
+  gap: 0.35rem;
+  border-top: 1px solid var(--line);
+  padding-top: 0.55rem;
+}
+
+.priority-trials:empty {
+  display: none;
+}
+
+.priority-trials h4 {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-family: "IBM Plex Mono", monospace;
+  text-transform: uppercase;
+}
+
+.trial-row {
+  display: grid;
+  gap: 0.12rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.45rem;
+  text-decoration: none;
+  color: inherit;
+  background: #f8fafc;
+}
+
+.trial-row strong {
+  font-size: 0.82rem;
+}
+
+.trial-row strong span {
+  color: var(--accent-2);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+}
+
+.trial-row small {
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
 .sources {
   display: flex;
   flex-wrap: wrap;
@@ -396,6 +441,11 @@ h2 {
 .list-cards li span,
 .list-cards li small {
   color: var(--muted);
+}
+
+.list-cards li a {
+  color: var(--accent-2);
+  font-size: 0.78rem;
 }
 
 .conference-grid {
