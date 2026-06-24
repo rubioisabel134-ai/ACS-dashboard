@@ -67,14 +67,48 @@
       "stage": "Approved",
       "setting": "Chronic post-ACS risk reduction",
       "signal": "mixed",
-      "statusSummary": "Twice-yearly PCSK9 silencing supports adherence strategy; outcomes positioning in ACS pathways still evolving.",
-      "keyTrial": "VICTORION program",
-      "competitorWatch": "Competes on adherence and implementation with antibodies",
-      "nextCatalystDate": "2026-12-31",
-      "nextCatalystEvent": "Additional VICTORION outcomes/implementation readouts",
+      "statusSummary": "Approved twice-yearly PCSK9 siRNA with two major outcomes studies: ORION-4 and VICTORION-2 PREVENT, plus ACS implementation evidence from VICTORION-INCEPTION.",
+      "keyTrial": "ORION-4 / VICTORION-2 PREVENT",
+      "competitorWatch": "Competes on adherence and implementation with PCSK9 antibodies, oral PCSK9 entrants such as AZD0780, and broader LDL-C intensification strategies.",
+      "nextCatalystDate": "2026-10-31",
+      "nextCatalystEvent": "ORION-4 estimated primary completion (NCT03705234)",
+      "priorityTrials": [
+        {
+          "name": "ORION-4",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT03705234",
+          "date": "2026-10-31",
+          "event": "Estimated primary completion",
+          "note": "Clinical outcomes trial in people with atherosclerotic cardiovascular disease.",
+          "link": "https://clinicaltrials.gov/study/NCT03705234"
+        },
+        {
+          "name": "VICTORION-2 PREVENT",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT05030428",
+          "date": "2027-10-13",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes trial in participants with established cardiovascular disease.",
+          "link": "https://clinicaltrials.gov/study/NCT05030428"
+        },
+        {
+          "name": "VICTORION-INCEPTION",
+          "phase": "Phase III",
+          "status": "Completed",
+          "nctId": "NCT04873934",
+          "date": "2024-08-07",
+          "event": "Actual primary/completion date",
+          "note": "Recent ACS LDL-C management pathway study with inclisiran plus usual care.",
+          "link": "https://clinicaltrials.gov/study/NCT04873934"
+        }
+      ],
       "sourceLinks": [
-        "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25",
-        "https://clinicaltrials.gov/study/NCT04873934"
+        "https://clinicaltrials.gov/study/NCT03705234",
+        "https://clinicaltrials.gov/study/NCT05030428",
+        "https://clinicaltrials.gov/study/NCT04873934",
+        "https://www.novartis.com/news/media-releases/novartis-presents-new-leqvio-inclisiran-data-supporting-early-ldl-c-lowering-acc25"
       ]
     },
     {
@@ -301,16 +335,39 @@
       "class": "siRNA",
       "target": "LPA",
       "modality": "siRNA",
-      "stage": "Phase II",
+      "stage": "Phase III",
       "setting": "Chronic secondary prevention",
       "signal": "positive",
-      "statusSummary": "Phase II data showed substantial durable Lp(a) lowering; ACS outcomes relevance still unproven.",
-      "keyTrial": "ALPACA / ACC 2025 presentations",
-      "competitorWatch": "Competes on potency/dosing interval in Lp(a) field",
+      "statusSummary": "ACCLAIM-Lp(a) is the Phase III outcomes study testing lepodisiran for MACE reduction in adults with elevated Lp(a); ACCLAIM-CTA adds a coronary plaque imaging study.",
+      "keyTrial": "ACCLAIM-Lp(a) / NCT06292013",
+      "competitorWatch": "Competes on potency and long dosing interval against pelacarsen, olpasiran, muvalaplin, and broader Lp(a) outcome programs.",
       "nextCatalystDate": "2029-03-31",
-      "nextCatalystEvent": "Estimated primary completion (NCT06292013)",
+      "nextCatalystEvent": "ACCLAIM-Lp(a) estimated primary/completion date (NCT06292013)",
+      "priorityTrials": [
+        {
+          "name": "ACCLAIM-Lp(a)",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT06292013",
+          "date": "2029-03-31",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes study in adults with elevated Lp(a), established ASCVD, or high first-event risk.",
+          "link": "https://clinicaltrials.gov/study/NCT06292013"
+        },
+        {
+          "name": "ACCLAIM-CTA",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07613294",
+          "date": "2029-04-30",
+          "event": "Estimated primary/completion date",
+          "note": "Coronary plaque imaging study in adults with elevated Lp(a).",
+          "link": "https://clinicaltrials.gov/study/NCT07613294"
+        }
+      ],
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT06292013",
+        "https://clinicaltrials.gov/study/NCT07613294",
         "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-positive-phase-2-alpaca-results-lepodisiran",
         "https://www.acc.org/Latest-in-Cardiology/Articles/2025/03/30/13/26/sun-10am-lepodisiran-acc-2025"
       ]

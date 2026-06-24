@@ -41,6 +41,14 @@
       "press_release_url": "https://ir.newamsterdampharma.com/news-events/press-releases"
     },
     {
+      "name": "Inclisiran (Leqvio)",
+      "sponsor": "Novartis",
+      "aliases": ["inclisiran", "Leqvio", "ORION-4", "VICTORION-2 PREVENT", "VICTORION-2P", "VICTORION-INCEPTION", "NCT03705234", "NCT05030428"],
+      "trial_aliases": ["ORION-4", "VICTORION-2 PREVENT", "VICTORION-2P", "VICTORION-INCEPTION"],
+      "nct_ids": ["NCT03705234", "NCT05030428", "NCT04873934"],
+      "press_release_url": "https://www.novartis.com/news/newsroom"
+    },
+    {
       "name": "Ziltivekimab",
       "sponsor": "Novo Nordisk",
       "aliases": ["ziltivekimab", "ZEUS", "ARTEMIS", "ZEPHYR"],
@@ -85,7 +93,9 @@
     {
       "name": "Lepodisiran",
       "sponsor": "Eli Lilly",
-      "aliases": ["lepodisiran", "ALPACA"],
+      "aliases": ["lepodisiran", "ALPACA", "ACCLAIM-Lp(a)", "ACCLAIM-CTA", "NCT06292013", "NCT07613294"],
+      "trial_aliases": ["lepodisiran", "ACCLAIM-Lp(a)", "ACCLAIM-CTA"],
+      "nct_ids": ["NCT06292013", "NCT07613294"],
       "press_release_url": "https://investor.lilly.com/rss/news-releases.xml"
     },
     {
