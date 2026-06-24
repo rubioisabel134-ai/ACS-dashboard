@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-23T12:00:01+00:00",
+  "generatedAtUTC": "2026-06-24T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -77,10 +77,48 @@
       "aliases": [
         "ziltivekimab",
         "ZEUS",
-        "ARTEMIS"
+        "ARTEMIS",
+        "ZEPHYR"
       ],
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
+        {
+          "nctId": "NCT06118281",
+          "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-04-14",
+          "primaryCompletionDate": "2026-12-14",
+          "completionDate": "2026-12-14",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Ziltivekimab",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06118281"
+        },
+        {
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-13",
+          "primaryCompletionDate": "2026-06-09",
+          "completionDate": "2026-06-09",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Chronic Kidney Disease",
+            "Inflammation"
+          ],
+          "interventions": [
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
+        },
         {
           "nctId": "NCT07276282",
           "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
@@ -554,10 +592,46 @@
       "sponsor": "Sungen Biomedical",
       "aliases": [
         "dukiprubart",
-        "Sungen Biomedical"
+        "SGC001",
+        "SGC-001",
+        "Sungen Biomedical",
+        "NCT07306182"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07306182",
+          "title": "A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-05-19",
+          "primaryCompletionDate": "2027-06",
+          "completionDate": "2027-06",
+          "conditions": [
+            "Anterior Myocardial Infarction"
+          ],
+          "interventions": [
+            "SGC001",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07306182"
+        },
+        {
+          "nctId": "NCT07091929",
+          "title": "A Research Study to Evaluate the Safety and Preliminary Efficacy of SGC001 in Patients With Myocardial Infarction",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-01-12",
+          "primaryCompletionDate": "2025-07-18",
+          "completionDate": "2025-07-18",
+          "conditions": [
+            "Anterior Myocardial Infarction"
+          ],
+          "interventions": [
+            "SGC001",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07091929"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -787,10 +861,30 @@
       "sponsor": "Eli Lilly",
       "aliases": [
         "orforglipron",
-        "LY3502970"
+        "LY3502970",
+        "ATTAIN-Outcomes",
+        "NCT07241390"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07241390",
+          "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-23",
+          "primaryCompletionDate": "2031-08",
+          "completionDate": "2031-08",
+          "conditions": [
+            "Atherosclerosis Cardiovascular Disease",
+            "Chronic Kidney Disease"
+          ],
+          "interventions": [
+            "Orforglipron",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07241390"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -801,10 +895,30 @@
       "aliases": [
         "muvalaplin",
         "LY3473329",
+        "MOVE-Lp(a)",
+        "MOVE Lp(a)",
         "NCT07157774"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07157774",
+          "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-23",
+          "primaryCompletionDate": "2031-03",
+          "completionDate": "2031-03",
+          "conditions": [
+            "Elevated Lp(a)",
+            "Atherosclerotic Cardiovascular Disease (ASCVD)"
+          ],
+          "interventions": [
+            "Muvalaplin",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07157774"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -965,7 +1079,7 @@
   "summary": {
     "drugsScanned": 37,
     "drugsWithErrors": 0,
-    "trialHits": 21,
+    "trialHits": 27,
     "companyPressHits": 12,
     "googleNewsHits": 0
   }

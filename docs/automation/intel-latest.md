@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-06-23)
+# ACS Intel Update (2026-06-24)
 
 - Window: last 1 day(s)
 - Drugs scanned: 37
@@ -24,11 +24,13 @@
 
 ## Ziltivekimab (Novo Nordisk)
 
-- ClinicalTrials.gov hits: 2
+- ClinicalTrials.gov hits: 4
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
+- [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
@@ -165,9 +167,13 @@
 
 ## Dukiprubart (Sungen Biomedical)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07306182] A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction | Status: RECRUITING | Last update: 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- [NCT07091929] A Research Study to Evaluate the Safety and Preliminary Efficacy of SGC001 in Patients With Myocardial Infarction | Status: COMPLETED | Last update: 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 
 ## Evategrel (CureGene)
 
@@ -249,15 +255,21 @@
 
 ## Orforglipron (Eli Lilly)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-06-23 | https://clinicaltrials.gov/study/NCT07241390
 
 ## Muvalaplin (Eli Lilly)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-06-23 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 

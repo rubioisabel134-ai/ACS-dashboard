@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-06-23)
+# ACS Daily CI Report (2026-06-24)
 
-- Generated (UTC): 2026-06-23T12:00:01+00:00
+- Generated (UTC): 2026-06-24T12:00:01+00:00
 - Drugs scanned: 37
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -9,8 +9,8 @@
 
 - Obicetrapib: [NCT06535854] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
 - Obicetrapib: [NCT06305559] ACTIVE_NOT_RECRUITING | last update 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
-- Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
-- Ziltivekimab: [NCT07301034] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
+- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-06-10 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
@@ -21,9 +21,13 @@
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
+- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT07619885
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-06-23 | https://clinicaltrials.gov/study/NCT07241390
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-06-23 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
