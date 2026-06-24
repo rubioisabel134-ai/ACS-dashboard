@@ -41,6 +41,14 @@
       "press_release_url": "https://ir.newamsterdampharma.com/news-events/press-releases"
     },
     {
+      "name": "Dalcetrapib",
+      "sponsor": "DalCor Pharmaceuticals",
+      "aliases": ["dalcetrapib", "DalCor", "Dal-GenE-2", "dal-GenE-2", "NCT05918861"],
+      "trial_aliases": ["dalcetrapib", "Dal-GenE-2", "dal-GenE-2"],
+      "nct_ids": ["NCT05918861"],
+      "press_release_url": "https://dalcorpharma.com/news/"
+    },
+    {
       "name": "Inclisiran (Leqvio)",
       "sponsor": "Novartis",
       "aliases": ["inclisiran", "Leqvio", "ORION-4", "VICTORION-2 PREVENT", "VICTORION-2P", "VICTORION-INCEPTION", "NCT03705234", "NCT05030428"],
@@ -89,6 +97,14 @@
       "trial_aliases": ["laroprovstat", "AZD0780", "AZURE-Outcomes"],
       "nct_ids": ["NCT07000357"],
       "press_release_url": "https://www.astrazeneca.com/media-centre/press-releases.html"
+    },
+    {
+      "name": "Enlicitide (MK-0616)",
+      "sponsor": "Merck",
+      "aliases": ["enlicitide", "enlicitide decanoate", "MK-0616", "CORALreef-Outcomes", "CORALreef Outcomes", "NCT06008756", "Merck"],
+      "trial_aliases": ["enlicitide", "MK-0616", "CORALreef-Outcomes", "CORALreef Outcomes"],
+      "nct_ids": ["NCT06008756"],
+      "press_release_url": "https://www.merck.com/news/"
     },
     {
       "name": "Lepodisiran",

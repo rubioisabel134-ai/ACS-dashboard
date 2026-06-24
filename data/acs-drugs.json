@@ -225,6 +225,37 @@
       ]
     },
     {
+      "drug": "Dalcetrapib",
+      "sponsor": "DalCor Pharmaceuticals",
+      "class": "CETP modulator",
+      "target": "CETP",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Recent ACS, genotype-selected precision medicine",
+      "signal": "monitor",
+      "statusSummary": "Dal-GenE-2 is testing dalcetrapib for cardiovascular risk reduction in a genetically defined population with recent ACS.",
+      "keyTrial": "Dal-GenE-2 / NCT05918861",
+      "competitorWatch": "Precision-medicine CETP strategy; monitor separately from broad-population CETP/LDL-C programs such as obicetrapib.",
+      "nextCatalystDate": "2027-08-31",
+      "nextCatalystEvent": "Dal-GenE-2 estimated primary/completion date (NCT05918861)",
+      "priorityTrials": [
+        {
+          "name": "Dal-GenE-2",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT05918861",
+          "date": "2027-08-31",
+          "event": "Estimated primary/completion date",
+          "note": "CV risk reduction study in a genetically defined recent ACS population.",
+          "link": "https://clinicaltrials.gov/study/NCT05918861"
+        }
+      ],
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05918861",
+        "https://dalcorpharma.com/"
+      ]
+    },
+    {
       "drug": "Pelacarsen",
       "sponsor": "Novartis",
       "class": "Antisense oligonucleotide",
@@ -327,6 +358,37 @@
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07000357",
         "https://www.astrazeneca.com/media-centre/press-releases/2025/azd0780-a-novel-oral-pcsk9-inhibitor-demonstrated-significant-ldl-cholesterol-ldl-c-reduction-in-pursuit-phase-iib-trial.html"
+      ]
+    },
+    {
+      "drug": "Enlicitide (MK-0616)",
+      "sponsor": "Merck",
+      "class": "Oral PCSK9 inhibitor",
+      "target": "PCSK9",
+      "modality": "Macrocyclic peptide",
+      "stage": "Phase III",
+      "setting": "High cardiovascular risk / ASCVD outcomes",
+      "signal": "positive",
+      "statusSummary": "CORALreef-Outcomes is a Phase III study testing oral PCSK9 inhibitor enlicitide decanoate for MACE reduction in high cardiovascular risk participants.",
+      "keyTrial": "CORALreef-Outcomes / NCT06008756",
+      "competitorWatch": "Competes with injectable PCSK9 antibodies, inclisiran, AZD0780/laroprovstat, and other LDL-C intensification strategies; oral PCSK9 delivery is the key differentiator.",
+      "nextCatalystDate": "2029-11-29",
+      "nextCatalystEvent": "CORALreef-Outcomes estimated primary completion (NCT06008756)",
+      "priorityTrials": [
+        {
+          "name": "CORALreef-Outcomes",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT06008756",
+          "date": "2029-11-29",
+          "event": "Estimated primary completion",
+          "note": "MACE outcomes study in participants at high cardiovascular risk.",
+          "link": "https://clinicaltrials.gov/study/NCT06008756"
+        }
+      ],
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT06008756",
+        "https://www.merck.com/research/pipeline/"
       ]
     },
     {
