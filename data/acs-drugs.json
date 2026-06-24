@@ -146,15 +146,48 @@
       "stage": "Phase III",
       "setting": "Chronic secondary prevention",
       "signal": "positive",
-      "statusSummary": "Broadway showed large LDL-C and ApoB reductions; outcomes validation remains key.",
+      "statusSummary": "BROADWAY is the completed Phase III LDL-C/ApoB efficacy study; PREVAIL is the pivotal cardiovascular outcomes study in patients with cardiovascular disease.",
       "keyTrial": "BROADWAY / PREVAIL",
-      "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification",
-      "nextCatalystDate": "2027-02-28",
-      "nextCatalystEvent": "Estimated primary completion (NCT06535854)",
+      "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification; PREVAIL is the key outcomes catalyst.",
+      "nextCatalystDate": "2026-11-30",
+      "nextCatalystEvent": "PREVAIL estimated primary/completion date (NCT05202509)",
+      "priorityTrials": [
+        {
+          "name": "BROADWAY",
+          "phase": "Phase III",
+          "status": "Completed",
+          "nctId": "NCT05142722",
+          "date": "2024-09-26",
+          "event": "Actual primary/completion date",
+          "note": "LDL-C/ApoB efficacy study on top of maximum tolerated lipid-modifying therapy.",
+          "link": "https://clinicaltrials.gov/study/NCT05142722"
+        },
+        {
+          "name": "PREVAIL",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT05202509",
+          "date": "2026-11-30",
+          "event": "Estimated primary/completion date",
+          "note": "Cardiovascular outcomes study in patients with cardiovascular disease.",
+          "link": "https://clinicaltrials.gov/study/NCT05202509"
+        },
+        {
+          "name": "REMBRANDT",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT06305559",
+          "date": "2027-11-30",
+          "event": "Estimated primary completion",
+          "note": "CCTA coronary plaque-characteristics study of obicetrapib/ezetimibe fixed-dose combination.",
+          "link": "https://clinicaltrials.gov/study/NCT06305559"
+        }
+      ],
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT05202509",
+        "https://clinicaltrials.gov/study/NCT05142722",
         "https://clinicaltrials.gov/study/NCT06305559",
-        "https://clinicaltrials.gov/study/NCT06535854",
-        "https://clinicaltrials.gov/study/NCT05562089"
+        "https://ir.newamsterdampharma.com/news-events/press-releases"
       ]
     },
     {
@@ -166,15 +199,27 @@
       "stage": "Phase III",
       "setting": "Chronic secondary prevention",
       "signal": "monitor",
-      "statusSummary": "Advanced Lp(a)-lowering program; cardiovascular outcomes readout is decisive for ACS relevance.",
-      "keyTrial": "Lp(a)HORIZON",
+      "statusSummary": "Lp(a)HORIZON is the pivotal Phase III outcomes study testing pelacarsen-mediated Lp(a) lowering for MACE reduction in established cardiovascular disease.",
+      "keyTrial": "Lp(a)HORIZON / NCT04023552",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2030-01-09",
-      "nextCatalystEvent": "Estimated primary completion (NCT07517263)",
+      "nextCatalystDate": "2026-06-30",
+      "nextCatalystEvent": "Lp(a)HORIZON estimated primary/completion date (NCT04023552)",
+      "priorityTrials": [
+        {
+          "name": "Lp(a)HORIZON",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT04023552",
+          "date": "2026-06-30",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes study in patients with established cardiovascular disease and elevated Lp(a).",
+          "link": "https://clinicaltrials.gov/study/NCT04023552"
+        }
+      ],
       "sourceLinks": [
-        "https://clinicaltrials.gov/study/NCT07625306",
+        "https://clinicaltrials.gov/study/NCT04023552",
         "https://clinicaltrials.gov/study/NCT07517263",
-        "https://clinicaltrials.gov/study/NCT04023552"
+        "https://clinicaltrials.gov/study/NCT07625306"
       ]
     },
     {
@@ -186,15 +231,68 @@
       "stage": "Phase III",
       "setting": "Chronic secondary prevention",
       "signal": "monitor",
-      "statusSummary": "Late-stage Lp(a) silencing program with outcomes trial in established ASCVD.",
-      "keyTrial": "OCEAN(a)-Outcomes",
-      "competitorWatch": "Direct race vs pelacarsen and other Lp(a) entrants",
-      "nextCatalystDate": "2031-10-20",
-      "nextCatalystEvent": "Estimated primary completion (NCT07136012)",
+      "statusSummary": "OCEAN(a)-Outcomes is the pivotal Phase III secondary-prevention outcomes study; OCEAN(a)-PreEvent extends olpasiran into primary-prevention/high-risk first-event populations.",
+      "keyTrial": "OCEAN(a)-Outcomes / NCT05581303",
+      "competitorWatch": "Direct race vs pelacarsen, lepodisiran, muvalaplin, and other Lp(a) entrants.",
+      "nextCatalystDate": "2028-03-31",
+      "nextCatalystEvent": "OCEAN(a)-Outcomes estimated primary/completion date (NCT05581303)",
+      "priorityTrials": [
+        {
+          "name": "OCEAN(a)-Outcomes",
+          "phase": "Phase III",
+          "status": "Active, not recruiting",
+          "nctId": "NCT05581303",
+          "date": "2028-03-31",
+          "event": "Estimated primary/completion date",
+          "note": "MACE outcomes study in established ASCVD and elevated Lp(a).",
+          "link": "https://clinicaltrials.gov/study/NCT05581303"
+        },
+        {
+          "name": "OCEAN(a)-PreEvent",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07136012",
+          "date": "2031-10-20",
+          "event": "Estimated primary/completion date",
+          "note": "First-event prevention study in participants with elevated Lp(a).",
+          "link": "https://clinicaltrials.gov/study/NCT07136012"
+        }
+      ],
       "sourceLinks": [
-        "https://clinicaltrials.gov/study/NCT07136012",
         "https://clinicaltrials.gov/study/NCT05581303",
+        "https://clinicaltrials.gov/study/NCT07136012",
         "https://www.amgen.com/newsroom"
+      ]
+    },
+    {
+      "drug": "Laroprovstat (AZD0780)",
+      "sponsor": "AstraZeneca",
+      "class": "Oral PCSK9 inhibitor",
+      "target": "PCSK9",
+      "modality": "Small molecule",
+      "stage": "Phase III",
+      "setting": "Chronic ASCVD risk reduction / LDL-C lowering",
+      "signal": "positive",
+      "statusSummary": "AZURE-Outcomes is a Phase III outcomes study testing oral PCSK9 inhibitor AZD0780/laroprovstat for MACE-PLUS reduction in established ASCVD or high first-event-risk populations.",
+      "keyTrial": "AZURE-Outcomes / NCT07000357",
+      "competitorWatch": "Competes with injectable PCSK9 antibodies, inclisiran, obicetrapib, and broader LDL-C intensification strategies; oral PCSK9 delivery is the key differentiator.",
+      "nextCatalystDate": "2029-10-26",
+      "nextCatalystEvent": "AZURE-Outcomes estimated primary/completion date (NCT07000357)",
+      "priorityTrials": [
+        {
+          "name": "AZURE-Outcomes",
+          "phase": "Phase III",
+          "status": "Recruiting",
+          "nctId": "NCT07000357",
+          "date": "2029-10-26",
+          "event": "Estimated primary/completion date",
+          "note": "MACE-PLUS outcomes study in established ASCVD or high-risk first-event populations.",
+          "link": "https://clinicaltrials.gov/study/NCT07000357"
+        }
+      ],
+      "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT07000357",
+        "https://www.astrazeneca.com/media-centre/press-releases/2025/azd0780-a-novel-oral-pcsk9-inhibitor-demonstrated-significant-ldl-cholesterol-ldl-c-reduction-in-pursuit-phase-iib-trial.html"
       ]
     },
     {

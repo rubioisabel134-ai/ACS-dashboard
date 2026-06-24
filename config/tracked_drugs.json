@@ -35,9 +35,9 @@
     {
       "name": "Obicetrapib",
       "sponsor": "NewAmsterdam Pharma",
-      "aliases": ["obicetrapib", "PREVAIL", "BROADWAY"],
+      "aliases": ["obicetrapib", "PREVAIL", "BROADWAY", "REMBRANDT"],
       "trial_aliases": ["obicetrapib"],
-      "nct_ids": ["NCT06535854", "NCT05562089", "NCT06305559"],
+      "nct_ids": ["NCT05142722", "NCT05202509", "NCT06305559"],
       "press_release_url": "https://ir.newamsterdampharma.com/news-events/press-releases"
     },
     {
@@ -62,13 +62,25 @@
     {
       "name": "Pelacarsen",
       "sponsor": "Novartis",
-      "aliases": ["pelacarsen", "Lp(a)HORIZON"]
+      "aliases": ["pelacarsen", "Lp(a)HORIZON", "TQJ230", "NCT04023552"],
+      "trial_aliases": ["pelacarsen", "Lp(a)HORIZON", "TQJ230"],
+      "nct_ids": ["NCT04023552", "NCT07517263", "NCT07625306"]
     },
     {
       "name": "Olpasiran",
       "sponsor": "Amgen",
-      "aliases": ["olpasiran", "OCEAN(a)"],
+      "aliases": ["olpasiran", "OCEAN(a)", "OCEAN(a)-Outcomes", "OCEAN(a)-PreEvent", "NCT05581303", "NCT07136012"],
+      "trial_aliases": ["olpasiran", "OCEAN(a)", "OCEAN(a)-Outcomes", "OCEAN(a)-PreEvent"],
+      "nct_ids": ["NCT05581303", "NCT07136012"],
       "press_release_url": "https://www.amgen.com/newsroom/press-releases"
+    },
+    {
+      "name": "Laroprovstat (AZD0780)",
+      "sponsor": "AstraZeneca",
+      "aliases": ["laroprovstat", "AZD0780", "AZURE-Outcomes", "NCT07000357", "AstraZeneca"],
+      "trial_aliases": ["laroprovstat", "AZD0780", "AZURE-Outcomes"],
+      "nct_ids": ["NCT07000357"],
+      "press_release_url": "https://www.astrazeneca.com/media-centre/press-releases.html"
     },
     {
       "name": "Lepodisiran",
