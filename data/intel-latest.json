@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-24T12:00:01+00:00",
+  "generatedAtUTC": "2026-06-25T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -28,26 +28,11 @@
       "aliases": [
         "obicetrapib",
         "PREVAIL",
-        "BROADWAY"
+        "BROADWAY",
+        "REMBRANDT"
       ],
       "pressReleaseUrl": "https://ir.newamsterdampharma.com/news-events/press-releases",
       "clinicalTrials": [
-        {
-          "nctId": "NCT06535854",
-          "title": "Prevail Global Study",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-04-24",
-          "primaryCompletionDate": "2027-02",
-          "completionDate": "2031-02",
-          "conditions": [
-            "Coronary Artery Disease"
-          ],
-          "interventions": [
-            "Prevail DCB",
-            "Agent DCB"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06535854"
-        },
         {
           "nctId": "NCT06305559",
           "title": "A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque",
@@ -65,6 +50,93 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06305559"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
+    },
+    {
+      "name": "Dalcetrapib",
+      "sponsor": "DalCor Pharmaceuticals",
+      "aliases": [
+        "dalcetrapib",
+        "DalCor",
+        "Dal-GenE-2",
+        "dal-GenE-2",
+        "NCT05918861"
+      ],
+      "pressReleaseUrl": "https://dalcorpharma.com/news/",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05918861",
+          "title": "Effect of Dalcetrapib on CV Risk in a Genetically Defined Population With a Recent ACS",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-22",
+          "primaryCompletionDate": "2027-08",
+          "completionDate": "2027-08",
+          "conditions": [
+            "Acute Coronary Syndrome"
+          ],
+          "interventions": [
+            "Dalcetrapib",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05918861"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 404: Not Found"
+      ]
+    },
+    {
+      "name": "Inclisiran (Leqvio)",
+      "sponsor": "Novartis",
+      "aliases": [
+        "inclisiran",
+        "Leqvio",
+        "ORION-4",
+        "VICTORION-2 PREVENT",
+        "VICTORION-2P",
+        "VICTORION-INCEPTION",
+        "NCT03705234",
+        "NCT05030428"
+      ],
+      "pressReleaseUrl": "https://www.novartis.com/news/newsroom",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05030428",
+          "title": "Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-06-11",
+          "primaryCompletionDate": "2027-10-13",
+          "completionDate": "2027-10-13",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Inclisiran sodium 300 mg",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05030428"
+        },
+        {
+          "nctId": "NCT03705234",
+          "title": "A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-05-01",
+          "primaryCompletionDate": "2026-10",
+          "completionDate": "2049-12",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Inclisiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03705234"
         }
       ],
       "companyPress": [],
@@ -207,7 +279,9 @@
       "sponsor": "Novartis",
       "aliases": [
         "pelacarsen",
-        "Lp(a)HORIZON"
+        "Lp(a)HORIZON",
+        "TQJ230",
+        "NCT04023552"
       ],
       "pressReleaseUrl": null,
       "clinicalTrials": [
@@ -268,7 +342,11 @@
       "sponsor": "Amgen",
       "aliases": [
         "olpasiran",
-        "OCEAN(a)"
+        "OCEAN(a)",
+        "OCEAN(a)-Outcomes",
+        "OCEAN(a)-PreEvent",
+        "NCT05581303",
+        "NCT07136012"
       ],
       "pressReleaseUrl": "https://www.amgen.com/newsroom/press-releases",
       "clinicalTrials": [
@@ -310,14 +388,127 @@
       "errors": []
     },
     {
+      "name": "Laroprovstat (AZD0780)",
+      "sponsor": "AstraZeneca",
+      "aliases": [
+        "laroprovstat",
+        "AZD0780",
+        "AZURE-Outcomes",
+        "NCT07000357",
+        "AstraZeneca"
+      ],
+      "pressReleaseUrl": "https://www.astrazeneca.com/media-centre/press-releases.html",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07000357",
+          "title": "A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-03",
+          "primaryCompletionDate": "2029-10-26",
+          "completionDate": "2029-10-26",
+          "conditions": [
+            "Cardiovascular Disease"
+          ],
+          "interventions": [
+            "AZD0780",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07000357"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Enlicitide (MK-0616)",
+      "sponsor": "Merck",
+      "aliases": [
+        "enlicitide",
+        "enlicitide decanoate",
+        "MK-0616",
+        "CORALreef-Outcomes",
+        "CORALreef Outcomes",
+        "NCT06008756",
+        "Merck"
+      ],
+      "pressReleaseUrl": "https://www.merck.com/news/",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06008756",
+          "title": "Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-04-23",
+          "primaryCompletionDate": "2029-11-29",
+          "completionDate": "2031-11-29",
+          "conditions": [
+            "Arteriosclerosis",
+            "Hypercholesterolaemia"
+          ],
+          "interventions": [
+            "Enlicitide Decanoate",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06008756"
+        }
+      ],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": [
+        "company press: HTTP Error 404: Not Found"
+      ]
+    },
+    {
       "name": "Lepodisiran",
       "sponsor": "Eli Lilly",
       "aliases": [
         "lepodisiran",
-        "ALPACA"
+        "ALPACA",
+        "ACCLAIM-Lp(a)",
+        "ACCLAIM-CTA",
+        "NCT06292013",
+        "NCT07613294"
       ],
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06292013",
+          "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-06-18",
+          "primaryCompletionDate": "2029-03",
+          "completionDate": "2029-03",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease (ASCVD)",
+            "Elevated Lp(a)"
+          ],
+          "interventions": [
+            "Lepodisiran Sodium",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06292013"
+        },
+        {
+          "nctId": "NCT07613294",
+          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-18",
+          "primaryCompletionDate": "2029-04",
+          "completionDate": "2029-04",
+          "conditions": [
+            "Atherosclerosis",
+            "Cardiovascular Diseases",
+            "Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Lepodisiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07613294"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -1077,9 +1268,9 @@
     }
   ],
   "summary": {
-    "drugsScanned": 37,
-    "drugsWithErrors": 0,
-    "trialHits": 27,
+    "drugsScanned": 41,
+    "drugsWithErrors": 3,
+    "trialHits": 33,
     "companyPressHits": 12,
     "googleNewsHits": 0
   }

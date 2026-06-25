@@ -1,7 +1,7 @@
-# ACS Intel Update (2026-06-24)
+# ACS Intel Update (2026-06-25)
 
 - Window: last 1 day(s)
-- Drugs scanned: 37
+- Drugs scanned: 41
 
 ## Zalunfiban (CeleCor Therapeutics)
 
@@ -14,13 +14,31 @@
 
 ## Obicetrapib (NewAmsterdam Pharma)
 
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT06305559] A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
+
+## Dalcetrapib (DalCor Pharmaceuticals)
+
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT05918861] Effect of Dalcetrapib on CV Risk in a Genetically Defined Population With a Recent ACS | Status: RECRUITING | Last update: 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
+
+## Inclisiran (Leqvio) (Novartis)
+
 - ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06535854] Prevail Global Study | Status: RECRUITING | Last update: 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
-- [NCT06305559] A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
+- [NCT05030428] Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-11 | https://clinicaltrials.gov/study/NCT05030428
+- [NCT03705234] A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
 
 ## Ziltivekimab (Novo Nordisk)
 
@@ -70,11 +88,33 @@
 - [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
-## Lepodisiran (Eli Lilly)
+## Laroprovstat (AZD0780) (AstraZeneca)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-06-03 | https://clinicaltrials.gov/study/NCT07000357
+
+## Enlicitide (MK-0616) (Merck)
+
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT06008756] Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+
+## Lepodisiran (Eli Lilly)
+
+- ClinicalTrials.gov hits: 2
+- Company press hits: 0
+- Google News hits: 0
+
+### Latest trial updates
+- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
+- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT07613294
 
 ## Olezarsen (Ionis)
 
