@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-25T12:00:01+00:00",
+  "generatedAtUTC": "2026-06-27T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -354,7 +354,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-18",
+          "lastUpdate": "2026-06-25",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -671,7 +671,24 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05848674",
+          "title": "CArdiac Brief INtervention: A Feasibility Study to Promote Engagement With Cardiac Rehabilitation",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-03-03",
+          "primaryCompletionDate": "2024-11-01",
+          "completionDate": "2024-11-01",
+          "conditions": [
+            "ST Elevation Myocardial Infarction"
+          ],
+          "interventions": [
+            "CArdiac Brief INtervention (CABIN)",
+            "Refined version of CABIN"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05848674"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -1270,7 +1287,7 @@
   "summary": {
     "drugsScanned": 41,
     "drugsWithErrors": 3,
-    "trialHits": 33,
+    "trialHits": 34,
     "companyPressHits": 12,
     "googleNewsHits": 0
   }

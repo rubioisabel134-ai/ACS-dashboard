@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-06-25)
+# ACS Daily CI Report (2026-06-27)
 
-- Generated (UTC): 2026-06-25T12:00:01+00:00
+- Generated (UTC): 2026-06-27T12:00:01+00:00
 - Drugs scanned: 41
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -16,7 +16,7 @@
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-06-10 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-25 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-06-03 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
@@ -26,6 +26,7 @@
 - Selatogrel: [NCT07615868] NOT_YET_RECRUITING | last update 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
+- VE-1902: [NCT05848674] COMPLETED | last update 2026-03-03 | https://clinicaltrials.gov/study/NCT05848674
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
