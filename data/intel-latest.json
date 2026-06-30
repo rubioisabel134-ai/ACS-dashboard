@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-06-30T17:57:31+00:00",
+  "generatedAtUTC": "2026-06-30T18:27:05+00:00",
   "days": 7,
   "drugs": [
     {
@@ -7,7 +7,12 @@
       "sponsor": "CeleCor Therapeutics",
       "aliases": [
         "zalunfiban",
-        "CELEBRATE"
+        "Disaggpro",
+        "RUC-4",
+        "CELEBRATE",
+        "CeleBrate",
+        "New Drug Application",
+        "Rolling Review"
       ],
       "pressReleaseUrl": "https://www.celecor.com/news/",
       "clinicalTrials": [],
@@ -17,6 +22,12 @@
           "link": "https://www.celecor.com/celebrate-results/",
           "source": "www.celecor.com",
           "publishedAt": null
+        },
+        {
+          "title": "CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug",
+          "link": "https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/",
+          "source": "www.celecor.com",
+          "publishedAt": "2026-06-24"
         }
       ],
       "googleNews": [],
@@ -1183,6 +1194,42 @@
           "link": "https://abcentra.com/coronary-artery-disease/",
           "source": "abcentra.com",
           "publishedAt": null
+        },
+        {
+          "title": "Abcentra LLC Announces First Patient Dosed in Phase 2b \u201cFORTIFY\u201d Clinical Trial Evaluating Orticumab in Patients with Cardiovascular Disease",
+          "link": "https://abcentra.com/abcentra-llc-announces-first-patient-dosed-in-phase-2b-fortify-clinical-trial-evaluating-orticumab-in-patients-with-cardiovascular-disease/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Caristo Diagnostics: Latest Lancet publication with results from world\u2019s largest coronary CT registry.",
+          "link": "https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Large CT Study Shows Benefits of AI in Predicting CV Risks in Patients Without Obstructive CAD",
+          "link": "https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Lund University features Jan Nilsson\u2019s experiment results on Orticumab, Highlighting the Promising Results of Reducing the Risk of Dying from a Heart Attack",
+          "link": "https://abcentra.com/lund-university-features-jan-nilssons-experiment-results-on-orticumab-highlighting-the-promising-results-of-reducing-the-risk-of-dying-from-a-heart-attack/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "American College of Cardiology Presentation Highlights Orticumab\u2019s Promising Results Showing Potential to Reduce Coronary Inflammation",
+          "link": "https://abcentra.com/acc-presentation-highlights-orticumab-promising-results/",
+          "source": "abcentra.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Abcentra Announces First Patients Dosed with Orticumab in Clinical Trial",
+          "link": "https://abcentra.com/abcentra-announces-first-patients-dosed-with-orticumab-in-clinical-trial/",
+          "source": "abcentra.com",
+          "publishedAt": null
         }
       ],
       "googleNews": [],
@@ -1296,7 +1343,7 @@
     "drugsScanned": 41,
     "drugsWithErrors": 3,
     "trialHits": 34,
-    "companyPressHits": 12,
+    "companyPressHits": 19,
     "googleNewsHits": 1
   }
 }

@@ -116,7 +116,7 @@ def text_is_informative(title: str) -> bool:
 
 
 def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_terms: list[str]) -> bool:
-    hay = f"{title} {link}".lower()
+    hay = f"{title} {link}".lower().replace("-", " ")
     blocked_patterns = (
         r"\bst\s*patrick",
         r"\bparade\b",
@@ -145,7 +145,7 @@ def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_t
         hay,
     )
     cv_context = re.search(
-        r"\b(cvot|mace|acs|ccs|cad|chd|ascvd|stemi|nstemi|myocardial|coronary|"
+        r"\b(cvot|mace|acs|ccs|cad|chd|ascvd|stemi|nstemi|myocardial|coronary|heart attack|"
         r"atherothrombotic|atherosclerotic|secondary prevention|pci|cardiovascular|cardio|"
         r"lipoprotein|lpa|ldl|thrombo|thrombolytic|antiplatelet|anticoagulant|heart failure|mi)\b",
         hay,
@@ -263,15 +263,45 @@ def parse_press_feed(page: str, source_url: str) -> list[dict[str, str]]:
 
 
 def extract_page_title(page: str) -> str | None:
+    candidates: list[str] = []
     for pattern in (r"<h1[^>]*>(.*?)</h1>", r"<title[^>]*>(.*?)</title>"):
-        match = re.search(pattern, page, flags=re.IGNORECASE | re.DOTALL)
-        if not match:
+        for match in re.finditer(pattern, page, flags=re.IGNORECASE | re.DOTALL):
+            title = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
+            title = re.sub(r"\s+", " ", title).strip()
+            if title:
+                candidates.append(title)
+    for title in candidates:
+        lowered = title.lower()
+        if "backgrounder" in lowered or "complete the form" in lowered:
             continue
-        title = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
+        if text_is_informative(title):
+            return re.sub(r"\s+-\s+CeleCor Therapeutics$", "", title).strip()
+    for title in candidates:
         title = re.sub(r"\s+", " ", title).strip()
-        if title:
+        if text_is_informative(title):
             return title
     return None
+
+
+def title_from_url_slug(url: str) -> str:
+    path = urllib.parse.urlparse(url).path.strip("/")
+    slug = path.rsplit("/", 1)[-1]
+    title = re.sub(r"[-_]+", " ", slug)
+    return re.sub(r"\s+", " ", title).strip()
+
+
+def published_date_from_page(page: str) -> str | None:
+    match = re.search(
+        r"Published on:\s*(?:<[^>]+>\s*)*([A-Z][a-z]+ \d{1,2}, \d{4})",
+        page,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if not match:
+        return None
+    try:
+        return dt.datetime.strptime(html.unescape(match.group(1)).strip(), "%B %d, %Y").date().isoformat()
+    except ValueError:
+        return None
 
 
 def extract_meta_description(page: str) -> str:
@@ -381,21 +411,33 @@ def company_press_search(
             continue
 
         text = html.unescape((link.get("text") or "").strip())
+        candidate_text = text if text_is_informative(text) else title_from_url_slug(absolute)
+        if not text_is_informative(candidate_text):
+            continue
+        if not item_is_relevant(candidate_text, absolute, aliases, sponsor_words):
+            continue
+
+        title = candidate_text
+        published_at = None
         if not text_is_informative(text):
-            continue
-        if not item_is_relevant(text, absolute, aliases, sponsor_words):
-            continue
-        year = extract_year(text) or extract_year(absolute)
+            try:
+                article_page = http_get_text(absolute)
+                title = extract_page_title(article_page) or candidate_text
+                published_at = published_date_from_page(article_page)
+            except Exception:
+                title = candidate_text
+                published_at = None
+
+        year = extract_year(published_at) or extract_year(title) or extract_year(absolute)
         if year is not None and year != target_year:
             continue
 
-        title = text or parsed.path.rsplit("/", 1)[-1] or "Untitled"
         selected.append(
             {
                 "title": re.sub(r"\s+", " ", title).strip(),
                 "link": absolute,
                 "source": base_domain or "company press room",
-                "publishedAt": None,
+                "publishedAt": published_at,
             }
         )
         if len(selected) >= max_results:

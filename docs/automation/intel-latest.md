@@ -6,11 +6,12 @@
 ## Zalunfiban (CeleCor Therapeutics)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 1
+- Company press hits: 2
 - Google News hits: 0
 
 ### Company press-room hits
 - www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
+- www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
 
 ## Obicetrapib (NewAmsterdam Pharma)
 
@@ -317,7 +318,7 @@
 ## Orticumab (Abcentra)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 2
+- Company press hits: 8
 - Google News hits: 0
 
 ### Latest trial updates
@@ -327,6 +328,12 @@
 ### Company press-room hits
 - abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
+- abcentra.com | [Abcentra LLC Announces First Patient Dosed in Phase 2b “FORTIFY” Clinical Trial Evaluating Orticumab in Patients with Cardiovascular Disease](https://abcentra.com/abcentra-llc-announces-first-patient-dosed-in-phase-2b-fortify-clinical-trial-evaluating-orticumab-in-patients-with-cardiovascular-disease/)
+- abcentra.com | [Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry.](https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/)
+- abcentra.com | [Large CT Study Shows Benefits of AI in Predicting CV Risks in Patients Without Obstructive CAD](https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/)
+- abcentra.com | [Lund University features Jan Nilsson’s experiment results on Orticumab, Highlighting the Promising Results of Reducing the Risk of Dying from a Heart Attack](https://abcentra.com/lund-university-features-jan-nilssons-experiment-results-on-orticumab-highlighting-the-promising-results-of-reducing-the-risk-of-dying-from-a-heart-attack/)
+- abcentra.com | [American College of Cardiology Presentation Highlights Orticumab’s Promising Results Showing Potential to Reduce Coronary Inflammation](https://abcentra.com/acc-presentation-highlights-orticumab-promising-results/)
+- abcentra.com | [Abcentra Announces First Patients Dosed with Orticumab in Clinical Trial](https://abcentra.com/abcentra-announces-first-patients-dosed-with-orticumab-in-clinical-trial/)
 
 ## MiSaver (HONYA Medical)
 
