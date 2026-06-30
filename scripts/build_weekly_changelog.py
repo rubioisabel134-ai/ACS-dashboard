@@ -60,31 +60,68 @@ def collect_trial_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
     return sorted(items, key=lambda item: item.get("date") or "", reverse=True)
 
 
+def iso_year(value: str | None) -> int | None:
+    if not value:
+        return None
+    try:
+        return dt.datetime.fromisoformat(value.replace("Z", "+00:00")).year
+    except ValueError:
+        pass
+    if len(value) >= 4 and value[:4].isdigit():
+        return int(value[:4])
+    return None
+
+
+def source_rank(source: str) -> int:
+    value = (source or "").lower()
+    if "google" in value:
+        return 2
+    return 1
+
+
 def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
-    items: list[dict[str, Any]] = []
+    run_year = iso_year(intel.get("generatedAtUTC")) or dt.date.today().year
+    best_by_drug_type: dict[tuple[str, str], dict[str, Any]] = {}
     for drug in intel.get("drugs", []):
         for press in drug.get("companyPress") or []:
-            items.append(
-                {
-                    "drug": drug.get("name"),
-                    "type": "press",
-                    "date": press.get("publishedAt") or None,
-                    "title": press.get("title") or "Company press update",
-                    "source": press.get("source") or "Company press room",
-                    "link": press.get("link") or "",
-                }
-            )
+            date = press.get("publishedAt") or None
+            if iso_year(date) != run_year:
+                continue
+            item = {
+                "drug": drug.get("name"),
+                "type": "press",
+                "date": date,
+                "title": press.get("title") or "Company press update",
+                "source": press.get("source") or "Company press room",
+                "link": press.get("link") or "",
+            }
+            key = (item["drug"] or "", item["type"])
+            prior = best_by_drug_type.get(key)
+            if prior is None or (item.get("date") or "", -source_rank(item.get("source") or "")) > (
+                prior.get("date") or "",
+                -source_rank(prior.get("source") or ""),
+            ):
+                best_by_drug_type[key] = item
         for news in drug.get("googleNews") or []:
-            items.append(
-                {
-                    "drug": drug.get("name"),
-                    "type": "news",
-                    "date": news.get("publishedAt") or None,
-                    "title": news.get("title") or "News update",
-                    "source": news.get("source") or "Google News",
-                    "link": news.get("link") or "",
-                }
-            )
+            date = news.get("publishedAt") or None
+            if iso_year(date) != run_year:
+                continue
+            item = {
+                "drug": drug.get("name"),
+                "type": "news",
+                "date": date,
+                "title": news.get("title") or "News update",
+                "source": news.get("source") or "Google News",
+                "link": news.get("link") or "",
+            }
+            key = (item["drug"] or "", item["type"])
+            prior = best_by_drug_type.get(key)
+            if prior is None or (item.get("date") or "", -source_rank(item.get("source") or "")) > (
+                prior.get("date") or "",
+                -source_rank(prior.get("source") or ""),
+            ):
+                best_by_drug_type[key] = item
+    items = list(best_by_drug_type.values())
     return sorted(items, key=lambda item: item.get("date") or "", reverse=True)
 
 
@@ -155,6 +192,8 @@ def write_markdown(path: pathlib.Path, payload: dict[str, Any]) -> None:
     lines.append("")
 
     lines.append("## Press And News")
+    lines.append("")
+    lines.append("Latest dated current-year press/news item per asset.")
     lines.append("")
     if not payload["pressUpdates"]:
         lines.append("- No press/news updates found.")

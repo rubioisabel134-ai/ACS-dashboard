@@ -24,6 +24,24 @@ const state = {
   feedItems: [],
 };
 
+function dateYear(value) {
+  if (!value) return null;
+  const match = String(value).match(/^(\d{4})/);
+  return match ? Number(match[1]) : null;
+}
+
+function latestByDrugAndType(items) {
+  const best = new Map();
+  items.forEach((item) => {
+    const key = `${item.drug || ""}::${item.type || ""}`;
+    const prior = best.get(key);
+    if (!prior || String(item.date || "").localeCompare(String(prior.date || "")) > 0) {
+      best.set(key, item);
+    }
+  });
+  return Array.from(best.values());
+}
+
 async function load() {
   const [portfolioData, conferencesData, intelData, changelogData] = await Promise.all([
     fetchJson("data/acs-drugs.json"),
@@ -441,6 +459,7 @@ function buildFeedItems() {
   }
 
   const items = [];
+  const runYear = dateYear(intel.generatedAtUTC) || new Date().getFullYear();
   intel.drugs.forEach((drugEntry) => {
     const drug = drugEntry.name;
 
@@ -456,6 +475,7 @@ function buildFeedItems() {
     });
 
     (drugEntry.companyPress || []).forEach((press) => {
+      if (dateYear(press.publishedAt) !== runYear) return;
       items.push({
         drug,
         type: "press",
@@ -467,6 +487,7 @@ function buildFeedItems() {
     });
 
     (drugEntry.googleNews || []).forEach((news) => {
+      if (dateYear(news.publishedAt) !== runYear) return;
       items.push({
         drug,
         type: "news",
@@ -478,8 +499,9 @@ function buildFeedItems() {
     });
   });
 
-  items.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
-  state.feedItems = items;
+  const latestPressNews = latestByDrugAndType(items.filter((item) => item.type === "press" || item.type === "news"));
+  const trials = items.filter((item) => item.type === "trial");
+  state.feedItems = [...trials, ...latestPressNews].sort((a, b) => (b.date || "").localeCompare(a.date || ""));
 }
 
 function renderFeed() {
