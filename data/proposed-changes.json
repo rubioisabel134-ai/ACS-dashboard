@@ -1,69 +1,150 @@
 {
-  "generatedAtUTC": "2026-06-22T12:10:14+00:00",
-  "updates": 4,
+  "generatedAtUTC": "2026-06-30T17:58:07+00:00",
+  "updates": 16,
   "proposals": [
+    {
+      "drug": "Obicetrapib",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2026-11-30",
+          "after": "2027-11-30"
+        },
+        "nextCatalystEvent": {
+          "before": "PREVAIL estimated primary/completion date (NCT05202509)",
+          "after": "Estimated primary completion (NCT06305559)"
+        }
+      }
+    },
+    {
+      "drug": "Dalcetrapib",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "Dal-GenE-2 estimated primary/completion date (NCT05918861)",
+          "after": "Estimated primary completion (NCT05918861)"
+        }
+      }
+    },
+    {
+      "drug": "Inclisiran (Leqvio)",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "ORION-4 estimated primary completion (NCT03705234)",
+          "after": "Estimated primary completion (NCT03705234)"
+        }
+      }
+    },
     {
       "drug": "Ziltivekimab",
       "changes": {
-        "nextCatalystDate": {
-          "before": "2026-12-14",
-          "after": "2028-09-01"
-        },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT06118281)",
-          "after": "Estimated primary completion (NCT07276282)"
+          "before": "ARTEMIS estimated primary completion (NCT06118281)",
+          "after": "Estimated primary completion (NCT06118281)"
         }
       }
     },
     {
-      "drug": "RBD4059",
+      "drug": "Pelacarsen",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "Lp(a)HORIZON estimated primary/completion date (NCT04023552)",
+          "after": "Estimated primary completion (NCT04023552)"
+        }
+      }
+    },
+    {
+      "drug": "Olpasiran",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "OCEAN(a)-Outcomes estimated primary/completion date (NCT05581303)",
+          "after": "Estimated primary completion (NCT05581303)"
+        }
+      }
+    },
+    {
+      "drug": "Laroprovstat (AZD0780)",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "AZURE-Outcomes estimated primary/completion date (NCT07000357)",
+          "after": "Estimated primary completion (NCT07000357)"
+        }
+      }
+    },
+    {
+      "drug": "Enlicitide (MK-0616)",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "CORALreef-Outcomes estimated primary completion (NCT06008756)",
+          "after": "Estimated primary completion (NCT06008756)"
+        }
+      }
+    },
+    {
+      "drug": "Lepodisiran",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "ACCLAIM-Lp(a) estimated primary/completion date (NCT06292013)",
+          "after": "Estimated primary completion (NCT06292013)"
+        }
+      }
+    },
+    {
+      "drug": "MT1002",
       "changes": {
         "nextCatalystDate": {
-          "before": "2026-12-31",
+          "before": "2028-06-30",
           "after": null
         },
         "nextCatalystEvent": {
-          "before": "Phase IIa data maturation window",
-          "after": "Monitor next registry update (NCT06717074)"
+          "before": "Projected Phase IIb completion by mid-2028 per HKEX filing",
+          "after": "Monitor next registry update (NCT04723186)"
         },
         "sourceLinks": {
           "before": [
-            "https://clinicaltrials.gov/study/NCT06866457",
-            "https://www.ribocure.com/pipeline"
+            "https://clinicaltrials.gov/study/NCT06533358",
+            "https://www.micot.cn/newsinfo/11172904.html",
+            "https://www1.hkexnews.hk/app/sehk/2026/108375/documents/sehk26060403116.pdf"
           ],
           "after": [
-            "https://clinicaltrials.gov/study/NCT06717074",
-            "https://clinicaltrials.gov/study/NCT06866457",
-            "https://www.ribocure.com/pipeline"
+            "https://clinicaltrials.gov/study/NCT04723186",
+            "https://clinicaltrials.gov/study/NCT06533358",
+            "https://www.micot.cn/newsinfo/11172904.html"
           ]
         }
       }
     },
     {
-      "drug": "ReHeart",
+      "drug": "UDP-003",
       "changes": {
-        "statusSummary": {
-          "before": "ClinicalTrials.gov: NCT05566600 status is Unknown (last update 2023-11-22).",
-          "after": "ClinicalTrials.gov: NCT07347197 status is Not Yet Recruiting (last update 2026-01-16)."
-        },
         "nextCatalystDate": {
-          "before": null,
-          "after": "2028-01-01"
-        },
+          "before": "2026-07-30",
+          "after": "2026-12-30"
+        }
+      }
+    },
+    {
+      "drug": "Dukiprubart",
+      "changes": {
         "nextCatalystEvent": {
-          "before": "Monitor next registry update (NCT05566600)",
-          "after": "Estimated primary completion (NCT07347197)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT05566600",
-            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT07347197",
-            "https://clinicaltrials.gov/study/NCT05566600",
-            "https://bioinformant.com/ipsc-therapies-make-history-japan-authorizes-worlds-first-two-ipsc-based-cell-therapies/"
-          ]
+          "before": "Estimated primary/completion date for SGC001 Phase II (NCT07306182)",
+          "after": "Estimated primary completion (NCT07306182)"
+        }
+      }
+    },
+    {
+      "drug": "Orforglipron",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "ATTAIN-Outcomes estimated primary/completion date (NCT07241390)",
+          "after": "Estimated primary completion (NCT07241390)"
+        }
+      }
+    },
+    {
+      "drug": "Muvalaplin",
+      "changes": {
+        "nextCatalystEvent": {
+          "before": "MOVE-Lp(a) estimated primary/completion date (NCT07157774)",
+          "after": "Estimated primary completion (NCT07157774)"
         }
       }
     },
@@ -71,23 +152,25 @@
       "drug": "Orticumab",
       "changes": {
         "nextCatalystDate": {
-          "before": "2027-02-08",
-          "after": null
+          "before": null,
+          "after": "2027-02-08"
         },
         "nextCatalystEvent": {
-          "before": "Estimated primary completion (NCT06927739)",
-          "after": "Monitor next registry update (NCT04776629)"
+          "before": "Monitor next registry update (NCT04776629)",
+          "after": "Estimated primary completion (NCT06927739)"
+        }
+      }
+    },
+    {
+      "drug": "RO7763505",
+      "changes": {
+        "nextCatalystDate": {
+          "before": null,
+          "after": "2028-02-15"
         },
-        "sourceLinks": {
-          "before": [
-            "https://clinicaltrials.gov/study/NCT06927739",
-            "https://abcentra.com/resources/"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT04776629",
-            "https://clinicaltrials.gov/study/NCT06927739",
-            "https://abcentra.com/resources/"
-          ]
+        "nextCatalystEvent": {
+          "before": "Monitor next registry update (NCT07495813)",
+          "after": "Estimated primary completion (NCT07495813)"
         }
       }
     }

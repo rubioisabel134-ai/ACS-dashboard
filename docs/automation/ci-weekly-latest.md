@@ -1,31 +1,43 @@
-# ACS Daily CI Report (2026-06-22)
+# ACS Daily CI Report (2026-06-30)
 
-- Generated (UTC): 2026-06-22T12:03:39+00:00
-- Drugs scanned: 36
+- Generated (UTC): 2026-06-30T17:57:31+00:00
+- Drugs scanned: 41
 - News window: last 7 day(s)
-- Playwright links captured: 12
+- Playwright links captured: 13
 
 ## Trial Status Updates
 
-- Obicetrapib: [NCT06535854] RECRUITING | last update 2026-04-24 | https://clinicaltrials.gov/study/NCT06535854
 - Obicetrapib: [NCT06305559] ACTIVE_NOT_RECRUITING | last update 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
-- Ziltivekimab: [NCT07276282] RECRUITING | last update 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
-- Ziltivekimab: [NCT07301034] RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+- Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
+- Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-06-11 | https://clinicaltrials.gov/study/NCT05030428
+- Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+- Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
+- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-06-10 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-25 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
+- Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-06-03 | https://clinicaltrials.gov/study/NCT07000357
+- Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
+- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT07615868] NOT_YET_RECRUITING | last update 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
+- MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
-- UDP-003: [NCT06813339] RECRUITING | last update 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
-- Evategrel: [NCT07619885] RECRUITING | last update 2026-06-05 | https://clinicaltrials.gov/study/NCT07619885
+- UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
+- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
+- Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-06-23 | https://clinicaltrials.gov/study/NCT07241390
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-06-23 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- RO7763505: [NCT07495813] RECRUITING | last update 2026-06-15 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
@@ -40,15 +52,17 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Evategrel | 2026-06-27 | MSN | [First participant receives Evategrel in CureGene’s trial - MSN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5)
 
 ## Captured Link Validation
 
-- Successful captures: 12/12
+- Successful captures: 13/13
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
 - OK | Xolatryp | [Myocardial Ischemia and Arrhythmia Control | Nyrada - Biotechnology Company](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - OK | UDP-003 | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - OK | UDP-003 | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - OK | UDP-003 | [Cyclarity Therapeutics Announces Clinical Advisory Board - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/)
+- OK | Evategrel | [Google News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5&hl=en-US&gl=US&ceid=US:en)
 - OK | Sumecigrel | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - OK | Orticumab | [Abcentra Appoints Dr. Peter Libby as Board Member](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - OK | Orticumab | [Coronary Artery Disease - Abcentra](https://abcentra.com/coronary-artery-disease/)

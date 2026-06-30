@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-29T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-06-30T17:57:31+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -474,6 +474,24 @@
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
+          "nctId": "NCT07613294",
+          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-29",
+          "primaryCompletionDate": "2029-04",
+          "completionDate": "2029-04",
+          "conditions": [
+            "Atherosclerosis",
+            "Cardiovascular Diseases",
+            "Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Lepodisiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07613294"
+        },
+        {
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -489,24 +507,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06292013"
-        },
-        {
-          "nctId": "NCT07613294",
-          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-18",
-          "primaryCompletionDate": "2029-04",
-          "completionDate": "2029-04",
-          "conditions": [
-            "Atherosclerosis",
-            "Cardiovascular Diseases",
-            "Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Lepodisiran",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07613294"
         }
       ],
       "companyPress": [],
@@ -671,24 +671,7 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [
-        {
-          "nctId": "NCT05848674",
-          "title": "CArdiac Brief INtervention: A Feasibility Study to Promote Engagement With Cardiac Rehabilitation",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-03-03",
-          "primaryCompletionDate": "2024-11-01",
-          "completionDate": "2024-11-01",
-          "conditions": [
-            "ST Elevation Myocardial Infarction"
-          ],
-          "interventions": [
-            "CArdiac Brief INtervention (CABIN)",
-            "Refined version of CABIN"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05848674"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -756,11 +739,11 @@
       "clinicalTrials": [
         {
           "nctId": "NCT06813339",
-          "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Patients",
+          "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-02-24",
-          "primaryCompletionDate": "2026-07-30",
-          "completionDate": "2027-06-30",
+          "lastUpdate": "2026-06-30",
+          "primaryCompletionDate": "2026-12-30",
+          "completionDate": "2027-12-30",
           "conditions": [
             "Atherosclerotic Cardiovascular Disease",
             "Acute Coronary Syndromes"
@@ -859,9 +842,9 @@
       "clinicalTrials": [
         {
           "nctId": "NCT07619885",
-          "title": "The Pharmacokinetics and Pharmacodynamics Study of CG-0255 Besylate and Plavix\u00ae in Healthy Participants",
+          "title": "The Pharmacokinetics and Pharmacodynamics Study of Evategrel CG-0255 Besylate\uff09and Plavix\u00ae in Healthy Participants",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-05",
+          "lastUpdate": "2026-06-29",
           "primaryCompletionDate": "2026-10",
           "completionDate": "2026-12",
           "conditions": [
@@ -879,7 +862,14 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [],
+      "googleNews": [
+        {
+          "title": "First participant receives Evategrel in CureGene\u2019s trial - MSN",
+          "source": "MSN",
+          "publishedAt": "2026-06-27T20:28:40+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5"
+        }
+      ],
       "errors": []
     },
     {
@@ -1265,7 +1255,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-06-15",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1289,6 +1297,6 @@
     "drugsWithErrors": 3,
     "trialHits": 34,
     "companyPressHits": 12,
-    "googleNewsHits": 0
+    "googleNewsHits": 1
   }
 }

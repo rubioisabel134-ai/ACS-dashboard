@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-22",
+  "snapshotDate": "2026-06-30",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -71,7 +71,7 @@
       "keyTrial": "ORION-4 / VICTORION-2 PREVENT",
       "competitorWatch": "Competes on adherence and implementation with PCSK9 antibodies, oral PCSK9 entrants such as AZD0780, and broader LDL-C intensification strategies.",
       "nextCatalystDate": "2026-10-31",
-      "nextCatalystEvent": "ORION-4 estimated primary completion (NCT03705234)",
+      "nextCatalystEvent": "Estimated primary completion (NCT03705234)",
       "priorityTrials": [
         {
           "name": "ORION-4",
@@ -163,12 +163,12 @@
       "statusSummary": "Micot announced completion of enrollment in the MT1002 Phase II ACS-PCI study; ClinicalTrials.gov lists the industry-sponsored MT1002-II-C04 Phase 2 trial in ACS patients undergoing PCI.",
       "keyTrial": "MT1002-II-C04 / NCT06533358",
       "competitorWatch": "Track as a cath-lab antithrombotic candidate combining direct thrombin inhibition with GP IIb/IIIa antagonism; relevant to cangrelor, GP IIb/IIIa inhibitors, heparin/bivalirudin strategies, and zalunfiban in acute PCI workflows.",
-      "nextCatalystDate": "2028-06-30",
-      "nextCatalystEvent": "Projected Phase IIb completion by mid-2028 per HKEX filing",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor next registry update (NCT04723186)",
       "sourceLinks": [
+        "https://clinicaltrials.gov/study/NCT04723186",
         "https://clinicaltrials.gov/study/NCT06533358",
-        "https://www.micot.cn/newsinfo/11172904.html",
-        "https://www1.hkexnews.hk/app/sehk/2026/108375/documents/sehk26060403116.pdf"
+        "https://www.micot.cn/newsinfo/11172904.html"
       ]
     },
     {
@@ -183,8 +183,8 @@
       "statusSummary": "BROADWAY is the completed Phase III LDL-C/ApoB efficacy study; PREVAIL is the pivotal cardiovascular outcomes study in patients with cardiovascular disease.",
       "keyTrial": "BROADWAY / PREVAIL",
       "competitorWatch": "Competes with statin+ezetimibe+PCSK9 intensification; PREVAIL is the key outcomes catalyst.",
-      "nextCatalystDate": "2026-11-30",
-      "nextCatalystEvent": "PREVAIL estimated primary/completion date (NCT05202509)",
+      "nextCatalystDate": "2027-11-30",
+      "nextCatalystEvent": "Estimated primary completion (NCT06305559)",
       "priorityTrials": [
         {
           "name": "BROADWAY",
@@ -237,7 +237,7 @@
       "keyTrial": "Dal-GenE-2 / NCT05918861",
       "competitorWatch": "Precision-medicine CETP strategy; monitor separately from broad-population CETP/LDL-C programs such as obicetrapib.",
       "nextCatalystDate": "2027-08-31",
-      "nextCatalystEvent": "Dal-GenE-2 estimated primary/completion date (NCT05918861)",
+      "nextCatalystEvent": "Estimated primary completion (NCT05918861)",
       "priorityTrials": [
         {
           "name": "Dal-GenE-2",
@@ -268,7 +268,7 @@
       "keyTrial": "Lp(a)HORIZON / NCT04023552",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
       "nextCatalystDate": "2026-06-30",
-      "nextCatalystEvent": "Lp(a)HORIZON estimated primary/completion date (NCT04023552)",
+      "nextCatalystEvent": "Estimated primary completion (NCT04023552)",
       "priorityTrials": [
         {
           "name": "Lp(a)HORIZON",
@@ -300,7 +300,7 @@
       "keyTrial": "OCEAN(a)-Outcomes / NCT05581303",
       "competitorWatch": "Direct race vs pelacarsen, lepodisiran, muvalaplin, and other Lp(a) entrants.",
       "nextCatalystDate": "2028-03-31",
-      "nextCatalystEvent": "OCEAN(a)-Outcomes estimated primary/completion date (NCT05581303)",
+      "nextCatalystEvent": "Estimated primary completion (NCT05581303)",
       "priorityTrials": [
         {
           "name": "OCEAN(a)-Outcomes",
@@ -342,7 +342,7 @@
       "keyTrial": "AZURE-Outcomes / NCT07000357",
       "competitorWatch": "Competes with injectable PCSK9 antibodies, inclisiran, obicetrapib, and broader LDL-C intensification strategies; oral PCSK9 delivery is the key differentiator.",
       "nextCatalystDate": "2029-10-26",
-      "nextCatalystEvent": "AZURE-Outcomes estimated primary/completion date (NCT07000357)",
+      "nextCatalystEvent": "Estimated primary completion (NCT07000357)",
       "priorityTrials": [
         {
           "name": "AZURE-Outcomes",
@@ -373,7 +373,7 @@
       "keyTrial": "CORALreef-Outcomes / NCT06008756",
       "competitorWatch": "Competes with injectable PCSK9 antibodies, inclisiran, AZD0780/laroprovstat, and other LDL-C intensification strategies; oral PCSK9 delivery is the key differentiator.",
       "nextCatalystDate": "2029-11-29",
-      "nextCatalystEvent": "CORALreef-Outcomes estimated primary completion (NCT06008756)",
+      "nextCatalystEvent": "Estimated primary completion (NCT06008756)",
       "priorityTrials": [
         {
           "name": "CORALreef-Outcomes",
@@ -404,7 +404,7 @@
       "keyTrial": "ACCLAIM-Lp(a) / NCT06292013",
       "competitorWatch": "Competes on potency and long dosing interval against pelacarsen, olpasiran, muvalaplin, and broader Lp(a) outcome programs.",
       "nextCatalystDate": "2029-03-31",
-      "nextCatalystEvent": "ACCLAIM-Lp(a) estimated primary/completion date (NCT06292013)",
+      "nextCatalystEvent": "Estimated primary completion (NCT06292013)",
       "priorityTrials": [
         {
           "name": "ACCLAIM-Lp(a)",
@@ -466,7 +466,7 @@
       "keyTrial": "ZEUS / ARTEMIS / ZEPHYR",
       "competitorWatch": "Competes with broad anti-inflammatory CV strategies; ARTEMIS is the near-term post-MI catalyst, while ZEPHYR extends the plaque/AMI evidence package.",
       "nextCatalystDate": "2026-12-14",
-      "nextCatalystEvent": "ARTEMIS estimated primary completion (NCT06118281)",
+      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
       "priorityTrials": [
         {
           "name": "ZEUS",
@@ -715,7 +715,7 @@
       "statusSummary": "Cyclarity reported Phase I UDP-003 data showing dose-dependent urinary excretion of 7-ketocholesterol, primary safety/tolerability endpoint met, no serious adverse events, and ongoing ACS cohort enrollment.",
       "keyTrial": "NCT06813339",
       "competitorWatch": "Early-stage plaque-reversal entrant; Phase II trial expected later in 2026 to assess plaque regression.",
-      "nextCatalystDate": "2026-07-30",
+      "nextCatalystDate": "2026-12-30",
       "nextCatalystEvent": "Estimated primary completion (NCT06813339)",
       "sourceLinks": [
         "https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/",
@@ -735,7 +735,7 @@
       "keyTrial": "SGC001 Phase II / NCT07306182",
       "competitorWatch": "Track as an acute myocardial salvage / reperfusion-injury strategy alongside Xolatryp, NL005, MiSaver, and other post-PCI myocardial recovery programs.",
       "nextCatalystDate": "2027-06-30",
-      "nextCatalystEvent": "Estimated primary/completion date for SGC001 Phase II (NCT07306182)",
+      "nextCatalystEvent": "Estimated primary completion (NCT07306182)",
       "priorityTrials": [
         {
           "name": "SGC001 Phase II",
@@ -953,7 +953,7 @@
       "keyTrial": "ATTAIN-Outcomes / NCT07241390",
       "competitorWatch": "Potential competitor in chronic risk-modifying CV prevention strategies; monitor against injectable incretin outcome data and broader cardiometabolic prevention pathways.",
       "nextCatalystDate": "2031-08-31",
-      "nextCatalystEvent": "ATTAIN-Outcomes estimated primary/completion date (NCT07241390)",
+      "nextCatalystEvent": "Estimated primary completion (NCT07241390)",
       "priorityTrials": [
         {
           "name": "ATTAIN-Outcomes",
@@ -984,7 +984,7 @@
       "keyTrial": "MOVE-Lp(a) / NCT07157774",
       "competitorWatch": "Competes with pelacarsen, olpasiran, lepodisiran, and broader Lp(a) field; oral dosing is the key differentiator.",
       "nextCatalystDate": "2031-03-31",
-      "nextCatalystEvent": "MOVE-Lp(a) estimated primary/completion date (NCT07157774)",
+      "nextCatalystEvent": "Estimated primary completion (NCT07157774)",
       "priorityTrials": [
         {
           "name": "MOVE-Lp(a)",
@@ -1014,8 +1014,8 @@
       "statusSummary": "Early-stage program added to ACS watchlist pending clearer cardiovascular indication and trial details.",
       "keyTrial": "NCT06927739",
       "competitorWatch": "Potential competitor in immune-modulation approaches",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT04776629)",
+      "nextCatalystDate": "2027-02-08",
+      "nextCatalystEvent": "Estimated primary completion (NCT06927739)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04776629",
         "https://clinicaltrials.gov/study/NCT06927739",
@@ -1072,8 +1072,8 @@
       "statusSummary": "Phase I Roche program in stable coronary artery disease; secondary endpoints suggest likely NLRP3-related immune-modulation relevance.",
       "keyTrial": "NCT07495813",
       "competitorWatch": "Potential competitor in chronic coronary immune-modulation strategies",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT07495813)",
+      "nextCatalystDate": "2028-02-15",
+      "nextCatalystEvent": "Estimated primary completion (NCT07495813)",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT07495813",
         "https://www.roche.com/media/releases"

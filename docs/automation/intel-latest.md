@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-06-29)
+# ACS Intel Update (2026-06-30)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 41
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -113,8 +113,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
-- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-06-18 | https://clinicaltrials.gov/study/NCT07613294
 
 ## Olezarsen (Ionis)
 
@@ -163,12 +163,9 @@
 
 ## VE-1902 (Verseon)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT05848674] CArdiac Brief INtervention: A Feasibility Study to Promote Engagement With Cardiac Rehabilitation | Status: COMPLETED | Last update: 2026-03-03 | https://clinicaltrials.gov/study/NCT05848674
 
 ## ADX-626 (ADARx)
 
@@ -201,7 +198,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06813339] Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Patients | Status: RECRUITING | Last update: 2026-02-24 | https://clinicaltrials.gov/study/NCT06813339
+- [NCT06813339] Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort | Status: RECRUITING | Last update: 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
 
 ### Company press-room hits
 - cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
@@ -222,10 +219,13 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 0
+- Google News hits: 1
 
 ### Latest trial updates
-- [NCT07619885] The Pharmacokinetics and Pharmacodynamics Study of CG-0255 Besylate and Plavix® in Healthy Participants | Status: RECRUITING | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT07619885
+- [NCT07619885] The Pharmacokinetics and Pharmacodynamics Study of Evategrel CG-0255 Besylate）and Plavix® in Healthy Participants | Status: RECRUITING | Last update: 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
+
+### Latest Google News
+- 2026-06-27 | MSN | [First participant receives Evategrel in CureGene’s trial - MSN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5)
 
 ## Sumecigrel (Vcare PharmaTech / Everest Medicines)
 
@@ -349,9 +349,12 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 2
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-06-15 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
