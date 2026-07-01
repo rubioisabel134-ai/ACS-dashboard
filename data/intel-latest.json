@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-06-30T18:27:05+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-07-01T12:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -873,14 +873,7 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [
-        {
-          "title": "First participant receives Evategrel in CureGene\u2019s trial - MSN",
-          "source": "MSN",
-          "publishedAt": "2026-06-27T20:28:40+00:00",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5"
-        }
-      ],
+      "googleNews": [],
       "errors": []
     },
     {
@@ -1302,25 +1295,7 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07495813",
-          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-15",
-          "primaryCompletionDate": "2028-02-15",
-          "completionDate": "2028-02-15",
-          "conditions": [
-            "Stable Coronary Artery Disease",
-            "Healthy Volunteers"
-          ],
-          "interventions": [
-            "RO7763505",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07495813"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1342,8 +1317,8 @@
   "summary": {
     "drugsScanned": 41,
     "drugsWithErrors": 3,
-    "trialHits": 34,
+    "trialHits": 33,
     "companyPressHits": 19,
-    "googleNewsHits": 1
+    "googleNewsHits": 0
   }
 }

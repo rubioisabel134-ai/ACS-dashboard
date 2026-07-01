@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-06-30)
+# ACS Intel Update (2026-07-01)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 41
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -220,13 +220,10 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT07619885] The Pharmacokinetics and Pharmacodynamics Study of Evategrel CG-0255 Besylate）and Plavix® in Healthy Participants | Status: RECRUITING | Last update: 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
-
-### Latest Google News
-- 2026-06-27 | MSN | [First participant receives Evategrel in CureGene’s trial - MSN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdyUURvakRvbnhUZTRKYW5iNDhzcG1UR0ZuR3luZXN6Y0RtdVpJajYxam41Q05CWEw5YmpNMG1tZTJLVHdneVJFZmVKbUo5TXRtTlVIbXZCenBaUkF6WVFnU3c1VWFqV0ZGMzlRMUlxeDZHYzMwOGYyZmxMUnJUTEhFcEI0YlpMZnFlWVpMS1ZzOWVxWHNPM0xmN2V3bnh5SUpoNWw5V0RleUU?oc=5)
 
 ## Sumecigrel (Vcare PharmaTech / Everest Medicines)
 
@@ -356,12 +353,9 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 2
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-06-15 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
