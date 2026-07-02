@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-01)
+# ACS Intel Update (2026-07-02)
 
 - Window: last 1 day(s)
 - Drugs scanned: 41
@@ -157,7 +157,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-05-07 | https://clinicaltrials.gov/study/NCT07362446
+- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-07-01 | https://clinicaltrials.gov/study/NCT07362446
 
 ### Company press-room hits
 - www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)

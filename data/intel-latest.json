@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-01T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-02T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -646,7 +646,7 @@
           "nctId": "NCT07362446",
           "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-07",
+          "lastUpdate": "2026-07-01",
           "primaryCompletionDate": "2027-06-30",
           "completionDate": "2027-09-30",
           "conditions": [
