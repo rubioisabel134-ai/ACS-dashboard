@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-02)
+# ACS Intel Update (2026-07-03)
 
 - Window: last 1 day(s)
 - Drugs scanned: 41
@@ -96,7 +96,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-06-03 | https://clinicaltrials.gov/study/NCT07000357
+- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 
 ## Enlicitide (MK-0616) (Merck)
 

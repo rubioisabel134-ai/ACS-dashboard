@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-02)
+# ACS Daily CI Report (2026-07-03)
 
-- Generated (UTC): 2026-07-02T12:00:01+00:00
+- Generated (UTC): 2026-07-03T12:00:01+00:00
 - Drugs scanned: 41
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -18,7 +18,7 @@
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-25 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
-- Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-06-03 | https://clinicaltrials.gov/study/NCT07000357
+- Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
 - Lepodisiran: [NCT07613294] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013

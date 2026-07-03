@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-02T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-03T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -414,7 +414,7 @@
           "nctId": "NCT07000357",
           "title": "A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-03",
+          "lastUpdate": "2026-07-02",
           "primaryCompletionDate": "2029-10-26",
           "completionDate": "2029-10-26",
           "conditions": [
