@@ -1,5 +1,19 @@
 {
-  "generatedAtUTC": "2026-06-30T18:30:58+00:00",
-  "updates": 0,
-  "proposals": []
+  "generatedAtUTC": "2026-07-07T14:37:21+00:00",
+  "updates": 1,
+  "proposals": [
+    {
+      "drug": "Pelacarsen",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2026-06-30",
+          "after": "2028-12-07"
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT04023552)",
+          "after": "Estimated primary completion (NCT07625306)"
+        }
+      }
+    }
+  ]
 }

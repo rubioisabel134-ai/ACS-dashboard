@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-07-07T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-07-07T14:36:35+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -646,7 +646,7 @@
           "nctId": "NCT07362446",
           "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-01",
+          "lastUpdate": "2026-07-07",
           "primaryCompletionDate": "2027-06-30",
           "completionDate": "2027-09-30",
           "conditions": [
@@ -1073,7 +1073,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-23",
+          "lastUpdate": "2026-07-07",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -1107,7 +1107,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-23",
+          "lastUpdate": "2026-07-07",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [

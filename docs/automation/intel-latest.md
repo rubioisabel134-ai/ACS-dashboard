@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-07-07)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 41
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -157,7 +157,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-07-01 | https://clinicaltrials.gov/study/NCT07362446
+- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-07-07 | https://clinicaltrials.gov/study/NCT07362446
 
 ### Company press-room hits
 - www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -301,7 +301,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-06-23 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-07-07 | https://clinicaltrials.gov/study/NCT07241390
 
 ## Muvalaplin (Eli Lilly)
 
@@ -310,7 +310,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-06-23 | https://clinicaltrials.gov/study/NCT07157774
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-07-07 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 

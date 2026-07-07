@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-06-30",
+  "snapshotDate": "2026-07-07",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -268,8 +268,8 @@
       "statusSummary": "Lp(a)HORIZON is the pivotal Phase III outcomes study testing pelacarsen-mediated Lp(a) lowering for MACE reduction in established cardiovascular disease.",
       "keyTrial": "Lp(a)HORIZON / NCT04023552",
       "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2026-06-30",
-      "nextCatalystEvent": "Estimated primary completion (NCT04023552)",
+      "nextCatalystDate": "2028-12-07",
+      "nextCatalystEvent": "Estimated primary completion (NCT07625306)",
       "priorityTrials": [
         {
           "name": "Lp(a)HORIZON",
