@@ -236,6 +236,37 @@ select {
   background: #fff;
 }
 
+.catalyst-link {
+  display: grid;
+  gap: 0.16rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.catalyst-link span,
+.catalyst-link small {
+  color: var(--muted);
+}
+
+.catalyst-link-item {
+  cursor: pointer;
+}
+
+.catalyst-link-item:hover {
+  border-color: rgba(37, 99, 235, 0.42);
+  background: #f8fbff;
+}
+
+.catalyst-link-item:hover strong,
+.catalyst-link-item:hover .catalyst-open {
+  color: var(--accent-2);
+}
+
+.catalyst-open {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+}
+
 .catalyst-details .empty {
   color: var(--muted);
   font-style: italic;
@@ -446,6 +477,11 @@ h2 {
 .list-cards li a {
   color: var(--accent-2);
   font-size: 0.78rem;
+}
+
+.list-cards li .catalyst-link {
+  color: inherit;
+  font-size: inherit;
 }
 
 .conference-grid {

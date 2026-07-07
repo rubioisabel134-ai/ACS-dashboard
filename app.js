@@ -347,7 +347,7 @@ function getNearCatalysts(days = 180) {
         stage: record.stage,
         date: record.nextCatalystDate,
         event: record.nextCatalystEvent,
-        link: (record.sourceLinks || [])[0] || "",
+        link: catalystLinkForRecord(record),
       });
     }
   });
@@ -364,6 +364,19 @@ function getNearCatalysts(days = 180) {
       return true;
     })
     .sort((a, b) => new Date(a.date) - new Date(b.date));
+}
+
+function catalystLinkForRecord(record) {
+  const links = record.sourceLinks || [];
+  const event = record.nextCatalystEvent || "";
+  const nctMatch = event.match(/\bNCT\d{8}\b/i);
+  if (nctMatch) {
+    const nctId = nctMatch[0].toUpperCase();
+    const direct = links.find((link) => String(link).toUpperCase().includes(nctId));
+    if (direct) return direct;
+    return `https://clinicaltrials.gov/study/${nctId}`;
+  }
+  return links[0] || "";
 }
 
 function renderCatalystCount() {
@@ -384,8 +397,7 @@ function renderCatalystList() {
   }
 
   catalysts.slice(0, 8).forEach((r) => {
-    const li = document.createElement("li");
-    li.textContent = `${r.date} | ${r.drug} (${r.stage}) | ${r.event}`;
+    const li = createCatalystItem(r, { compact: true });
     target.appendChild(li);
   });
 }
@@ -401,11 +413,40 @@ function renderCatalystPlanner() {
   }
 
   catalysts.forEach((r) => {
-    const li = document.createElement("li");
-    const linkHtml = r.link ? `<a href="${r.link}" target="_blank" rel="noopener noreferrer">open</a>` : "";
-    li.innerHTML = `<strong>${r.date}</strong><span>${r.drug} | ${r.stage}</span><small>${r.event}</small>${linkHtml}`;
+    const li = createCatalystItem(r);
     target.appendChild(li);
   });
+}
+
+function createCatalystItem(item, options = {}) {
+  const li = document.createElement("li");
+  li.className = item.link ? "catalyst-link-item" : "";
+
+  const content = document.createElement(item.link ? "a" : "div");
+  content.className = "catalyst-link";
+  if (item.link) {
+    content.href = item.link;
+    content.target = "_blank";
+    content.rel = "noopener noreferrer";
+    content.title = "Open trial/source record";
+  }
+
+  const date = document.createElement("strong");
+  date.textContent = item.date || "Date TBD";
+  const meta = document.createElement("span");
+  meta.textContent = `${item.drug} | ${item.stage || "Stage TBD"}`;
+  const event = document.createElement("small");
+  event.textContent = item.event || "Catalyst";
+
+  content.append(date, meta, event);
+  if (options.compact && item.link) {
+    const open = document.createElement("small");
+    open.className = "catalyst-open";
+    open.textContent = "Open record";
+    content.appendChild(open);
+  }
+  li.appendChild(content);
+  return li;
 }
 
 function renderConferences() {
