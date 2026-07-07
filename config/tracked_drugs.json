@@ -283,6 +283,13 @@
       "sponsor": "Roche",
       "aliases": ["RO7763505", "NCT07495813", "Roche"],
       "press_release_url": "https://www.roche.com/media/releases"
+    },
+    {
+      "name": "RG6622",
+      "sponsor": "Roche",
+      "aliases": ["RG6622", "RG-6622"],
+      "trial_aliases": ["RG6622", "RG-6622", "coronary artery disease", "CAD"],
+      "press_release_url": "https://www.roche.com/solutions/pipeline"
     }
   ]
 }

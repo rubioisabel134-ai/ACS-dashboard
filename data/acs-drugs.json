@@ -1079,6 +1079,25 @@
         "https://clinicaltrials.gov/study/NCT07495813",
         "https://www.roche.com/media/releases"
       ]
+    },
+    {
+      "drug": "RG6622",
+      "sponsor": "Roche",
+      "class": "New molecular entity",
+      "target": "Not disclosed",
+      "modality": "Not disclosed",
+      "stage": "Phase I",
+      "setting": "Coronary artery disease",
+      "signal": "monitor",
+      "statusSummary": "Roche's Q1 2026 pipeline update lists RG6622 as a Phase I new molecular entity for coronary artery disease; mechanism and modality have not been disclosed.",
+      "keyTrial": "Not disclosed",
+      "competitorWatch": "Track as an early Roche CAD NME with undisclosed mechanism; monitor Roche pipeline updates, trial registry postings, and whether it overlaps with inflammation, lipid, thrombosis, or plaque-stabilization strategies.",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor Roche pipeline updates and first public trial registry disclosure",
+      "sourceLinks": [
+        "https://assets.roche.com/f/176343/x/b992aea799/irp260423-a.pdf",
+        "https://www.roche.com/solutions/pipeline"
+      ]
     }
   ]
 }
