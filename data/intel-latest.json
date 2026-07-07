@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-05T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-07T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -550,7 +550,7 @@
           "nctId": "NCT05754957",
           "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
           "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-06-05",
+          "lastUpdate": "2026-07-06",
           "primaryCompletionDate": "2026-02-06",
           "completionDate": "2026-02-06",
           "conditions": [

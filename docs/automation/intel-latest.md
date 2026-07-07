@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-05)
+# ACS Intel Update (2026-07-07)
 
 - Window: last 1 day(s)
 - Drugs scanned: 41
@@ -130,7 +130,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-06-05 | https://clinicaltrials.gov/study/NCT05754957
+- [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 
 ## Selatogrel (Idorsia / Viatris)
 
