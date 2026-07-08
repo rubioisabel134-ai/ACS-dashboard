@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-07-07T14:36:35+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-07-08T12:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -1312,10 +1312,23 @@
       ],
       "googleNews": [],
       "errors": []
+    },
+    {
+      "name": "RG6622",
+      "sponsor": "Roche",
+      "aliases": [
+        "RG6622",
+        "RG-6622"
+      ],
+      "pressReleaseUrl": "https://www.roche.com/solutions/pipeline",
+      "clinicalTrials": [],
+      "companyPress": [],
+      "googleNews": [],
+      "errors": []
     }
   ],
   "summary": {
-    "drugsScanned": 41,
+    "drugsScanned": 42,
     "drugsWithErrors": 3,
     "trialHits": 33,
     "companyPressHits": 19,

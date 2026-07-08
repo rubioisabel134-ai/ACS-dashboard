@@ -1,7 +1,7 @@
-# ACS Intel Update (2026-07-07)
+# ACS Intel Update (2026-07-08)
 
-- Window: last 7 day(s)
-- Drugs scanned: 41
+- Window: last 1 day(s)
+- Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
 
@@ -360,3 +360,9 @@
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+
+## RG6622 (Roche)
+
+- ClinicalTrials.gov hits: 0
+- Company press hits: 0
+- Google News hits: 0
