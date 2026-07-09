@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-08T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-09T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -300,7 +300,7 @@
           "nctId": "NCT07517263",
           "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-10",
+          "lastUpdate": "2026-07-08",
           "primaryCompletionDate": "2030-01-09",
           "completionDate": "2030-01-09",
           "conditions": [
