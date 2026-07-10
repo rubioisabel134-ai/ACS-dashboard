@@ -366,9 +366,6 @@
 
 ## RG6622 (Roche)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT06572267] Safety and Efficacy of Meplazumab in Patients With Coronary Artery Disease | Status: RECRUITING | Last update: 2026-01-23 | https://clinicaltrials.gov/study/NCT06572267

@@ -1,34 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-10T16:12:13+00:00",
-  "updates": 1,
-  "proposals": [
-    {
-      "drug": "RG6622",
-      "changes": {
-        "keyTrial": {
-          "before": "Not disclosed",
-          "after": "NCT06572267"
-        },
-        "nextCatalystDate": {
-          "before": null,
-          "after": "2026-09-01"
-        },
-        "nextCatalystEvent": {
-          "before": "Monitor Roche pipeline updates and first public trial registry disclosure",
-          "after": "Estimated primary completion (NCT06572267)"
-        },
-        "sourceLinks": {
-          "before": [
-            "https://assets.roche.com/f/176343/x/b992aea799/irp260423-a.pdf",
-            "https://www.roche.com/solutions/pipeline"
-          ],
-          "after": [
-            "https://clinicaltrials.gov/study/NCT06572267",
-            "https://assets.roche.com/f/176343/x/b992aea799/irp260423-a.pdf",
-            "https://www.roche.com/solutions/pipeline"
-          ]
-        }
-      }
-    }
-  ]
+  "generatedAtUTC": "2026-07-10T17:24:20+00:00",
+  "updates": 0,
+  "proposals": []
 }
