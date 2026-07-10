@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-07-10T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-07-10T16:11:26+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -365,7 +365,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-25",
+          "lastUpdate": "2026-07-10",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -1339,7 +1339,26 @@
         "RG-6622"
       ],
       "pressReleaseUrl": "https://www.roche.com/solutions/pipeline",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06572267",
+          "title": "Safety and Efficacy of Meplazumab in Patients With Coronary Artery Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-01-23",
+          "primaryCompletionDate": "2026-09-01",
+          "completionDate": "2027-03-01",
+          "conditions": [
+            "Coronary Artery Disease"
+          ],
+          "interventions": [
+            "Mepolizumab low dose group",
+            "Mepolizumab middle dose group",
+            "Mepolizumab high dose group",
+            "Saline"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06572267"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -1348,7 +1367,7 @@
   "summary": {
     "drugsScanned": 42,
     "drugsWithErrors": 3,
-    "trialHits": 34,
+    "trialHits": 35,
     "companyPressHits": 19,
     "googleNewsHits": 0
   }

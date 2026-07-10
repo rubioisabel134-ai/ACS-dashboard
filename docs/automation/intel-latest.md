@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-07-10)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -86,7 +86,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-06-25 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Laroprovstat (AZD0780) (AstraZeneca)
@@ -366,6 +366,9 @@
 
 ## RG6622 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT06572267] Safety and Efficacy of Meplazumab in Patients With Coronary Artery Disease | Status: RECRUITING | Last update: 2026-01-23 | https://clinicaltrials.gov/study/NCT06572267
