@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-10)
+# ACS Daily CI Report (2026-07-11)
 
-- Generated (UTC): 2026-07-10T12:00:01+00:00
+- Generated (UTC): 2026-07-11T12:00:00+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -16,7 +16,7 @@
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-08 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-06-25 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
@@ -37,7 +37,6 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-06-15 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 

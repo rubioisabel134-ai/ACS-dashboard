@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-07-10T17:23:36+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-07-11T12:00:00+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -1295,25 +1295,7 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07495813",
-          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-15",
-          "primaryCompletionDate": "2028-02-15",
-          "completionDate": "2028-02-15",
-          "conditions": [
-            "Stable Coronary Artery Disease",
-            "Healthy Volunteers"
-          ],
-          "interventions": [
-            "RO7763505",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07495813"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1348,7 +1330,7 @@
   "summary": {
     "drugsScanned": 42,
     "drugsWithErrors": 3,
-    "trialHits": 34,
+    "trialHits": 33,
     "companyPressHits": 19,
     "googleNewsHits": 0
   }
