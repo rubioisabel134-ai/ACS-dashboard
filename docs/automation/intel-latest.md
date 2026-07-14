@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-13)
+# ACS Intel Update (2026-07-14)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -213,7 +213,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07306182] A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction | Status: RECRUITING | Last update: 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- [NCT07306182] A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction | Status: RECRUITING | Last update: 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - [NCT07091929] A Research Study to Evaluate the Safety and Preliminary Efficacy of SGC001 in Patients With Myocardial Infarction | Status: COMPLETED | Last update: 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 
 ## Evategrel (CureGene)

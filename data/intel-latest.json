@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-13T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-14T12:00:02+00:00",
   "days": 1,
   "drugs": [
     {
@@ -805,14 +805,15 @@
           "nctId": "NCT07306182",
           "title": "A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-19",
-          "primaryCompletionDate": "2027-06",
-          "completionDate": "2027-06",
+          "lastUpdate": "2026-07-13",
+          "primaryCompletionDate": "2027-04",
+          "completionDate": "2027-10",
           "conditions": [
-            "Anterior Myocardial Infarction"
+            "Acute Anterior ST-Segment Elevation Myocardial Infarction"
           ],
           "interventions": [
-            "SGC001",
+            "SGC001 injection",
+            "SGC001 injection",
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07306182"

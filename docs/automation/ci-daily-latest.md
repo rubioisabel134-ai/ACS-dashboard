@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-13)
+# ACS Daily CI Report (2026-07-14)
 
-- Generated (UTC): 2026-07-13T12:00:01+00:00
+- Generated (UTC): 2026-07-14T12:00:02+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -27,7 +27,7 @@
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
-- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
