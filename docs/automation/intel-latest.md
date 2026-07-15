@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-14)
+# ACS Intel Update (2026-07-15)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -61,12 +61,9 @@
 
 ## RBD4059 (RiboCure Pharmaceuticals)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT06717074] A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | Status: COMPLETED | Last update: 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 
 ## Pelacarsen (Novartis)
 
@@ -81,22 +78,15 @@
 
 ## Olpasiran (Amgen)
 
-- ClinicalTrials.gov hits: 2
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
-- [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Laroprovstat (AZD0780) (AstraZeneca)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 
 ## Enlicitide (MK-0616) (Merck)
 
@@ -139,7 +129,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07615868] A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome | Status: NOT_YET_RECRUITING | Last update: 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
+- [NCT07615868] A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome | Status: RECRUITING | Last update: 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 
 ## MT1002 (Shaanxi Micot Pharmaceutical Technology)
 
@@ -334,12 +324,9 @@
 
 ## MiSaver (HONYA Medical)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07134712] Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II | Status: NOT_YET_RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
 
 ## SIM0811 (Jiangsu Simcere)
 
