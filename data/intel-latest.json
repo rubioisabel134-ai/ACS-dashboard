@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-15T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-16T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -263,12 +263,27 @@
         "Ribolia"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06717074",
+          "title": "A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-05-27",
+          "primaryCompletionDate": "2026-04-29",
+          "completionDate": "2026-04-29",
+          "conditions": [
+            "Stable Coronary Artery Disease CAD"
+          ],
+          "interventions": [
+            "RBD4059",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06717074"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "clinicaltrials.gov: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "Pelacarsen",
@@ -345,12 +360,43 @@
         "NCT07136012"
       ],
       "pressReleaseUrl": "https://www.amgen.com/newsroom/press-releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07136012",
+          "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-10",
+          "primaryCompletionDate": "2031-10-20",
+          "completionDate": "2031-10-20",
+          "conditions": [
+            "Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Olpasiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07136012"
+        },
+        {
+          "nctId": "NCT05581303",
+          "title": "Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-02-27",
+          "primaryCompletionDate": "2028-03-31",
+          "completionDate": "2028-03-31",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease"
+          ],
+          "interventions": [
+            "Placebo",
+            "Olpasiran"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05581303"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "clinicaltrials.gov: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "Laroprovstat (AZD0780)",
@@ -363,11 +409,27 @@
         "AstraZeneca"
       ],
       "pressReleaseUrl": "https://www.astrazeneca.com/media-centre/press-releases.html",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07000357",
+          "title": "A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-02",
+          "primaryCompletionDate": "2029-10-26",
+          "completionDate": "2029-10-26",
+          "conditions": [
+            "Cardiovascular Disease"
+          ],
+          "interventions": [
+            "AZD0780",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07000357"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "clinicaltrials.gov: The read operation timed out",
         "company press: HTTP Error 403: Forbidden"
       ]
     },
@@ -404,7 +466,14 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [],
+      "googleNews": [
+        {
+          "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-07-16T10:45:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5"
+        }
+      ],
       "errors": [
         "company press: HTTP Error 404: Not Found"
       ]
@@ -1177,12 +1246,26 @@
         "umbilical cord blood derived nucleated cells"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07134712",
+          "title": "Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II",
+          "overallStatus": "NOT_YET_RECRUITING",
+          "lastUpdate": "2026-03-11",
+          "primaryCompletionDate": "2027-12-31",
+          "completionDate": "2027-12-31",
+          "conditions": [
+            "Acute Myocardial Infarction (AMI)"
+          ],
+          "interventions": [
+            "Cord Blood Nucleated cells"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07134712"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "clinicaltrials.gov: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "SIM0811",
@@ -1209,9 +1292,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1238,9 +1319,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RG6622",
@@ -1253,16 +1332,14 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 9,
-    "trialHits": 28,
+    "drugsWithErrors": 3,
+    "trialHits": 33,
     "companyPressHits": 19,
-    "googleNewsHits": 0
+    "googleNewsHits": 1
   }
 }

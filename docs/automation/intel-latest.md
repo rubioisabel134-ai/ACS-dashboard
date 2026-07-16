@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-15)
+# ACS Intel Update (2026-07-16)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -61,9 +61,12 @@
 
 ## RBD4059 (RiboCure Pharmaceuticals)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT06717074] A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | Status: COMPLETED | Last update: 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 
 ## Pelacarsen (Novartis)
 
@@ -78,24 +81,34 @@
 
 ## Olpasiran (Amgen)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Laroprovstat (AZD0780) (AstraZeneca)
-
-- ClinicalTrials.gov hits: 0
-- Company press hits: 0
-- Google News hits: 0
-
-## Enlicitide (MK-0616) (Merck)
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
+
+## Enlicitide (MK-0616) (Merck)
+
+- ClinicalTrials.gov hits: 1
+- Company press hits: 0
+- Google News hits: 1
+
+### Latest trial updates
 - [NCT06008756] Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+
+### Latest Google News
+- 2026-07-16 | Yahoo! Finance Canada | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5)
 
 ## Lepodisiran (Eli Lilly)
 
@@ -324,9 +337,12 @@
 
 ## MiSaver (HONYA Medical)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07134712] Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II | Status: NOT_YET_RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
 
 ## SIM0811 (Jiangsu Simcere)
 

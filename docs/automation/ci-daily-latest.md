@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-15)
+# ACS Daily CI Report (2026-07-16)
 
-- Generated (UTC): 2026-07-15T12:00:01+00:00
+- Generated (UTC): 2026-07-16T12:00:00+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -13,8 +13,12 @@
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
+- RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-08 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
+- Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
 - Lepodisiran: [NCT07613294] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
@@ -32,6 +36,7 @@
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
+- MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
 
 ## News Highlights
 
@@ -47,6 +52,7 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Enlicitide (MK-0616) | 2026-07-16 | Yahoo! Finance Canada | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5)
 
 ## Captured Link Validation
 
