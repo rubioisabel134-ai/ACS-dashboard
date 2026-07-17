@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-16)
+# ACS Daily CI Report (2026-07-17)
 
-- Generated (UTC): 2026-07-16T12:00:00+00:00
+- Generated (UTC): 2026-07-17T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -52,7 +52,7 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Enlicitide (MK-0616) | 2026-07-16 | Yahoo! Finance Canada | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5)
+- Enlicitide (MK-0616) | 2026-07-16 | The People's Pharmacy | [Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5)
 
 ## Captured Link Validation
 
