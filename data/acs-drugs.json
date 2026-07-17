@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-07-10",
+  "snapshotDate": "2026-07-17",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -735,7 +735,7 @@
       "statusSummary": "SGC001 Phase II trial is recruiting in Chinese anterior STEMI patients planned for primary PCI; first dose is given within 6 hours of symptom onset with infarct-size reduction as the primary endpoint.",
       "keyTrial": "SGC001 Phase II / NCT07306182",
       "competitorWatch": "Track as an acute myocardial salvage / reperfusion-injury strategy alongside Xolatryp, NL005, MiSaver, and other post-PCI myocardial recovery programs.",
-      "nextCatalystDate": "2027-06-30",
+      "nextCatalystDate": "2027-04-30",
       "nextCatalystEvent": "Estimated primary completion (NCT07306182)",
       "priorityTrials": [
         {

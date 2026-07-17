@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-07-10)
+# ACS Daily CI Report (2026-07-17)
 
-- Generated (UTC): 2026-07-10T17:23:36+00:00
+- Generated (UTC): 2026-07-17T19:37:48+00:00
 - Drugs scanned: 42
 - News window: last 7 day(s)
-- Playwright links captured: 19
+- Playwright links captured: 21
 
 ## Trial Status Updates
 
@@ -20,24 +20,23 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
-- Selatogrel: [NCT07615868] NOT_YET_RECRUITING | last update 2026-05-29 | https://clinicaltrials.gov/study/NCT07615868
+- Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
-- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-05-19 | https://clinicaltrials.gov/study/NCT07306182
+- Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07241390
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-06-15 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
@@ -53,13 +52,17 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Enlicitide (MK-0616) | 2026-07-16 | The People's Pharmacy | [Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5)
+- Enlicitide (MK-0616) | 2026-07-16 | Yahoo! Finance Canada | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5)
 
 ## Captured Link Validation
 
-- Successful captures: 19/19
+- Successful captures: 20/21
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
 - OK | Zalunfiban | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
-- OK | Xolatryp | [Myocardial Ischemia and Arrhythmia Control | Nyrada - Biotechnology Company](https://www.nyrada.com/site/programs/myocardial-ischemia)
+- OK | Enlicitide (MK-0616) | [Google News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5&hl=en-US&gl=US&ceid=US:en)
+- OK | Enlicitide (MK-0616) | [Google News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5&hl=en-US&gl=US&ceid=US:en)
+- FAIL | Xolatryp | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - OK | UDP-003 | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - OK | UDP-003 | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - OK | UDP-003 | [Cyclarity Therapeutics Announces Clinical Advisory Board - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/)
@@ -70,5 +73,3 @@
 - OK | Orticumab | [Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry. - Abcentra](https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/)
 - OK | Orticumab | [Large CT Study Shows Benefits of AI in Predicting CV Risks](https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/)
 - OK | Orticumab | [Lund University features Jan Nilsson's experiment results on Orticumab, Highlighting the Promising Results of Reducing the Risk of Dying from a Heart Attack - Abcentra](https://abcentra.com/lund-university-features-jan-nilssons-experiment-results-on-orticumab-highlighting-the-promising-results-of-reducing-the-risk-of-dying-from-a-heart-attack/)
-- OK | Orticumab | [ACC Presentation Highlights Promising Results of Orticumab](https://abcentra.com/acc-presentation-highlights-orticumab-promising-results/)
-- OK | Orticumab | [Abcentra Announces First Patients Dosed with Orticumab](https://abcentra.com/abcentra-announces-first-patients-dosed-with-orticumab-in-clinical-trial/)

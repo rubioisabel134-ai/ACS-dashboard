@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-07-17T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-07-17T19:37:48+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -472,6 +472,12 @@
           "source": "The People's Pharmacy",
           "publishedAt": "2026-07-16T22:04:53+00:00",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5"
+        },
+        {
+          "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Yahoo! Finance Canada",
+          "source": "Yahoo! Finance Canada",
+          "publishedAt": "2026-07-16T10:45:00+00:00",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5"
         }
       ],
       "errors": [
@@ -495,7 +501,7 @@
           "nctId": "NCT07613294",
           "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-29",
+          "lastUpdate": "2026-07-17",
           "primaryCompletionDate": "2029-04",
           "completionDate": "2029-04",
           "conditions": [
@@ -1081,7 +1087,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-07",
+          "lastUpdate": "2026-07-17",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -1340,6 +1346,6 @@
     "drugsWithErrors": 3,
     "trialHits": 33,
     "companyPressHits": 19,
-    "googleNewsHits": 1
+    "googleNewsHits": 2
   }
 }
