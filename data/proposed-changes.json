@@ -1,15 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-17T19:38:32+00:00",
-  "updates": 1,
-  "proposals": [
-    {
-      "drug": "Dukiprubart",
-      "changes": {
-        "nextCatalystDate": {
-          "before": "2027-06-30",
-          "after": "2027-04-30"
-        }
-      }
-    }
-  ]
+  "generatedAtUTC": "2026-07-17T19:45:16+00:00",
+  "updates": 0,
+  "proposals": []
 }

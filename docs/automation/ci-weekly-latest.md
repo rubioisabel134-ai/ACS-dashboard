@@ -1,9 +1,9 @@
 # ACS Daily CI Report (2026-07-17)
 
-- Generated (UTC): 2026-07-17T19:37:48+00:00
+- Generated (UTC): 2026-07-17T19:44:36+00:00
 - Drugs scanned: 42
 - News window: last 7 day(s)
-- Playwright links captured: 21
+- Playwright links captured: 18
 
 ## Trial Status Updates
 
@@ -42,6 +42,7 @@
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 - Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - Xolatryp | www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
@@ -57,9 +58,10 @@
 
 ## Captured Link Validation
 
-- Successful captures: 20/21
+- Successful captures: 17/18
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
 - OK | Zalunfiban | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- OK | Enlicitide (MK-0616) | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Merck.com](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - OK | Enlicitide (MK-0616) | [Google News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5&hl=en-US&gl=US&ceid=US:en)
 - OK | Enlicitide (MK-0616) | [Google News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5&hl=en-US&gl=US&ceid=US:en)
 - FAIL | Xolatryp | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -69,7 +71,6 @@
 - OK | Sumecigrel | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - OK | Orticumab | [Abcentra Appoints Dr. Peter Libby as Board Member](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - OK | Orticumab | [Coronary Artery Disease - Abcentra](https://abcentra.com/coronary-artery-disease/)
-- OK | Orticumab | [Abcentra LLC Announces First Patient Dosed in Phase 2b “FORTIFY” Clinical Trial Evaluating Orticumab in Patients with Cardiovascular Disease - Abcentra](https://abcentra.com/abcentra-llc-announces-first-patient-dosed-in-phase-2b-fortify-clinical-trial-evaluating-orticumab-in-patients-with-cardiovascular-disease/)
 - OK | Orticumab | [Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry. - Abcentra](https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/)
 - OK | Orticumab | [Large CT Study Shows Benefits of AI in Predicting CV Risks](https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/)
-- OK | Orticumab | [Lund University features Jan Nilsson's experiment results on Orticumab, Highlighting the Promising Results of Reducing the Risk of Dying from a Heart Attack - Abcentra](https://abcentra.com/lund-university-features-jan-nilssons-experiment-results-on-orticumab-highlighting-the-promising-results-of-reducing-the-risk-of-dying-from-a-heart-attack/)
+- OK | SIM0811 | [Simcere Pharmaceutical Group Limited](https://www.simcere.com/en/kxcx/yfgx.aspx)

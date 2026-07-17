@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-17T19:37:48+00:00",
+  "generatedAtUTC": "2026-07-17T19:44:36+00:00",
   "days": 7,
   "drugs": [
     {
@@ -439,13 +439,14 @@
       "aliases": [
         "enlicitide",
         "enlicitide decanoate",
+        "Lipfendra",
         "MK-0616",
         "CORALreef-Outcomes",
         "CORALreef Outcomes",
         "NCT06008756",
         "Merck"
       ],
-      "pressReleaseUrl": "https://www.merck.com/news/",
+      "pressReleaseUrl": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/",
       "clinicalTrials": [
         {
           "nctId": "NCT06008756",
@@ -465,7 +466,14 @@
           "url": "https://clinicaltrials.gov/study/NCT06008756"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
+          "link": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/",
+          "source": "www.merck.com",
+          "publishedAt": "2026-07-16"
+        }
+      ],
       "googleNews": [
         {
           "title": "Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy",
@@ -480,9 +488,7 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmtHbnZ6WE5qcXVnakp1cFIwSWdVVlNqSC12WDdXR0hiX0tnYk5Ldl90R0E0M3JVRG1sTF9GQ3c5NHEtVldDeXN2R05BMzY4bXJQaTVldXdpRXk3V3NUYmtUZldLd0RQLWVfMmpzRjNTUlloaHVtb21ZSmhwWjFXaHYyUXR6NDQ2S2JQdzc3WQ?oc=5"
         }
       ],
-      "errors": [
-        "company press: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Lepodisiran",
@@ -906,7 +912,7 @@
           "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
           "link": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html",
           "source": "www.prnewswire.com",
-          "publishedAt": null
+          "publishedAt": "2026-06-09"
         }
       ],
       "googleNews": [],
@@ -1203,12 +1209,6 @@
           "publishedAt": null
         },
         {
-          "title": "Abcentra LLC Announces First Patient Dosed in Phase 2b \u201cFORTIFY\u201d Clinical Trial Evaluating Orticumab in Patients with Cardiovascular Disease",
-          "link": "https://abcentra.com/abcentra-llc-announces-first-patient-dosed-in-phase-2b-fortify-clinical-trial-evaluating-orticumab-in-patients-with-cardiovascular-disease/",
-          "source": "abcentra.com",
-          "publishedAt": null
-        },
-        {
           "title": "Caristo Diagnostics: Latest Lancet publication with results from world\u2019s largest coronary CT registry.",
           "link": "https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/",
           "source": "abcentra.com",
@@ -1217,24 +1217,6 @@
         {
           "title": "Large CT Study Shows Benefits of AI in Predicting CV Risks in Patients Without Obstructive CAD",
           "link": "https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/",
-          "source": "abcentra.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Lund University features Jan Nilsson\u2019s experiment results on Orticumab, Highlighting the Promising Results of Reducing the Risk of Dying from a Heart Attack",
-          "link": "https://abcentra.com/lund-university-features-jan-nilssons-experiment-results-on-orticumab-highlighting-the-promising-results-of-reducing-the-risk-of-dying-from-a-heart-attack/",
-          "source": "abcentra.com",
-          "publishedAt": null
-        },
-        {
-          "title": "American College of Cardiology Presentation Highlights Orticumab\u2019s Promising Results Showing Potential to Reduce Coronary Inflammation",
-          "link": "https://abcentra.com/acc-presentation-highlights-orticumab-promising-results/",
-          "source": "abcentra.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Abcentra Announces First Patients Dosed with Orticumab in Clinical Trial",
-          "link": "https://abcentra.com/abcentra-announces-first-patients-dosed-with-orticumab-in-clinical-trial/",
           "source": "abcentra.com",
           "publishedAt": null
         }
@@ -1343,9 +1325,9 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 2,
     "trialHits": 33,
-    "companyPressHits": 19,
+    "companyPressHits": 16,
     "googleNewsHits": 2
   }
 }

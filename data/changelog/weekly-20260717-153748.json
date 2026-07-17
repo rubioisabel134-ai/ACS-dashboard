@@ -1,25 +1,14 @@
 {
-  "generatedAtUTC": "2026-07-17T19:38:45+00:00",
+  "generatedAtUTC": "2026-07-17T19:46:02+00:00",
   "runDate": "2026-07-17",
   "summary": {
     "drugsScanned": 42,
     "trialUpdates": 33,
-    "pressUpdates": 2,
-    "cardChanges": 1,
+    "pressUpdates": 3,
+    "cardChanges": 0,
     "errorGroups": 2
   },
-  "cardChanges": [
-    {
-      "drug": "Dukiprubart",
-      "fields": [
-        {
-          "field": "nextCatalystDate",
-          "before": "2027-06-30",
-          "after": "2027-04-30"
-        }
-      ]
-    }
-  ],
+  "cardChanges": [],
   "trialUpdates": [
     {
       "drug": "Lepodisiran",
@@ -421,11 +410,11 @@
   "pressUpdates": [
     {
       "drug": "Enlicitide (MK-0616)",
-      "type": "news",
-      "date": "2026-07-16T22:04:53+00:00",
-      "title": "Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy",
-      "source": "The People's Pharmacy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5"
+      "type": "press",
+      "date": "2026-07-16",
+      "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
+      "source": "www.merck.com",
+      "link": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/"
     },
     {
       "drug": "Zalunfiban",
@@ -434,18 +423,26 @@
       "title": "CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug",
       "source": "www.celecor.com",
       "link": "https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/"
+    },
+    {
+      "drug": "Sumecigrel",
+      "type": "press",
+      "date": "2026-06-09",
+      "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
+      "source": "www.prnewswire.com",
+      "link": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html"
     }
   ],
   "sourceErrors": [
     {
-      "message": "company press: HTTP Error 404: Not Found",
-      "count": 2,
-      "exampleDrug": "Dalcetrapib"
-    },
-    {
       "message": "company press: HTTP Error 403: Forbidden",
       "count": 1,
       "exampleDrug": "Laroprovstat (AZD0780)"
+    },
+    {
+      "message": "company press: HTTP Error 404: Not Found",
+      "count": 1,
+      "exampleDrug": "Dalcetrapib"
     }
   ]
 }

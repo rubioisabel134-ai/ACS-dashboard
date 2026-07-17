@@ -367,12 +367,12 @@
       "class": "Oral PCSK9 inhibitor",
       "target": "PCSK9",
       "modality": "Macrocyclic peptide",
-      "stage": "Phase III",
-      "setting": "High cardiovascular risk / ASCVD outcomes",
+      "stage": "FDA approved for LDL-C lowering; Phase III outcomes ongoing",
+      "setting": "Hypercholesterolemia / high cardiovascular risk / ASCVD outcomes",
       "signal": "positive",
-      "statusSummary": "CORALreef-Outcomes is a Phase III study testing oral PCSK9 inhibitor enlicitide decanoate for MACE reduction in high cardiovascular risk participants.",
+      "statusSummary": "Merck's LIPFENDRA (enlicitide) was FDA approved on July 16, 2026 as the first once-daily oral PCSK9 inhibitor to reduce LDL-C in adults with hypercholesterolemia; CORALreef-Outcomes remains ongoing for MACE reduction in high cardiovascular risk participants.",
       "keyTrial": "CORALreef-Outcomes / NCT06008756",
-      "competitorWatch": "Competes with injectable PCSK9 antibodies, inclisiran, AZD0780/laroprovstat, and other LDL-C intensification strategies; oral PCSK9 delivery is the key differentiator.",
+      "competitorWatch": "First oral PCSK9 approval is a major lipid-market milestone and raises the bar for AZD0780/laroprovstat, injectable PCSK9 antibodies, inclisiran, and other LDL-C intensification strategies. Outcomes benefit is not yet established; monitor CORALreef-Outcomes.",
       "nextCatalystDate": "2029-11-29",
       "nextCatalystEvent": "Estimated primary completion (NCT06008756)",
       "priorityTrials": [
@@ -389,7 +389,8 @@
       ],
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT06008756",
-        "https://www.merck.com/research/pipeline/"
+        "https://www.merck.com/research/pipeline/",
+        "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/"
       ]
     },
     {

@@ -101,10 +101,10 @@
     {
       "name": "Enlicitide (MK-0616)",
       "sponsor": "Merck",
-      "aliases": ["enlicitide", "enlicitide decanoate", "MK-0616", "CORALreef-Outcomes", "CORALreef Outcomes", "NCT06008756", "Merck"],
+      "aliases": ["enlicitide", "enlicitide decanoate", "Lipfendra", "MK-0616", "CORALreef-Outcomes", "CORALreef Outcomes", "NCT06008756", "Merck"],
       "trial_aliases": ["enlicitide", "MK-0616", "CORALreef-Outcomes", "CORALreef Outcomes"],
       "nct_ids": ["NCT06008756"],
-      "press_release_url": "https://www.merck.com/news/"
+      "press_release_url": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/"
     },
     {
       "name": "Lepodisiran",

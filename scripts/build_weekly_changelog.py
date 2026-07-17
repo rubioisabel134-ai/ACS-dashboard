@@ -74,14 +74,22 @@ def iso_year(value: str | None) -> int | None:
 
 def source_rank(source: str) -> int:
     value = (source or "").lower()
-    if "google" in value:
-        return 2
+    if "google" in value or "yahoo" in value or "people's pharmacy" in value:
+        return 3
+    if value.startswith("www.") or ".com" in value or ".org" in value or ".net" in value:
+        return 0
     return 1
+
+
+def press_update_score(item: dict[str, Any]) -> tuple[str, int, str]:
+    date = item.get("date") or ""
+    date_day = date[:10]
+    return (date_day, -source_rank(item.get("source") or ""), date)
 
 
 def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
     run_year = iso_year(intel.get("generatedAtUTC")) or dt.date.today().year
-    best_by_drug_type: dict[tuple[str, str], dict[str, Any]] = {}
+    best_by_drug: dict[str, dict[str, Any]] = {}
     for drug in intel.get("drugs", []):
         for press in drug.get("companyPress") or []:
             date = press.get("publishedAt") or None
@@ -95,13 +103,10 @@ def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
                 "source": press.get("source") or "Company press room",
                 "link": press.get("link") or "",
             }
-            key = (item["drug"] or "", item["type"])
-            prior = best_by_drug_type.get(key)
-            if prior is None or (item.get("date") or "", -source_rank(item.get("source") or "")) > (
-                prior.get("date") or "",
-                -source_rank(prior.get("source") or ""),
-            ):
-                best_by_drug_type[key] = item
+            key = item["drug"] or ""
+            prior = best_by_drug.get(key)
+            if prior is None or press_update_score(item) > press_update_score(prior):
+                best_by_drug[key] = item
         for news in drug.get("googleNews") or []:
             date = news.get("publishedAt") or None
             if iso_year(date) != run_year:
@@ -114,15 +119,12 @@ def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
                 "source": news.get("source") or "Google News",
                 "link": news.get("link") or "",
             }
-            key = (item["drug"] or "", item["type"])
-            prior = best_by_drug_type.get(key)
-            if prior is None or (item.get("date") or "", -source_rank(item.get("source") or "")) > (
-                prior.get("date") or "",
-                -source_rank(prior.get("source") or ""),
-            ):
-                best_by_drug_type[key] = item
-    items = list(best_by_drug_type.values())
-    return sorted(items, key=lambda item: item.get("date") or "", reverse=True)
+            key = item["drug"] or ""
+            prior = best_by_drug.get(key)
+            if prior is None or press_update_score(item) > press_update_score(prior):
+                best_by_drug[key] = item
+    items = list(best_by_drug.values())
+    return sorted(items, key=press_update_score, reverse=True)
 
 
 def collect_card_changes(proposals: dict[str, Any]) -> list[dict[str, Any]]:

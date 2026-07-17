@@ -290,18 +290,30 @@ def title_from_url_slug(url: str) -> str:
     return re.sub(r"\s+", " ", title).strip()
 
 
+def looks_like_article_url(url: str) -> bool:
+    path = urllib.parse.urlparse(url).path.lower().strip("/")
+    if not path:
+        return False
+    listing_markers = ("news", "media", "press-releases", "news-releases", "pipeline")
+    if path in listing_markers or path.endswith(tuple(f"/{marker}" for marker in listing_markers)):
+        return False
+    return bool(re.search(r"(20\d{2}|news/[^/]+|press-release|news-release)", path))
+
+
 def published_date_from_page(page: str) -> str | None:
-    match = re.search(
+    patterns = (
         r"Published on:\s*(?:<[^>]+>\s*)*([A-Z][a-z]+ \d{1,2}, \d{4})",
-        page,
-        flags=re.IGNORECASE | re.DOTALL,
+        r"\b([A-Z][a-z]+ \d{1,2}, \d{4})(?:\s+\d{1,2}:\d{2}\s*(?:am|pm)?\s*[A-Z]{2,4})?",
     )
-    if not match:
-        return None
-    try:
-        return dt.datetime.strptime(html.unescape(match.group(1)).strip(), "%B %d, %Y").date().isoformat()
-    except ValueError:
-        return None
+    for pattern in patterns:
+        match = re.search(pattern, page, flags=re.IGNORECASE | re.DOTALL)
+        if not match:
+            continue
+        try:
+            return dt.datetime.strptime(html.unescape(match.group(1)).strip(), "%B %d, %Y").date().isoformat()
+        except ValueError:
+            continue
+    return None
 
 
 def extract_meta_description(page: str) -> str:
@@ -349,10 +361,12 @@ def company_press_search(
                         "title": re.sub(r"\s+", " ", page_title).strip(),
                         "link": press_url,
                         "source": base_domain or "company press room",
-                        "publishedAt": None,
+                        "publishedAt": published_date_from_page(page),
                     }
                 )
                 seen.add(press_url)
+                if looks_like_article_url(press_url):
+                    return selected[:max_results]
 
     if feed_items:
         for item in feed_items:
