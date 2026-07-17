@@ -8,7 +8,7 @@ cd /Users/isabelschlaepfer/ACS-dashboard
 ```
 
 Default behavior is now `review-only`:
-- the script updates files and stages them
+- the script updates review files but leaves them unstaged
 - it does **not** commit or push unless you explicitly run `--push`
 - it also refuses to auto-stash local edits unless you explicitly run `--autostash`
 
@@ -112,6 +112,7 @@ git status
 ## 7) Commit and push if everything looks correct
 
 ```bash
+git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json data/weekly-changelog-latest.json data/changelog docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/changelog-weekly-latest.md docs/automation/changelog-weekly-*.md docs/automation/playwright-weekly-latest.json
 git commit -m "Weekly ACS intel refresh: YYYY-MM-DD"
 git push origin main
 ```

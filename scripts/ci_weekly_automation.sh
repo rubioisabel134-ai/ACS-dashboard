@@ -131,20 +131,26 @@ print(f"  - Proposed dashboard updates: {proposal.get('updates', 0)}")
 print(f"  - Push mode: {'enabled' if push_changes else 'disabled (review-only)'}")
 PY
 
+if git diff --quiet && git diff --cached --quiet; then
+  echo "[$(date)] No tracked changes after weekly run"
+  exit 0
+fi
+
+if [ "$PUSH_CHANGES" -ne 1 ]; then
+  echo "[$(date)] Review-only mode: leaving generated changes unstaged"
+  echo "[$(date)] Review docs/automation/ci-weekly-latest.md and data/proposed-changes.json"
+  echo "[$(date)] If everything looks correct, run:"
+  echo "  git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json data/weekly-changelog-latest.json data/changelog docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/changelog-weekly-latest.md docs/automation/changelog-weekly-*.md docs/automation/playwright-weekly-latest.json"
+  echo "  git commit -m \"ACS weekly CI automation: $(date +%F)\""
+  echo "  git push origin main"
+  exit 0
+fi
+
 echo "[$(date)] Staging weekly artifacts"
 git add data/acs-drugs.json data/intel-latest.json data/intel-news-log.csv data/proposed-changes.json data/weekly-changelog-latest.json data/changelog docs/automation/intel-latest.md docs/automation/ci-weekly-latest.md docs/automation/changelog-weekly-latest.md docs/automation/changelog-weekly-*.md docs/automation/playwright-weekly-latest.json || true
 
 if git diff --cached --quiet; then
   echo "[$(date)] No tracked changes to commit"
-  exit 0
-fi
-
-if [ "$PUSH_CHANGES" -ne 1 ]; then
-  echo "[$(date)] Review-only mode: leaving changes staged locally"
-  echo "[$(date)] Review docs/automation/ci-weekly-latest.md and data/proposed-changes.json"
-  echo "[$(date)] If everything looks correct, run:"
-  echo "  git commit -m \"ACS weekly CI automation: $(date +%F)\""
-  echo "  git push origin main"
   exit 0
 fi
 

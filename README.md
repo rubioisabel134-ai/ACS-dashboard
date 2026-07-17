@@ -88,7 +88,7 @@ cd /Users/isabelschlaepfer/ACS-dashboard
 /bin/bash scripts/ci_daily_automation.sh
 ```
 
-Run weekly manually (updates cards + weekly report + commits if changed):
+Run weekly manually (updates cards + weekly report for review; does not commit by default):
 ```bash
 cd /Users/isabelschlaepfer/ACS-dashboard
 /bin/bash scripts/ci_weekly_automation.sh
