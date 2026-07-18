@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-17)
+# ACS Daily CI Report (2026-07-18)
 
-- Generated (UTC): 2026-07-17T12:00:01+00:00
+- Generated (UTC): 2026-07-18T12:00:00+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -20,7 +20,7 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07613294
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
@@ -32,7 +32,7 @@
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07241390
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
@@ -42,6 +42,7 @@
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 - Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - Xolatryp | www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
@@ -52,7 +53,6 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Enlicitide (MK-0616) | 2026-07-16 | The People's Pharmacy | [Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5)
 
 ## Captured Link Validation
 
