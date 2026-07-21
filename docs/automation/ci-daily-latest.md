@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-20)
+# ACS Daily CI Report (2026-07-21)
 
-- Generated (UTC): 2026-07-20T12:00:01+00:00
+- Generated (UTC): 2026-07-21T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -9,7 +9,7 @@
 
 - Obicetrapib: [NCT06305559] ACTIVE_NOT_RECRUITING | last update 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
-- Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-06-11 | https://clinicaltrials.gov/study/NCT05030428
+- Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT05030428
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
@@ -20,8 +20,8 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 - Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07613294
-- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-06-18 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
@@ -33,7 +33,7 @@
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
-- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-07-07 | https://clinicaltrials.gov/study/NCT07157774
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712

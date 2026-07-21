@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-20T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-21T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -121,7 +121,7 @@
           "nctId": "NCT05030428",
           "title": "Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-06-11",
+          "lastUpdate": "2026-07-20",
           "primaryCompletionDate": "2027-10-13",
           "completionDate": "2027-10-13",
           "conditions": [
@@ -491,6 +491,23 @@
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
+          "nctId": "NCT06292013",
+          "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-07-20",
+          "primaryCompletionDate": "2029-03",
+          "completionDate": "2029-03",
+          "conditions": [
+            "Atherosclerotic Cardiovascular Disease (ASCVD)",
+            "Elevated Lp(a)"
+          ],
+          "interventions": [
+            "Lepodisiran Sodium",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06292013"
+        },
+        {
           "nctId": "NCT07613294",
           "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
           "overallStatus": "RECRUITING",
@@ -507,23 +524,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07613294"
-        },
-        {
-          "nctId": "NCT06292013",
-          "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-06-18",
-          "primaryCompletionDate": "2029-03",
-          "completionDate": "2029-03",
-          "conditions": [
-            "Atherosclerotic Cardiovascular Disease (ASCVD)",
-            "Elevated Lp(a)"
-          ],
-          "interventions": [
-            "Lepodisiran Sodium",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06292013"
         }
       ],
       "companyPress": [],
@@ -1114,7 +1114,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-07",
+          "lastUpdate": "2026-07-20",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
