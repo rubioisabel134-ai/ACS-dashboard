@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-21)
+# ACS Daily CI Report (2026-07-22)
 
-- Generated (UTC): 2026-07-21T12:00:01+00:00
+- Generated (UTC): 2026-07-22T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
