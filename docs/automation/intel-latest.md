@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-22)
+# ACS Intel Update (2026-07-23)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -113,12 +113,15 @@
 ## Lepodisiran (Eli Lilly)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 - [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-07-17 | https://clinicaltrials.gov/study/NCT07613294
+
+### Company press-room hits
+- investor.lilly.com | [Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional)
 
 ## Olezarsen (Ionis)
 
@@ -300,20 +303,26 @@
 ## Orforglipron (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
 
+### Company press-room hits
+- investor.lilly.com | [Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional)
+
 ## Muvalaplin (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT07157774
+
+### Company press-room hits
+- investor.lilly.com | [Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional)
 
 ## Orticumab (Abcentra)
 

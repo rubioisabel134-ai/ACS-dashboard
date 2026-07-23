@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-22T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-23T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -526,7 +526,14 @@
           "url": "https://clinicaltrials.gov/study/NCT07613294"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-07-23"
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -636,7 +643,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: <urlopen error timed out>"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1017,7 +1026,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: The read operation timed out"
+      ]
     },
     {
       "name": "CAY-001",
@@ -1030,7 +1041,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "ReHeart",
@@ -1063,7 +1076,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Orforglipron",
@@ -1094,9 +1109,18 @@
           "url": "https://clinicaltrials.gov/study/NCT07241390"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-07-23"
+        }
+      ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Muvalaplin",
@@ -1128,9 +1152,18 @@
           "url": "https://clinicaltrials.gov/study/NCT07157774"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-07-23"
+        }
+      ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: The read operation timed out"
+      ]
     },
     {
       "name": "Orticumab",
@@ -1209,7 +1242,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "MiSaver",
@@ -1240,7 +1275,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SIM0811",
@@ -1267,7 +1304,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: The read operation timed out"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1294,7 +1333,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RG6622",
@@ -1307,14 +1348,16 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 2,
+    "drugsWithErrors": 13,
     "trialHits": 33,
-    "companyPressHits": 16,
+    "companyPressHits": 19,
     "googleNewsHits": 0
   }
 }
