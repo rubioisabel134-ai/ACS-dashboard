@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-23T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-24T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -643,9 +643,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: <urlopen error timed out>"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1026,9 +1024,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "CAY-001",
@@ -1041,9 +1037,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "ReHeart",
@@ -1076,9 +1070,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Orforglipron",
@@ -1118,9 +1110,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Muvalaplin",
@@ -1161,9 +1151,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "Orticumab",
@@ -1242,9 +1230,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "MiSaver",
@@ -1275,9 +1261,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SIM0811",
@@ -1304,9 +1288,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: The read operation timed out"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1317,7 +1299,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-13",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1333,9 +1333,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RG6622",
@@ -1348,15 +1346,13 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 13,
-    "trialHits": 33,
+    "drugsWithErrors": 2,
+    "trialHits": 34,
     "companyPressHits": 19,
     "googleNewsHits": 0
   }
