@@ -1,10 +1,10 @@
 {
-  "generatedAtUTC": "2026-07-26T16:47:52+00:00",
+  "generatedAtUTC": "2026-07-26T16:58:57+00:00",
   "runDate": "2026-07-26",
   "summary": {
     "drugsScanned": 42,
     "trialUpdates": 33,
-    "pressUpdates": 6,
+    "pressUpdates": 3,
     "cardChanges": 0,
     "errorGroups": 2
   },
@@ -408,30 +408,6 @@
     }
   ],
   "pressUpdates": [
-    {
-      "drug": "Lepodisiran",
-      "type": "press",
-      "date": "2026-07-23",
-      "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-      "source": "investor.lilly.com",
-      "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional"
-    },
-    {
-      "drug": "Orforglipron",
-      "type": "press",
-      "date": "2026-07-23",
-      "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-      "source": "investor.lilly.com",
-      "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional"
-    },
-    {
-      "drug": "Muvalaplin",
-      "type": "press",
-      "date": "2026-07-23",
-      "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-      "source": "investor.lilly.com",
-      "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional"
-    },
     {
       "drug": "Enlicitide (MK-0616)",
       "type": "news",

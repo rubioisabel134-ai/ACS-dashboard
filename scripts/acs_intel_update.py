@@ -115,7 +115,14 @@ def text_is_informative(title: str) -> bool:
     return lowered not in blocked
 
 
-def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_terms: list[str]) -> bool:
+def item_is_relevant(
+    title: str,
+    link: str,
+    alias_keywords: list[str],
+    sponsor_terms: list[str],
+    *,
+    require_alias_match: bool = False,
+) -> bool:
     hay = f"{title} {link}".lower().replace("-", " ")
     blocked_patterns = (
         r"\bst\s*patrick",
@@ -161,11 +168,42 @@ def item_is_relevant(title: str, link: str, alias_keywords: list[str], sponsor_t
         hay,
     )
 
+    if require_alias_match and not alias_match:
+        return False
     if alias_match and medical_context:
         return True
     if sponsor_match and cv_context and (medical_context or financial_context or new_asset_match):
         return True
     return bool(sponsor_match and new_asset_match and cv_context)
+
+
+def company_press_item_is_relevant(
+    title: str,
+    link: str,
+    description: str,
+    alias_keywords: list[str],
+    sponsor_terms: list[str],
+) -> bool:
+    title_link = f"{title} {link}".lower().replace("-", " ")
+    alias_in_title_or_link = any(k in title_link for k in alias_keywords if k)
+    if alias_in_title_or_link:
+        return item_is_relevant(title, link, alias_keywords, sponsor_terms, require_alias_match=True)
+
+    headline_is_off_topic = re.search(
+        r"\b(obesity|weight|a1c|diabetes|glucose|triple agonist|retatrutide|tirzepatide|"
+        r"alzheimer|oncology|cancer|immunology|dermatology)\b",
+        title_link,
+    )
+    if headline_is_off_topic:
+        return False
+
+    return item_is_relevant(
+        f"{title} {description}",
+        link,
+        alias_keywords,
+        sponsor_terms,
+        require_alias_match=True,
+    )
 
 
 class AnchorParser(HTMLParser):
@@ -352,8 +390,8 @@ def company_press_search(
 
     page_title = extract_page_title(page)
     if page_title and text_is_informative(page_title):
-        hay_title = f"{page_title} {extract_meta_description(page)}"
-        if item_is_relevant(hay_title, press_url, aliases, sponsor_words):
+        page_description = extract_meta_description(page)
+        if company_press_item_is_relevant(page_title, press_url, page_description, aliases, sponsor_words):
             year = extract_year(page_title)
             if year is None or year == target_year:
                 selected.append(
@@ -378,7 +416,13 @@ def company_press_search(
             hay_title = f"{title} {item.get('description', '')}"
             if not text_is_informative(title):
                 continue
-            if not item_is_relevant(hay_title, absolute, aliases, sponsor_words):
+            if not company_press_item_is_relevant(
+                title,
+                absolute,
+                item.get("description", ""),
+                aliases,
+                sponsor_words,
+            ):
                 continue
             year = extract_year(item.get("publishedAt")) or extract_year(title) or extract_year(absolute)
             if year is not None and year != target_year:
@@ -428,7 +472,7 @@ def company_press_search(
         candidate_text = text if text_is_informative(text) else title_from_url_slug(absolute)
         if not text_is_informative(candidate_text):
             continue
-        if not item_is_relevant(candidate_text, absolute, aliases, sponsor_words):
+        if not company_press_item_is_relevant(candidate_text, absolute, "", aliases, sponsor_words):
             continue
 
         title = candidate_text

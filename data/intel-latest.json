@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-26T16:46:06+00:00",
+  "generatedAtUTC": "2026-07-26T16:58:05+00:00",
   "days": 7,
   "drugs": [
     {
@@ -533,14 +533,7 @@
           "url": "https://clinicaltrials.gov/study/NCT07613294"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-07-23"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -1108,14 +1101,7 @@
           "url": "https://clinicaltrials.gov/study/NCT07241390"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-07-23"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -1149,14 +1135,7 @@
           "url": "https://clinicaltrials.gov/study/NCT07157774"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-07-23"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "errors": []
     },
@@ -1342,7 +1321,7 @@
     "drugsScanned": 42,
     "drugsWithErrors": 2,
     "trialHits": 33,
-    "companyPressHits": 19,
+    "companyPressHits": 16,
     "googleNewsHits": 1
   }
 }
