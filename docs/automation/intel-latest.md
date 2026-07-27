@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-07-26)
+# ACS Intel Update (2026-07-27)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -102,16 +102,13 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 1
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT06008756] Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
 
 ### Company press-room hits
 - www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
-
-### Latest Google News
-- 2026-07-20 | The People's Pharmacy | [Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5)
 
 ## Lepodisiran (Eli Lilly)
 
