@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-27T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-28T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -893,7 +893,24 @@
         "Everest Medicines"
       ],
       "pressReleaseUrl": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06577519",
+          "title": "Efficacy and Safety Study of Vicagrel in Patients With Acute Coronary Syndrome (ACS) Undergoing Percutaneous Coronary Intervention (PCI)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-27",
+          "primaryCompletionDate": "2026-12-30",
+          "completionDate": "2026-12-30",
+          "conditions": [
+            "Acute Coronary Syndrome (ACS) Undergoing Percutaneous Coronary Intervention (PCI)"
+          ],
+          "interventions": [
+            "Vicagrel",
+            "Clopidogrel"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06577519"
+        }
+      ],
       "companyPress": [
         {
           "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
@@ -930,7 +947,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "OmniMSC-AMI",
@@ -943,7 +962,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RioCard001",
@@ -956,7 +977,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "NL005",
@@ -991,7 +1014,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "BX-001N",
@@ -1004,7 +1029,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SCP-776",
@@ -1017,7 +1044,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "CAY-001",
@@ -1030,7 +1059,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "ReHeart",
@@ -1063,7 +1094,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Orforglipron",
@@ -1096,7 +1129,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Muvalaplin",
@@ -1130,7 +1165,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Orticumab",
@@ -1209,7 +1246,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "MiSaver",
@@ -1240,7 +1279,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SIM0811",
@@ -1267,7 +1308,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1278,7 +1321,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-13",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1294,7 +1355,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RG6622",
@@ -1307,13 +1370,15 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 2,
-    "trialHits": 33,
+    "drugsWithErrors": 17,
+    "trialHits": 35,
     "companyPressHits": 16,
     "googleNewsHits": 0
   }

@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-27)
+# ACS Intel Update (2026-07-28)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -230,9 +230,12 @@
 
 ## Sumecigrel (Vcare PharmaTech / Everest Medicines)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 1
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT06577519] Efficacy and Safety Study of Vicagrel in Patients With Acute Coronary Syndrome (ACS) Undergoing Percutaneous Coronary Intervention (PCI) | Status: RECRUITING | Last update: 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 
 ### Company press-room hits
 - www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
@@ -352,9 +355,12 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 2
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-07-13 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

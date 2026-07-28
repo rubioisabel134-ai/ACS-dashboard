@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-27)
+# ACS Daily CI Report (2026-07-28)
 
-- Generated (UTC): 2026-07-27T12:00:01+00:00
+- Generated (UTC): 2026-07-28T12:00:00+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -30,6 +30,7 @@
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
+- Sumecigrel: [NCT06577519] RECRUITING | last update 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
@@ -37,6 +38,7 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- RO7763505: [NCT07495813] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
