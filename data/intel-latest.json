@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-28T12:00:00+00:00",
+  "generatedAtUTC": "2026-07-29T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -166,6 +166,26 @@
       "pressReleaseUrl": "https://www.novonordisk-us.com/media/news-archive.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-07-28",
+          "primaryCompletionDate": "2026-06-09",
+          "completionDate": "2026-06-09",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Chronic Kidney Disease",
+            "Inflammation"
+          ],
+          "interventions": [
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
+        },
+        {
           "nctId": "NCT06118281",
           "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
           "overallStatus": "RECRUITING",
@@ -181,26 +201,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
-          "nctId": "NCT05021835",
-          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-04-13",
-          "primaryCompletionDate": "2026-06-09",
-          "completionDate": "2026-06-09",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Chronic Kidney Disease",
-            "Inflammation"
-          ],
-          "interventions": [
-            "Ziltivekimab B",
-            "Ziltivekimab C",
-            "Placebo (Ziltivekimab B)",
-            "Placebo (Ziltivekimab C)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
           "nctId": "NCT07276282",
@@ -491,6 +491,24 @@
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
+          "nctId": "NCT07613294",
+          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-07-28",
+          "primaryCompletionDate": "2029-12",
+          "completionDate": "2029-12",
+          "conditions": [
+            "Atherosclerosis",
+            "Cardiovascular Diseases",
+            "Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Lepodisiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07613294"
+        },
+        {
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -506,24 +524,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06292013"
-        },
-        {
-          "nctId": "NCT07613294",
-          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-17",
-          "primaryCompletionDate": "2029-04",
-          "completionDate": "2029-04",
-          "conditions": [
-            "Atherosclerosis",
-            "Cardiovascular Diseases",
-            "Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Lepodisiran",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07613294"
         }
       ],
       "companyPress": [],
@@ -947,9 +947,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "OmniMSC-AMI",
@@ -962,9 +960,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RioCard001",
@@ -977,9 +973,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "NL005",
@@ -1014,9 +1008,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "BX-001N",
@@ -1029,9 +1021,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SCP-776",
@@ -1044,9 +1034,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "CAY-001",
@@ -1059,9 +1047,7 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "ReHeart",
@@ -1094,9 +1080,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Orforglipron",
@@ -1129,9 +1113,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Muvalaplin",
@@ -1165,9 +1147,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "Orticumab",
@@ -1246,9 +1226,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "MiSaver",
@@ -1279,9 +1257,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "SIM0811",
@@ -1308,9 +1284,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1355,9 +1329,7 @@
         }
       ],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     },
     {
       "name": "RG6622",
@@ -1370,14 +1342,12 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "google news: HTTP Error 503: Service Unavailable"
-      ]
+      "errors": []
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 17,
+    "drugsWithErrors": 2,
     "trialHits": 35,
     "companyPressHits": 16,
     "googleNewsHits": 0
