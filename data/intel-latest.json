@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-07-29T12:00:01+00:00",
+  "generatedAtUTC": "2026-07-30T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -586,6 +586,23 @@
       "pressReleaseUrl": "https://newsroom.viatris.com/press-releases?l=100",
       "clinicalTrials": [
         {
+          "nctId": "NCT03384966",
+          "title": "A Medical Research Study to Evaluate the Effects of ACT-246475 in Adults With Coronary Artery Disease",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-07-29",
+          "primaryCompletionDate": "2018-08-18",
+          "completionDate": "2018-09-18",
+          "conditions": [
+            "Stable Coronary Artery Disease"
+          ],
+          "interventions": [
+            "Selatogrel",
+            "Placebo",
+            "Selatogrel"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT03384966"
+        },
+        {
           "nctId": "NCT07615868",
           "title": "A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome",
           "overallStatus": "RECRUITING",
@@ -636,7 +653,10 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: <urlopen error timed out>",
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -677,7 +697,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "VE-1902",
@@ -691,7 +713,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "ADX-626",
@@ -704,7 +728,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Selnoflast",
@@ -717,7 +743,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SP16",
@@ -730,7 +758,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "NP-011",
@@ -743,7 +773,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "UDP-003",
@@ -793,7 +825,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Dukiprubart",
@@ -843,7 +877,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Evategrel",
@@ -881,7 +917,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Sumecigrel",
@@ -920,7 +958,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "DT-678",
@@ -933,7 +973,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Tipogrel",
@@ -947,7 +989,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "OmniMSC-AMI",
@@ -960,7 +1004,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RioCard001",
@@ -973,7 +1019,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "NL005",
@@ -1008,7 +1056,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "BX-001N",
@@ -1021,7 +1071,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SCP-776",
@@ -1034,7 +1086,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "CAY-001",
@@ -1047,7 +1101,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "ReHeart",
@@ -1080,7 +1136,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Orforglipron",
@@ -1113,7 +1171,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Muvalaplin",
@@ -1147,7 +1207,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "Orticumab",
@@ -1226,7 +1288,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "MiSaver",
@@ -1257,7 +1321,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "SIM0811",
@@ -1284,7 +1350,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1295,25 +1363,7 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07495813",
-          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-13",
-          "primaryCompletionDate": "2028-02-15",
-          "completionDate": "2028-02-15",
-          "conditions": [
-            "Stable Coronary Artery Disease",
-            "Healthy Volunteers"
-          ],
-          "interventions": [
-            "RO7763505",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07495813"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1329,7 +1379,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     },
     {
       "name": "RG6622",
@@ -1342,12 +1394,14 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP Error 503: Service Unavailable"
+      ]
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 2,
+    "drugsWithErrors": 29,
     "trialHits": 35,
     "companyPressHits": 16,
     "googleNewsHits": 0

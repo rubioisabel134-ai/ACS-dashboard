@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-29)
+# ACS Intel Update (2026-07-30)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -137,11 +137,12 @@
 
 ## Selatogrel (Idorsia / Viatris)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 2
 - Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT03384966] A Medical Research Study to Evaluate the Effects of ACT-246475 in Adults With Coronary Artery Disease | Status: COMPLETED | Last update: 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
 - [NCT07615868] A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome | Status: RECRUITING | Last update: 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 
 ## MT1002 (Shaanxi Micot Pharmaceutical Technology)
@@ -355,12 +356,9 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 2
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-07-13 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

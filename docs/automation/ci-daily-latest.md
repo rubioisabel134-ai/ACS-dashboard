@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-29)
+# ACS Daily CI Report (2026-07-30)
 
-- Generated (UTC): 2026-07-29T12:00:01+00:00
+- Generated (UTC): 2026-07-30T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -23,6 +23,7 @@
 - Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
+- Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
@@ -38,7 +39,6 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
