@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-07-26",
+  "snapshotDate": "2026-08-01",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -463,21 +463,21 @@
       "modality": "Monoclonal antibody",
       "stage": "Phase III",
       "setting": "Acute + Chronic high-risk ASCVD",
-      "signal": "monitor",
-      "statusSummary": "Large Phase III IL-6 inhibition program spans residual inflammatory risk in ASCVD/CKD (ZEUS) and acute MI/post-ACS populations (ARTEMIS and ZEPHYR).",
+      "signal": "negative",
+      "statusSummary": "Novo Nordisk reported on July 31, 2026 that the Phase III ZEUS trial missed its primary MACE endpoint in ASCVD/CKD/inflammation, with HR 0.99 (95% CI 0.88-1.11) despite IL-6 and hsCRP target engagement; ARTEMIS and ZEPHYR remain ongoing in acute MI/post-ACS settings.",
       "keyTrial": "ZEUS / ARTEMIS / ZEPHYR",
-      "competitorWatch": "Competes with broad anti-inflammatory CV strategies; ARTEMIS is the near-term post-MI catalyst, while ZEPHYR extends the plaque/AMI evidence package.",
+      "competitorWatch": "ZEUS failure weakens IL-6 ligand inhibition as a broad residual-inflammatory-risk strategy in ASCVD/CKD and raises the evidentiary bar for ARTEMIS, ZEPHYR, and other anti-inflammatory CV programs.",
       "nextCatalystDate": "2026-12-14",
       "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
       "priorityTrials": [
         {
           "name": "ZEUS",
           "phase": "Phase III",
-          "status": "Active, not recruiting",
+          "status": "Negative topline readout",
           "nctId": "NCT05021835",
           "date": "2026-06-09",
-          "event": "Estimated primary/completion date",
-          "note": "CV outcomes study in established cardiovascular disease, chronic kidney disease, and inflammation.",
+          "event": "Topline ZEUS readout missed primary MACE endpoint",
+          "note": "Novo reported HR 0.99 (95% CI 0.88-1.11) versus placebo in established ASCVD, CKD, and inflammation.",
           "link": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
@@ -515,7 +515,8 @@
         "https://clinicaltrials.gov/study/NCT06118281",
         "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT07276282",
-        "https://clinicaltrials.gov/study/NCT07301034"
+        "https://clinicaltrials.gov/study/NCT07301034",
+        "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
       ]
     },
     {

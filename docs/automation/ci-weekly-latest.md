@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-07-26)
+# ACS Daily CI Report (2026-08-01)
 
-- Generated (UTC): 2026-07-26T16:58:05+00:00
+- Generated (UTC): 2026-08-01T17:13:12+00:00
 - Drugs scanned: 42
 - News window: last 7 day(s)
 - Playwright links captured: 17
@@ -11,18 +11,19 @@
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
 - Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT05030428
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+- Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
-- Ziltivekimab: [NCT05021835] ACTIVE_NOT_RECRUITING | last update 2026-04-13 | https://clinicaltrials.gov/study/NCT05021835
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-08 | https://clinicaltrials.gov/study/NCT07517263
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-30 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07613294
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
+- Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
@@ -30,6 +31,7 @@
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
+- Sumecigrel: [NCT06577519] RECRUITING | last update 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
@@ -42,6 +44,7 @@
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 - Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- Ziltivekimab | www.globenewswire.com | [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
 - Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - Xolatryp | www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
@@ -53,16 +56,15 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Enlicitide (MK-0616) | 2026-07-20 | The People's Pharmacy | [Lipfendra (Enlicitide) Slashes LDL Cholesterol! Does It Save Lives? - The People's Pharmacy](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5)
 
 ## Captured Link Validation
 
-- Successful captures: 16/17
+- Successful captures: 17/17
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
 - OK | Zalunfiban | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- OK | Ziltivekimab | [Novo Nordisk provides update on the ZEUS phase 3 trial in](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
 - OK | Enlicitide (MK-0616) | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Merck.com](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
-- OK | Enlicitide (MK-0616) | [Google News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pRSWRqTklWWWZsY3hOTkNQMURULXRvaENsaXYwZVBfSGFxOU8tR3drR3RDMm1MczhDRVVra2NWcDVEdFl3OWpVQ1ZDX3YzdXZmbWkyMk9EdU1ZX3B2X3EwVThrN2tNUXpaWWUtMXQzRjRjYzNmeXBfQWxsajlUamM5ZTJCeno0SjZsaFFmWGNlZVNGTi1jU25nazRLZGVYRWVrUGJxUQ?oc=5&hl=en-US&gl=US&ceid=US:en)
-- FAIL | Xolatryp | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
+- OK | Xolatryp | [Myocardial Ischemia and Arrhythmia Control | Nyrada - Biotechnology Company](https://www.nyrada.com/site/programs/myocardial-ischemia)
 - OK | UDP-003 | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - OK | UDP-003 | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - OK | UDP-003 | [Cyclarity Therapeutics Announces Clinical Advisory Board - Cyclarity Therapeutics](https://cyclaritytx.com/cyclarity-therapeutics-announces-clinical-advisory-board/)

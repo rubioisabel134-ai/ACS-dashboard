@@ -16,6 +16,7 @@ import html
 import json
 import pathlib
 import re
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -56,16 +57,38 @@ def load_config(path: pathlib.Path) -> dict[str, Any]:
         return json.load(f)
 
 
-def http_get_json(url: str, timeout: int = 25) -> dict[str, Any]:
-    req = urllib.request.Request(url, headers={"User-Agent": "acs-dashboard-updater/1.0"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+def http_get_text(url: str, timeout: int = 12) -> str:
+    command = [
+        "curl",
+        "--fail",
+        "--location",
+        "--silent",
+        "--show-error",
+        "--max-time",
+        str(timeout),
+        "--user-agent",
+        "acs-dashboard-updater/1.0",
+        url,
+    ]
+    try:
+        result = subprocess.run(
+            command,
+            check=True,
+            capture_output=True,
+            timeout=timeout + 3,
+            text=True,
+        )
+    except subprocess.TimeoutExpired as exc:
+        raise TimeoutError(f"request timed out after {timeout}s: {url}") from exc
+    except subprocess.CalledProcessError as exc:
+        detail = (exc.stderr or exc.stdout or "").strip().splitlines()
+        message = detail[-1] if detail else f"curl exit {exc.returncode}"
+        raise RuntimeError(f"HTTP fetch failed ({message}): {url}") from exc
+    return result.stdout
 
 
-def http_get_text(url: str, timeout: int = 25) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": "acs-dashboard-updater/1.0"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+def http_get_json(url: str, timeout: int = 12) -> dict[str, Any]:
+    return json.loads(http_get_text(url, timeout=timeout))
 
 
 def parse_feed_date(value: str | None) -> str | None:
