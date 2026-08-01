@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-07-31)
+# ACS Intel Update (2026-08-01)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
