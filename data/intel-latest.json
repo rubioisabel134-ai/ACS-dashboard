@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-02T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-03T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -237,11 +237,16 @@
           "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation",
+          "link": "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
+          "source": "www.globenewswire.com",
+          "publishedAt": "2026-07-31"
+        }
+      ],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Operation timed out after 12126 milliseconds with 0 bytes received): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
-      ]
+      "errors": []
     },
     {
       "name": "Pacibekitug",
@@ -1348,9 +1353,9 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 2,
     "trialHits": 35,
-    "companyPressHits": 16,
+    "companyPressHits": 17,
     "googleNewsHits": 0
   }
 }
