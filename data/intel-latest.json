@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-03T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-04T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -660,7 +660,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12082 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1353,7 +1355,7 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 2,
+    "drugsWithErrors": 3,
     "trialHits": 35,
     "companyPressHits": 17,
     "googleNewsHits": 0
