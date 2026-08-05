@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-04T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-05T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -237,16 +237,11 @@
           "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation",
-          "link": "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
-          "source": "www.globenewswire.com",
-          "publishedAt": "2026-07-31"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Operation timed out after 12131 milliseconds with 0 bytes received): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
+      ]
     },
     {
       "name": "Pacibekitug",
@@ -660,9 +655,7 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12082 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1357,7 +1350,7 @@
     "drugsScanned": 42,
     "drugsWithErrors": 3,
     "trialHits": 35,
-    "companyPressHits": 17,
+    "companyPressHits": 16,
     "googleNewsHits": 0
   }
 }
