@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-06)
+# ACS Intel Update (2026-08-07)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -44,7 +44,7 @@
 ## Ziltivekimab (Novo Nordisk)
 
 - ClinicalTrials.gov hits: 4
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
@@ -52,9 +52,6 @@
 - [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
-
-### Company press-room hits
-- www.globenewswire.com | [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
 
 ## Pacibekitug (Novartis)
 
@@ -311,7 +308,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-07-17 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-08-06 | https://clinicaltrials.gov/study/NCT07241390
 
 ## Muvalaplin (Eli Lilly)
 
