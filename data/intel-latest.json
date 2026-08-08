@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-07T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-08T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -237,11 +237,16 @@
           "url": "https://clinicaltrials.gov/study/NCT07301034"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation",
+          "link": "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
+          "source": "www.globenewswire.com",
+          "publishedAt": "2026-07-31"
+        }
+      ],
       "googleNews": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Operation timed out after 12150 milliseconds with 0 bytes received): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
-      ]
+      "errors": []
     },
     {
       "name": "Pacibekitug",
@@ -367,7 +372,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-10",
+          "lastUpdate": "2026-08-07",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
@@ -496,7 +501,7 @@
           "nctId": "NCT07613294",
           "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-28",
+          "lastUpdate": "2026-08-07",
           "primaryCompletionDate": "2029-12",
           "completionDate": "2029-12",
           "conditions": [
@@ -1150,7 +1155,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-20",
+          "lastUpdate": "2026-08-07",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
@@ -1348,9 +1353,9 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 2,
     "trialHits": 35,
-    "companyPressHits": 16,
+    "companyPressHits": 17,
     "googleNewsHits": 0
   }
 }

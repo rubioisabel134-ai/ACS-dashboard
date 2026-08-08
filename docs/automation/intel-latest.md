@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-07)
+# ACS Intel Update (2026-08-08)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -44,7 +44,7 @@
 ## Ziltivekimab (Novo Nordisk)
 
 - ClinicalTrials.gov hits: 4
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
@@ -52,6 +52,9 @@
 - [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
+
+### Company press-room hits
+- www.globenewswire.com | [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
 
 ## Pacibekitug (Novartis)
 
@@ -86,7 +89,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-07-10 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-08-07 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Laroprovstat (AZD0780) (AstraZeneca)
@@ -117,7 +120,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-07-28 | https://clinicaltrials.gov/study/NCT07613294
+- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-08-07 | https://clinicaltrials.gov/study/NCT07613294
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 
 ## Olezarsen (Ionis)
@@ -317,7 +320,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT07157774
+- [NCT07157774] Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a) | Status: RECRUITING | Last update: 2026-08-07 | https://clinicaltrials.gov/study/NCT07157774
 
 ## Orticumab (Abcentra)
 
