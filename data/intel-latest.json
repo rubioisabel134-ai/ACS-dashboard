@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-08-08T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-08-09T17:27:58+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -266,10 +266,13 @@
       "sponsor": "RiboCure Pharmaceuticals",
       "aliases": [
         "RBD4059",
+        "vortosiran",
         "RiboCure",
-        "Ribolia"
+        "Ribolia",
+        "Factor XI",
+        "FXI"
       ],
-      "pressReleaseUrl": null,
+      "pressReleaseUrl": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
       "clinicalTrials": [
         {
           "nctId": "NCT06717074",
@@ -288,7 +291,32 @@
           "url": "https://clinicaltrials.gov/study/NCT06717074"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial \u2013 World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
+          "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
+          "source": "ribocure.com",
+          "publishedAt": "2026-07-22"
+        },
+        {
+          "title": "Ribo pipeline",
+          "link": "https://ribocure.com/ribo-pipeline/",
+          "source": "ribocure.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Ribo Announces Phase 2 Clinical Trial Submission to EMA, Further Advancing siRNA Therapeutics in Thromboembolic Disease",
+          "link": "https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/",
+          "source": "ribocure.com",
+          "publishedAt": "2026-05-28"
+        },
+        {
+          "title": "Ribo pipeline",
+          "link": "https://ribocure.com/ribo-pipeline",
+          "source": "ribocure.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -660,7 +688,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12004 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1353,9 +1383,9 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 2,
+    "drugsWithErrors": 3,
     "trialHits": 35,
-    "companyPressHits": 17,
+    "companyPressHits": 21,
     "googleNewsHits": 0
   }
 }

@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-08-08)
+# ACS Intel Update (2026-08-09)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -65,11 +65,17 @@
 ## RBD4059 (RiboCure Pharmaceuticals)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 4
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06717074] A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | Status: COMPLETED | Last update: 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
+
+### Company press-room hits
+- ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
+- ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline/)
+- ribocure.com | [Ribo Announces Phase 2 Clinical Trial Submission to EMA, Further Advancing siRNA Therapeutics in Thromboembolic Disease](https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/)
+- ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline)
 
 ## Pelacarsen (Novartis)
 

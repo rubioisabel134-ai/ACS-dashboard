@@ -73,7 +73,10 @@
     {
       "name": "RBD4059",
       "sponsor": "RiboCure Pharmaceuticals",
-      "aliases": ["RBD4059", "RiboCure", "Ribolia"]
+      "aliases": ["RBD4059", "vortosiran", "RiboCure", "Ribolia", "Factor XI", "FXI"],
+      "trial_aliases": ["RBD4059", "vortosiran"],
+      "nct_ids": ["NCT06717074", "NCT06866457"],
+      "press_release_url": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/"
     },
     {
       "name": "Pelacarsen",

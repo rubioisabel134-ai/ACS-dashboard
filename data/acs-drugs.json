@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-08-01",
+  "snapshotDate": "2026-08-09",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -542,18 +542,20 @@
     {
       "drug": "RBD4059",
       "sponsor": "RiboCure Pharmaceuticals",
-      "class": "Novel anticoagulant",
-      "target": "Coagulation pathway (company-disclosed target class)",
-      "modality": "Small molecule",
+      "class": "FXI-targeting antithrombotic",
+      "target": "Factor XI (FXI)",
+      "modality": "GalNAc-conjugated siRNA",
       "stage": "Phase II",
       "setting": "Chronic CAD/ACS-risk thrombosis",
-      "signal": "monitor",
-      "statusSummary": "Early clinical program with limited public detail; positioned as next-generation anticoagulation candidate.",
-      "keyTrial": "RBD4059-201",
-      "competitorWatch": "Competes with FXIa/FXI and low-dose anticoagulation strategies",
+      "signal": "positive",
+      "statusSummary": "Ribocure disclosed positive Phase IIa CAD data for vortosiran/RBD4059 on July 22, 2026: the multiple-dose study in chronic CAD patients on aspirin was generally well tolerated, showed dose-dependent and durable FXI activity suppression, and reported no treatment-related serious adverse events, major bleeding, or clinically relevant non-major bleeding.",
+      "keyTrial": "RBD4059-201 / ORBIT-XI",
+      "competitorWatch": "Differentiated long-acting FXI siRNA approach versus oral FXIa inhibitors, antibody FXI inhibitors, and low-dose anticoagulation strategies; watch ORBIT-XI Phase IIb expansion for thromboembolic disease positioning.",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT06717074)",
+      "nextCatalystEvent": "Monitor ORBIT-XI Phase IIb starts and next registry updates",
       "sourceLinks": [
+        "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
+        "https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/",
         "https://clinicaltrials.gov/study/NCT06717074",
         "https://clinicaltrials.gov/study/NCT06866457",
         "https://www.ribocure.com/pipeline"
