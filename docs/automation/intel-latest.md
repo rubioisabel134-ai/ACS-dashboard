@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-08-09)
+# ACS Intel Update (2026-08-11)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -44,7 +44,7 @@
 ## Ziltivekimab (Novo Nordisk)
 
 - ClinicalTrials.gov hits: 4
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
@@ -52,9 +52,6 @@
 - [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
-
-### Company press-room hits
-- www.globenewswire.com | [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
 
 ## Pacibekitug (Novartis)
 
@@ -177,9 +174,12 @@
 
 ## VE-1902 (Verseon)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 0
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT05293080] Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STROKE | Status: RECRUITING | Last update: 2026-05-18 | https://clinicaltrials.gov/study/NCT05293080
 
 ## ADX-626 (ADARx)
 
