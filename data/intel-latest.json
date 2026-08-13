@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-11T12:00:00+00:00",
+  "generatedAtUTC": "2026-08-13T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -735,25 +735,7 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [
-        {
-          "nctId": "NCT05293080",
-          "title": "Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STROKE",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-05-18",
-          "primaryCompletionDate": "2031-07",
-          "completionDate": "2031-09",
-          "conditions": [
-            "Acute Ischemic Stroke",
-            "Atrial Fibrillation"
-          ],
-          "interventions": [
-            "Medical or interventional therapy for rhythm control in atrial fibrillation (antiarrhythmic drugs, ablation, electric cardio version)",
-            "Usual care for atrial fibrillation"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05293080"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -1395,7 +1377,7 @@
   "summary": {
     "drugsScanned": 42,
     "drugsWithErrors": 3,
-    "trialHits": 36,
+    "trialHits": 35,
     "companyPressHits": 20,
     "googleNewsHits": 0
   }

@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-11)
+# ACS Intel Update (2026-08-13)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -174,12 +174,9 @@
 
 ## VE-1902 (Verseon)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 0
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT05293080] Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STROKE | Status: RECRUITING | Last update: 2026-05-18 | https://clinicaltrials.gov/study/NCT05293080
 
 ## ADX-626 (ADARx)
 
