@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-13)
+# ACS Intel Update (2026-08-14)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -92,7 +92,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-08-07 | https://clinicaltrials.gov/study/NCT07136012
+- [NCT07136012] OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | Status: RECRUITING | Last update: 2026-08-13 | https://clinicaltrials.gov/study/NCT07136012
 - [NCT05581303] Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 
 ## Laroprovstat (AZD0780) (AstraZeneca)

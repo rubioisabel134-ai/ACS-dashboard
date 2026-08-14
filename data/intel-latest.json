@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-13T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-14T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -395,7 +395,7 @@
           "nctId": "NCT07136012",
           "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-07",
+          "lastUpdate": "2026-08-13",
           "primaryCompletionDate": "2031-10-20",
           "completionDate": "2031-10-20",
           "conditions": [
