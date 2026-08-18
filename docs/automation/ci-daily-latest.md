@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-08-17)
+# ACS Daily CI Report (2026-08-18)
 
-- Generated (UTC): 2026-08-17T12:00:01+00:00
+- Generated (UTC): 2026-08-18T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -39,7 +39,6 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
