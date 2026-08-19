@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-18)
+# ACS Intel Update (2026-08-19)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -34,12 +34,15 @@
 ## Inclisiran (Leqvio) (Novartis)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT05030428] Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT05030428
 - [NCT03705234] A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+
+### Company press-room hits
+- www.novartis.com | [Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
 
 ## Ziltivekimab (Novo Nordisk)
 
@@ -362,9 +365,12 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 2
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

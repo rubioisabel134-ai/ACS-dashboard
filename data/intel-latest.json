@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-18T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-19T12:00:02+00:00",
   "days": 1,
   "drugs": [
     {
@@ -150,7 +150,14 @@
           "url": "https://clinicaltrials.gov/study/NCT03705234"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio\u00ae (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding\u2026",
+          "link": "https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies",
+          "source": "www.novartis.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "errors": []
     },
@@ -1342,7 +1349,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-08-11",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1377,8 +1402,8 @@
   "summary": {
     "drugsScanned": 42,
     "drugsWithErrors": 3,
-    "trialHits": 35,
-    "companyPressHits": 20,
+    "trialHits": 36,
+    "companyPressHits": 21,
     "googleNewsHits": 0
   }
 }
