@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-19T12:00:02+00:00",
+  "generatedAtUTC": "2026-08-20T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -742,7 +742,25 @@
         "Version"
       ],
       "pressReleaseUrl": null,
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT05293080",
+          "title": "Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STROKE",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-05-18",
+          "primaryCompletionDate": "2031-07",
+          "completionDate": "2031-09",
+          "conditions": [
+            "Acute Ischemic Stroke",
+            "Atrial Fibrillation"
+          ],
+          "interventions": [
+            "Medical or interventional therapy for rhythm control in atrial fibrillation (antiarrhythmic drugs, ablation, electric cardio version)",
+            "Usual care for atrial fibrillation"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05293080"
+        }
+      ],
       "companyPress": [],
       "googleNews": [],
       "errors": []
@@ -1349,25 +1367,7 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07495813",
-          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-11",
-          "primaryCompletionDate": "2028-02-15",
-          "completionDate": "2028-02-15",
-          "conditions": [
-            "Stable Coronary Artery Disease",
-            "Healthy Volunteers"
-          ],
-          "interventions": [
-            "RO7763505",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07495813"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Product Development Pipeline",

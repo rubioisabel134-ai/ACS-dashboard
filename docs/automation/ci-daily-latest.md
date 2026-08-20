@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-08-19)
+# ACS Daily CI Report (2026-08-20)
 
-- Generated (UTC): 2026-08-19T12:00:02+00:00
+- Generated (UTC): 2026-08-20T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Playwright links captured: 25
@@ -27,6 +27,7 @@
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
+- VE-1902: [NCT05293080] RECRUITING | last update 2026-05-18 | https://clinicaltrials.gov/study/NCT05293080
 - UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
@@ -39,7 +40,6 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
