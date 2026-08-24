@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-08-09)
+# ACS Daily CI Report (2026-08-24)
 
-- Generated (UTC): 2026-08-09T17:27:58+00:00
+- Generated (UTC): 2026-08-24T12:37:30+00:00
 - Drugs scanned: 42
 - News window: last 7 day(s)
 - Playwright links captured: 21
@@ -16,11 +16,11 @@
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-30 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-- Olpasiran: [NCT07136012] RECRUITING | last update 2026-08-07 | https://clinicaltrials.gov/study/NCT07136012
+- Olpasiran: [NCT07136012] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-08-07 | https://clinicaltrials.gov/study/NCT07613294
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
@@ -35,16 +35,17 @@
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-08-06 | https://clinicaltrials.gov/study/NCT07241390
-- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-08-07 | https://clinicaltrials.gov/study/NCT07157774
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- RO7763505: [NCT07495813] RECRUITING | last update 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 - Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
-- Ziltivekimab | www.globenewswire.com | [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
+- Inclisiran (Leqvio) | www.novartis.com | [Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
 - RBD4059 | ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - RBD4059 | ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline/)
 - Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
@@ -64,7 +65,7 @@
 - Successful captures: 21/21
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
 - OK | Zalunfiban | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
-- OK | Ziltivekimab | [Novo Nordisk provides update on the ZEUS phase 3 trial in](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
+- OK | Inclisiran (Leqvio) | [Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies | Novartis](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
 - OK | RBD4059 | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial - World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease - Ribocure Pharmaceuticals](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - OK | RBD4059 | [Ribo pipeline - Ribocure Pharmaceuticals](https://ribocure.com/ribo-pipeline/)
 - OK | RBD4059 | [Ribo Announces Phase 2 Clinical Trial Submission to EMA, Further Advancing siRNA Therapeutics in Thromboembolic Disease - Ribocure Pharmaceuticals](https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/)

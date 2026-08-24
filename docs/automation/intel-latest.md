@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-08-24)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -365,9 +365,12 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 2
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

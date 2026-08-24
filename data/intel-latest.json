@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-08-24T12:00:01+00:00",
-  "days": 1,
+  "generatedAtUTC": "2026-08-24T12:37:30+00:00",
+  "days": 7,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -31,7 +31,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22zalunfiban%22+OR+%22Disaggpro%22+OR+%22RUC-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Obicetrapib",
@@ -65,7 +67,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22obicetrapib%22+OR+%22PREVAIL%22+OR+%22BROADWAY%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Dalcetrapib",
@@ -99,7 +103,8 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 404): https://dalcorpharma.com/news/"
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 404): https://dalcorpharma.com/news/",
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dalcetrapib%22+OR+%22DalCor%22+OR+%22Dal-GenE-2%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
       ]
     },
     {
@@ -159,7 +164,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22inclisiran%22+OR+%22Leqvio%22+OR+%22ORION-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Ziltivekimab",
@@ -247,7 +254,8 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
+        "company press: HTTP fetch failed (curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ziltivekimab%22+OR+%22ZEUS%22+OR+%22ARTEMIS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
       ]
     },
     {
@@ -261,7 +269,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pacibekitug%22+OR+%22VCU%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "RBD4059",
@@ -320,7 +330,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RBD4059%22+OR+%22vortosiran%22+OR+%22RiboCure%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Pelacarsen",
@@ -383,7 +395,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pelacarsen%22+OR+%22Lp%28a%29HORIZON%22+OR+%22TQJ230%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Olpasiran",
@@ -433,7 +447,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olpasiran%22+OR+%22OCEAN%28a%29%22+OR+%22OCEAN%28a%29-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Laroprovstat (AZD0780)",
@@ -467,7 +483,8 @@
       "companyPress": [],
       "googleNews": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.astrazeneca.com/media-centre/press-releases.html"
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.astrazeneca.com/media-centre/press-releases.html",
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22laroprovstat%22+OR+%22AZD0780%22+OR+%22AZURE-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
       ]
     },
     {
@@ -512,7 +529,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22enlicitide%22+OR+%22enlicitide+decanoate%22+OR+%22Lipfendra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Lepodisiran",
@@ -565,7 +584,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22lepodisiran%22+OR+%22ALPACA%22+OR+%22ACCLAIM-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Olezarsen",
@@ -578,7 +599,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olezarsen%22+OR+%22TRYNGOLZA%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Milvexian",
@@ -608,7 +631,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22milvexian%22+OR+%22LIBREXIA-ACS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Selatogrel",
@@ -658,7 +683,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22selatogrel%22+OR+%22selatogerl%22+OR+%22SOS-AMI%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "MT1002",
@@ -690,7 +717,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22MT1002%22+OR+%22MT1002-II-C04%22+OR+%22Shaanxi+Micot%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -731,7 +760,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22xolatryp%22+OR+%22Nyrada%22+OR+%22NYR-BI03%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "VE-1902",
@@ -745,7 +776,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22VE-1902%22+OR+%22Verseon%22+OR+%22Version%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "ADX-626",
@@ -758,7 +791,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ADX-626%22+OR+%22ADARx%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Selnoflast",
@@ -771,7 +806,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22selnoflast%22+OR+%22Roche%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "SP16",
@@ -784,7 +821,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SP16%22+OR+%22Serpin%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "NP-011",
@@ -797,7 +836,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22NP-011%22+OR+%22Nexcel%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "UDP-003",
@@ -847,7 +888,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22UDP-003%22+OR+%22Cyclarity%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Dukiprubart",
@@ -897,7 +940,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dukiprubart%22+OR+%22SGC001%22+OR+%22SGC-001%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Evategrel",
@@ -935,7 +980,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22evategrel%22+OR+%22CG-0255%22+OR+%22CG-0255+Besylate%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Sumecigrel",
@@ -974,7 +1021,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22sumecigrel%22+OR+%22vicagrel%22+OR+%22Vcare+PharmaTech%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "DT-678",
@@ -987,7 +1036,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22DT-678%22+OR+%22Diapin%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Tipogrel",
@@ -1001,7 +1052,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22tipogrel%22+OR+%22Tianjin+Institute+of+Pharma+research%22+OR+%22Tianjin+Institute+of+Pharmaceutical+Research%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "OmniMSC-AMI",
@@ -1014,7 +1067,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22OmniMSC-AMI%22+OR+%22Taiwan+Bio%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "RioCard001",
@@ -1027,7 +1082,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RioCard001%22+OR+%22Rion%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "NL005",
@@ -1062,7 +1119,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22NL005%22+OR+%22glimbetasin%22+OR+%22NCT07586865%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "BX-001N",
@@ -1075,7 +1134,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22BX-001N%22+OR+%22Bilix%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "SCP-776",
@@ -1088,7 +1149,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SCP-776%22+OR+%22Silver+Creek%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "CAY-001",
@@ -1101,7 +1164,9 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22CAY-001%22+OR+%22Cayuga%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "ReHeart",
@@ -1134,7 +1199,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ReHeart%22+OR+%22Cuorips%22+OR+%22iPSC-derived+cardiomyocyte%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Orforglipron",
@@ -1167,7 +1234,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22orforglipron%22+OR+%22LY3502970%22+OR+%22ATTAIN-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Muvalaplin",
@@ -1201,7 +1270,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22muvalaplin%22+OR+%22LY3473329%22+OR+%22MOVE-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "Orticumab",
@@ -1280,7 +1351,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22orticumab%22+OR+%22Abcentra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "MiSaver",
@@ -1311,7 +1384,9 @@
       ],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22MiSaver%22+OR+%22SEMIAMI%22+OR+%22NCT07134712%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "SIM0811",
@@ -1338,7 +1413,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SIM0811%22+OR+%22NCT07345364%22+OR+%22Simcere%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1349,7 +1426,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-08-11",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1365,7 +1460,9 @@
         }
       ],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RO7763505%22+OR+%22NCT07495813%22+OR+%22Roche%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     },
     {
       "name": "RG6622",
@@ -1378,13 +1475,15 @@
       "clinicalTrials": [],
       "companyPress": [],
       "googleNews": [],
-      "errors": []
+      "errors": [
+        "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RG6622%22+OR+%22RG-6622%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+      ]
     }
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
-    "trialHits": 35,
+    "drugsWithErrors": 42,
+    "trialHits": 36,
     "companyPressHits": 21,
     "googleNewsHits": 0
   }
