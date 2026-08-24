@@ -3,14 +3,12 @@
 - Drugs scanned: 42
 - Trial updates: 36
 - Press/news updates: 4
-- Drug cards changed: 1
+- Drug cards changed: 0
 - Source error groups: 45
 
 ## Drug Card Changes
 
-### RBD4059
-- `nextCatalystEvent`: `Monitor ORBIT-XI Phase IIb starts and next registry updates` -> `Monitor next registry update (NCT06717074)`
-
+- No drug card changes were applied.
 ## Trial Updates
 
 - 2026-08-21 | Olpasiran [NCT07136012] | RECRUITING | OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events | https://clinicaltrials.gov/study/NCT07136012

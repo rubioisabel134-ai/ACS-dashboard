@@ -1,25 +1,14 @@
 {
-  "generatedAtUTC": "2026-08-24T12:44:04+00:00",
+  "generatedAtUTC": "2026-08-24T12:45:09+00:00",
   "runDate": "2026-08-24",
   "summary": {
     "drugsScanned": 42,
     "trialUpdates": 36,
     "pressUpdates": 4,
-    "cardChanges": 1,
+    "cardChanges": 0,
     "errorGroups": 45
   },
-  "cardChanges": [
-    {
-      "drug": "RBD4059",
-      "fields": [
-        {
-          "field": "nextCatalystEvent",
-          "before": "Monitor ORBIT-XI Phase IIb starts and next registry updates",
-          "after": "Monitor next registry update (NCT06717074)"
-        }
-      ]
-    }
-  ],
+  "cardChanges": [],
   "trialUpdates": [
     {
       "drug": "Olpasiran",

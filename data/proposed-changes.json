@@ -1,15 +1,5 @@
 {
   "generatedAtUTC": "2026-08-24T12:43:45+00:00",
-  "updates": 1,
-  "proposals": [
-    {
-      "drug": "RBD4059",
-      "changes": {
-        "nextCatalystEvent": {
-          "before": "Monitor ORBIT-XI Phase IIb starts and next registry updates",
-          "after": "Monitor next registry update (NCT06717074)"
-        }
-      }
-    }
-  ]
+  "updates": 0,
+  "proposals": []
 }
