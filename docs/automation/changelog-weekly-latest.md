@@ -4,7 +4,8 @@
 - Trial updates: 36
 - Press/news updates: 4
 - Drug cards changed: 0
-- Source error groups: 45
+- Source error groups: 3
+- Discovery warning groups: 42
 
 ## Drug Card Changes
 
@@ -62,6 +63,9 @@ Latest dated current-year press/news item per asset.
 - 1 asset(s): company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.astrazeneca.com/media-centre/press-releases.html (example: Laroprovstat (AZD0780))
 - 1 asset(s): company press: HTTP fetch failed (curl: (56) The requested URL returned error: 404): https://dalcorpharma.com/news/ (example: Dalcetrapib)
 - 1 asset(s): company press: HTTP fetch failed (curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html (example: Ziltivekimab)
+
+## Discovery Warnings
+
 - 1 asset(s): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ADX-626%22+OR+%22ADARx%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen (example: ADX-626)
 - 1 asset(s): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22BX-001N%22+OR+%22Bilix%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen (example: BX-001N)
 - 1 asset(s): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22CAY-001%22+OR+%22Cayuga%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen (example: CAY-001)

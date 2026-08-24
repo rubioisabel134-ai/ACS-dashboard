@@ -124,6 +124,7 @@ summary = intel.get("summary") or {}
 
 print(f"  - Drugs scanned: {summary.get('drugsScanned', 0)}")
 print(f"  - Drugs with errors: {summary.get('drugsWithErrors', 0)}")
+print(f"  - Drugs with discovery warnings: {summary.get('drugsWithDiscoveryWarnings', 0)}")
 print(f"  - Trial hits: {summary.get('trialHits', 0)}")
 print(f"  - Company press hits: {summary.get('companyPressHits', 0)}")
 print(f"  - Google News hits: {summary.get('googleNewsHits', 0)}")

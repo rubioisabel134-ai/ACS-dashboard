@@ -39,6 +39,19 @@ def summarize_errors(intel: dict[str, Any]) -> list[dict[str, Any]]:
     ]
 
 
+def summarize_discovery_warnings(intel: dict[str, Any]) -> list[dict[str, Any]]:
+    counts: dict[str, int] = {}
+    examples: dict[str, str] = {}
+    for drug in intel.get("drugs", []):
+        for warning in drug.get("discoveryWarnings") or []:
+            counts[warning] = counts.get(warning, 0) + 1
+            examples.setdefault(warning, drug.get("name") or "Unknown")
+    return [
+        {"message": message, "count": count, "exampleDrug": examples.get(message)}
+        for message, count in sorted(counts.items(), key=lambda item: (-item[1], item[0]))
+    ]
+
+
 def collect_trial_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for drug in intel.get("drugs", []):
@@ -167,6 +180,7 @@ def write_markdown(path: pathlib.Path, payload: dict[str, Any]) -> None:
     lines.append(f"- Press/news updates: {summary.get('pressUpdates', 0)}")
     lines.append(f"- Drug cards changed: {summary.get('cardChanges', 0)}")
     lines.append(f"- Source error groups: {summary.get('errorGroups', 0)}")
+    lines.append(f"- Discovery warning groups: {summary.get('discoveryWarningGroups', 0)}")
     lines.append("")
 
     lines.append("## Drug Card Changes")
@@ -215,6 +229,17 @@ def write_markdown(path: pathlib.Path, payload: dict[str, Any]) -> None:
             f"- {error.get('count')} asset(s): {error.get('message')} "
             f"(example: {error.get('exampleDrug')})"
         )
+    lines.append("")
+
+    lines.append("## Discovery Warnings")
+    lines.append("")
+    if not payload["discoveryWarnings"]:
+        lines.append("- No discovery-layer warnings recorded.")
+    for warning in payload["discoveryWarnings"]:
+        lines.append(
+            f"- {warning.get('count')} asset(s): {warning.get('message')} "
+            f"(example: {warning.get('exampleDrug')})"
+        )
 
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
@@ -230,6 +255,7 @@ def main() -> int:
     press_updates = collect_press_updates(intel)
     card_changes = collect_card_changes(proposals)
     source_errors = summarize_errors(intel)
+    discovery_warnings = summarize_discovery_warnings(intel)
 
     payload = {
         "generatedAtUTC": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
@@ -240,11 +266,13 @@ def main() -> int:
             "pressUpdates": len(press_updates),
             "cardChanges": len(card_changes),
             "errorGroups": len(source_errors),
+            "discoveryWarningGroups": len(discovery_warnings),
         },
         "cardChanges": card_changes,
         "trialUpdates": trial_updates,
         "pressUpdates": press_updates,
         "sourceErrors": source_errors,
+        "discoveryWarnings": discovery_warnings,
     }
 
     write_json(args.latest_json, payload)

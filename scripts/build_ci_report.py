@@ -40,6 +40,10 @@ def main() -> int:
     lines.append(f"- Generated (UTC): {intel.get('generatedAtUTC', 'n/a')}")
     lines.append(f"- Drugs scanned: {len(intel.get('drugs', []))}")
     lines.append(f"- News window: last {intel.get('days', 'n/a')} day(s)")
+    summary = intel.get("summary") or {}
+    if summary:
+        lines.append(f"- Primary-source error assets: {summary.get('drugsWithErrors', 0)}")
+        lines.append(f"- Discovery warning assets: {summary.get('drugsWithDiscoveryWarnings', 0)}")
     if capture:
         lines.append(f"- Playwright links captured: {capture.get('totalLinks', 0)}")
     else:
@@ -104,6 +108,21 @@ def main() -> int:
                 final_url = c.get("finalUrl") or c.get("link") or ""
                 title = c.get("pageTitle") or c.get("title") or "Untitled"
                 lines.append(f"- {status} | {c.get('drug')} | [{title}]({final_url})")
+    lines.append("")
+
+    lines.append("## Discovery Layer")
+    lines.append("")
+    warning_lines = 0
+    for d in intel.get("drugs", []):
+        for warning in d.get("discoveryWarnings") or []:
+            lines.append(f"- {d.get('name')}: {warning}")
+            warning_lines += 1
+            if warning_lines >= 12:
+                break
+        if warning_lines >= 12:
+            break
+    if warning_lines == 0:
+        lines.append("- No Google News discovery warnings recorded.")
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")

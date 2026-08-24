@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch ACS drug updates from ClinicalTrials.gov and Google News RSS.
+"""Fetch ACS drug updates from ClinicalTrials.gov, company press rooms, and discovery news.
 
 Usage:
   python3 scripts/acs_intel_update.py --days 7
@@ -855,6 +855,7 @@ def main() -> int:
             "clinicalTrials": [],
             "companyPress": [],
             "googleNews": [],
+            "discoveryWarnings": [],
             "errors": [],
         }
 
@@ -887,7 +888,7 @@ def main() -> int:
                     args.target_year,
                 )
             except Exception as exc:  # noqa: BLE001
-                entry["errors"].append(f"google news: {exc}")
+                entry["discoveryWarnings"].append(f"google news: {exc}")
 
         report["drugs"].append(entry)
 
@@ -895,6 +896,7 @@ def main() -> int:
     report["summary"] = {
         "drugsScanned": len(report["drugs"]),
         "drugsWithErrors": drugs_with_errors,
+        "drugsWithDiscoveryWarnings": sum(1 for drug in report["drugs"] if drug.get("discoveryWarnings")),
         "trialHits": sum(len(drug.get("clinicalTrials") or []) for drug in report["drugs"]),
         "companyPressHits": sum(len(drug.get("companyPress") or []) for drug in report["drugs"]),
         "googleNewsHits": sum(len(drug.get("googleNews") or []) for drug in report["drugs"]),

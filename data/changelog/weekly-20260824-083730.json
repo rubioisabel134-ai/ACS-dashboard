@@ -1,12 +1,13 @@
 {
-  "generatedAtUTC": "2026-08-24T12:45:09+00:00",
+  "generatedAtUTC": "2026-08-24T14:26:58+00:00",
   "runDate": "2026-08-24",
   "summary": {
     "drugsScanned": 42,
     "trialUpdates": 36,
     "pressUpdates": 4,
     "cardChanges": 0,
-    "errorGroups": 45
+    "errorGroups": 3,
+    "discoveryWarningGroups": 42
   },
   "cardChanges": [],
   "trialUpdates": [
@@ -492,7 +493,9 @@
       "message": "company press: HTTP fetch failed (curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
       "count": 1,
       "exampleDrug": "Ziltivekimab"
-    },
+    }
+  ],
+  "discoveryWarnings": [
     {
       "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ADX-626%22+OR+%22ADARx%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "count": 1,
