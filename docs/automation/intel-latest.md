@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-08-24)
+# ACS Intel Update (2026-08-26)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -38,7 +38,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT05030428] Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT05030428
+- [NCT05030428] Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
 - [NCT03705234] A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
 
 ### Company press-room hits
@@ -105,7 +105,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-07-02 | https://clinicaltrials.gov/study/NCT07000357
+- [NCT07000357] A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event | Status: RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
 
 ## Enlicitide (MK-0616) (Merck)
 
@@ -126,8 +126,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
 - [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-08-21 | https://clinicaltrials.gov/study/NCT07613294
-- [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-07-20 | https://clinicaltrials.gov/study/NCT06292013
 
 ## Olezarsen (Ionis)
 
@@ -317,7 +317,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-08-06 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT07241390
 
 ## Muvalaplin (Eli Lilly)
 
@@ -365,12 +365,9 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 2
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: RECRUITING | Last update: 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
