@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-28T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-29T12:03:14+00:00",
   "days": 1,
   "drugs": [
     {
@@ -341,6 +341,22 @@
       "pressReleaseUrl": null,
       "clinicalTrials": [
         {
+          "nctId": "NCT04023552",
+          "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-08-28",
+          "primaryCompletionDate": "2026-07-16",
+          "completionDate": "2026-07-16",
+          "conditions": [
+            "Cardiovascular Disease and Lipoprotein(a)"
+          ],
+          "interventions": [
+            "TQJ230",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04023552"
+        },
+        {
           "nctId": "NCT07517263",
           "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
           "overallStatus": "RECRUITING",
@@ -370,22 +386,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT07625306"
-        },
-        {
-          "nctId": "NCT04023552",
-          "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-05-06",
-          "primaryCompletionDate": "2026-06-30",
-          "completionDate": "2026-06-30",
-          "conditions": [
-            "Cardiovascular Disease and Lipoprotein(a)"
-          ],
-          "interventions": [
-            "TQJ230",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT04023552"
         }
       ],
       "companyPress": [],
@@ -620,7 +620,14 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [],
+      "googleNews": [
+        {
+          "title": "LIBREXIA ACS: Milvexian Fails to Reduce MACE after Acute Coronary Syndrome - HCPLive",
+          "source": "HCPLive",
+          "publishedAt": "2026-08-29T08:10:49+00:00",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkgxUUlndnlHekotLUdaMEJzUnRHNVFNalJCR1JlQ19kZ0NKck9QSXJtT2tJS0h4aE1BdzdVXzlrMHh4UUpZSFVZVUR6ZW05ak5ySkpSNVVYZlJLVEhiaFVmaEx4eTRJc3l2c2piRE5WUG1PbzRSVDdFb1NEaGE1RURjU3VYVGREQmZFZFEyUW0?oc=5"
+        }
+      ],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -706,9 +713,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12056 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1364,23 +1369,12 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        },
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12118 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1430,7 +1424,7 @@
     "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 21,
-    "googleNewsHits": 0
+    "companyPressHits": 19,
+    "googleNewsHits": 1
   }
 }

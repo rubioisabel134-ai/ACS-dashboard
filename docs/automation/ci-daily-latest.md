@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-08-28)
+# ACS Daily CI Report (2026-08-29)
 
-- Generated (UTC): 2026-08-28T12:00:01+00:00
+- Generated (UTC): 2026-08-29T12:03:14+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -16,8 +16,8 @@
 - Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - RBD4059: [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
+- Pelacarsen: [NCT04023552] COMPLETED | last update 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-30 | https://clinicaltrials.gov/study/NCT07517263
-- Pelacarsen: [NCT07625306] NOT_YET_RECRUITING | last update 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
@@ -56,10 +56,9 @@
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Milvexian | 2026-08-29 | HCPLive | [LIBREXIA ACS: Milvexian Fails to Reduce MACE after Acute Coronary Syndrome - HCPLive](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkgxUUlndnlHekotLUdaMEJzUnRHNVFNalJCR1JlQ19kZ0NKck9QSXJtT2tJS0h4aE1BdzdVXzlrMHh4UUpZSFVZVUR6ZW05ak5ySkpSNVVYZlJLVEhiaFVmaEx4eTRJc3l2c2piRE5WUG1PbzRSVDdFb1NEaGE1RURjU3VYVGREQmZFZFEyUW0?oc=5)
 
 ## Captured Link Validation
 
