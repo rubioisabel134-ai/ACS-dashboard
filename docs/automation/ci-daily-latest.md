@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-08-30)
+# ACS Daily CI Report (2026-08-31)
 
-- Generated (UTC): 2026-08-30T12:00:01+00:00
+- Generated (UTC): 2026-08-31T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 3
+- Primary-source error assets: 5
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
@@ -56,12 +56,8 @@
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Milvexian | 2026-08-29 | News-Medical | [Milvexian fails to reduce cardiovascular events after acute coronary syndrome - News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOC1uZW90V21SSFFnUlY0M3lia0NOQWd6cTVrS2xhdkMwLWxpdGh0TnlxTXQzaEtvcGxTTVFUVkRIVnlNOGJycmpOcWN3dlNydXZUNVNFYmJRcGw0QXRJZ1lNVGJEcTlmMkQ2dU0wWUROeWxvQ2tOMUF2MG9LWmxhV3ptY3dZeV83dnpxUlBabm5NS2t5eG1RY1V1TmFEOGxaWGlhMXlpaGhiQlo3TjMzRnBGdTFaVDVNVHc4Tmd5NVFDU0E?oc=5)
-- Milvexian | 2026-08-29 | Medscape | [LIBREXIA Trial: Milvexian Fails to Reduce CV Events After ACS but Did Exhibit Anticoagulation - Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0MzbEZMVkNsVTZUTXA3M1JHclJ1OWNNeWZBdktwc3psdTVYc0ZXaldyUV9pb1VjbVBHbEhEOUJvbG13ZTZIWjdnY2NlZGhCNktuOHFNU3FyZEQyM3VCMGNGX0dxcG0wT0l0aHhhSzdXNjY0UDNTMmt4X1IxaEpyN18zbGw3SldmQV8zcGRFYm5OZmlrZnpuN0FGVUY4bTl3b2ViclhmZm1jTjQ?oc=5)
 
 ## Captured Link Validation
 

@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-30)
+# ACS Intel Update (2026-08-31)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -65,7 +65,7 @@
 ## RBD4059 (RiboCure Pharmaceuticals)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 4
+- Company press hits: 5
 - Google News hits: 0
 
 ### Latest trial updates
@@ -74,7 +74,8 @@
 ### Company press-room hits
 - ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline/)
-- ribocure.com | [Ribo Announces Phase 2 Clinical Trial Submission to EMA, Further Advancing siRNA Therapeutics in Thromboembolic Disease](https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/)
+- ribocure.com | [Highlighting Triglycerides, APOC3 and Cardiovascular Health – New Data presented at ESC 2026](https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/)
+- ribocure.com | [Ribo presents 2026 Interim results](https://ribocure.com/ribo-presents-2026-interim-results/)
 - ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline)
 
 ## Pelacarsen (Novartis)
@@ -139,14 +140,10 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 2
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
-
-### Latest Google News
-- 2026-08-29 | News-Medical | [Milvexian fails to reduce cardiovascular events after acute coronary syndrome - News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOC1uZW90V21SSFFnUlY0M3lia0NOQWd6cTVrS2xhdkMwLWxpdGh0TnlxTXQzaEtvcGxTTVFUVkRIVnlNOGJycmpOcWN3dlNydXZUNVNFYmJRcGw0QXRJZ1lNVGJEcTlmMkQ2dU0wWUROeWxvQ2tOMUF2MG9LWmxhV3ptY3dZeV83dnpxUlBabm5NS2t5eG1RY1V1TmFEOGxaWGlhMXlpaGhiQlo3TjMzRnBGdTFaVDVNVHc4Tmd5NVFDU0E?oc=5)
-- 2026-08-29 | Medscape | [LIBREXIA Trial: Milvexian Fails to Reduce CV Events After ACS but Did Exhibit Anticoagulation - Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0MzbEZMVkNsVTZUTXA3M1JHclJ1OWNNeWZBdktwc3psdTVYc0ZXaldyUV9pb1VjbVBHbEhEOUJvbG13ZTZIWjdnY2NlZGhCNktuOHFNU3FyZEQyM3VCMGNGX0dxcG0wT0l0aHhhSzdXNjY0UDNTMmt4X1IxaEpyN18zbGw3SldmQV8zcGRFYm5OZmlrZnpuN0FGVUY4bTl3b2ViclhmZm1jTjQ?oc=5)
 
 ## Selatogrel (Idorsia / Viatris)
 
@@ -360,12 +357,8 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 

@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-08-30T12:00:01+00:00",
+  "generatedAtUTC": "2026-08-31T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -313,10 +313,16 @@
           "publishedAt": null
         },
         {
-          "title": "Ribo Announces Phase 2 Clinical Trial Submission to EMA, Further Advancing siRNA Therapeutics in Thromboembolic Disease",
-          "link": "https://ribocure.com/ribo-announces-phase-2-clinical-trial-submission-to-ema-further-advancing-sirna-therapeutics-in-thromboembolic-disease/",
+          "title": "Highlighting Triglycerides, APOC3 and Cardiovascular Health \u2013 New Data presented at ESC 2026",
+          "link": "https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/",
           "source": "ribocure.com",
-          "publishedAt": "2026-05-28"
+          "publishedAt": "2026-08-31"
+        },
+        {
+          "title": "Ribo presents 2026 Interim results",
+          "link": "https://ribocure.com/ribo-presents-2026-interim-results/",
+          "source": "ribocure.com",
+          "publishedAt": "2026-08-31"
         },
         {
           "title": "Ribo pipeline",
@@ -620,20 +626,7 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [
-        {
-          "title": "Milvexian fails to reduce cardiovascular events after acute coronary syndrome - News-Medical",
-          "source": "News-Medical",
-          "publishedAt": "2026-08-29T18:27:00+00:00",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOC1uZW90V21SSFFnUlY0M3lia0NOQWd6cTVrS2xhdkMwLWxpdGh0TnlxTXQzaEtvcGxTTVFUVkRIVnlNOGJycmpOcWN3dlNydXZUNVNFYmJRcGw0QXRJZ1lNVGJEcTlmMkQ2dU0wWUROeWxvQ2tOMUF2MG9LWmxhV3ptY3dZeV83dnpxUlBabm5NS2t5eG1RY1V1TmFEOGxaWGlhMXlpaGhiQlo3TjMzRnBGdTFaVDVNVHc4Tmd5NVFDU0E?oc=5"
-        },
-        {
-          "title": "LIBREXIA Trial: Milvexian Fails to Reduce CV Events After ACS but Did Exhibit Anticoagulation - Medscape",
-          "source": "Medscape",
-          "publishedAt": "2026-08-29T15:42:47+00:00",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0MzbEZMVkNsVTZUTXA3M1JHclJ1OWNNeWZBdktwc3psdTVYc0ZXaldyUV9pb1VjbVBHbEhEOUJvbG13ZTZIWjdnY2NlZGhCNktuOHFNU3FyZEQyM3VCMGNGX0dxcG0wT0l0aHhhSzdXNjY0UDNTMmt4X1IxaEpyN18zbGw3SldmQV8zcGRFYm5OZmlrZnpuN0FGVUY4bTl3b2ViclhmZm1jTjQ?oc=5"
-        }
-      ],
+      "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -719,7 +712,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12113 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1375,23 +1370,12 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        },
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12027 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1438,10 +1422,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 5,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 21,
-    "googleNewsHits": 2
+    "companyPressHits": 20,
+    "googleNewsHits": 0
   }
 }
