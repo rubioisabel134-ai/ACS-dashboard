@@ -94,10 +94,10 @@ def source_rank(source: str) -> int:
     return 1
 
 
-def press_update_score(item: dict[str, Any]) -> tuple[str, int, str]:
+def press_update_score(item: dict[str, Any]) -> tuple[int, str, str]:
     date = item.get("date") or ""
     date_day = date[:10]
-    return (date_day, -source_rank(item.get("source") or ""), date)
+    return (-source_rank(item.get("source") or ""), date_day, date)
 
 
 def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
@@ -129,7 +129,7 @@ def collect_press_updates(intel: dict[str, Any]) -> list[dict[str, Any]]:
                 "type": "news",
                 "date": date,
                 "title": news.get("title") or "News update",
-                "source": news.get("source") or "Google News",
+                "source": f"Google News / {news.get('source') or 'Unknown source'}",
                 "link": news.get("link") or "",
             }
             key = item["drug"] or ""

@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-09-02)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -139,14 +139,20 @@
 ## Milvexian (Bristol Myers Squibb / Janssen)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
-- Google News hits: 1
+- Company press hits: 2
+- Google News hits: 3
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 
+### Company press-room hits
+- escardio.org | [Milvexian did not reduce cardiovascular events in the LIBREXIA ACS trial](https://www.escardio.org/news/press/press-releases/milvexian-did-not-reduce-cardiovascular-events-in-the-librexia-acs-trial/)
+- nejm.org | [Milvexian after Acute Coronary Syndrome](https://www.nejm.org/doi/abs/10.1056/NEJMoa2608717)
+
 ### Latest Google News
-- 2026-09-01 | FirstWord Pharma | [KOL Views Preview: What implications does milvexian's failure in Librexia ACS have on the factor XIa class? - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNy0xV2hic1Fwd1I5QXhtb19IMEhTTGk5ckFQS0pMQmxkNmJKYXRDN2Vxc0llZGE3ZVMtMVpqbFN0SGtEck9CN2liUEw4a01MOWtR?oc=5)
+- 2026-09-01 | firstwordpharma.com | [KOL Views Preview: What implications does milvexian's failure in Librexia ACS have on the factor XIa class? - firstwordpharma.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNy0xV2hic1Fwd1I5QXhtb19IMEhTTGk5ckFQS0pMQmxkNmJKYXRDN2Vxc0llZGE3ZVMtMVpqbFN0SGtEck9CN2liUEw4a01MOWtR?oc=5)
+- 2026-08-29 | News-Medical | [Milvexian fails to reduce cardiovascular events after acute coronary syndrome - News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOC1uZW90V21SSFFnUlY0M3lia0NOQWd6cTVrS2xhdkMwLWxpdGh0TnlxTXQzaEtvcGxTTVFUVkRIVnlNOGJycmpOcWN3dlNydXZUNVNFYmJRcGw0QXRJZ1lNVGJEcTlmMkQ2dU0wWUROeWxvQ2tOMUF2MG9LWmxhV3ptY3dZeV83dnpxUlBabm5NS2t5eG1RY1V1TmFEOGxaWGlhMXlpaGhiQlo3TjMzRnBGdTFaVDVNVHc4Tmd5NVFDU0E?oc=5)
+- 2026-08-29 | Medscape | [LIBREXIA Trial: Milvexian Fails to Reduce CV Events After ACS but Did Exhibit Anticoagulation - Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0MzbEZMVkNsVTZUTXA3M1JHclJ1OWNNeWZBdktwc3psdTVYc0ZXaldyUV9pb1VjbVBHbEhEOUJvbG13ZTZIWjdnY2NlZGhCNktuOHFNU3FyZEQyM3VCMGNGX0dxcG0wT0l0aHhhSzdXNjY0UDNTMmt4X1IxaEpyN18zbGw3SldmQV8zcGRFYm5OZmlrZnpuN0FGVUY4bTl3b2ViclhmZm1jTjQ?oc=5)
 
 ## Selatogrel (Idorsia / Viatris)
 
@@ -174,7 +180,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-07-09 | https://clinicaltrials.gov/study/NCT07362446
+- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-09-02 | https://clinicaltrials.gov/study/NCT07362446
 
 ### Company press-room hits
 - www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)

@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-08-24",
+  "snapshotDate": "2026-09-02",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -570,15 +570,18 @@
       "stage": "Paused/Stopped",
       "setting": "Chronic post-ACS antithrombotic",
       "signal": "negative",
-      "statusSummary": "LIBREXIA-ACS was discontinued after independent review in November 2025.",
+      "statusSummary": "LIBREXIA-ACS was presented at ESC Congress 2026 and published in NEJM: milvexian did not reduce cardiovascular death, myocardial infarction, or ischemic stroke after recent ACS versus placebo, with no increase in intracranial or fatal bleeding.",
       "keyTrial": "LIBREXIA-ACS",
-      "competitorWatch": "Raises class-level execution risk for anticoagulant add-on strategies",
+      "competitorWatch": "Negative ACS efficacy result raises class-level execution risk for FXIa add-on strategies in post-ACS antithrombotic care, while neutral intracranial/fatal bleeding keeps AF and stroke read-through nuanced.",
       "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor next registry update (NCT05754957)",
+      "nextCatalystEvent": "Monitor LIBREXIA-AF and LIBREXIA-STROKE readouts for class read-through",
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT05754957",
         "https://clinicaltrials.gov/study/NCT05702034",
-        "https://clinicaltrials.gov/study/NCT05757869"
+        "https://clinicaltrials.gov/study/NCT05757869",
+        "https://www.escardio.org/news/press/press-releases/milvexian-did-not-reduce-cardiovascular-events-in-the-librexia-acs-trial/",
+        "https://www.nejm.org/doi/abs/10.1056/NEJMoa2608717",
+        "https://www.escardio.org/news/news-room/congress-news/hot-line-3-librexia-acs-premium-switch-swedeheart-a-close-epidaurus/"
       ]
     },
     {
