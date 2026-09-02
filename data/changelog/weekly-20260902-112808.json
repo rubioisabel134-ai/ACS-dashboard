@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-02T23:29:34+00:00",
+  "generatedAtUTC": "2026-09-02T23:40:26+00:00",
   "runDate": "2026-09-02",
   "summary": {
     "drugsScanned": 42,
@@ -252,7 +252,7 @@
       "completionDate": "2028-12-07"
     },
     {
-      "drug": "RBD4059",
+      "drug": "Vortosiran (RBD4059)",
       "type": "trial",
       "date": "2026-05-27",
       "title": "A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease",
@@ -434,20 +434,20 @@
   ],
   "pressUpdates": [
     {
-      "drug": "RBD4059",
-      "type": "press",
-      "date": "2026-08-31",
-      "title": "Highlighting Triglycerides, APOC3 and Cardiovascular Health \u2013 New Data presented at ESC 2026",
-      "source": "ribocure.com",
-      "link": "https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/"
-    },
-    {
       "drug": "Milvexian",
       "type": "press",
       "date": "2026-08-29",
       "title": "Milvexian did not reduce cardiovascular events in the LIBREXIA ACS trial",
       "source": "escardio.org",
       "link": "https://www.escardio.org/news/press/press-releases/milvexian-did-not-reduce-cardiovascular-events-in-the-librexia-acs-trial/"
+    },
+    {
+      "drug": "Vortosiran (RBD4059)",
+      "type": "press",
+      "date": "2026-07-22",
+      "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial \u2013 World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
+      "source": "ribocure.com",
+      "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/"
     },
     {
       "drug": "Enlicitide (MK-0616)",

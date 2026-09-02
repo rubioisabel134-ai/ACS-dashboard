@@ -270,15 +270,14 @@
       "errors": []
     },
     {
-      "name": "RBD4059",
+      "name": "Vortosiran (RBD4059)",
       "sponsor": "RiboCure Pharmaceuticals",
       "aliases": [
-        "RBD4059",
         "vortosiran",
-        "RiboCure",
-        "Ribolia",
-        "Factor XI",
-        "FXI"
+        "RBD4059",
+        "ORBIT-XI",
+        "NCT06717074",
+        "NCT06866457"
       ],
       "pressReleaseUrl": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
       "clinicalTrials": [
@@ -305,30 +304,6 @@
           "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
           "source": "ribocure.com",
           "publishedAt": "2026-07-22"
-        },
-        {
-          "title": "Ribo pipeline",
-          "link": "https://ribocure.com/ribo-pipeline/",
-          "source": "ribocure.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Highlighting Triglycerides, APOC3 and Cardiovascular Health \u2013 New Data presented at ESC 2026",
-          "link": "https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/",
-          "source": "ribocure.com",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "Ribo presents 2026 Interim results",
-          "link": "https://ribocure.com/ribo-presents-2026-interim-results/",
-          "source": "ribocure.com",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "Ribo pipeline",
-          "link": "https://ribocure.com/ribo-pipeline",
-          "source": "ribocure.com",
-          "publishedAt": null
         }
       ],
       "googleNews": [],

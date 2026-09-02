@@ -32,7 +32,7 @@
 - 2026-06-29 | Evategrel [NCT07619885] | RECRUITING | The Pharmacokinetics and Pharmacodynamics Study of Evategrel CG-0255 Besylate）and Plavix® in Healthy Participants | https://clinicaltrials.gov/study/NCT07619885
 - 2026-06-22 | Dalcetrapib [NCT05918861] | RECRUITING | Effect of Dalcetrapib on CV Risk in a Genetically Defined Population With a Recent ACS | https://clinicaltrials.gov/study/NCT05918861
 - 2026-06-04 | Pelacarsen [NCT07625306] | NOT_YET_RECRUITING | Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | https://clinicaltrials.gov/study/NCT07625306
-- 2026-05-27 | RBD4059 [NCT06717074] | COMPLETED | A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | https://clinicaltrials.gov/study/NCT06717074
+- 2026-05-27 | Vortosiran (RBD4059) [NCT06717074] | COMPLETED | A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | https://clinicaltrials.gov/study/NCT06717074
 - 2026-05-27 | MT1002 [NCT04723186] | TERMINATED | MT1002 Phase II Study in ACS Patients With PCI | https://clinicaltrials.gov/study/NCT04723186
 - 2026-05-14 | NL005 [NCT07586865] | NOT_YET_RECRUITING | Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction | https://clinicaltrials.gov/study/NCT07586865
 - 2026-05-11 | Orticumab [NCT04776629] | COMPLETED | A Proof-of-Activity Study With Orticumab in Subjects With Psoriasis and Cardiometabolic Risk Factors | https://clinicaltrials.gov/study/NCT04776629
@@ -52,8 +52,8 @@
 
 Latest dated current-year press/news item per asset.
 
-- 2026-08-31 | RBD4059 | ribocure.com | [Highlighting Triglycerides, APOC3 and Cardiovascular Health – New Data presented at ESC 2026](https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/)
 - 2026-08-29 | Milvexian | escardio.org | [Milvexian did not reduce cardiovascular events in the LIBREXIA ACS trial](https://www.escardio.org/news/press/press-releases/milvexian-did-not-reduce-cardiovascular-events-in-the-librexia-acs-trial/)
+- 2026-07-22 | Vortosiran (RBD4059) | ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - 2026-07-16 | Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - 2026-06-24 | Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
 - 2026-06-09 | Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)

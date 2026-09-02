@@ -62,10 +62,10 @@
 - Company press hits: 0
 - Google News hits: 0
 
-## RBD4059 (RiboCure Pharmaceuticals)
+## Vortosiran (RBD4059) (RiboCure Pharmaceuticals)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 5
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
@@ -73,10 +73,6 @@
 
 ### Company press-room hits
 - ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
-- ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline/)
-- ribocure.com | [Highlighting Triglycerides, APOC3 and Cardiovascular Health – New Data presented at ESC 2026](https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/)
-- ribocure.com | [Ribo presents 2026 Interim results](https://ribocure.com/ribo-presents-2026-interim-results/)
-- ribocure.com | [Ribo pipeline](https://ribocure.com/ribo-pipeline)
 
 ## Pelacarsen (Novartis)
 

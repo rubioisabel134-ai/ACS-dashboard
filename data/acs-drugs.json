@@ -540,7 +540,7 @@
       ]
     },
     {
-      "drug": "RBD4059",
+      "drug": "Vortosiran (RBD4059)",
       "sponsor": "RiboCure Pharmaceuticals",
       "class": "FXI-targeting antithrombotic",
       "target": "Factor XI (FXI)",
@@ -548,7 +548,7 @@
       "stage": "Phase II",
       "setting": "Chronic CAD/ACS-risk thrombosis",
       "signal": "positive",
-      "statusSummary": "Ribocure disclosed positive Phase IIa CAD data for vortosiran/RBD4059 on July 22, 2026: the multiple-dose study in chronic CAD patients on aspirin was generally well tolerated, showed dose-dependent and durable FXI activity suppression, and reported no treatment-related serious adverse events, major bleeding, or clinically relevant non-major bleeding.",
+      "statusSummary": "Ribocure disclosed positive Phase IIa CAD data for vortosiran (RBD4059) on July 22, 2026: the multiple-dose study in chronic CAD patients on aspirin was generally well tolerated, showed dose-dependent and durable FXI activity suppression, and reported no treatment-related serious adverse events, major bleeding, or clinically relevant non-major bleeding.",
       "keyTrial": "RBD4059-201 / ORBIT-XI",
       "competitorWatch": "Differentiated long-acting FXI siRNA approach versus oral FXIa inhibitors, antibody FXI inhibitors, and low-dose anticoagulation strategies; watch ORBIT-XI Phase IIb expansion for thromboembolic disease positioning.",
       "nextCatalystDate": null,

@@ -405,6 +405,7 @@ def company_press_search(
         parser.feed(page)
 
     aliases = [a.lower() for a in (drug.get("aliases") or [drug.get("name", "")]) if a]
+    press_aliases = [a.lower() for a in (drug.get("press_aliases") or drug.get("aliases") or [drug.get("name", "")]) if a]
     sponsor_words = [w.lower() for w in (drug.get("sponsor", "").split()) if len(w) > 2]
 
     base_domain = urllib.parse.urlparse(press_url).netloc.lower()
@@ -414,7 +415,7 @@ def company_press_search(
     page_title = extract_page_title(page)
     if page_title and text_is_informative(page_title):
         page_description = extract_meta_description(page)
-        if company_press_item_is_relevant(page_title, press_url, page_description, aliases, sponsor_words):
+        if company_press_item_is_relevant(page_title, press_url, page_description, press_aliases, sponsor_words):
             year = extract_year(page_title)
             if year is None or year == target_year:
                 selected.append(
@@ -443,7 +444,7 @@ def company_press_search(
                 title,
                 absolute,
                 item.get("description", ""),
-                aliases,
+                press_aliases,
                 sponsor_words,
             ):
                 continue
@@ -495,7 +496,7 @@ def company_press_search(
         candidate_text = text if text_is_informative(text) else title_from_url_slug(absolute)
         if not text_is_informative(candidate_text):
             continue
-        if not company_press_item_is_relevant(candidate_text, absolute, "", aliases, sponsor_words):
+        if not company_press_item_is_relevant(candidate_text, absolute, "", press_aliases, sponsor_words):
             continue
 
         title = candidate_text

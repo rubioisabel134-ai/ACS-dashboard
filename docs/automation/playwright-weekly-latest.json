@@ -1,7 +1,7 @@
 {
   "generatedAtUTC": "2026-09-02T15:29:22.674Z",
   "inputPath": "data/intel-latest.json",
-  "totalLinks": 23,
+  "totalLinks": 19,
   "captures": [
     {
       "drug": "Zalunfiban",
@@ -27,7 +27,7 @@
     },
     {
       "drug": "Inclisiran (Leqvio)",
-      "title": "Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…",
+      "title": "Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio\u00ae (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding\u2026",
       "source": "www.novartis.com",
       "link": "https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies",
       "fetchedAtUTC": "2026-09-02T15:29:12.295Z",
@@ -37,68 +37,24 @@
       "error": null
     },
     {
-      "drug": "RBD4059",
-      "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
+      "drug": "Vortosiran (RBD4059)",
+      "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial \u2013 World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
       "source": "ribocure.com",
       "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
       "fetchedAtUTC": "2026-09-02T15:29:12.772Z",
       "finalUrl": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
-      "pageTitle": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial - World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease - Ribocure Pharmaceuticals",
-      "ok": true,
-      "error": null
-    },
-    {
-      "drug": "RBD4059",
-      "title": "Ribo pipeline",
-      "source": "ribocure.com",
-      "link": "https://ribocure.com/ribo-pipeline/",
-      "fetchedAtUTC": "2026-09-02T15:29:14.310Z",
-      "finalUrl": "https://ribocure.com/ribo-pipeline/",
-      "pageTitle": "Ribo pipeline - Ribocure Pharmaceuticals",
-      "ok": true,
-      "error": null
-    },
-    {
-      "drug": "RBD4059",
-      "title": "Highlighting Triglycerides, APOC3 and Cardiovascular Health – New Data presented at ESC 2026",
-      "source": "ribocure.com",
-      "link": "https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/",
-      "fetchedAtUTC": "2026-09-02T15:29:14.784Z",
-      "finalUrl": "https://ribocure.com/highlighting-triglycerides-apoc3-and-cardiovascular-health-new-data-presented-at-esc-2026/",
-      "pageTitle": "Highlighting Triglycerides, APOC3 and Cardiovascular Health – New Data presented at ESC 2026 - Ribocure Pharmaceuticals",
-      "ok": true,
-      "error": null
-    },
-    {
-      "drug": "RBD4059",
-      "title": "Ribo presents 2026 Interim results",
-      "source": "ribocure.com",
-      "link": "https://ribocure.com/ribo-presents-2026-interim-results/",
-      "fetchedAtUTC": "2026-09-02T15:29:15.126Z",
-      "finalUrl": "https://ribocure.com/ribo-presents-2026-interim-results/",
-      "pageTitle": "Ribo presents 2026 Interim results - Ribocure Pharmaceuticals",
-      "ok": true,
-      "error": null
-    },
-    {
-      "drug": "RBD4059",
-      "title": "Ribo pipeline",
-      "source": "ribocure.com",
-      "link": "https://ribocure.com/ribo-pipeline",
-      "fetchedAtUTC": "2026-09-02T15:29:15.469Z",
-      "finalUrl": "https://ribocure.com/ribo-pipeline/",
-      "pageTitle": "Ribo pipeline - Ribocure Pharmaceuticals",
+      "pageTitle": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial - World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease - Ribocure Pharmaceuticals",
       "ok": true,
       "error": null
     },
     {
       "drug": "Enlicitide (MK-0616)",
-      "title": "Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
+      "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
       "source": "www.merck.com",
       "link": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/",
       "fetchedAtUTC": "2026-09-02T15:29:16.033Z",
       "finalUrl": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/",
-      "pageTitle": "Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Merck.com",
+      "pageTitle": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Merck.com",
       "ok": true,
       "error": null
     },
@@ -214,12 +170,12 @@
     },
     {
       "drug": "Orticumab",
-      "title": "Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry.",
+      "title": "Caristo Diagnostics: Latest Lancet publication with results from world\u2019s largest coronary CT registry.",
       "source": "abcentra.com",
       "link": "https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/",
       "fetchedAtUTC": "2026-09-02T15:29:20.478Z",
       "finalUrl": "https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/",
-      "pageTitle": "Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry. - Abcentra",
+      "pageTitle": "Caristo Diagnostics: Latest Lancet publication with results from world\u2019s largest coronary CT registry. - Abcentra",
       "ok": true,
       "error": null
     },
