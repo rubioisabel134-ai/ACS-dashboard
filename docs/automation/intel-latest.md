@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-08-31)
+# ACS Intel Update (2026-09-02)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -140,10 +140,13 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 0
+- Google News hits: 1
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
+
+### Latest Google News
+- 2026-09-01 | FirstWord Pharma | [KOL Views Preview: What implications does milvexian's failure in Librexia ACS have on the factor XIa class? - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNy0xV2hic1Fwd1I5QXhtb19IMEhTTGk5ckFQS0pMQmxkNmJKYXRDN2Vxc0llZGE3ZVMtMVpqbFN0SGtEck9CN2liUEw4a01MOWtR?oc=5)
 
 ## Selatogrel (Idorsia / Viatris)
 

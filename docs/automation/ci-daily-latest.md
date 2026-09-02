@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-08-31)
+# ACS Daily CI Report (2026-09-02)
 
-- Generated (UTC): 2026-08-31T12:00:01+00:00
+- Generated (UTC): 2026-09-02T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 5
+- Primary-source error assets: 4
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
@@ -58,6 +58,7 @@
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Milvexian | 2026-09-01 | FirstWord Pharma | [KOL Views Preview: What implications does milvexian's failure in Librexia ACS have on the factor XIa class? - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNy0xV2hic1Fwd1I5QXhtb19IMEhTTGk5ckFQS0pMQmxkNmJKYXRDN2Vxc0llZGE3ZVMtMVpqbFN0SGtEck9CN2liUEw4a01MOWtR?oc=5)
 
 ## Captured Link Validation
 
