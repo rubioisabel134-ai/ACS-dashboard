@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-03T12:00:00+00:00",
+  "generatedAtUTC": "2026-09-04T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -687,9 +687,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12003 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1345,12 +1343,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12120 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1361,7 +1370,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-08-11",
+          "primaryCompletionDate": "2028-02-15",
+          "completionDate": "2028-02-15",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1397,10 +1424,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 5,
+    "drugsWithErrors": 3,
     "drugsWithDiscoveryWarnings": 0,
-    "trialHits": 35,
-    "companyPressHits": 16,
+    "trialHits": 36,
+    "companyPressHits": 18,
     "googleNewsHits": 0
   }
 }
