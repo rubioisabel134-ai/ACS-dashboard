@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-09-04)
+# ACS Daily CI Report (2026-09-05)
 
-- Generated (UTC): 2026-09-04T12:00:00+00:00
+- Generated (UTC): 2026-09-05T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 3
+- Primary-source error assets: 4
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
@@ -16,8 +16,8 @@
 - Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
 - Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Vortosiran (RBD4059): [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
+- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] COMPLETED | last update 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-07-30 | https://clinicaltrials.gov/study/NCT07517263
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
@@ -37,11 +37,10 @@
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
 - Orforglipron: [NCT07241390] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07241390
-- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07157774
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] RECRUITING | last update 2026-08-11 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 

@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-04T12:00:00+00:00",
+  "generatedAtUTC": "2026-09-05T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -322,6 +322,21 @@
       "pressReleaseUrl": null,
       "clinicalTrials": [
         {
+          "nctId": "NCT07517263",
+          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-09-04",
+          "primaryCompletionDate": "2030-01-09",
+          "completionDate": "2030-01-09",
+          "conditions": [
+            "Cardiovascular Disease and Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Pelacarsen (TQJ230)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07517263"
+        },
+        {
           "nctId": "NCT04023552",
           "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
           "overallStatus": "COMPLETED",
@@ -336,21 +351,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT04023552"
-        },
-        {
-          "nctId": "NCT07517263",
-          "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-07-30",
-          "primaryCompletionDate": "2030-01-09",
-          "completionDate": "2030-01-09",
-          "conditions": [
-            "Cardiovascular Disease and Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Pelacarsen (TQJ230)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07517263"
         },
         {
           "nctId": "NCT07625306",
@@ -687,7 +687,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12146 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1202,7 +1204,7 @@
           "nctId": "NCT07157774",
           "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-21",
+          "lastUpdate": "2026-09-04",
           "primaryCompletionDate": "2031-03",
           "completionDate": "2031-03",
           "conditions": [
@@ -1370,25 +1372,7 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT07495813",
-          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-11",
-          "primaryCompletionDate": "2028-02-15",
-          "completionDate": "2028-02-15",
-          "conditions": [
-            "Stable Coronary Artery Disease",
-            "Healthy Volunteers"
-          ],
-          "interventions": [
-            "RO7763505",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07495813"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1424,9 +1408,9 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
-    "trialHits": 36,
+    "trialHits": 35,
     "companyPressHits": 18,
     "googleNewsHits": 0
   }
