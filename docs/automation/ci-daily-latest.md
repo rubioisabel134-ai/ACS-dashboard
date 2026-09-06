@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-05)
+# ACS Daily CI Report (2026-09-06)
 
-- Generated (UTC): 2026-09-05T12:00:01+00:00
+- Generated (UTC): 2026-09-06T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -55,10 +55,9 @@
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Pelacarsen | 2026-09-05 | HCPLive | [Pelacarsen Misses Primary Endpoint in Lp(a)HORIZON Phase 3 Trial - HCPLive](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZRUHRVTTZuTVVRa2FnVTdSV0VHUGtMVkVITElLSWVXMVpCalN0dXhOR3BGV003elJMc0FjMG1XY1A3R2VFcUIxNE1CYnI1d0Q3YWJhczItNzZqcXVPd0xOUXNvbW9VdnNoc1N2T2c5eVdJa19Db2NCT29RX0R0NWxQMGxPM21BdDFjMDU1eFJRcVlHY1dPNw?oc=5)
 
 ## Captured Link Validation
 
