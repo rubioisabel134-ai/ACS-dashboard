@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-06)
+# ACS Intel Update (2026-09-07)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -78,15 +78,12 @@
 
 - ClinicalTrials.gov hits: 3
 - Company press hits: 0
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: COMPLETED | Last update: 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
 - [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: NOT_YET_RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-
-### Latest Google News
-- 2026-09-05 | HCPLive | [Pelacarsen Misses Primary Endpoint in Lp(a)HORIZON Phase 3 Trial - HCPLive](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZRUHRVTTZuTVVRa2FnVTdSV0VHUGtMVkVITElLSWVXMVpCalN0dXhOR3BGV003elJMc0FjMG1XY1A3R2VFcUIxNE1CYnI1d0Q3YWJhczItNzZqcXVPd0xOUXNvbW9VdnNoc1N2T2c5eVdJa19Db2NCT29RX0R0NWxQMGxPM21BdDFjMDU1eFJRcVlHY1dPNw?oc=5)
 
 ## Olpasiran (Amgen)
 
@@ -356,8 +353,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 

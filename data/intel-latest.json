@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-06T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-07T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -370,14 +370,7 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [
-        {
-          "title": "Pelacarsen Misses Primary Endpoint in Lp(a)HORIZON Phase 3 Trial - HCPLive",
-          "source": "HCPLive",
-          "publishedAt": "2026-09-05T15:28:01+00:00",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZRUHRVTTZuTVVRa2FnVTdSV0VHUGtMVkVITElLSWVXMVpCalN0dXhOR3BGV003elJMc0FjMG1XY1A3R2VFcUIxNE1CYnI1d0Q3YWJhczItNzZqcXVPd0xOUXNvbW9VdnNoc1N2T2c5eVdJa19Db2NCT29RX0R0NWxQMGxPM21BdDFjMDU1eFJRcVlHY1dPNw?oc=5"
-        }
-      ],
+      "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -1350,12 +1343,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12127 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1402,10 +1406,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 3,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 16,
-    "googleNewsHits": 1
+    "companyPressHits": 18,
+    "googleNewsHits": 0
   }
 }
