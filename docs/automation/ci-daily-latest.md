@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-09-07)
+# ACS Daily CI Report (2026-09-09)
 
-- Generated (UTC): 2026-09-07T12:00:01+00:00
+- Generated (UTC): 2026-09-09T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 3
+- Primary-source error assets: 4
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
@@ -22,8 +22,8 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07613294
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
@@ -36,11 +36,12 @@
 - Sumecigrel: [NCT06577519] RECRUITING | last update 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07241390
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07241390
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
+- RO7763505: [NCT07495813] ACTIVE_NOT_RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
@@ -59,6 +60,7 @@
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
+- Pelacarsen | 2026-09-08 | TCTMD.com | [Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5)
 
 ## Captured Link Validation
 

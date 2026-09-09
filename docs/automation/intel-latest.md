@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-07)
+# ACS Intel Update (2026-09-09)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -78,12 +78,15 @@
 
 - ClinicalTrials.gov hits: 3
 - Company press hits: 0
-- Google News hits: 0
+- Google News hits: 1
 
 ### Latest trial updates
 - [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: COMPLETED | Last update: 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
 - [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: NOT_YET_RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
+
+### Latest Google News
+- 2026-09-08 | TCTMD.com | [Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5)
 
 ## Olpasiran (Amgen)
 
@@ -123,8 +126,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07613294
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
-- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-08-21 | https://clinicaltrials.gov/study/NCT07613294
 
 ## Olezarsen (Ionis)
 
@@ -314,7 +317,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07241390
 
 ## Muvalaplin (Eli Lilly)
 
@@ -362,9 +365,12 @@
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 2
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

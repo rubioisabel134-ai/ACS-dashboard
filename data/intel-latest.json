@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-07T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-09T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -370,7 +370,14 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [],
+      "googleNews": [
+        {
+          "title": "Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com",
+          "source": "TCTMD.com",
+          "publishedAt": "2026-09-08T15:26:12+00:00",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5"
+        }
+      ],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -520,6 +527,24 @@
       "pressReleaseUrl": "https://investor.lilly.com/rss/news-releases.xml",
       "clinicalTrials": [
         {
+          "nctId": "NCT07613294",
+          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
+          "overallStatus": "RECRUITING",
+          "lastUpdate": "2026-09-08",
+          "primaryCompletionDate": "2029-12",
+          "completionDate": "2029-12",
+          "conditions": [
+            "Atherosclerosis",
+            "Cardiovascular Diseases",
+            "Lipoprotein(a)"
+          ],
+          "interventions": [
+            "Lepodisiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07613294"
+        },
+        {
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -535,24 +560,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06292013"
-        },
-        {
-          "nctId": "NCT07613294",
-          "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
-          "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-21",
-          "primaryCompletionDate": "2029-12",
-          "completionDate": "2029-12",
-          "conditions": [
-            "Atherosclerosis",
-            "Cardiovascular Diseases",
-            "Lipoprotein(a)"
-          ],
-          "interventions": [
-            "Lepodisiran",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT07613294"
         }
       ],
       "companyPress": [],
@@ -687,7 +694,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12120 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1167,7 +1176,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-08-24",
+          "lastUpdate": "2026-09-08",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -1370,7 +1379,25 @@
         "Roche"
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
-      "clinicalTrials": [],
+      "clinicalTrials": [
+        {
+          "nctId": "NCT07495813",
+          "title": "A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease",
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "lastUpdate": "2026-09-08",
+          "primaryCompletionDate": "2026-10-30",
+          "completionDate": "2026-10-30",
+          "conditions": [
+            "Stable Coronary Artery Disease",
+            "Healthy Volunteers"
+          ],
+          "interventions": [
+            "RO7763505",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07495813"
+        }
+      ],
       "companyPress": [
         {
           "title": "Product Development Pipeline",
@@ -1406,10 +1433,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
-    "trialHits": 35,
+    "trialHits": 36,
     "companyPressHits": 18,
-    "googleNewsHits": 0
+    "googleNewsHits": 1
   }
 }
