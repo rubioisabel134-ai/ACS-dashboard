@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-09)
+# ACS Intel Update (2026-09-10)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -51,8 +51,8 @@
 - Google News hits: 0
 
 ### Latest trial updates
+- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-09-09 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT05021835] ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation | Status: COMPLETED | Last update: 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
-- [NCT06118281] ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack | Status: RECRUITING | Last update: 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - [NCT07276282] Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction | Status: RECRUITING | Last update: 2026-03-23 | https://clinicaltrials.gov/study/NCT07276282
 - [NCT07301034] A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack | Status: RECRUITING | Last update: 2026-03-11 | https://clinicaltrials.gov/study/NCT07301034
 
@@ -60,7 +60,10 @@
 
 - ClinicalTrials.gov hits: 0
 - Company press hits: 0
-- Google News hits: 0
+- Google News hits: 1
+
+### Latest Google News
+- 2026-09-10 | Medical Dialogues | [Pacibekitug Shows Sustained Anti-Inflammatory Effects in High-Risk Cardiovascular Patients: Phase 2 trial - Medical Dialogues](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEZzVERzbGJDVVZYUWdzRmNLSzVSQ1JTcFBxN2Z2eDM4NDRvdXhtc0JTNE9PMlN0TWFPMmZqbWI4ZTlJcDR6a21lWXBMUk1XZGRkM3VsQURIQnhzTi1Vd2d2S3hGbkFldEZTSWx4T09DMUQzTTNsZ2pFcVRqM2Z1UVpZckNwdlJBbnlWTWp1Y2tzd1k1TDV1VkN0Z1V0ZXBWNDcxR0huQlphSEJISmhZeWtRd2JNdWg4X2pfUW9yZVhlRDlDN045MkRNclR1Y1lZejBZNU8xRC00OWNXV2hxZGd3SUR6V2JESS15enl3MXc0VHRaWFh30gH3AUFVX3lxTE80RnNURHNsYkNVVlhRZ3NGY0tLNVJDUlNwUHE3ZnZ4Mzg0NG91eG1zQlM0T08yU3RNYU8yZmptYjhlOUlwNHprbWVZcExSTVdkZGQzdWxBREhCeHNOLVV3Z3ZLeEZuQWV0RlNJbHhPT0MxRDNNM2xnakVxVGozZnVRWllyQ3B2UkFueVZNanVja3N3WTVMNXVWQ3RnVXRlcFY0NzFHSG5CWmFIQkhKaFl5a1F3Yk11aDhfal9Rb3JlWGVEOUM3TjkyRE1yVHVjWVl6MFk1TzFELTQ5Y1dXaHFkZ3dJRHpXYkRJLXl6eXcxdzRUdFpYWHc?oc=5)
 
 ## Vortosiran (RBD4059) (RiboCure Pharmaceuticals)
 
@@ -78,15 +81,12 @@
 
 - ClinicalTrials.gov hits: 3
 - Company press hits: 0
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: COMPLETED | Last update: 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
 - [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: NOT_YET_RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-
-### Latest Google News
-- 2026-09-08 | TCTMD.com | [Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5)
 
 ## Olpasiran (Amgen)
 
@@ -356,21 +356,14 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 
-- ClinicalTrials.gov hits: 1
+- ClinicalTrials.gov hits: 0
 - Company press hits: 2
 - Google News hits: 0
-
-### Latest trial updates
-- [NCT07495813] A Study to See How RO7763505 Works and How Safe it is When Given to Healthy People and People With Stable Heart Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07495813
 
 ### Company press-room hits
 - www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)

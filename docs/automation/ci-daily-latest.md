@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-09)
+# ACS Daily CI Report (2026-09-10)
 
-- Generated (UTC): 2026-09-09T12:00:01+00:00
+- Generated (UTC): 2026-09-10T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -13,8 +13,8 @@
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
 - Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+- Ziltivekimab: [NCT06118281] ACTIVE_NOT_RECRUITING | last update 2026-09-09 | https://clinicaltrials.gov/study/NCT06118281
 - Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
-- Ziltivekimab: [NCT06118281] RECRUITING | last update 2026-04-14 | https://clinicaltrials.gov/study/NCT06118281
 - Vortosiran (RBD4059): [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] COMPLETED | last update 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
@@ -41,7 +41,6 @@
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
-- RO7763505: [NCT07495813] ACTIVE_NOT_RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07495813
 
 ## News Highlights
 
@@ -56,11 +55,9 @@
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Pelacarsen | 2026-09-08 | TCTMD.com | [Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5)
+- Pacibekitug | 2026-09-10 | Medical Dialogues | [Pacibekitug Shows Sustained Anti-Inflammatory Effects in High-Risk Cardiovascular Patients: Phase 2 trial - Medical Dialogues](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEZzVERzbGJDVVZYUWdzRmNLSzVSQ1JTcFBxN2Z2eDM4NDRvdXhtc0JTNE9PMlN0TWFPMmZqbWI4ZTlJcDR6a21lWXBMUk1XZGRkM3VsQURIQnhzTi1Vd2d2S3hGbkFldEZTSWx4T09DMUQzTTNsZ2pFcVRqM2Z1UVpZckNwdlJBbnlWTWp1Y2tzd1k1TDV1VkN0Z1V0ZXBWNDcxR0huQlphSEJISmhZeWtRd2JNdWg4X2pfUW9yZVhlRDlDN045MkRNclR1Y1lZejBZNU8xRC00OWNXV2hxZGd3SUR6V2JESS15enl3MXc0VHRaWFh30gH3AUFVX3lxTE80RnNURHNsYkNVVlhRZ3NGY0tLNVJDUlNwUHE3ZnZ4Mzg0NG91eG1zQlM0T08yU3RNYU8yZmptYjhlOUlwNHprbWVZcExSTVdkZGQzdWxBREhCeHNOLVV3Z3ZLeEZuQWV0RlNJbHhPT0MxRDNNM2xnakVxVGozZnVRWllyQ3B2UkFueVZNanVja3N3WTVMNXVWQ3RnVXRlcFY0NzFHSG5CWmFIQkhKaFl5a1F3Yk11aDhfal9Rb3JlWGVEOUM3TjkyRE1yVHVjWVl6MFk1TzFELTQ5Y1dXaHFkZ3dJRHpXYkRJLXl6eXcxdzRUdFpYWHc?oc=5)
 
 ## Captured Link Validation
 
