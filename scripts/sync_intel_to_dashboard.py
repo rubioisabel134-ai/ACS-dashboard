@@ -115,7 +115,14 @@ def update_record_from_trial(record: dict[str, Any], trial: dict[str, Any]) -> b
     if record.get("nextCatalystDate") != catalyst_date:
         record["nextCatalystDate"] = catalyst_date
         changed = True
-    if record.get("nextCatalystEvent") != catalyst_event:
+    current_event = record.get("nextCatalystEvent") or ""
+    can_overwrite_event = (
+        catalyst_date is not None
+        or not current_event
+        or current_event.startswith("Estimated ")
+        or current_event.startswith("Monitor next registry update")
+    )
+    if can_overwrite_event and record.get("nextCatalystEvent") != catalyst_event:
         record["nextCatalystEvent"] = catalyst_event
         changed = True
 

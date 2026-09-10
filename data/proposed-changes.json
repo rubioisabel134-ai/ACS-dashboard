@@ -1,5 +1,36 @@
 {
-  "generatedAtUTC": "2026-09-02T15:29:08+00:00",
-  "updates": 0,
-  "proposals": []
+  "generatedAtUTC": "2026-09-10T16:13:03+00:00",
+  "updates": 2,
+  "proposals": [
+    {
+      "drug": "Ziltivekimab",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2026-12-14",
+          "after": "2027-01-29"
+        }
+      }
+    },
+    {
+      "drug": "Pelacarsen",
+      "changes": {
+        "signal": {
+          "before": "monitor",
+          "after": "negative"
+        },
+        "statusSummary": {
+          "before": "Lp(a)HORIZON is the pivotal Phase III outcomes study testing pelacarsen-mediated Lp(a) lowering for MACE reduction in established cardiovascular disease.",
+          "after": "Novartis reported in September 2026 that the Phase III Lp(a)HORIZON cardiovascular outcomes trial of pelacarsen did not meet its primary endpoint of reducing major adverse cardiovascular events versus placebo despite Lp(a) lowering; detailed results remain a key read-through for the Lp(a) class."
+        },
+        "nextCatalystDate": {
+          "before": "2028-12-07",
+          "after": null
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT07625306)",
+          "after": "Monitor full Lp(a)HORIZON data presentation and read-through to other Lp(a) outcomes programs"
+        }
+      }
+    }
+  ]
 }

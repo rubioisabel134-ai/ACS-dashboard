@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-09-02",
+  "snapshotDate": "2026-09-10",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -264,28 +264,30 @@
       "modality": "ASO",
       "stage": "Phase III",
       "setting": "Chronic secondary prevention",
-      "signal": "monitor",
-      "statusSummary": "Lp(a)HORIZON is the pivotal Phase III outcomes study testing pelacarsen-mediated Lp(a) lowering for MACE reduction in established cardiovascular disease.",
+      "signal": "negative",
+      "statusSummary": "Novartis reported in September 2026 that the Phase III Lp(a)HORIZON cardiovascular outcomes trial of pelacarsen did not meet its primary endpoint of reducing major adverse cardiovascular events versus placebo despite Lp(a) lowering; detailed results remain a key read-through for the Lp(a) class.",
       "keyTrial": "Lp(a)HORIZON / NCT04023552",
-      "competitorWatch": "Competes with olpasiran/lepodisiran/muvalaplin",
-      "nextCatalystDate": "2028-12-07",
-      "nextCatalystEvent": "Estimated primary completion (NCT07625306)",
+      "competitorWatch": "Negative Lp(a)HORIZON topline heightens scrutiny on Lp(a) outcome translation and shifts attention to olpasiran, lepodisiran, muvalaplin, enlicitide, and other lipid-risk programs with outcomes data pending.",
+      "nextCatalystDate": null,
+      "nextCatalystEvent": "Monitor full Lp(a)HORIZON data presentation and read-through to other Lp(a) outcomes programs",
       "priorityTrials": [
         {
           "name": "Lp(a)HORIZON",
           "phase": "Phase III",
-          "status": "Active, not recruiting",
+          "status": "Negative topline readout",
           "nctId": "NCT04023552",
-          "date": "2026-06-30",
-          "event": "Estimated primary/completion date",
-          "note": "MACE outcomes study in patients with established cardiovascular disease and elevated Lp(a).",
+          "date": "2026-09-04",
+          "event": "Topline readout missed primary MACE endpoint",
+          "note": "Novartis reported that pelacarsen did not significantly reduce major adverse cardiovascular events versus placebo.",
           "link": "https://clinicaltrials.gov/study/NCT04023552"
         }
       ],
       "sourceLinks": [
         "https://clinicaltrials.gov/study/NCT04023552",
         "https://clinicaltrials.gov/study/NCT07517263",
-        "https://clinicaltrials.gov/study/NCT07625306"
+        "https://clinicaltrials.gov/study/NCT07625306",
+        "https://www.novartis.com/news/media-releases/novartis-announces-lpahorizon-phase-iii-topline-results-pelacarsen-patients-elevated-lpa-and-established-cardiovascular-disease-cvd",
+        "https://www.tctmd.com/news/lpahorizon-top-line-results-dash-hopes-pelacarsen"
       ]
     },
     {
@@ -467,7 +469,7 @@
       "statusSummary": "Novo Nordisk reported on July 31, 2026 that the Phase III ZEUS trial missed its primary MACE endpoint in ASCVD/CKD/inflammation, with HR 0.99 (95% CI 0.88-1.11) despite IL-6 and hsCRP target engagement; ARTEMIS and ZEPHYR remain ongoing in acute MI/post-ACS settings.",
       "keyTrial": "ZEUS / ARTEMIS / ZEPHYR",
       "competitorWatch": "ZEUS failure weakens IL-6 ligand inhibition as a broad residual-inflammatory-risk strategy in ASCVD/CKD and raises the evidentiary bar for ARTEMIS, ZEPHYR, and other anti-inflammatory CV programs.",
-      "nextCatalystDate": "2026-12-14",
+      "nextCatalystDate": "2027-01-29",
       "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
       "priorityTrials": [
         {
@@ -483,11 +485,11 @@
         {
           "name": "ARTEMIS",
           "phase": "Phase III",
-          "status": "Recruiting",
+          "status": "Active, not recruiting",
           "nctId": "NCT06118281",
-          "date": "2026-12-14",
+          "date": "2027-01-29",
           "event": "Estimated primary/completion date",
-          "note": "Post-heart-attack study; key near-term ACS catalyst.",
+          "note": "Post-heart-attack study; next key ACS catalyst after ZEUS failure.",
           "link": "https://clinicaltrials.gov/study/NCT06118281"
         },
         {
