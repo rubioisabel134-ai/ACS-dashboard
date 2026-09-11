@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-09-10)
+# ACS Intel Update (2026-09-11)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -60,37 +60,30 @@
 
 - ClinicalTrials.gov hits: 0
 - Company press hits: 0
-- Google News hits: 1
-
-### Latest Google News
-- 2026-09-10 | Medical Dialogues | [Pacibekitug Shows Sustained Anti-Inflammatory Effects in High-Risk Cardiovascular Patients: Phase 2 trial - Medical Dialogues](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEZzVERzbGJDVVZYUWdzRmNLSzVSQ1JTcFBxN2Z2eDM4NDRvdXhtc0JTNE9PMlN0TWFPMmZqbWI4ZTlJcDR6a21lWXBMUk1XZGRkM3VsQURIQnhzTi1Vd2d2S3hGbkFldEZTSWx4T09DMUQzTTNsZ2pFcVRqM2Z1UVpZckNwdlJBbnlWTWp1Y2tzd1k1TDV1VkN0Z1V0ZXBWNDcxR0huQlphSEJISmhZeWtRd2JNdWg4X2pfUW9yZVhlRDlDN045MkRNclR1Y1lZejBZNU8xRC00OWNXV2hxZGd3SUR6V2JESS15enl3MXc0VHRaWFh30gH3AUFVX3lxTE80RnNURHNsYkNVVlhRZ3NGY0tLNVJDUlNwUHE3ZnZ4Mzg0NG91eG1zQlM0T08yU3RNYU8yZmptYjhlOUlwNHprbWVZcExSTVdkZGQzdWxBREhCeHNOLVV3Z3ZLeEZuQWV0RlNJbHhPT0MxRDNNM2xnakVxVGozZnVRWllyQ3B2UkFueVZNanVja3N3WTVMNXVWQ3RnVXRlcFY0NzFHSG5CWmFIQkhKaFl5a1F3Yk11aDhfal9Rb3JlWGVEOUM3TjkyRE1yVHVjWVl6MFk1TzFELTQ5Y1dXaHFkZ3dJRHpXYkRJLXl6eXcxdzRUdFpYWHc?oc=5)
+- Google News hits: 0
 
 ## Vortosiran (RBD4059) (RiboCure Pharmaceuticals)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06717074] A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease | Status: COMPLETED | Last update: 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 
+### Company press-room hits
+- ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
+
 ## Pelacarsen (Novartis)
 
 - ClinicalTrials.gov hits: 3
-- Company press hits: 1
-- Google News hits: 2
+- Company press hits: 0
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: COMPLETED | Last update: 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
 - [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: NOT_YET_RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
-
-### Company press-room hits
-- www.novartis.com | [Novartis provides update on Lp(a)HORIZON Phase III study of pelacarsen](https://www.novartis.com/news/media-releases/novartis-announces-lpahorizon-phase-iii-topline-results-pelacarsen-patients-elevated-lpa-and-established-cardiovascular-disease-cvd)
-
-### Latest Google News
-- 2026-09-08 | TCTMD.com | [Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5)
-- 2026-09-05 | HCPLive | [Pelacarsen Misses Primary Endpoint in Lp(a)HORIZON Phase 3 Trial - HCPLive](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZRUHRVTTZuTVVRa2FnVTdSV0VHUGtMVkVITElLSWVXMVpCalN0dXhOR3BGV003elJMc0FjMG1XY1A3R2VFcUIxNE1CYnI1d0Q3YWJhczItNzZqcXVPd0xOUXNvbW9VdnNoc1N2T2c5eVdJa19Db2NCT29RX0R0NWxQMGxPM21BdDFjMDU1eFJRcVlHY1dPNw?oc=5)
 
 ## Olpasiran (Amgen)
 
@@ -143,13 +136,10 @@
 
 - ClinicalTrials.gov hits: 1
 - Company press hits: 0
-- Google News hits: 1
+- Google News hits: 0
 
 ### Latest trial updates
 - [NCT05754957] A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome | Status: COMPLETED | Last update: 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
-
-### Latest Google News
-- 2026-09-07 | Medical Dialogues | [LIBREXIA ACS: Milvexian Fails to Reduce Recurrent CV Events After ACS - Medical Dialogues](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmtPU3h1c25JVVlObXhpZ2ZWQWNpVHV6RXRMS25wbTBvbGt5X2dDaWszZ2xWRVhHTnhBY2ZvNGhoVzFkSVRtZUNtUWdmOVRPNzhIV0ZscFNLWmJsb09vcmttdjk0MFd5RmtEX1dXODJEem1Uc2U5MkdBNnQtaGk2VWJ1WGVuU0VpMEo2MFdJa3cwYUM2MGowUDB5RG15TEQ4NC1nVFF5ZF94cHBCaGlSOElwVy02cklDU1ZTYVlrT1Z3d9IBxwFBVV95cUxQOEJxWTY4NmpoX3YydW92dS1ENEhWZU1YYV9IQlkzWjBkYTFUMkxHUDdSOUtYV19pVHVCU1ViOU9YWUswTC1ReVozX05yd3pWVVd0b0xweUREZnNSeFFnUjI0MDhQMlF6Q2RXU0VzWGd3aTE3bzBMeXFDb1B2OXZrYm01X19wMUtpUU1UTk52dy1sVjRIcVE4aGp5UnZHeWZLN2t0UG9hdTRVbG1rNFBRaFJDVDdxc3lzS0FTa08wOTNLRG5jaEo0?oc=5)
 
 ## Selatogrel (Idorsia / Viatris)
 

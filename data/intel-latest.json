@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-09-10T16:09:49+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-09-11T12:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -162,9 +162,7 @@
         }
       ],
       "googleNews": [],
-      "discoveryWarnings": [
-        "google news: HTTP fetch failed (curl: (28) Operation timed out after 12002 milliseconds with 0 bytes received): https://news.google.com/rss/search?q=%28%22inclisiran%22+OR+%22Leqvio%22+OR+%22ORION-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
-      ],
+      "discoveryWarnings": [],
       "errors": []
     },
     {
@@ -267,18 +265,9 @@
       "pressReleaseUrl": "https://www.novartis.com/news/newsroom",
       "clinicalTrials": [],
       "companyPress": [],
-      "googleNews": [
-        {
-          "title": "Pacibekitug Shows Sustained Anti-Inflammatory Effects in High-Risk Cardiovascular Patients: Phase 2 trial - Medical Dialogues",
-          "source": "Medical Dialogues",
-          "publishedAt": "2026-09-10T03:15:56+00:00",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEZzVERzbGJDVVZYUWdzRmNLSzVSQ1JTcFBxN2Z2eDM4NDRvdXhtc0JTNE9PMlN0TWFPMmZqbWI4ZTlJcDR6a21lWXBMUk1XZGRkM3VsQURIQnhzTi1Vd2d2S3hGbkFldEZTSWx4T09DMUQzTTNsZ2pFcVRqM2Z1UVpZckNwdlJBbnlWTWp1Y2tzd1k1TDV1VkN0Z1V0ZXBWNDcxR0huQlphSEJISmhZeWtRd2JNdWg4X2pfUW9yZVhlRDlDN045MkRNclR1Y1lZejBZNU8xRC00OWNXV2hxZGd3SUR6V2JESS15enl3MXc0VHRaWFh30gH3AUFVX3lxTE80RnNURHNsYkNVVlhRZ3NGY0tLNVJDUlNwUHE3ZnZ4Mzg0NG91eG1zQlM0T08yU3RNYU8yZmptYjhlOUlwNHprbWVZcExSTVdkZGQzdWxBREhCeHNOLVV3Z3ZLeEZuQWV0RlNJbHhPT0MxRDNNM2xnakVxVGozZnVRWllyQ3B2UkFueVZNanVja3N3WTVMNXVWQ3RnVXRlcFY0NzFHSG5CWmFIQkhKaFl5a1F3Yk11aDhfal9Rb3JlWGVEOUM3TjkyRE1yVHVjWVl6MFk1TzFELTQ5Y1dXaHFkZ3dJRHpXYkRJLXl6eXcxdzRUdFpYWHc?oc=5"
-        }
-      ],
+      "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Operation timed out after 12011 milliseconds with 68857 bytes received): https://www.novartis.com/news/newsroom"
-      ]
+      "errors": []
     },
     {
       "name": "Vortosiran (RBD4059)",
@@ -309,12 +298,17 @@
           "url": "https://clinicaltrials.gov/study/NCT06717074"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial \u2013 World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
+          "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/",
+          "source": "ribocure.com",
+          "publishedAt": "2026-07-22"
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Operation timed out after 12177 milliseconds with 0 bytes received): https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/"
-      ]
+      "errors": []
     },
     {
       "name": "Pelacarsen",
@@ -375,28 +369,8 @@
           "url": "https://clinicaltrials.gov/study/NCT07625306"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Novartis provides update on Lp(a)HORIZON Phase III study of pelacarsen",
-          "source": "www.novartis.com",
-          "publishedAt": "2026-09-04",
-          "link": "https://www.novartis.com/news/media-releases/novartis-announces-lpahorizon-phase-iii-topline-results-pelacarsen-patients-elevated-lpa-and-established-cardiovascular-disease-cvd"
-        }
-      ],
-      "googleNews": [
-        {
-          "title": "Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen - TCTMD.com",
-          "source": "TCTMD.com",
-          "publishedAt": "2026-09-08T15:26:12+00:00",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5"
-        },
-        {
-          "title": "Pelacarsen Misses Primary Endpoint in Lp(a)HORIZON Phase 3 Trial - HCPLive",
-          "source": "HCPLive",
-          "publishedAt": "2026-09-05T15:28:01+00:00",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZRUHRVTTZuTVVRa2FnVTdSV0VHUGtMVkVITElLSWVXMVpCalN0dXhOR3BGV003elJMc0FjMG1XY1A3R2VFcUIxNE1CYnI1d0Q3YWJhczItNzZqcXVPd0xOUXNvbW9VdnNoc1N2T2c5eVdJa19Db2NCT29RX0R0NWxQMGxPM21BdDFjMDU1eFJRcVlHY1dPNw?oc=5"
-        }
-      ],
+      "companyPress": [],
+      "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -627,14 +601,7 @@
         }
       ],
       "companyPress": [],
-      "googleNews": [
-        {
-          "title": "LIBREXIA ACS: Milvexian Fails to Reduce Recurrent CV Events After ACS - Medical Dialogues",
-          "source": "Medical Dialogues",
-          "publishedAt": "2026-09-07T17:15:19+00:00",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmtPU3h1c25JVVlObXhpZ2ZWQWNpVHV6RXRMS25wbTBvbGt5X2dDaWszZ2xWRVhHTnhBY2ZvNGhoVzFkSVRtZUNtUWdmOVRPNzhIV0ZscFNLWmJsb09vcmttdjk0MFd5RmtEX1dXODJEem1Uc2U5MkdBNnQtaGk2VWJ1WGVuU0VpMEo2MFdJa3cwYUM2MGowUDB5RG15TEQ4NC1nVFF5ZF94cHBCaGlSOElwVy02cklDU1ZTYVlrT1Z3d9IBxwFBVV95cUxQOEJxWTY4NmpoX3YydW92dS1ENEhWZU1YYV9IQlkzWjBkYTFUMkxHUDdSOUtYV19pVHVCU1ViOU9YWUswTC1ReVozX05yd3pWVVd0b0xweUREZnNSeFFnUjI0MDhQMlF6Q2RXU0VzWGd3aTE3bzBMeXFDb1B2OXZrYm01X19wMUtpUU1UTk52dy1sVjRIcVE4aGp5UnZHeWZLN2t0UG9hdTRVbG1rNFBRaFJDVDdxc3lzS0FTa08wOTNLRG5jaEo0?oc=5"
-        }
-      ],
+      "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
     },
@@ -721,7 +688,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 78301 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12122 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
       ]
     },
     {
@@ -1441,10 +1408,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 6,
-    "drugsWithDiscoveryWarnings": 1,
+    "drugsWithErrors": 4,
+    "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 17,
-    "googleNewsHits": 4
+    "companyPressHits": 18,
+    "googleNewsHits": 0
   }
 }

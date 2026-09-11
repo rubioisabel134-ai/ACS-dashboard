@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-10)
+# ACS Daily CI Report (2026-09-11)
 
-- Generated (UTC): 2026-09-10T12:00:01+00:00
+- Generated (UTC): 2026-09-11T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -55,9 +55,10 @@
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
+- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
-- Pacibekitug | 2026-09-10 | Medical Dialogues | [Pacibekitug Shows Sustained Anti-Inflammatory Effects in High-Risk Cardiovascular Patients: Phase 2 trial - Medical Dialogues](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEZzVERzbGJDVVZYUWdzRmNLSzVSQ1JTcFBxN2Z2eDM4NDRvdXhtc0JTNE9PMlN0TWFPMmZqbWI4ZTlJcDR6a21lWXBMUk1XZGRkM3VsQURIQnhzTi1Vd2d2S3hGbkFldEZTSWx4T09DMUQzTTNsZ2pFcVRqM2Z1UVpZckNwdlJBbnlWTWp1Y2tzd1k1TDV1VkN0Z1V0ZXBWNDcxR0huQlphSEJISmhZeWtRd2JNdWg4X2pfUW9yZVhlRDlDN045MkRNclR1Y1lZejBZNU8xRC00OWNXV2hxZGd3SUR6V2JESS15enl3MXc0VHRaWFh30gH3AUFVX3lxTE80RnNURHNsYkNVVlhRZ3NGY0tLNVJDUlNwUHE3ZnZ4Mzg0NG91eG1zQlM0T08yU3RNYU8yZmptYjhlOUlwNHprbWVZcExSTVdkZGQzdWxBREhCeHNOLVV3Z3ZLeEZuQWV0RlNJbHhPT0MxRDNNM2xnakVxVGozZnVRWllyQ3B2UkFueVZNanVja3N3WTVMNXVWQ3RnVXRlcFY0NzFHSG5CWmFIQkhKaFl5a1F3Yk11aDhfal9Rb3JlWGVEOUM3TjkyRE1yVHVjWVl6MFk1TzFELTQ5Y1dXaHFkZ3dJRHpXYkRJLXl6eXcxdzRUdFpYWHc?oc=5)
 
 ## Captured Link Validation
 
