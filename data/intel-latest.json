@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-13T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-16T12:01:07+00:00",
   "days": 1,
   "drugs": [
     {
@@ -475,25 +475,7 @@
         "Merck"
       ],
       "pressReleaseUrl": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/",
-      "clinicalTrials": [
-        {
-          "nctId": "NCT06008756",
-          "title": "Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes",
-          "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-04-23",
-          "primaryCompletionDate": "2029-11-29",
-          "completionDate": "2031-11-29",
-          "conditions": [
-            "Arteriosclerosis",
-            "Hypercholesterolaemia"
-          ],
-          "interventions": [
-            "Enlicitide Decanoate",
-            "Placebo"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT06008756"
-        }
-      ],
+      "clinicalTrials": [],
       "companyPress": [
         {
           "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
@@ -504,7 +486,9 @@
       ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "clinicaltrials.gov: HTTP fetch failed (curl: (28) Operation timed out after 12138 milliseconds with 25997 bytes received): https://clinicaltrials.gov/api/v2/studies/NCT06008756"
+      ]
     },
     {
       "name": "Lepodisiran",
@@ -688,7 +672,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12112 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+        "company press: HTTP fetch failed (curl: (28) Resolving timed out after 1060856 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
       ]
     },
     {
@@ -705,7 +689,7 @@
           "nctId": "NCT07362446",
           "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-02",
+          "lastUpdate": "2026-09-14",
           "primaryCompletionDate": "2027-06-30",
           "completionDate": "2027-09-30",
           "conditions": [
@@ -721,17 +705,12 @@
           "url": "https://clinicaltrials.gov/study/NCT07362446"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Myocardial Ischemia and Arrhythmia Control",
-          "link": "https://www.nyrada.com/site/programs/myocardial-ischemia",
-          "source": "www.nyrada.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Operation timed out after 30050 milliseconds with 0 bytes received): https://www.nyrada.com/site/news-insights/media"
+      ]
     },
     {
       "name": "VE-1902",
@@ -1349,7 +1328,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12092 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 15636 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
       ]
     },
     {
@@ -1397,10 +1376,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 5,
+    "drugsWithErrors": 7,
     "drugsWithDiscoveryWarnings": 0,
-    "trialHits": 35,
-    "companyPressHits": 16,
+    "trialHits": 34,
+    "companyPressHits": 15,
     "googleNewsHits": 0
   }
 }
