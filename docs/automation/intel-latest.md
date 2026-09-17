@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-16)
+# ACS Intel Update (2026-09-17)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -106,9 +106,12 @@
 
 ## Enlicitide (MK-0616) (Merck)
 
-- ClinicalTrials.gov hits: 0
+- ClinicalTrials.gov hits: 1
 - Company press hits: 1
 - Google News hits: 0
+
+### Latest trial updates
+- [NCT06008756] Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
 
 ### Company press-room hits
 - www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
@@ -160,11 +163,14 @@
 ## Xolatryp (Nyrada)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-09-14 | https://clinicaltrials.gov/study/NCT07362446
+
+### Company press-room hits
+- www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
 
 ## VE-1902 (Verseon)
 
@@ -347,8 +353,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 
