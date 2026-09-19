@@ -1,6 +1,6 @@
-# ACS Intel Update (2026-09-18)
+# ACS Intel Update (2026-09-19)
 
-- Window: last 7 day(s)
+- Window: last 1 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)

@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-09-18T18:39:37+00:00",
-  "days": 7,
+  "generatedAtUTC": "2026-09-19T12:00:01+00:00",
+  "days": 1,
   "drugs": [
     {
       "name": "Zalunfiban",
@@ -687,9 +687,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12006 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1408,7 +1406,7 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 3,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
     "companyPressHits": 18,
