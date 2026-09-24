@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-21)
+# ACS Intel Update (2026-09-24)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -123,7 +123,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07613294
+- [NCT07613294] A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk | Status: RECRUITING | Last update: 2026-09-22 | https://clinicaltrials.gov/study/NCT07613294
 - [NCT06292013] A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
 
 ## Olezarsen (Ionis)
@@ -310,11 +310,14 @@
 ## Orforglipron (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-08 | https://clinicaltrials.gov/study/NCT07241390
+- [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-22 | https://clinicaltrials.gov/study/NCT07241390
+
+### Company press-room hits
+- investor.lilly.com | [Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites)
 
 ## Muvalaplin (Eli Lilly)
 

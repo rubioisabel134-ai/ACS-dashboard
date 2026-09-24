@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-21T12:00:02+00:00",
+  "generatedAtUTC": "2026-09-24T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -523,7 +523,7 @@
           "nctId": "NCT07613294",
           "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-08",
+          "lastUpdate": "2026-09-22",
           "primaryCompletionDate": "2029-12",
           "completionDate": "2029-12",
           "conditions": [
@@ -687,9 +687,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12147 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1169,7 +1167,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-08",
+          "lastUpdate": "2026-09-22",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -1183,7 +1181,14 @@
           "url": "https://clinicaltrials.gov/study/NCT07241390"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites",
+          "source": "investor.lilly.com",
+          "publishedAt": "2026-09-21"
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
@@ -1408,10 +1413,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 3,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 18,
+    "companyPressHits": 19,
     "googleNewsHits": 0
   }
 }

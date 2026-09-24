@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-09-21)
+# ACS Daily CI Report (2026-09-24)
 
-- Generated (UTC): 2026-09-21T12:00:02+00:00
+- Generated (UTC): 2026-09-24T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 4
+- Primary-source error assets: 3
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
@@ -22,7 +22,7 @@
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07613294
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-09-22 | https://clinicaltrials.gov/study/NCT07613294
 - Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
@@ -36,7 +36,7 @@
 - Sumecigrel: [NCT06577519] RECRUITING | last update 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07241390
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-09-22 | https://clinicaltrials.gov/study/NCT07241390
 - Muvalaplin: [NCT07157774] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
@@ -53,6 +53,7 @@
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
+- Orforglipron | investor.lilly.com | [Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
