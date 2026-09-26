@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-25)
+# ACS Intel Update (2026-09-26)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -209,7 +209,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT06813339] Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort | Status: RECRUITING | Last update: 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
+- [NCT06813339] Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort | Status: RECRUITING | Last update: 2026-09-25 | https://clinicaltrials.gov/study/NCT06813339
 
 ### Company press-room hits
 - cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)

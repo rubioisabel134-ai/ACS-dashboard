@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-25)
+# ACS Daily CI Report (2026-09-26)
 
-- Generated (UTC): 2026-09-25T12:00:01+00:00
+- Generated (UTC): 2026-09-26T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -29,7 +29,7 @@
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
 - Xolatryp: [NCT07362446] RECRUITING | last update 2026-09-14 | https://clinicaltrials.gov/study/NCT07362446
-- UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
+- UDP-003: [NCT06813339] RECRUITING | last update 2026-09-25 | https://clinicaltrials.gov/study/NCT06813339
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885

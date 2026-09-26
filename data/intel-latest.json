@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-25T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-26T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -815,7 +815,7 @@
           "nctId": "NCT06813339",
           "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-06-30",
+          "lastUpdate": "2026-09-25",
           "primaryCompletionDate": "2026-12-30",
           "completionDate": "2027-12-30",
           "conditions": [
@@ -1354,7 +1354,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12139 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12119 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
       ]
     },
     {
