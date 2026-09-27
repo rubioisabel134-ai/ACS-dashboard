@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-26T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-27T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -687,7 +687,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12135 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1354,7 +1356,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12119 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12147 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
       ]
     },
     {
@@ -1402,7 +1404,7 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 5,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
     "companyPressHits": 17,

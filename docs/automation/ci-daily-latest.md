@@ -1,9 +1,9 @@
-# ACS Daily CI Report (2026-09-26)
+# ACS Daily CI Report (2026-09-27)
 
-- Generated (UTC): 2026-09-26T12:00:01+00:00
+- Generated (UTC): 2026-09-27T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
-- Primary-source error assets: 4
+- Primary-source error assets: 5
 - Discovery warning assets: 0
 - Playwright links captured: 25
 
