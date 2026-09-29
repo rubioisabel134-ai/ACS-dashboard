@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-28)
+# ACS Daily CI Report (2026-09-29)
 
-- Generated (UTC): 2026-09-28T12:00:01+00:00
+- Generated (UTC): 2026-09-29T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -13,8 +13,8 @@
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
 - Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+- Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-09-28 | https://clinicaltrials.gov/study/NCT05021835
 - Ziltivekimab: [NCT06118281] ACTIVE_NOT_RECRUITING | last update 2026-09-09 | https://clinicaltrials.gov/study/NCT06118281
-- Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
 - Vortosiran (RBD4059): [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
 - Pelacarsen: [NCT07517263] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
 - Pelacarsen: [NCT04023552] COMPLETED | last update 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552

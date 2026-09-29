@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-28T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-29T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -177,6 +177,26 @@
       "pressReleaseUrl": "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
       "clinicalTrials": [
         {
+          "nctId": "NCT05021835",
+          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-09-28",
+          "primaryCompletionDate": "2026-06-09",
+          "completionDate": "2026-06-09",
+          "conditions": [
+            "Cardiovascular Risk",
+            "Chronic Kidney Disease",
+            "Inflammation"
+          ],
+          "interventions": [
+            "Ziltivekimab B",
+            "Ziltivekimab C",
+            "Placebo (Ziltivekimab B)",
+            "Placebo (Ziltivekimab C)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05021835"
+        },
+        {
           "nctId": "NCT06118281",
           "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
@@ -192,26 +212,6 @@
             "Placebo"
           ],
           "url": "https://clinicaltrials.gov/study/NCT06118281"
-        },
-        {
-          "nctId": "NCT05021835",
-          "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
-          "overallStatus": "COMPLETED",
-          "lastUpdate": "2026-07-28",
-          "primaryCompletionDate": "2026-06-09",
-          "completionDate": "2026-06-09",
-          "conditions": [
-            "Cardiovascular Risk",
-            "Chronic Kidney Disease",
-            "Inflammation"
-          ],
-          "interventions": [
-            "Ziltivekimab B",
-            "Ziltivekimab C",
-            "Placebo (Ziltivekimab B)",
-            "Placebo (Ziltivekimab C)"
-          ],
-          "url": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
           "nctId": "NCT07276282",
@@ -1354,7 +1354,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12144 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12106 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
       ]
     },
     {
