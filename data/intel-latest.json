@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-09-29T12:00:01+00:00",
+  "generatedAtUTC": "2026-09-30T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -64,7 +64,14 @@
           "url": "https://clinicaltrials.gov/study/NCT06305559"
         }
       ],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "NewAmsterdam Pharma Doses First Participant in Phase 2b SPINOZA Trial Evaluating Obicetrapib in Preclinical Alzheimer\u2019s Disease",
+          "link": "https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza",
+          "source": "ir.newamsterdampharma.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
@@ -687,7 +694,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12150 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -1350,12 +1359,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12106 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1405,7 +1425,7 @@
     "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 17,
+    "companyPressHits": 20,
     "googleNewsHits": 0
   }
 }

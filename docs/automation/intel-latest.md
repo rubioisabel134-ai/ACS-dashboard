@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-29)
+# ACS Intel Update (2026-09-30)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -16,11 +16,14 @@
 ## Obicetrapib (NewAmsterdam Pharma)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 0
+- Company press hits: 1
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT06305559] A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
+
+### Company press-room hits
+- ir.newamsterdampharma.com | [NewAmsterdam Pharma Doses First Participant in Phase 2b SPINOZA Trial Evaluating Obicetrapib in Preclinical Alzheimer’s Disease](https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza)
 
 ## Dalcetrapib (DalCor Pharmaceuticals)
 
@@ -356,8 +359,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 
