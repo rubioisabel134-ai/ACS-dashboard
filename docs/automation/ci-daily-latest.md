@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-09-30)
+# ACS Daily CI Report (2026-10-01)
 
-- Generated (UTC): 2026-09-30T12:00:01+00:00
+- Generated (UTC): 2026-10-01T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 4
@@ -45,7 +45,7 @@
 ## News Highlights
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
-- Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
+- Zalunfiban | www.celecor.com | [FDA accepts New Drug Application for CeleCor’s investigational heart-attack drug](https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/)
 - Obicetrapib | ir.newamsterdampharma.com | [NewAmsterdam Pharma Doses First Participant in Phase 2b SPINOZA Trial Evaluating Obicetrapib in Preclinical Alzheimer’s Disease](https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza)
 - Inclisiran (Leqvio) | www.novartis.com | [Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
 - Vortosiran (RBD4059) | ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
@@ -54,11 +54,9 @@
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
-- Orforglipron | investor.lilly.com | [Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites)
+- Orforglipron | investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 - RO7763505 | www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
 - RO7763505 | www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
 

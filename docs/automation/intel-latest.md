@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-09-30)
+# ACS Intel Update (2026-10-01)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -6,11 +6,12 @@
 ## Zalunfiban (CeleCor Therapeutics)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 3
 - Google News hits: 0
 
 ### Company press-room hits
 - www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
+- www.celecor.com | [FDA accepts New Drug Application for CeleCor’s investigational heart-attack drug](https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/)
 - www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
 
 ## Obicetrapib (NewAmsterdam Pharma)
@@ -320,7 +321,7 @@
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-22 | https://clinicaltrials.gov/study/NCT07241390
 
 ### Company press-room hits
-- investor.lilly.com | [Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites)
+- investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 
 ## Muvalaplin (Eli Lilly)
 
@@ -359,12 +360,8 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
-- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 
