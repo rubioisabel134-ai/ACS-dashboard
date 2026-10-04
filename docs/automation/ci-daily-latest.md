@@ -1,6 +1,6 @@
-# ACS Daily CI Report (2026-10-03)
+# ACS Daily CI Report (2026-10-04)
 
-- Generated (UTC): 2026-10-03T12:00:01+00:00
+- Generated (UTC): 2026-10-04T12:00:01+00:00
 - Drugs scanned: 42
 - News window: last 1 day(s)
 - Primary-source error assets: 3
@@ -54,7 +54,7 @@
 - UDP-003 | cyclaritytx.com | [Cyclarity Unveils First-Ever Clinical Data Demonstrating Excretion of Oxidized Cholesterol](https://cyclaritytx.com/cyclarity-unveils-first-ever-clinical-data-demonstrating-excretion-of-oxidized-cholesterol/)
 - UDP-003 | cyclaritytx.com | [Cyclarity Therapeutics Secures Approval for First-in-Human Clinical Trial](https://cyclaritytx.com/cyclarity-secures-approval-for-first-in-human-clinical-trial/)
 - Sumecigrel | www.prnewswire.com | [Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel](https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html)
-- Orforglipron | investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
+- Orforglipron | investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](http://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 - Orticumab | abcentra.com | [Read the Article.](https://abcentra.com/abcentra-announces-appointment-of-dr-peter-libby-as-a-board-member-as-it-enters-orticumabs-phase-2b-trial-fortify/)
 - Orticumab | abcentra.com | [Coronary Artery Disease](https://abcentra.com/coronary-artery-disease/)
 - SIM0811 | www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
