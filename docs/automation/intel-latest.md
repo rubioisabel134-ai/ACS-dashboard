@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-10-04)
+# ACS Intel Update (2026-10-05)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -321,7 +321,7 @@
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-22 | https://clinicaltrials.gov/study/NCT07241390
 
 ### Company press-room hits
-- investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](http://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
+- investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 
 ## Muvalaplin (Eli Lilly)
 
@@ -370,12 +370,8 @@
 ## RO7763505 (Roche)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 2
+- Company press hits: 0
 - Google News hits: 0
-
-### Company press-room hits
-- www.roche.com | [Product Development Pipeline](https://www.roche.com/solutions/pipeline)
-- www.roche.com | [Clinical trials](https://www.roche.com/innovation/clinical-trials)
 
 ## RG6622 (Roche)
 

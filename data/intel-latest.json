@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-04T12:00:01+00:00",
+  "generatedAtUTC": "2026-10-05T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -1197,7 +1197,7 @@
       "companyPress": [
         {
           "title": "Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
-          "link": "http://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated",
           "source": "investor.lilly.com",
           "publishedAt": "2026-09-30"
         }
@@ -1391,23 +1391,12 @@
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "Product Development Pipeline",
-          "link": "https://www.roche.com/solutions/pipeline",
-          "source": "www.roche.com",
-          "publishedAt": null
-        },
-        {
-          "title": "Clinical trials",
-          "link": "https://www.roche.com/innovation/clinical-trials",
-          "source": "www.roche.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Operation timed out after 35860 milliseconds with 0 bytes received): https://www.roche.com/media/releases"
+      ]
     },
     {
       "name": "RG6622",
@@ -1426,10 +1415,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 21,
+    "companyPressHits": 19,
     "googleNewsHits": 0
   }
 }
