@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-05T12:00:00+00:00",
+  "generatedAtUTC": "2026-10-06T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -1196,10 +1196,10 @@
       ],
       "companyPress": [
         {
-          "title": "Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated",
+          "title": "Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites",
           "source": "investor.lilly.com",
-          "publishedAt": "2026-09-30"
+          "publishedAt": "2026-09-21"
         }
       ],
       "googleNews": [],
@@ -1363,23 +1363,12 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        },
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12144 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1391,12 +1380,23 @@
       ],
       "pressReleaseUrl": "https://www.roche.com/media/releases",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "Product Development Pipeline",
+          "link": "https://www.roche.com/solutions/pipeline",
+          "source": "www.roche.com",
+          "publishedAt": null
+        },
+        {
+          "title": "Clinical trials",
+          "link": "https://www.roche.com/innovation/clinical-trials",
+          "source": "www.roche.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Operation timed out after 35860 milliseconds with 0 bytes received): https://www.roche.com/media/releases"
-      ]
+      "errors": []
     },
     {
       "name": "RG6622",
