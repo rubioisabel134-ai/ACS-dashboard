@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-06T12:00:01+00:00",
+  "generatedAtUTC": "2026-10-07T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -166,14 +166,7 @@
           "url": "https://clinicaltrials.gov/study/NCT03705234"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio\u00ae (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding\u2026",
-          "link": "https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies",
-          "source": "www.novartis.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": []
@@ -700,7 +693,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12113 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
+      ]
     },
     {
       "name": "Xolatryp",
@@ -716,7 +711,7 @@
           "nctId": "NCT07362446",
           "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-14",
+          "lastUpdate": "2026-10-06",
           "primaryCompletionDate": "2027-06-30",
           "completionDate": "2027-09-30",
           "conditions": [
@@ -1363,12 +1358,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12144 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1418,7 +1424,7 @@
     "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 19,
+    "companyPressHits": 20,
     "googleNewsHits": 0
   }
 }

@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-10-06)
+# ACS Intel Update (2026-10-07)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -38,15 +38,12 @@
 ## Inclisiran (Leqvio) (Novartis)
 
 - ClinicalTrials.gov hits: 2
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT05030428] Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
 - [NCT03705234] A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
-
-### Company press-room hits
-- www.novartis.com | [Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
 
 ## Ziltivekimab (Novo Nordisk)
 
@@ -171,7 +168,7 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-09-14 | https://clinicaltrials.gov/study/NCT07362446
+- [NCT07362446] Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction | Status: RECRUITING | Last update: 2026-10-06 | https://clinicaltrials.gov/study/NCT07362446
 
 ### Company press-room hits
 - www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -360,8 +357,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 
