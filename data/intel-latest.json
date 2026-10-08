@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-07T12:00:01+00:00",
+  "generatedAtUTC": "2026-10-08T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -693,9 +693,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12113 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1191,10 +1189,10 @@
       ],
       "companyPress": [
         {
-          "title": "Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites",
+          "title": "Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated",
           "source": "investor.lilly.com",
-          "publishedAt": "2026-09-21"
+          "publishedAt": "2026-09-30"
         }
       ],
       "googleNews": [],
@@ -1421,7 +1419,7 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 3,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
     "companyPressHits": 20,

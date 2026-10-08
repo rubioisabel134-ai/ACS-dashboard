@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-10-07)
+# ACS Intel Update (2026-10-08)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -318,7 +318,7 @@
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-09-22 | https://clinicaltrials.gov/study/NCT07241390
 
 ### Company press-room hits
-- investor.lilly.com | [Lilly breaks ground in Houston, one of ten U.S. manufacturing sites announced since 2020](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-houston-one-ten-us-manufacturing-sites)
+- investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 
 ## Muvalaplin (Eli Lilly)
 
