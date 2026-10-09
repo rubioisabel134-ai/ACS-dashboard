@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-08T12:00:01+00:00",
+  "generatedAtUTC": "2026-10-09T12:00:00+00:00",
   "days": 1,
   "drugs": [
     {
@@ -529,7 +529,7 @@
           "nctId": "NCT06292013",
           "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
           "overallStatus": "ACTIVE_NOT_RECRUITING",
-          "lastUpdate": "2026-09-24",
+          "lastUpdate": "2026-10-08",
           "primaryCompletionDate": "2029-03",
           "completionDate": "2029-03",
           "conditions": [
@@ -546,7 +546,7 @@
           "nctId": "NCT07613294",
           "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-22",
+          "lastUpdate": "2026-10-08",
           "primaryCompletionDate": "2029-12",
           "completionDate": "2029-12",
           "conditions": [
@@ -1173,7 +1173,7 @@
           "nctId": "NCT07241390",
           "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
           "overallStatus": "RECRUITING",
-          "lastUpdate": "2026-09-22",
+          "lastUpdate": "2026-10-08",
           "primaryCompletionDate": "2031-08",
           "completionDate": "2031-08",
           "conditions": [
@@ -1356,23 +1356,12 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        },
-        {
-          "title": "R&D Pipeline",
-          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
-          "source": "www.simcere.com",
-          "publishedAt": null
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12131 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
+      ]
     },
     {
       "name": "RO7763505",
@@ -1419,10 +1408,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 3,
+    "drugsWithErrors": 4,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 20,
+    "companyPressHits": 18,
     "googleNewsHits": 0
   }
 }
