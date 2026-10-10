@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-10-09)
+# ACS Intel Update (2026-10-10)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -311,14 +311,11 @@
 ## Orforglipron (Eli Lilly)
 
 - ClinicalTrials.gov hits: 1
-- Company press hits: 1
+- Company press hits: 0
 - Google News hits: 0
 
 ### Latest trial updates
 - [NCT07241390] A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes) | Status: RECRUITING | Last update: 2026-10-08 | https://clinicaltrials.gov/study/NCT07241390
-
-### Company press-room hits
-- investor.lilly.com | [Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study](https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated)
 
 ## Muvalaplin (Eli Lilly)
 
@@ -357,8 +354,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 

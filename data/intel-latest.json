@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-09T12:00:00+00:00",
+  "generatedAtUTC": "2026-10-10T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -258,7 +258,7 @@
       "googleNews": [],
       "discoveryWarnings": [],
       "errors": [
-        "company press: HTTP fetch failed (curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
       ]
     },
     {
@@ -564,7 +564,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://investor.lilly.com/rss/news-releases.xml"
+      ]
     },
     {
       "name": "Olezarsen",
@@ -1187,17 +1189,12 @@
           "url": "https://clinicaltrials.gov/study/NCT07241390"
         }
       ],
-      "companyPress": [
-        {
-          "title": "Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
-          "link": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-foundayo-orforglipron-demonstrated",
-          "source": "investor.lilly.com",
-          "publishedAt": "2026-09-30"
-        }
-      ],
+      "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://investor.lilly.com/rss/news-releases.xml"
+      ]
     },
     {
       "name": "Muvalaplin",
@@ -1232,7 +1229,9 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": []
+      "errors": [
+        "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://investor.lilly.com/rss/news-releases.xml"
+      ]
     },
     {
       "name": "Orticumab",
@@ -1356,12 +1355,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12131 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1408,10 +1418,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 4,
+    "drugsWithErrors": 6,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 18,
+    "companyPressHits": 19,
     "googleNewsHits": 0
   }
 }
