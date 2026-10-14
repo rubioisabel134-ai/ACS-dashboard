@@ -1,4 +1,4 @@
-# ACS Intel Update (2026-10-13)
+# ACS Intel Update (2026-10-14)
 
 - Window: last 1 day(s)
 - Drugs scanned: 42
@@ -354,8 +354,12 @@
 ## SIM0811 (Jiangsu Simcere)
 
 - ClinicalTrials.gov hits: 0
-- Company press hits: 0
+- Company press hits: 2
 - Google News hits: 0
+
+### Company press-room hits
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/yfgx.aspx)
+- www.simcere.com | [R&D Pipeline](https://www.simcere.com/en/kxcx/kxcx.aspx#gx01)
 
 ## RO7763505 (Roche)
 

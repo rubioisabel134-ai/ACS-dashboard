@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-10-13T12:00:01+00:00",
+  "generatedAtUTC": "2026-10-14T12:00:01+00:00",
   "days": 1,
   "drugs": [
     {
@@ -695,9 +695,7 @@
       "companyPress": [],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12122 milliseconds): https://www.micot.cn/newsinfo/11172904.html"
-      ]
+      "errors": []
     },
     {
       "name": "Xolatryp",
@@ -1357,12 +1355,23 @@
       ],
       "pressReleaseUrl": "https://www.simcere.com/en/news/detail.aspx?mtt=1581",
       "clinicalTrials": [],
-      "companyPress": [],
+      "companyPress": [
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/yfgx.aspx",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        },
+        {
+          "title": "R&D Pipeline",
+          "link": "https://www.simcere.com/en/kxcx/kxcx.aspx#gx01",
+          "source": "www.simcere.com",
+          "publishedAt": null
+        }
+      ],
       "googleNews": [],
       "discoveryWarnings": [],
-      "errors": [
-        "company press: HTTP fetch failed (curl: (28) Connection timed out after 12150 milliseconds): https://www.simcere.com/en/news/detail.aspx?mtt=1581"
-      ]
+      "errors": []
     },
     {
       "name": "RO7763505",
@@ -1409,10 +1418,10 @@
   ],
   "summary": {
     "drugsScanned": 42,
-    "drugsWithErrors": 8,
+    "drugsWithErrors": 6,
     "drugsWithDiscoveryWarnings": 0,
     "trialHits": 35,
-    "companyPressHits": 17,
+    "companyPressHits": 19,
     "googleNewsHits": 0
   }
 }
