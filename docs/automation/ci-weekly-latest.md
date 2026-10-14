@@ -1,11 +1,11 @@
-# ACS Daily CI Report (2026-09-18)
+# ACS Daily CI Report (2026-10-14)
 
-- Generated (UTC): 2026-09-18T18:39:37+00:00
+- Generated (UTC): 2026-10-14T13:06:34+00:00
 - Drugs scanned: 42
 - News window: last 7 day(s)
-- Primary-source error assets: 4
-- Discovery warning assets: 0
-- Playwright links captured: 18
+- Primary-source error assets: 7
+- Discovery warning assets: 42
+- Playwright links captured: 19
 
 ## Trial Status Updates
 
@@ -13,31 +13,31 @@
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
 - Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
 - Inclisiran (Leqvio): [NCT03705234] ACTIVE_NOT_RECRUITING | last update 2026-05-01 | https://clinicaltrials.gov/study/NCT03705234
+- Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-09-28 | https://clinicaltrials.gov/study/NCT05021835
 - Ziltivekimab: [NCT06118281] ACTIVE_NOT_RECRUITING | last update 2026-09-09 | https://clinicaltrials.gov/study/NCT06118281
-- Ziltivekimab: [NCT05021835] COMPLETED | last update 2026-07-28 | https://clinicaltrials.gov/study/NCT05021835
 - Vortosiran (RBD4059): [NCT06717074] COMPLETED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT06717074
-- Pelacarsen: [NCT07517263] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
-- Pelacarsen: [NCT04023552] COMPLETED | last update 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
+- Pelacarsen: [NCT07517263] ACTIVE_NOT_RECRUITING | last update 2026-10-14 | https://clinicaltrials.gov/study/NCT07517263
+- Pelacarsen: [NCT07625306] WITHDRAWN | last update 2026-10-14 | https://clinicaltrials.gov/study/NCT07625306
 - Olpasiran: [NCT07136012] RECRUITING | last update 2026-08-21 | https://clinicaltrials.gov/study/NCT07136012
 - Olpasiran: [NCT05581303] ACTIVE_NOT_RECRUITING | last update 2026-02-27 | https://clinicaltrials.gov/study/NCT05581303
 - Laroprovstat (AZD0780): [NCT07000357] RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT07000357
 - Enlicitide (MK-0616): [NCT06008756] ACTIVE_NOT_RECRUITING | last update 2026-04-23 | https://clinicaltrials.gov/study/NCT06008756
-- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07613294
-- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-08-24 | https://clinicaltrials.gov/study/NCT06292013
+- Lepodisiran: [NCT06292013] ACTIVE_NOT_RECRUITING | last update 2026-10-08 | https://clinicaltrials.gov/study/NCT06292013
+- Lepodisiran: [NCT07613294] RECRUITING | last update 2026-10-08 | https://clinicaltrials.gov/study/NCT07613294
 - Milvexian: [NCT05754957] COMPLETED | last update 2026-07-06 | https://clinicaltrials.gov/study/NCT05754957
 - Selatogrel: [NCT03384966] COMPLETED | last update 2026-07-29 | https://clinicaltrials.gov/study/NCT03384966
 - Selatogrel: [NCT07615868] RECRUITING | last update 2026-07-14 | https://clinicaltrials.gov/study/NCT07615868
 - MT1002: [NCT04723186] TERMINATED | last update 2026-05-27 | https://clinicaltrials.gov/study/NCT04723186
-- Xolatryp: [NCT07362446] RECRUITING | last update 2026-09-14 | https://clinicaltrials.gov/study/NCT07362446
-- UDP-003: [NCT06813339] RECRUITING | last update 2026-06-30 | https://clinicaltrials.gov/study/NCT06813339
+- Xolatryp: [NCT07362446] RECRUITING | last update 2026-10-06 | https://clinicaltrials.gov/study/NCT07362446
+- UDP-003: [NCT06813339] RECRUITING | last update 2026-09-25 | https://clinicaltrials.gov/study/NCT06813339
 - Dukiprubart: [NCT07306182] RECRUITING | last update 2026-07-13 | https://clinicaltrials.gov/study/NCT07306182
 - Dukiprubart: [NCT07091929] COMPLETED | last update 2026-01-12 | https://clinicaltrials.gov/study/NCT07091929
 - Evategrel: [NCT07619885] RECRUITING | last update 2026-06-29 | https://clinicaltrials.gov/study/NCT07619885
 - Sumecigrel: [NCT06577519] RECRUITING | last update 2026-07-27 | https://clinicaltrials.gov/study/NCT06577519
 - NL005: [NCT07586865] NOT_YET_RECRUITING | last update 2026-05-14 | https://clinicaltrials.gov/study/NCT07586865
 - ReHeart: [NCT07347197] NOT_YET_RECRUITING | last update 2026-01-16 | https://clinicaltrials.gov/study/NCT07347197
-- Orforglipron: [NCT07241390] RECRUITING | last update 2026-09-08 | https://clinicaltrials.gov/study/NCT07241390
-- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-09-04 | https://clinicaltrials.gov/study/NCT07157774
+- Orforglipron: [NCT07241390] RECRUITING | last update 2026-10-08 | https://clinicaltrials.gov/study/NCT07241390
+- Muvalaplin: [NCT07157774] RECRUITING | last update 2026-09-24 | https://clinicaltrials.gov/study/NCT07157774
 - Orticumab: [NCT04776629] COMPLETED | last update 2026-05-11 | https://clinicaltrials.gov/study/NCT04776629
 - Orticumab: [NCT06927739] RECRUITING | last update 2026-01-27 | https://clinicaltrials.gov/study/NCT06927739
 - MiSaver: [NCT07134712] NOT_YET_RECRUITING | last update 2026-03-11 | https://clinicaltrials.gov/study/NCT07134712
@@ -45,8 +45,8 @@
 ## News Highlights
 
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
-- Zalunfiban | www.celecor.com | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
-- Inclisiran (Leqvio) | www.novartis.com | [Press release Aug 19, 2026 Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies Late-breaking Phase IV VICTORION-CHALLENGE data will evaluate Leqvio® (inclisiran) vs. bempedoic acid in achieving LDL-C goalsNew AZALEA-TIMI 71 analyses will further characterize the bleeding…](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
+- Zalunfiban | www.celecor.com | [FDA accepts New Drug Application for CeleCor’s investigational heart-attack drug](https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/)
+- Obicetrapib | ir.newamsterdampharma.com | [NewAmsterdam Pharma Doses First Participant in Phase 2b SPINOZA Trial Evaluating Obicetrapib in Preclinical Alzheimer’s Disease](https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza)
 - Vortosiran (RBD4059) | ribocure.com | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial – World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - Enlicitide (MK-0616) | www.merck.com | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - Xolatryp | www.nyrada.com | [Myocardial Ischemia and Arrhythmia Control](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -62,10 +62,11 @@
 
 ## Captured Link Validation
 
-- Successful captures: 17/18
+- Successful captures: 19/19
 - OK | Zalunfiban | [CeleBrate Trial Results - CeleCor Therapeutics](https://www.celecor.com/celebrate-results/)
+- OK | Zalunfiban | [FDA accepts New Drug Application for CeleCor’s investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/)
 - OK | Zalunfiban | [CeleCor completes submission of FDA New Drug Application for investigational heart-attack drug - CeleCor Therapeutics](https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/)
-- OK | Inclisiran (Leqvio) | [Novartis data at ESC Congress 2026 reinforce cardiovascular leadership and showcase progress in next-generation therapies | Novartis](https://www.novartis.com/news/media-releases/novartis-data-esc-congress-2026-reinforce-cardiovascular-leadership-and-showcase-progress-next-generation-therapies)
+- OK | Obicetrapib | [Access Denied](https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza)
 - OK | Vortosiran (RBD4059) | [Ribo Discloses Positive Data from Vortosiran Phase 2a Trial - World’s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease - Ribocure Pharmaceuticals](https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/)
 - OK | Enlicitide (MK-0616) | [Merck’s LIPFENDRA® (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia - Merck.com](https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/)
 - OK | Xolatryp | [Myocardial Ischemia and Arrhythmia Control | Nyrada - Biotechnology Company](https://www.nyrada.com/site/programs/myocardial-ischemia)
@@ -77,8 +78,18 @@
 - OK | Orticumab | [Coronary Artery Disease - Abcentra](https://abcentra.com/coronary-artery-disease/)
 - OK | Orticumab | [Caristo Diagnostics: Latest Lancet publication with results from world’s largest coronary CT registry. - Abcentra](https://abcentra.com/caristo-diagnostics-latest-lancet-publication-with-results-from-worlds-largest-coronary-ct-registry/)
 - OK | Orticumab | [Large CT Study Shows Benefits of AI in Predicting CV Risks](https://abcentra.com/large-ct-study-shows-benefits-of-ai-in-predicting-cv-risks-in-patients-without-obstructive-cad/)
-- OK | SIM0811 | [Simcere Pharmaceutical Group Limited](https://www.simcere.com/en/kxcx/yfgx.aspx)
 
 ## Discovery Layer
 
-- No Google News discovery warnings recorded.
+- Zalunfiban: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22zalunfiban%22+OR+%22Disaggpro%22+OR+%22RUC-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Obicetrapib: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22obicetrapib%22+OR+%22PREVAIL%22+OR+%22BROADWAY%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Dalcetrapib: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dalcetrapib%22+OR+%22DalCor%22+OR+%22Dal-GenE-2%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Inclisiran (Leqvio): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22inclisiran%22+OR+%22Leqvio%22+OR+%22ORION-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Ziltivekimab: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ziltivekimab%22+OR+%22ZEUS%22+OR+%22ARTEMIS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Pacibekitug: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pacibekitug%22+OR+%22VCU%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Vortosiran (RBD4059): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22vortosiran%22+OR+%22RBD4059%22+OR+%22ORBIT-XI%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Pelacarsen: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pelacarsen%22+OR+%22Lp%28a%29HORIZON%22+OR+%22TQJ230%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Olpasiran: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olpasiran%22+OR+%22OCEAN%28a%29%22+OR+%22OCEAN%28a%29-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Laroprovstat (AZD0780): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22laroprovstat%22+OR+%22AZD0780%22+OR+%22AZURE-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Enlicitide (MK-0616): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22enlicitide%22+OR+%22enlicitide+decanoate%22+OR+%22Lipfendra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- Lepodisiran: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22lepodisiran%22+OR+%22ALPACA%22+OR+%22ACCLAIM-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen

@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-09-18",
+  "snapshotDate": "2026-10-14",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -120,12 +120,13 @@
       "stage": "NDA submitted / FDA review pending",
       "setting": "Acute ACS/pre-hospital",
       "signal": "positive",
-      "statusSummary": "CeleCor submitted the final section of the zalunfiban (Disaggpro/RUC-4) New Drug Application to FDA on June 24, 2026, following positive Phase III CELEBRATE results in STEMI.",
-      "keyTrial": "CELEBRATE / NDA submission",
-      "competitorWatch": "Potential challenger to cath-lab and pre-hospital antiplatelet workflows; monitor FDA filing acceptance/review timing and positioning versus cangrelor, GP IIb/IIIa inhibitors, aspirin/P2Y12 pretreatment, and emerging self-administered ACS options such as selatogrel.",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor FDA filing acceptance, review timeline, and any disclosed PDUFA target date",
+      "statusSummary": "FDA accepted CeleCor's zalunfiban (Disaggpro/RUC-4) NDA on September 30, 2026 and assigned a June 18, 2027 PDUFA target action date, following positive Phase III CELEBRATE results in STEMI.",
+      "keyTrial": "CELEBRATE / FDA NDA review",
+      "competitorWatch": "Potential challenger to cath-lab and pre-hospital antiplatelet workflows; the confirmed FDA review timeline sharpens positioning versus cangrelor, GP IIb/IIIa inhibitors, aspirin/P2Y12 pretreatment, and emerging self-administered ACS options such as selatogrel.",
+      "nextCatalystDate": "2027-06-18",
+      "nextCatalystEvent": "FDA PDUFA target action date for zalunfiban (Disaggpro)",
       "sourceLinks": [
+        "https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/",
         "https://www.celecor.com/celecor-completes-submission-of-fda-new-drug-application-for-investigational-heart-attack-drug/",
         "https://clinicaltrials.gov/study/NCT04825743",
         "https://ir.celecortherapeutics.com/news-releases/news-release-details/celecor-therapeutics-announces-positive-phase-3-celebrate-trial/",
@@ -268,17 +269,17 @@
       "statusSummary": "Novartis reported in September 2026 that the Phase III Lp(a)HORIZON cardiovascular outcomes trial of pelacarsen did not meet its primary endpoint of reducing major adverse cardiovascular events versus placebo despite Lp(a) lowering; detailed results remain a key read-through for the Lp(a) class.",
       "keyTrial": "Lp(a)HORIZON / NCT04023552",
       "competitorWatch": "Negative Lp(a)HORIZON topline heightens scrutiny on Lp(a) outcome translation and shifts attention to olpasiran, lepodisiran, muvalaplin, enlicitide, and other lipid-risk programs with outcomes data pending.",
-      "nextCatalystDate": null,
-      "nextCatalystEvent": "Monitor full Lp(a)HORIZON data presentation and read-through to other Lp(a) outcomes programs",
+      "nextCatalystDate": "2026-11-07",
+      "nextCatalystEvent": "AHA 2026 primary and extended Lp(a)HORIZON results presentation",
       "priorityTrials": [
         {
           "name": "Lp(a)HORIZON",
           "phase": "Phase III",
           "status": "Negative topline readout",
           "nctId": "NCT04023552",
-          "date": "2026-09-04",
-          "event": "Topline readout missed primary MACE endpoint",
-          "note": "Novartis reported that pelacarsen did not significantly reduce major adverse cardiovascular events versus placebo.",
+          "date": "2026-11-07",
+          "event": "AHA 2026 primary and extended results presentation",
+          "note": "Full presentation follows the negative topline MACE result and is a key read-through for the Lp(a) class.",
           "link": "https://clinicaltrials.gov/study/NCT04023552"
         }
       ],
@@ -287,7 +288,8 @@
         "https://clinicaltrials.gov/study/NCT07517263",
         "https://clinicaltrials.gov/study/NCT07625306",
         "https://www.novartis.com/news/media-releases/novartis-announces-lpahorizon-phase-iii-topline-results-pelacarsen-patients-elevated-lpa-and-established-cardiovascular-disease-cvd",
-        "https://www.tctmd.com/news/lpahorizon-top-line-results-dash-hopes-pelacarsen"
+        "https://www.tctmd.com/news/lpahorizon-top-line-results-dash-hopes-pelacarsen",
+        "https://professional.heart.org/en/meetings/scientific-sessions/programming/late-breaking-science"
       ]
     },
     {
@@ -469,17 +471,17 @@
       "statusSummary": "Novo Nordisk reported on July 31, 2026 that the Phase III ZEUS trial missed its primary MACE endpoint in ASCVD/CKD/inflammation, with HR 0.99 (95% CI 0.88-1.11) despite IL-6 and hsCRP target engagement; ARTEMIS and ZEPHYR remain ongoing in acute MI/post-ACS settings.",
       "keyTrial": "ZEUS / ARTEMIS / ZEPHYR",
       "competitorWatch": "ZEUS failure weakens IL-6 ligand inhibition as a broad residual-inflammatory-risk strategy in ASCVD/CKD and raises the evidentiary bar for ARTEMIS, ZEPHYR, and other anti-inflammatory CV programs.",
-      "nextCatalystDate": "2027-01-29",
-      "nextCatalystEvent": "Estimated primary completion (NCT06118281)",
+      "nextCatalystDate": "2026-11-07",
+      "nextCatalystEvent": "AHA 2026 primary ZEUS results presentation",
       "priorityTrials": [
         {
           "name": "ZEUS",
           "phase": "Phase III",
           "status": "Negative topline readout",
           "nctId": "NCT05021835",
-          "date": "2026-06-09",
-          "event": "Topline ZEUS readout missed primary MACE endpoint",
-          "note": "Novo reported HR 0.99 (95% CI 0.88-1.11) versus placebo in established ASCVD, CKD, and inflammation.",
+          "date": "2026-11-07",
+          "event": "AHA 2026 primary results presentation",
+          "note": "Full presentation follows Novo's negative topline result (HR 0.99; 95% CI 0.88-1.11).",
           "link": "https://clinicaltrials.gov/study/NCT05021835"
         },
         {
@@ -518,7 +520,8 @@
         "https://clinicaltrials.gov/study/NCT05021835",
         "https://clinicaltrials.gov/study/NCT07276282",
         "https://clinicaltrials.gov/study/NCT07301034",
-        "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html"
+        "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
+        "https://professional.heart.org/en/meetings/scientific-sessions/programming/late-breaking-science"
       ]
     },
     {

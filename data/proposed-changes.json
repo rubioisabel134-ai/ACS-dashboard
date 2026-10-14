@@ -1,5 +1,49 @@
 {
-  "generatedAtUTC": "2026-09-18T18:40:27+00:00",
-  "updates": 0,
-  "proposals": []
+  "generatedAtUTC": "2026-10-14T13:12:41+00:00",
+  "updates": 3,
+  "proposals": [
+    {
+      "drug": "Zalunfiban",
+      "changes": {
+        "statusSummary": {
+          "before": "CeleCor submitted the final section of the zalunfiban (Disaggpro/RUC-4) New Drug Application to FDA on June 24, 2026, following positive Phase III CELEBRATE results in STEMI.",
+          "after": "FDA accepted CeleCor's zalunfiban (Disaggpro/RUC-4) NDA on September 30, 2026 and assigned a June 18, 2027 PDUFA target action date, following positive Phase III CELEBRATE results in STEMI."
+        },
+        "nextCatalystDate": {
+          "before": null,
+          "after": "2027-06-18"
+        },
+        "nextCatalystEvent": {
+          "before": "Monitor FDA filing acceptance, review timeline, and any disclosed PDUFA target date",
+          "after": "FDA PDUFA target action date for zalunfiban (Disaggpro)"
+        }
+      }
+    },
+    {
+      "drug": "Pelacarsen",
+      "changes": {
+        "nextCatalystDate": {
+          "before": null,
+          "after": "2026-11-07"
+        },
+        "nextCatalystEvent": {
+          "before": "Monitor full Lp(a)HORIZON data presentation and read-through to other Lp(a) outcomes programs",
+          "after": "AHA 2026 primary and extended Lp(a)HORIZON results presentation"
+        }
+      }
+    },
+    {
+      "drug": "Ziltivekimab",
+      "changes": {
+        "nextCatalystDate": {
+          "before": "2027-01-29",
+          "after": "2026-11-07"
+        },
+        "nextCatalystEvent": {
+          "before": "Estimated primary completion (NCT06118281)",
+          "after": "AHA 2026 primary ZEUS results presentation"
+        }
+      }
+    }
+  ]
 }

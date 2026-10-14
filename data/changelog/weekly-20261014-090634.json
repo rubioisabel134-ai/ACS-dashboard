@@ -1,0 +1,759 @@
+{
+  "generatedAtUTC": "2026-10-14T13:15:06+00:00",
+  "runDate": "2026-10-14",
+  "summary": {
+    "drugsScanned": 42,
+    "trialUpdates": 35,
+    "pressUpdates": 4,
+    "cardChanges": 3,
+    "errorGroups": 5,
+    "discoveryWarningGroups": 42
+  },
+  "cardChanges": [
+    {
+      "drug": "Zalunfiban",
+      "fields": [
+        {
+          "field": "statusSummary",
+          "before": "CeleCor submitted the final section of the zalunfiban (Disaggpro/RUC-4) New Drug Application to FDA on June 24, 2026, following positive Phase III CELEBRATE results in STEMI.",
+          "after": "FDA accepted CeleCor's zalunfiban (Disaggpro/RUC-4) NDA on September 30, 2026 and assigned a June 18, 2027 PDUFA target action date, following positive Phase III CELEBRATE results in STEMI."
+        },
+        {
+          "field": "nextCatalystDate",
+          "before": null,
+          "after": "2027-06-18"
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Monitor FDA filing acceptance, review timeline, and any disclosed PDUFA target date",
+          "after": "FDA PDUFA target action date for zalunfiban (Disaggpro)"
+        }
+      ]
+    },
+    {
+      "drug": "Pelacarsen",
+      "fields": [
+        {
+          "field": "nextCatalystDate",
+          "before": null,
+          "after": "2026-11-07"
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Monitor full Lp(a)HORIZON data presentation and read-through to other Lp(a) outcomes programs",
+          "after": "AHA 2026 primary and extended Lp(a)HORIZON results presentation"
+        }
+      ]
+    },
+    {
+      "drug": "Ziltivekimab",
+      "fields": [
+        {
+          "field": "nextCatalystDate",
+          "before": "2027-01-29",
+          "after": "2026-11-07"
+        },
+        {
+          "field": "nextCatalystEvent",
+          "before": "Estimated primary completion (NCT06118281)",
+          "after": "AHA 2026 primary ZEUS results presentation"
+        }
+      ]
+    }
+  ],
+  "trialUpdates": [
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-10-14",
+      "title": "An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07517263",
+      "nctId": "NCT07517263",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2030-01-09",
+      "completionDate": "2030-01-09"
+    },
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-10-14",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07625306",
+      "nctId": "NCT07625306",
+      "status": "WITHDRAWN",
+      "primaryCompletionDate": "2029-01-22",
+      "completionDate": "2029-01-22"
+    },
+    {
+      "drug": "Lepodisiran",
+      "type": "trial",
+      "date": "2026-10-08",
+      "title": "A Study to Investigate the Effect of Lepodisiran on the Reduction of Major Adverse Cardiovascular Events in Adults With Elevated Lipoprotein(a) - ACCLAIM-Lp(a)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06292013",
+      "nctId": "NCT06292013",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2029-03",
+      "completionDate": "2029-03"
+    },
+    {
+      "drug": "Lepodisiran",
+      "type": "trial",
+      "date": "2026-10-08",
+      "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07613294",
+      "nctId": "NCT07613294",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2029-12",
+      "completionDate": "2029-12"
+    },
+    {
+      "drug": "Orforglipron",
+      "type": "trial",
+      "date": "2026-10-08",
+      "title": "A Study of Orforglipron (LY3502970) on Cardiovascular Outcomes in Adults With Atherosclerotic Cardiovascular Disease and/or Chronic Kidney Disease (ATTAIN-Outcomes)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07241390",
+      "nctId": "NCT07241390",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2031-08",
+      "completionDate": "2031-08"
+    },
+    {
+      "drug": "Xolatryp",
+      "type": "trial",
+      "date": "2026-10-06",
+      "title": "Prevention of Reperfusion Injury Outcomes Through Effective Cardioprotection Targeting Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07362446",
+      "nctId": "NCT07362446",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-06-30",
+      "completionDate": "2027-09-30"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-09-28",
+      "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05021835",
+      "nctId": "NCT05021835",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-06-09",
+      "completionDate": "2026-06-09"
+    },
+    {
+      "drug": "UDP-003",
+      "type": "trial",
+      "date": "2026-09-25",
+      "title": "Placebo-controlled Study of Single and Multiple Ascending Doses of UDP-003 in Healthy Human Participants and Followed by an Open-label Patient Cohort",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06813339",
+      "nctId": "NCT06813339",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-12-30",
+      "completionDate": "2027-12-30"
+    },
+    {
+      "drug": "Muvalaplin",
+      "type": "trial",
+      "date": "2026-09-24",
+      "title": "Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07157774",
+      "nctId": "NCT07157774",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2031-03",
+      "completionDate": "2031-03"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-09-09",
+      "title": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06118281",
+      "nctId": "NCT06118281",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2027-01-29",
+      "completionDate": "2027-01-29"
+    },
+    {
+      "drug": "Pelacarsen",
+      "type": "trial",
+      "date": "2026-08-28",
+      "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT04023552",
+      "nctId": "NCT04023552",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-07-16",
+      "completionDate": "2026-07-16"
+    },
+    {
+      "drug": "Inclisiran (Leqvio)",
+      "type": "trial",
+      "date": "2026-08-25",
+      "title": "Study of Inclisiran to Prevent Cardiovascular (CV) Events in Participants With Established Cardiovascular Disease",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05030428",
+      "nctId": "NCT05030428",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2027-05-10",
+      "completionDate": "2027-05-10"
+    },
+    {
+      "drug": "Laroprovstat (AZD0780)",
+      "type": "trial",
+      "date": "2026-08-24",
+      "title": "A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events or at High Risk for a First Event",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07000357",
+      "nctId": "NCT07000357",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2029-10-26",
+      "completionDate": "2029-10-26"
+    },
+    {
+      "drug": "Olpasiran",
+      "type": "trial",
+      "date": "2026-08-21",
+      "title": "OCEAN(a)-PreEvent - Olpasiran Trials of Cardiovascular Events And LipoproteiN(a) Reduction to Prevent First Major Cardiovascular Events",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07136012",
+      "nctId": "NCT07136012",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2031-10-20",
+      "completionDate": "2031-10-20"
+    },
+    {
+      "drug": "Selatogrel",
+      "type": "trial",
+      "date": "2026-07-29",
+      "title": "A Medical Research Study to Evaluate the Effects of ACT-246475 in Adults With Coronary Artery Disease",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT03384966",
+      "nctId": "NCT03384966",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2018-08-18",
+      "completionDate": "2018-09-18"
+    },
+    {
+      "drug": "Sumecigrel",
+      "type": "trial",
+      "date": "2026-07-27",
+      "title": "Efficacy and Safety Study of Vicagrel in Patients With Acute Coronary Syndrome (ACS) Undergoing Percutaneous Coronary Intervention (PCI)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06577519",
+      "nctId": "NCT06577519",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-12-30",
+      "completionDate": "2026-12-30"
+    },
+    {
+      "drug": "Selatogrel",
+      "type": "trial",
+      "date": "2026-07-14",
+      "title": "A Trial to Compare What the Body Does to Selatogrel and the Effect of Selatogrel in Chinese Adults With Chronic Coronary Syndrome",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07615868",
+      "nctId": "NCT07615868",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-10",
+      "completionDate": "2026-10"
+    },
+    {
+      "drug": "Dukiprubart",
+      "type": "trial",
+      "date": "2026-07-13",
+      "title": "A Research Study to Evaluate the Efficacy and Safety of SGC001 in Patients With Anterior Wall ST-Segment Elevation Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07306182",
+      "nctId": "NCT07306182",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-04",
+      "completionDate": "2027-10"
+    },
+    {
+      "drug": "Milvexian",
+      "type": "trial",
+      "date": "2026-07-06",
+      "title": "A Study of Milvexian in Participants After a Recent Acute Coronary Syndrome",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05754957",
+      "nctId": "NCT05754957",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-02-06",
+      "completionDate": "2026-02-06"
+    },
+    {
+      "drug": "Evategrel",
+      "type": "trial",
+      "date": "2026-06-29",
+      "title": "The Pharmacokinetics and Pharmacodynamics Study of Evategrel CG-0255 Besylate\uff09and Plavix\u00ae in Healthy Participants",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07619885",
+      "nctId": "NCT07619885",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2026-10",
+      "completionDate": "2026-12"
+    },
+    {
+      "drug": "Dalcetrapib",
+      "type": "trial",
+      "date": "2026-06-22",
+      "title": "Effect of Dalcetrapib on CV Risk in a Genetically Defined Population With a Recent ACS",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05918861",
+      "nctId": "NCT05918861",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-08",
+      "completionDate": "2027-08"
+    },
+    {
+      "drug": "Vortosiran (RBD4059)",
+      "type": "trial",
+      "date": "2026-05-27",
+      "title": "A Study to Evaluate Safety, Pharmacokinetics and Pharmacodynamics of RBD4059 in Participants With Stable Coronary Artery Disease",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06717074",
+      "nctId": "NCT06717074",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2026-04-29",
+      "completionDate": "2026-04-29"
+    },
+    {
+      "drug": "MT1002",
+      "type": "trial",
+      "date": "2026-05-27",
+      "title": "MT1002 Phase II Study in ACS Patients With PCI",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT04723186",
+      "nctId": "NCT04723186",
+      "status": "TERMINATED",
+      "primaryCompletionDate": "2023-08-31",
+      "completionDate": "2023-08-31"
+    },
+    {
+      "drug": "NL005",
+      "type": "trial",
+      "date": "2026-05-14",
+      "title": "Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07586865",
+      "nctId": "NCT07586865",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2027-08-17",
+      "completionDate": "2028-05-17"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "trial",
+      "date": "2026-05-11",
+      "title": "A Proof-of-Activity Study With Orticumab in Subjects With Psoriasis and Cardiometabolic Risk Factors",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT04776629",
+      "nctId": "NCT04776629",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2022-11-11",
+      "completionDate": "2022-11-11"
+    },
+    {
+      "drug": "Inclisiran (Leqvio)",
+      "type": "trial",
+      "date": "2026-05-01",
+      "title": "A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT03705234",
+      "nctId": "NCT03705234",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2026-10",
+      "completionDate": "2049-12"
+    },
+    {
+      "drug": "Enlicitide (MK-0616)",
+      "type": "trial",
+      "date": "2026-04-23",
+      "title": "Enlicitide Decanoate (MK-0616 Oral PCSK9 Inhibitor) Cardiovascular Outcomes Study (MK-0616-015) CORALreef Outcomes",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06008756",
+      "nctId": "NCT06008756",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2029-11-29",
+      "completionDate": "2031-11-29"
+    },
+    {
+      "drug": "Obicetrapib",
+      "type": "trial",
+      "date": "2026-04-09",
+      "title": "A CCTA Imaging Trial to Evaluate the Effect of Obicetrapib/Ezetimibe on Coronary Plaque",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06305559",
+      "nctId": "NCT06305559",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2027-11",
+      "completionDate": "2028-02"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-03-23",
+      "title": "Effects of Ziltivekimab on Coronary Atherosclerotic Burden in Patients With Acute Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07276282",
+      "nctId": "NCT07276282",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2028-09-01",
+      "completionDate": "2028-12-01"
+    },
+    {
+      "drug": "Ziltivekimab",
+      "type": "trial",
+      "date": "2026-03-11",
+      "title": "A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart, Compared to Placebo, in People With a Heart Attack",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07301034",
+      "nctId": "NCT07301034",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2028-11-14",
+      "completionDate": "2029-02-24"
+    },
+    {
+      "drug": "MiSaver",
+      "type": "trial",
+      "date": "2026-03-11",
+      "title": "Safety and Efficacy of MiSaver (CB Cells) for Acute Myocardial Infarction, Phase II",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07134712",
+      "nctId": "NCT07134712",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2027-12-31",
+      "completionDate": "2027-12-31"
+    },
+    {
+      "drug": "Olpasiran",
+      "type": "trial",
+      "date": "2026-02-27",
+      "title": "Olpasiran Trials of Cardiovascular Events and Lipoprotein(a) Reduction (OCEAN(a)) - Outcomes Trial",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT05581303",
+      "nctId": "NCT05581303",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primaryCompletionDate": "2028-03-31",
+      "completionDate": "2028-03-31"
+    },
+    {
+      "drug": "Orticumab",
+      "type": "trial",
+      "date": "2026-01-27",
+      "title": "Focused Orticumab Research for Treating Inflammation in Coronary Arteries",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT06927739",
+      "nctId": "NCT06927739",
+      "status": "RECRUITING",
+      "primaryCompletionDate": "2027-02-08",
+      "completionDate": "2027-06-01"
+    },
+    {
+      "drug": "ReHeart",
+      "type": "trial",
+      "date": "2026-01-16",
+      "title": "Endocardial Delivery for Myocardial Regeneration Using Allogeneic iPSC-derived Cardiomyocyte Spheroids for HF With Systolic Dysfunction (EMERALD Study)",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07347197",
+      "nctId": "NCT07347197",
+      "status": "NOT_YET_RECRUITING",
+      "primaryCompletionDate": "2028-01-01",
+      "completionDate": "2030-01-31"
+    },
+    {
+      "drug": "Dukiprubart",
+      "type": "trial",
+      "date": "2026-01-12",
+      "title": "A Research Study to Evaluate the Safety and Preliminary Efficacy of SGC001 in Patients With Myocardial Infarction",
+      "source": "ClinicalTrials.gov",
+      "link": "https://clinicaltrials.gov/study/NCT07091929",
+      "nctId": "NCT07091929",
+      "status": "COMPLETED",
+      "primaryCompletionDate": "2025-07-18",
+      "completionDate": "2025-07-18"
+    }
+  ],
+  "pressUpdates": [
+    {
+      "drug": "Zalunfiban",
+      "type": "press",
+      "date": "2026-09-30",
+      "title": "FDA accepts New Drug Application for CeleCor\u2019s investigational heart-attack drug",
+      "source": "www.celecor.com",
+      "link": "https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/"
+    },
+    {
+      "drug": "Vortosiran (RBD4059)",
+      "type": "press",
+      "date": "2026-07-22",
+      "title": "Ribo Discloses Positive Data from Vortosiran Phase 2a Trial \u2013 World\u2019s First Clinical Data on siRNA-Mediated FXI Inhibition Following Multiple Dosing in Patients with Coronary Artery Disease",
+      "source": "ribocure.com",
+      "link": "https://ribocure.com/ribo-discloses-positive-data-from-vortosiran-phase-2a-trial-worlds-first-clinical-data-on-sirna-mediated-fxi-inhibition-following-multiple-dosing-in-patients-with-coronary-artery-disease/"
+    },
+    {
+      "drug": "Enlicitide (MK-0616)",
+      "type": "press",
+      "date": "2026-07-16",
+      "title": "Merck\u2019s LIPFENDRA\u00ae (enlicitide) is the First and Only Once-Daily Oral PCSK9 Inhibitor Approved by the U.S. FDA to Reduce LDL-C in Adults with Hypercholesterolemia",
+      "source": "www.merck.com",
+      "link": "https://www.merck.com/news/mercks-lipfendra-enlicitide-is-the-first-and-only-once-daily-oral-pcsk9-inhibitor-approved-by-the-u-s-fda-to-reduce-ldl-c-in-adults-with-hypercholesterolemia/"
+    },
+    {
+      "drug": "Sumecigrel",
+      "type": "press",
+      "date": "2026-06-09",
+      "title": "Everest Medicines Enters into Exclusive Asia-Pacific Licensing Agreement with Vcare PharmaTech for Sumecigrel",
+      "source": "www.prnewswire.com",
+      "link": "https://www.prnewswire.com/apac/news-releases/everest-medicines-enters-into-exclusive-asia-pacific-licensing-agreement-with-vcare-pharmatech-for-sumecigrel-302794558.html"
+    }
+  ],
+  "sourceErrors": [
+    {
+      "message": "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://investor.lilly.com/rss/news-releases.xml",
+      "count": 3,
+      "exampleDrug": "Lepodisiran"
+    },
+    {
+      "message": "company press: HTTP fetch failed (curl: (28) Connection timed out after 12010 milliseconds): https://www.micot.cn/newsinfo/11172904.html",
+      "count": 1,
+      "exampleDrug": "MT1002"
+    },
+    {
+      "message": "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.astrazeneca.com/media-centre/press-releases.html",
+      "count": 1,
+      "exampleDrug": "Laroprovstat (AZD0780)"
+    },
+    {
+      "message": "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 403): https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html",
+      "count": 1,
+      "exampleDrug": "Ziltivekimab"
+    },
+    {
+      "message": "company press: HTTP fetch failed (curl: (56) The requested URL returned error: 404): https://dalcorpharma.com/news/",
+      "count": 1,
+      "exampleDrug": "Dalcetrapib"
+    }
+  ],
+  "discoveryWarnings": [
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ADX-626%22+OR+%22ADARx%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "ADX-626"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22BX-001N%22+OR+%22Bilix%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "BX-001N"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22CAY-001%22+OR+%22Cayuga%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "CAY-001"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22DT-678%22+OR+%22Diapin%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "DT-678"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22MT1002%22+OR+%22MT1002-II-C04%22+OR+%22Shaanxi+Micot%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "MT1002"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22MiSaver%22+OR+%22SEMIAMI%22+OR+%22NCT07134712%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "MiSaver"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22NL005%22+OR+%22glimbetasin%22+OR+%22NCT07586865%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "NL005"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22NP-011%22+OR+%22Nexcel%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "NP-011"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22OmniMSC-AMI%22+OR+%22Taiwan+Bio%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "OmniMSC-AMI"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RG6622%22+OR+%22RG-6622%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "RG6622"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RO7763505%22+OR+%22NCT07495813%22+OR+%22Roche%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "RO7763505"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ReHeart%22+OR+%22Cuorips%22+OR+%22iPSC-derived+cardiomyocyte%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "ReHeart"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22RioCard001%22+OR+%22Rion%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "RioCard001"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SCP-776%22+OR+%22Silver+Creek%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "SCP-776"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SIM0811%22+OR+%22NCT07345364%22+OR+%22Simcere%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "SIM0811"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22SP16%22+OR+%22Serpin%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "SP16"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22UDP-003%22+OR+%22Cyclarity%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "UDP-003"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22VE-1902%22+OR+%22Verseon%22+OR+%22Version%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "VE-1902"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dalcetrapib%22+OR+%22DalCor%22+OR+%22Dal-GenE-2%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Dalcetrapib"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dukiprubart%22+OR+%22SGC001%22+OR+%22SGC-001%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Dukiprubart"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22enlicitide%22+OR+%22enlicitide+decanoate%22+OR+%22Lipfendra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Enlicitide (MK-0616)"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22evategrel%22+OR+%22CG-0255%22+OR+%22CG-0255+Besylate%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Evategrel"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22inclisiran%22+OR+%22Leqvio%22+OR+%22ORION-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Inclisiran (Leqvio)"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22laroprovstat%22+OR+%22AZD0780%22+OR+%22AZURE-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Laroprovstat (AZD0780)"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22lepodisiran%22+OR+%22ALPACA%22+OR+%22ACCLAIM-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Lepodisiran"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22milvexian%22+OR+%22LIBREXIA-ACS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Milvexian"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22muvalaplin%22+OR+%22LY3473329%22+OR+%22MOVE-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Muvalaplin"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22obicetrapib%22+OR+%22PREVAIL%22+OR+%22BROADWAY%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Obicetrapib"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olezarsen%22+OR+%22TRYNGOLZA%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Olezarsen"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olpasiran%22+OR+%22OCEAN%28a%29%22+OR+%22OCEAN%28a%29-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Olpasiran"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22orforglipron%22+OR+%22LY3502970%22+OR+%22ATTAIN-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Orforglipron"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22orticumab%22+OR+%22Abcentra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Orticumab"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pacibekitug%22+OR+%22VCU%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Pacibekitug"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pelacarsen%22+OR+%22Lp%28a%29HORIZON%22+OR+%22TQJ230%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Pelacarsen"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22selatogrel%22+OR+%22selatogerl%22+OR+%22SOS-AMI%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Selatogrel"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22selnoflast%22+OR+%22Roche%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Selnoflast"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22sumecigrel%22+OR+%22vicagrel%22+OR+%22Vcare+PharmaTech%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Sumecigrel"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22tipogrel%22+OR+%22Tianjin+Institute+of+Pharma+research%22+OR+%22Tianjin+Institute+of+Pharmaceutical+Research%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Tipogrel"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22vortosiran%22+OR+%22RBD4059%22+OR+%22ORBIT-XI%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Vortosiran (RBD4059)"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22xolatryp%22+OR+%22Nyrada%22+OR+%22NYR-BI03%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Xolatryp"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22zalunfiban%22+OR+%22Disaggpro%22+OR+%22RUC-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Zalunfiban"
+    },
+    {
+      "message": "google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ziltivekimab%22+OR+%22ZEUS%22+OR+%22ARTEMIS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 1,
+      "exampleDrug": "Ziltivekimab"
+    }
+  ]
+}

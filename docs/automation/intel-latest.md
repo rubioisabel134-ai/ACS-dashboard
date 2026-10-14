@@ -1,6 +1,6 @@
 # ACS Intel Update (2026-10-14)
 
-- Window: last 1 day(s)
+- Window: last 7 day(s)
 - Drugs scanned: 42
 
 ## Zalunfiban (CeleCor Therapeutics)
@@ -82,9 +82,9 @@
 - Google News hits: 0
 
 ### Latest trial updates
-- [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: RECRUITING | Last update: 2026-09-04 | https://clinicaltrials.gov/study/NCT07517263
+- [NCT07517263] An Open Label Extension (OLE) Study (Following Completion of CTQJ230A12301) to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230) | Status: ACTIVE_NOT_RECRUITING | Last update: 2026-10-14 | https://clinicaltrials.gov/study/NCT07517263
+- [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: WITHDRAWN | Last update: 2026-10-14 | https://clinicaltrials.gov/study/NCT07625306
 - [NCT04023552] Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD | Status: COMPLETED | Last update: 2026-08-28 | https://clinicaltrials.gov/study/NCT04023552
-- [NCT07625306] Lp(a) Lowering Study of Pelacarsen (TQJ230) in Patients in the US With Elevated Lp(a) and Recent ACS (STEMI/NSTEMI) - Lp(a)FRONTIERS PEARL | Status: NOT_YET_RECRUITING | Last update: 2026-06-04 | https://clinicaltrials.gov/study/NCT07625306
 
 ## Olpasiran (Amgen)
 
