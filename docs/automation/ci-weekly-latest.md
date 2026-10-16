@@ -1,14 +1,15 @@
-# ACS Daily CI Report (2026-10-14)
+# ACS Daily CI Report (2026-10-16)
 
-- Generated (UTC): 2026-10-14T13:06:34+00:00
-- Drugs scanned: 42
-- News window: last 7 day(s)
-- Primary-source error assets: 7
-- Discovery warning assets: 42
+- Generated (UTC): 2026-10-16T12:00:01+00:00
+- Drugs scanned: 43
+- News window: last 1 day(s)
+- Primary-source error assets: 6
+- Discovery warning assets: 0
 - Playwright links captured: 19
 
 ## Trial Status Updates
 
+- RTP-026: [NCT06465303] COMPLETED | last update 2026-09-24 | https://clinicaltrials.gov/study/NCT06465303
 - Obicetrapib: [NCT06305559] ACTIVE_NOT_RECRUITING | last update 2026-04-09 | https://clinicaltrials.gov/study/NCT06305559
 - Dalcetrapib: [NCT05918861] RECRUITING | last update 2026-06-22 | https://clinicaltrials.gov/study/NCT05918861
 - Inclisiran (Leqvio): [NCT05030428] ACTIVE_NOT_RECRUITING | last update 2026-08-25 | https://clinicaltrials.gov/study/NCT05030428
@@ -44,6 +45,8 @@
 
 ## News Highlights
 
+- RTP-026 | resotherpharma.com | [RTP-026, A POTENTIAL FIRST-IN-CLASS CARDIOPROTECTANT, SHOWS STRONG SAFETY AND PROMISING EFFICACY SIGNALS IN A PHASE 2a STUDY IN PATIENTS WITH SEVERE HEART ATTACK](https://resotherpharma.com/rtp-026-a-potential-first-in-class-cardioprotectant-shows-strong-safety-and-promising-efficacy-signals-in-a-phase-2a-study-in-patients-with-severe-heart-attack/)
+- RTP-026 | resotherpharma.com | [RTP-026 SHOWS STRONG SAFETY AND PROMISING EFFICACY SIGNALS](https://resotherpharma.com/wp-content/uploads/2026/09/RTP-AS_PR-2026.09.14_RTP-026-Phase-2a-top-line-results_Final.pdf)
 - Zalunfiban | www.celecor.com | [CeleBrate trial results](https://www.celecor.com/celebrate-results/)
 - Zalunfiban | www.celecor.com | [FDA accepts New Drug Application for CeleCor’s investigational heart-attack drug](https://www.celecor.com/fda-accepts-new-drug-application-for-celecors-investigational-heart-attack-drug/)
 - Obicetrapib | ir.newamsterdampharma.com | [NewAmsterdam Pharma Doses First Participant in Phase 2b SPINOZA Trial Evaluating Obicetrapib in Preclinical Alzheimer’s Disease](https://ir.newamsterdampharma.com/news-releases/news-release-details/newamsterdam-pharma-doses-first-participant-phase-2b-spinoza)
@@ -81,15 +84,4 @@
 
 ## Discovery Layer
 
-- Zalunfiban: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22zalunfiban%22+OR+%22Disaggpro%22+OR+%22RUC-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Obicetrapib: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22obicetrapib%22+OR+%22PREVAIL%22+OR+%22BROADWAY%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Dalcetrapib: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22dalcetrapib%22+OR+%22DalCor%22+OR+%22Dal-GenE-2%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Inclisiran (Leqvio): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22inclisiran%22+OR+%22Leqvio%22+OR+%22ORION-4%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Ziltivekimab: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22ziltivekimab%22+OR+%22ZEUS%22+OR+%22ARTEMIS%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Pacibekitug: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pacibekitug%22+OR+%22VCU%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Vortosiran (RBD4059): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22vortosiran%22+OR+%22RBD4059%22+OR+%22ORBIT-XI%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Pelacarsen: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22pelacarsen%22+OR+%22Lp%28a%29HORIZON%22+OR+%22TQJ230%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Olpasiran: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22olpasiran%22+OR+%22OCEAN%28a%29%22+OR+%22OCEAN%28a%29-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Laroprovstat (AZD0780): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22laroprovstat%22+OR+%22AZD0780%22+OR+%22AZURE-Outcomes%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Enlicitide (MK-0616): google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22enlicitide%22+OR+%22enlicitide+decanoate%22+OR+%22Lipfendra%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
-- Lepodisiran: google news: HTTP fetch failed (curl: (56) The requested URL returned error: 503): https://news.google.com/rss/search?q=%28%22lepodisiran%22+OR+%22ALPACA%22+OR+%22ACCLAIM-Lp%28a%29%22%29+%28%22acute+coronary+syndrome%22+OR+%22ACS%22+OR+%22chronic+coronary+syndrome%22+OR+%22CCS%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen
+- No Google News discovery warnings recorded.

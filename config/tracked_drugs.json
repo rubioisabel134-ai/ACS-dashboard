@@ -151,6 +151,15 @@
       "press_release_url": "https://www.nyrada.com/site/news-insights/media"
     },
     {
+      "name": "RTP-026",
+      "sponsor": "ResoTher Pharma",
+      "aliases": ["RTP-026", "ResoTher", "ResoTher Pharma", "NCT06465303"],
+      "trial_aliases": ["RTP-026"],
+      "nct_ids": ["NCT06465303"],
+      "press_release_url": "https://resotherpharma.com/rtp-026-a-potential-first-in-class-cardioprotectant-shows-strong-safety-and-promising-efficacy-signals-in-a-phase-2a-study-in-patients-with-severe-heart-attack/",
+      "press_aliases": ["RTP-026", "Phase 2a", "cardioprotectant", "STEMI"]
+    },
+    {
       "name": "VE-1902",
       "sponsor": "Verseon",
       "aliases": ["VE-1902", "Verseon", "Version"]

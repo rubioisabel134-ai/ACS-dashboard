@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "2026-10-14",
+  "snapshotDate": "2026-10-16",
   "records": [
     {
       "drug": "Cangrelor (KENGREAL)",
@@ -171,6 +171,38 @@
         "https://clinicaltrials.gov/study/NCT04723186",
         "https://clinicaltrials.gov/study/NCT06533358",
         "https://www.micot.cn/newsinfo/11172904.html"
+      ]
+    },
+    {
+      "drug": "RTP-026",
+      "sponsor": "ResoTher Pharma",
+      "class": "Inflammation-resolution cardioprotectant",
+      "target": "Annexin A1 / FPR2 pro-resolving pathway",
+      "modality": "Peptide mimetic",
+      "stage": "Phase IIa completed / Phase IIb planned",
+      "setting": "Acute STEMI following primary PCI",
+      "signal": "positive",
+      "statusSummary": "ResoTher reported positive exploratory topline results from the 66-patient Phase IIa study in September 2026. RTP-026 was safe and well tolerated, with no new safety signal; exploratory measures showed a smaller troponin rise, greater 90-day LVEF improvement, and numerically smaller infarct size versus placebo. The study was not powered to establish efficacy.",
+      "keyTrial": "RTP-026 Phase IIa / NCT06465303",
+      "competitorWatch": "A differentiated post-PCI cardioprotection strategy that promotes resolution of inflammation rather than broad immune suppression. It competes conceptually with Xolatryp, dukiprubart, NL005, and other myocardial-salvage or reperfusion-injury programs; Phase IIb proof of concept will be the key efficacy test.",
+      "nextCatalystDate": "2026-12-31",
+      "nextCatalystEvent": "Company-guided initiation of international Phase IIb proof-of-concept study by year-end 2026",
+      "priorityTrials": [
+        {
+          "name": "RTP-026 Phase IIa",
+          "phase": "Phase IIa",
+          "status": "Completed",
+          "nctId": "NCT06465303",
+          "date": "2026-09-14",
+          "event": "Positive exploratory topline results",
+          "note": "Safety/tolerability objective supported; efficacy measures were exploratory and not powered for statistical significance.",
+          "link": "https://clinicaltrials.gov/study/NCT06465303"
+        }
+      ],
+      "sourceLinks": [
+        "https://resotherpharma.com/rtp-026-a-potential-first-in-class-cardioprotectant-shows-strong-safety-and-promising-efficacy-signals-in-a-phase-2a-study-in-patients-with-severe-heart-attack/",
+        "https://resotherpharma.com/wp-content/uploads/2026/09/RTP-AS_PR-2026.09.14_RTP-026-Phase-2a-top-line-results_Final.pdf",
+        "https://clinicaltrials.gov/study/NCT06465303"
       ]
     },
     {

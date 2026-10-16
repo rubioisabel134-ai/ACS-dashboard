@@ -1,6 +1,6 @@
 {
-  "generatedAtUTC": "2026-10-14T13:12:41+00:00",
-  "updates": 3,
+  "generatedAtUTC": "2026-10-16T16:07:40+00:00",
+  "updates": 4,
   "proposals": [
     {
       "drug": "Zalunfiban",
@@ -42,6 +42,27 @@
         "nextCatalystEvent": {
           "before": "Estimated primary completion (NCT06118281)",
           "after": "AHA 2026 primary ZEUS results presentation"
+        }
+      }
+    },
+    {
+      "drug": "RTP-026",
+      "changes": {
+        "tracking": {
+          "before": "Not tracked",
+          "after": "Added to ACS dashboard and automated monitoring"
+        },
+        "stage": {
+          "before": null,
+          "after": "Phase IIa completed / Phase IIb planned"
+        },
+        "statusSummary": {
+          "before": null,
+          "after": "Positive exploratory Phase IIa topline results in 66 STEMI patients; safe and well tolerated, with favorable cardiac-injury and function signals versus placebo. Study not powered for efficacy."
+        },
+        "nextCatalystEvent": {
+          "before": null,
+          "after": "Company-guided initiation of international Phase IIb proof-of-concept study by year-end 2026"
         }
       }
     }

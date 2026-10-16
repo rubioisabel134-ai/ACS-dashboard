@@ -3,6 +3,52 @@
   "days": 1,
   "drugs": [
     {
+      "name": "RTP-026",
+      "sponsor": "ResoTher Pharma",
+      "aliases": [
+        "RTP-026",
+        "ResoTher",
+        "ResoTher Pharma",
+        "NCT06465303"
+      ],
+      "pressReleaseUrl": "https://resotherpharma.com/rtp-026-a-potential-first-in-class-cardioprotectant-shows-strong-safety-and-promising-efficacy-signals-in-a-phase-2a-study-in-patients-with-severe-heart-attack/",
+      "clinicalTrials": [
+        {
+          "nctId": "NCT06465303",
+          "title": "A Study of RTP-026 to Assess Safety, Tolerability and Efficacy in Patients With ST-Elevation Myocardial Infarction (STEMI)",
+          "overallStatus": "COMPLETED",
+          "lastUpdate": "2026-09-24",
+          "primaryCompletionDate": "2026-07-02",
+          "completionDate": "2026-07-02",
+          "conditions": [
+            "ST Elevation Myocardial Infarction"
+          ],
+          "interventions": [
+            "RTP-026",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06465303"
+        }
+      ],
+      "companyPress": [
+        {
+          "title": "RTP-026, A POTENTIAL FIRST-IN-CLASS CARDIOPROTECTANT, SHOWS STRONG SAFETY AND PROMISING EFFICACY SIGNALS IN A PHASE 2a STUDY IN PATIENTS WITH SEVERE HEART ATTACK",
+          "link": "https://resotherpharma.com/rtp-026-a-potential-first-in-class-cardioprotectant-shows-strong-safety-and-promising-efficacy-signals-in-a-phase-2a-study-in-patients-with-severe-heart-attack/",
+          "source": "resotherpharma.com",
+          "publishedAt": "2026-09-15"
+        },
+        {
+          "title": "RTP-026 SHOWS STRONG SAFETY AND PROMISING EFFICACY SIGNALS",
+          "link": "https://resotherpharma.com/wp-content/uploads/2026/09/RTP-AS_PR-2026.09.14_RTP-026-Phase-2a-top-line-results_Final.pdf",
+          "source": "resotherpharma.com",
+          "publishedAt": null
+        }
+      ],
+      "googleNews": [],
+      "discoveryWarnings": [],
+      "errors": []
+    },
+    {
       "name": "Zalunfiban",
       "sponsor": "CeleCor Therapeutics",
       "aliases": [
@@ -1417,11 +1463,11 @@
     }
   ],
   "summary": {
-    "drugsScanned": 42,
+    "drugsScanned": 43,
     "drugsWithErrors": 6,
     "drugsWithDiscoveryWarnings": 0,
-    "trialHits": 35,
-    "companyPressHits": 19,
+    "trialHits": 36,
+    "companyPressHits": 21,
     "googleNewsHits": 0
   }
 }
